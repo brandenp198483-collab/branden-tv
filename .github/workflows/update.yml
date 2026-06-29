@@ -25,16 +25,12 @@ jobs:
         run: pip install requests
 
       - name: Build playlist
-        run: |
-          python build_playlist.py
-          mkdir -p docs
-          cp output/BrandenTV.m3u docs/BrandenTV.m3u
-          cp output/premium_watchlist_matches.txt docs/premium_watchlist_matches.txt
+        run: python build_playlist.py
 
-      - name: Commit updated playlist
+      - name: Commit published playlists
         run: |
           git config user.name "BrandenTV Bot"
           git config user.email "actions@github.com"
-          git add output/BrandenTV.m3u output/premium_watchlist_matches.txt docs/BrandenTV.m3u docs/premium_watchlist_matches.txt
-          git commit -m "Auto update playlist" || echo "No changes to commit"
+          git add docs/
+          git commit -m "Auto update published playlists" || echo "No changes to commit"
           git push
