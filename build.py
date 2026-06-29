@@ -23,7 +23,14 @@ CHANNELS = {
 
 FAST_KEEP = True
 
-BAD = ["uk","canada","portugal","portuguese","turkey","turkish","china","chinese","arabic","adult","xxx","porn","test","backup","vip","ppv","vod","24/7","24-7"]
+BAD = [
+    "uk","canada","portugal","portuguese","turkey","turkish",
+    "china","chinese","japan","japanese","arabic","morocco",
+    "latino","spanish","espanol","español",
+    "adult","xxx","porn","test","backup","vip","ppv","vod","24/7","24-7",
+    "intervention","bravo kids","arryadia","テレビ","geo-blocked","warfare now",
+    "idaho","boise"
+]
 QUALITY = [("4k",80),("uhd",75),("fhd",70),("1080",65),("hd",55),("720",45),("sd",20)]
 GOOD = ["usa","us","u.s.","united states","english","en","east","west"]
 
