@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993100/600x200.png?type=white_cropped",615 Barney And Friends
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993100&ads.xumo_streamId=99993100&ads.channelId=99993100&ads.csid=lgchannels_us_wildbrainbarneyandfriends_ssai&ads.channelName=barneyandfriends_us&ads.xumo_contentName=WildBrain&ads.xumo_contentId=1854&ads.xumo_providerName=WildBrain&ads.xumo_providerId=1854&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="Arryadia.ma@HDTNT" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia HD TNT (1080p)
+https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr@SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sports",Equidia (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Sports",Pac 12 Insider (1080p)
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="USBA300034DB" tvg-id="USBA300034DB" tvg-chno="2392" tvg-name="Pac-12 Insider" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20250415T005925SQUARE.png" group-title="Sports & Outdoors",Pac-12 Insider
+https://jmp2.uk/stvp-USBA300034DB
+#EXTINF:-1 channel-id="US3900007ZW" tvg-id="US3900007ZW" tvg-chno="2345" tvg-name="Team USA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900007ZW_20251118T030639SQUARE.png" group-title="Sports & Outdoors",Team USA TV
+https://jmp2.uk/stvp-US3900007ZW
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="Sports",beIN Sports USA (720p)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Education",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="PBRRidePass.us@SD" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="Sports",PBR RidePass (720p)
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
+#EXTINF:-1 tvg-id="XUMO_99951388" tvg-logo="https://image.xumo.com/v1/channels/channel/99951388/300x300.webp?type=color_onBlack" group-title="XUMOðŸ‡ºðŸ‡¸: Sports",PBR RidePass
+https://dbrb49pjoymg4.cloudfront.net/10001/99951388/hls/playlist.m3u8?ads.xumo_channelId=99951388&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=PBRRidePass&ads.csid=xumo_[PLATFORM]_PBRRidePass_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4196&ads.xumo_contentName=PBRRidePass&ads.xumo_providerId=4196&ads.xumo_providerName=PBRRidePass&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951388&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports",USA Network (720p)
+http://185.246.209.113/DISCOVERYHD/index.m3u8
+#EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="Sports",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 channel-id="USAJ3504707A" tvg-id="USAJ3504707A" tvg-chno="2485" tvg-name="Outside TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20250325T014938SQUARE.png" group-title="Sports & Outdoors",Outside TV
+https://jmp2.uk/stvp-USAJ3504707A
+#EXTINF:-1 channel-id="USBA300031OT" tvg-id="USBA300031OT" tvg-chno="2362" tvg-name="SportsGrid" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png" group-title="Sports & Outdoors",SportsGrid
+https://jmp2.uk/stvp-USBA300031OT
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5ef11485d33ab9004048a1ca" tvg-id="6a1610bebdf296985fd95603-5ef11485d33ab9004048a1ca" tvg-chno="" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="United States",SportsGrid
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5ef11485d33ab9004048a1ca/?X-Plex-Token=8ybF8fuKnUFLefgPvPTb
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6490e78518a55242eea95999" tvg-id="647f8d22a2fc3fadb4721685-6490e78518a55242eea95999" tvg-chno="" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6c3266e-3f14-426d-b9c8-f419738b1eea/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Canada",SportsGrid
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6490e78518a55242eea95999/?X-Plex-Token=8ybF8fuKnUFLefgPvPTb
+#EXTINF:-1 channel-id="262b9a3f6220e5c070cb0ab316ee1128" tvg-id="262b9a3f6220e5c070cb0ab316ee1128" tvg-chno="221" tvg-name="PBR: Ride Pass" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png" group-title="Sports",PBR: Ride Pass
+https://jmp2.uk/rok-262b9a3f6220e5c070cb0ab316ee1128.m3u8
+#EXTINF:-1 tvg-id="613762" tvg-logo="https://canvas-lb.tubitv.com/opts/0eZIOEWFj-zM3A==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Real Madrid
+https://live-manifest.production-public.tubi.io/live/5cfbe5af-a9c2-45cc-ade9-8e13e39fa2d0/playlist.m3u8
+#EXTINF:-1 tvg-id="XUMO_99951381" tvg-logo="https://image.xumo.com/v1/channels/channel/99951381/300x300.webp?type=color_onBlack" group-title="XUMOðŸ‡ºðŸ‡¸: Sports",Real Madrid TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951381/hls/playlist.m3u8?ads.xumo_channelId=99951381&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CineverseRealMadrid&ads.csid=xumo_[PLATFORM]_CineverseRealMadrid_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4183&ads.xumo_contentName=CineverseRealMadrid&ads.xumo_providerId=4183&ads.xumo_providerName=CineverseRealMadrid&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951381&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-logo="https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250617/channel_600x200_363fd309-7f49-4b00-9e93-3ca3bfe22ed9.png",447 SportsGrid
+https://sportsgrid-lg-us.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-lgus/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Entertainment",Omide Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1,Sports Grid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV English [Geo-blocked]
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
