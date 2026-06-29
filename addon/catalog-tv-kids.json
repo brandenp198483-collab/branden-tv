@@ -1,0 +1,1732 @@
+{
+  "metas": [
+    {
+      "id": "kids-barbie-and-friends-1080p",
+      "type": "tv",
+      "name": "Barbie and Friends (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Barbie and Friends (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barbie-and-friends",
+      "type": "tv",
+      "name": "Barbie and Friends",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png",
+      "posterShape": "square",
+      "description": "Barbie and Friends - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barbie-and-friends",
+      "type": "tv",
+      "name": "Barbie and Friends",
+      "poster": "https://images.vizio.com/v4/btv/1/1710012114/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Barbie and Friends - KIDS + FAMILY",
+      "genres": [
+        "KIDS + FAMILY",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-1080p",
+      "type": "tv",
+      "name": "Nick Jr. (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+      "posterShape": "square",
+      "description": "Nick Jr. (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-576p",
+      "type": "tv",
+      "name": "Nick Jr. (576p)",
+      "poster": "https://i.imgur.com/KT4tdQs.png",
+      "posterShape": "square",
+      "description": "Nick Jr. (576p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-576p",
+      "type": "tv",
+      "name": "Nick Jr. (576p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+      "posterShape": "square",
+      "description": "Nick Jr. (576p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-latin-america-1080p",
+      "type": "tv",
+      "name": "Nick Jr. Latin America (1080p)",
+      "poster": "https://i.imgur.com/KT4tdQs.png",
+      "posterShape": "square",
+      "description": "Nick Jr. Latin America (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-1080p",
+      "type": "tv",
+      "name": "Nickelodeon (1080p)",
+      "poster": "https://i.imgur.com/E84jnP8.png",
+      "posterShape": "square",
+      "description": "Nickelodeon (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-1080p",
+      "type": "tv",
+      "name": "Nickelodeon (1080p)",
+      "poster": "https://i.imgur.com/E84jnP8.png",
+      "posterShape": "square",
+      "description": "Nickelodeon (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-1080p",
+      "type": "tv",
+      "name": "Nickelodeon (1080p)",
+      "poster": "https://i.imgur.com/E84jnP8.png",
+      "posterShape": "square",
+      "description": "Nickelodeon (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-junior-1080p",
+      "type": "tv",
+      "name": "Nickelodeon Junior (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Junior (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-latin-america-1080p",
+      "type": "tv",
+      "name": "Nickelodeon Latin America (1080p)",
+      "poster": "https://i.imgur.com/E84jnP8.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Latin America (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ryan-and-friends-1080p",
+      "type": "tv",
+      "name": "Ryan and Friends (1080p)",
+      "poster": "https://i.imgur.com/jcIprmt.png",
+      "posterShape": "square",
+      "description": "Ryan and Friends (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ryan-and-friends",
+      "type": "tv",
+      "name": "Ryan and Friends",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000239N_20240520T214835SQUARE.png",
+      "posterShape": "square",
+      "description": "Ryan and Friends - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barney-and-friends",
+      "type": "tv",
+      "name": "Barney and Friends",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300001UO_20250121T101134SQUARE.png",
+      "posterShape": "square",
+      "description": "Barney and Friends - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barney-and-friends",
+      "type": "tv",
+      "name": "Barney and Friends",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951300/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Barney and Friends - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Kids",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-club-720p",
+      "type": "tv",
+      "name": "Nick Jr. Club (720p)",
+      "poster": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
+      "posterShape": "square",
+      "description": "Nick Jr. Club (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-club-720p",
+      "type": "tv",
+      "name": "Nick Jr. Club (720p)",
+      "poster": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
+      "posterShape": "square",
+      "description": "Nick Jr. Club (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-club-720p",
+      "type": "tv",
+      "name": "Nick Jr. Club (720p)",
+      "poster": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
+      "posterShape": "square",
+      "description": "Nick Jr. Club (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-pluto-tv-720p",
+      "type": "tv",
+      "name": "Nick Jr. Pluto TV (720p)",
+      "poster": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Nick Jr. Pluto TV (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nick-jr-pluto-tv",
+      "type": "tv",
+      "name": "Nick Jr. Pluto TV",
+      "poster": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Nick Jr. Pluto TV - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-asia-indonesia-720p",
+      "type": "tv",
+      "name": "Nickelodeon Asia Indonesia (720p)",
+      "poster": "https://i.imgur.com/E84jnP8.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Asia Indonesia (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-cl-sico-720p",
+      "type": "tv",
+      "name": "Nickelodeon Cl\u00e1sico (720p)",
+      "poster": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Cl\u00e1sico (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-cl-ssico-720p",
+      "type": "tv",
+      "name": "Nickelodeon Cl\u00e1ssico (720p)",
+      "poster": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Cl\u00e1ssico (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-classics-720p",
+      "type": "tv",
+      "name": "Nickelodeon Classics (720p)",
+      "poster": "https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Classics (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-pluto-tv-720p",
+      "type": "tv",
+      "name": "Nickelodeon Pluto TV (720p)",
+      "poster": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Pluto TV (720p) - Animation;Kids",
+      "genres": [
+        "Animation;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-teen-720p",
+      "type": "tv",
+      "name": "Nickelodeon Teen (720p)",
+      "poster": "https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Teen (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-teen-720p",
+      "type": "tv",
+      "name": "Nickelodeon Teen (720p)",
+      "poster": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Teen (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-teen-720p",
+      "type": "tv",
+      "name": "Nickelodeon Teen (720p)",
+      "poster": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Teen (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-toons-720p",
+      "type": "tv",
+      "name": "Nickelodeon Toons (720p)",
+      "poster": "https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Toons (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-toons-720p",
+      "type": "tv",
+      "name": "Nickelodeon Toons (720p)",
+      "poster": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Toons (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-toons-720p",
+      "type": "tv",
+      "name": "Nickelodeon Toons (720p)",
+      "poster": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Toons (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-global-576p",
+      "type": "tv",
+      "name": "Nickelodeon Global (576p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+      "posterShape": "square",
+      "description": "Nickelodeon Global (576p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-icarly",
+      "type": "tv",
+      "name": "Nickelodeon iCarly",
+      "poster": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Nickelodeon iCarly - Series",
+      "genres": [
+        "Series",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-icarly",
+      "type": "tv",
+      "name": "Nickelodeon iCarly",
+      "poster": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Nickelodeon iCarly - Series",
+      "genres": [
+        "Series",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-garfield-and-friends",
+      "type": "tv",
+      "name": "Garfield and Friends",
+      "poster": "https://images.vizio.com/v4/btv/1/1728332205/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Garfield and Friends - KIDS + FAMILY",
+      "genres": [
+        "KIDS + FAMILY",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-garfield-and-friends",
+      "type": "tv",
+      "name": "Garfield and Friends",
+      "poster": "https://i.imgur.com/evzfe9C.png",
+      "posterShape": "square",
+      "description": "Garfield and Friends - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-nickelodeon-en-espa-ol",
+      "type": "tv",
+      "name": "Nickelodeon en espa\u00f1ol",
+      "poster": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Nickelodeon en espa\u00f1ol - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-peppa-pig-friends",
+      "type": "tv",
+      "name": "Peppa Pig & Friends",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100025G5_20251118T030633SQUARE.png",
+      "posterShape": "square",
+      "description": "Peppa Pig & Friends - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barbie-and-friends-by-mattel",
+      "type": "tv",
+      "name": "Barbie and Friends by Mattel",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/5b812cca-c2cc-4020-996f-d5bc3c87ea9c/PLEX_BarbieandFriends_ColorLogo_Dark_Background__1500_x_1000__-_Ana_C_Garcia_white_textrdx.png",
+      "posterShape": "square",
+      "description": "Barbie and Friends by Mattel - United States",
+      "genres": [
+        "United States",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-shaun-the-sheep-friends",
+      "type": "tv",
+      "name": "Shaun the Sheep & Friends",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951320/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Shaun the Sheep & Friends - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Kids",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barbie-friends",
+      "type": "tv",
+      "name": "Barbie & Friends",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Barbie & Friends - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barbie-friends",
+      "type": "tv",
+      "name": "Barbie & Friends",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Barbie & Friends - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-barbie-friends",
+      "type": "tv",
+      "name": "Barbie & Friends",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Barbie & Friends - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-13-kids-1080p",
+      "type": "tv",
+      "name": "13 Kids (1080p)",
+      "poster": "https://i.imgur.com/8WJUbSD.png",
+      "posterShape": "square",
+      "description": "13 Kids (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-aghapy-kids-1080p",
+      "type": "tv",
+      "name": "Aghapy Kids (1080p)",
+      "poster": "https://i.imgur.com/8ariztD.png",
+      "posterShape": "square",
+      "description": "Aghapy Kids (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-bejoy-kids-1080p",
+      "type": "tv",
+      "name": "BeJoy.kids (1080p)",
+      "poster": "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
+      "posterShape": "square",
+      "description": "BeJoy.kids (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-biznet-kids-1080p",
+      "type": "tv",
+      "name": "Biznet Kids (1080p)",
+      "poster": "https://i.imgur.com/J5QNqJ0.png",
+      "posterShape": "square",
+      "description": "Biznet Kids (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-bravo-kids-tv-1080p",
+      "type": "tv",
+      "name": "Bravo! Kids TV (1080p)",
+      "poster": "https://i.imgur.com/JcJ6fQ9.png",
+      "posterShape": "square",
+      "description": "Bravo! Kids TV (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-happykids-1080p",
+      "type": "tv",
+      "name": "HappyKids (1080p)",
+      "poster": "https://i.imgur.com/cPrUCFw.png",
+      "posterShape": "square",
+      "description": "HappyKids (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-happykids",
+      "type": "tv",
+      "name": "HappyKids",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png",
+      "posterShape": "square",
+      "description": "HappyKids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kidoodle-tv-1080p",
+      "type": "tv",
+      "name": "Kidoodle.TV (1080p)",
+      "poster": "https://i.imgur.com/MaFtbM5.png",
+      "posterShape": "square",
+      "description": "Kidoodle.TV (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kidoodle-tv",
+      "type": "tv",
+      "name": "Kidoodle.TV",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20250826T234601SQUARE.png",
+      "posterShape": "square",
+      "description": "Kidoodle.TV - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids-pang-tv-1080p",
+      "type": "tv",
+      "name": "Kids Pang TV (1080p)",
+      "poster": "https://i.imgur.com/mhAAIa2.png",
+      "posterShape": "square",
+      "description": "Kids Pang TV (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids-street-1080p",
+      "type": "tv",
+      "name": "Kids Street (1080p)",
+      "poster": "https://i.imgur.com/gUwRl6Q.png",
+      "posterShape": "square",
+      "description": "Kids Street (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids-tv-1080p",
+      "type": "tv",
+      "name": "Kids TV (1080p)",
+      "poster": "https://i.imgur.com/B5YiUIP.png",
+      "posterShape": "square",
+      "description": "Kids TV (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids",
+      "type": "tv",
+      "name": "Kids",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/891c8cb8-4d1b-4393-8de0-d0e9dd53db92/ABC-kids-logo-light-mode_-_Orange_RDX.png",
+      "posterShape": "square",
+      "description": "Kids - Canada",
+      "genres": [
+        "Canada",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids",
+      "type": "tv",
+      "name": "Kids",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/891c8cb8-4d1b-4393-8de0-d0e9dd53db92/ABC-kids-logo-light-mode_-_Orange_RDX.png",
+      "posterShape": "square",
+      "description": "Kids - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kuriakos-kids-1080p",
+      "type": "tv",
+      "name": "Kuriakos Kids (1080p)",
+      "poster": "https://i.imgur.com/SRX6EPY.png",
+      "posterShape": "square",
+      "description": "Kuriakos Kids (1080p) - Animation;Kids;Religious",
+      "genres": [
+        "Animation;Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-looloo-kids-1080p",
+      "type": "tv",
+      "name": "LooLoo Kids (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "LooLoo Kids (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-looloo-kids-tv-1080p",
+      "type": "tv",
+      "name": "LooLoo Kids TV (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "LooLoo Kids TV (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-moonbug-kids-1080p",
+      "type": "tv",
+      "name": "Moonbug Kids (1080p)",
+      "poster": "https://i.imgur.com/vZHtxQb.png",
+      "posterShape": "square",
+      "description": "Moonbug Kids (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-moonbug-kids",
+      "type": "tv",
+      "name": "Moonbug Kids",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/b5cde121f98257329346020e2a60295a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684954939211_MOONBUG_ROKU_LOGO_EPG_2023MONO.png",
+      "posterShape": "square",
+      "description": "Moonbug Kids - Other",
+      "genres": [
+        "Other",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pbs-kids-alaska-1080p",
+      "type": "tv",
+      "name": "PBS Kids Alaska (1080p)",
+      "poster": "https://i.imgur.com/ambc9le.png",
+      "posterShape": "square",
+      "description": "PBS Kids Alaska (1080p) - Education;Kids",
+      "genres": [
+        "Education;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pbs-kids-mountain-1080p",
+      "type": "tv",
+      "name": "PBS Kids Mountain (1080p)",
+      "poster": "https://i.imgur.com/ambc9le.png",
+      "posterShape": "square",
+      "description": "PBS Kids Mountain (1080p) - Education;Kids",
+      "genres": [
+        "Education;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pbs-kids-pacific-1080p",
+      "type": "tv",
+      "name": "PBS Kids Pacific (1080p)",
+      "poster": "https://i.imgur.com/ambc9le.png",
+      "posterShape": "square",
+      "description": "PBS Kids Pacific (1080p) - Education;Kids",
+      "genres": [
+        "Education;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-roya-kids-originals-1080p",
+      "type": "tv",
+      "name": "Roya Kids Originals (1080p)",
+      "poster": "https://i.imgur.com/acuCGF8.png",
+      "posterShape": "square",
+      "description": "Roya Kids Originals (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-sat-7-kids-1080p",
+      "type": "tv",
+      "name": "Sat 7 Kids (1080p)",
+      "poster": "https://i.imgur.com/M0ik0i2.png",
+      "posterShape": "square",
+      "description": "Sat 7 Kids (1080p) - Kids;Religious",
+      "genres": [
+        "Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-starz-kids-family-1080p",
+      "type": "tv",
+      "name": "Starz Kids & Family (1080p)",
+      "poster": "https://i.imgur.com/eE9FzEP.png",
+      "posterShape": "square",
+      "description": "Starz Kids & Family (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-sts-kids-1080p",
+      "type": "tv",
+      "name": "STS kids (1080p)",
+      "poster": "https://i.imgur.com/o9kLpAL.png",
+      "posterShape": "square",
+      "description": "STS kids (1080p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-wbra-pbs-kids-1080p",
+      "type": "tv",
+      "name": "WBRA PBS Kids (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
+      "posterShape": "square",
+      "description": "WBRA PBS Kids (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kidsflix-1080p-not-24-7",
+      "type": "tv",
+      "name": "KidsFlix (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/4Pn0ADQ.png",
+      "posterShape": "square",
+      "description": "KidsFlix (1080p) [Not 24/7] - Kids;Movies",
+      "genres": [
+        "Kids;Movies",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kidsflix",
+      "type": "tv",
+      "name": "KidsFlix",
+      "poster": "https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png",
+      "posterShape": "square",
+      "description": "KidsFlix - United States",
+      "genres": [
+        "United States",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pbs-kids",
+      "type": "tv",
+      "name": "PBS Kids",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20241112T001723SQUARE.png",
+      "posterShape": "square",
+      "description": "PBS Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pbs-kids-720p",
+      "type": "tv",
+      "name": "PBS Kids (720p)",
+      "poster": "https://i.imgur.com/q4cUQKW.png",
+      "posterShape": "square",
+      "description": "PBS Kids (720p) - Education;Kids",
+      "genres": [
+        "Education;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-bbc-kids-720p",
+      "type": "tv",
+      "name": "BBC Kids (720p)",
+      "poster": "https://i.imgur.com/vKUD64a.png",
+      "posterShape": "square",
+      "description": "BBC Kids (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-bbc-kids",
+      "type": "tv",
+      "name": "BBC Kids",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png",
+      "posterShape": "square",
+      "description": "BBC Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-d2h-kids-720p",
+      "type": "tv",
+      "name": "D2h Kids (720p)",
+      "poster": "https://i.imgur.com/lPa11rU.png",
+      "posterShape": "square",
+      "description": "D2h Kids (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-dios-te-ve-kids-720p",
+      "type": "tv",
+      "name": "Dios Te Ve Kids (720p)",
+      "poster": "https://i.imgur.com/GnZicVH.png",
+      "posterShape": "square",
+      "description": "Dios Te Ve Kids (720p) - Kids;Religious",
+      "genres": [
+        "Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kan-kids-720p",
+      "type": "tv",
+      "name": "Kan Kids (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+      "posterShape": "square",
+      "description": "Kan Kids (720p) - Education",
+      "genres": [
+        "Education",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids-zone-720p",
+      "type": "tv",
+      "name": "Kids Zone (720p)",
+      "poster": "https://i.imgur.com/mJWBVH1.png",
+      "posterShape": "square",
+      "description": "Kids Zone (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-m-net-kids-720p",
+      "type": "tv",
+      "name": "M-Net Kids (720p)",
+      "poster": "https://i.imgur.com/SbKkpuH.png",
+      "posterShape": "square",
+      "description": "M-Net Kids (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-my-kidz-720p",
+      "type": "tv",
+      "name": "My Kidz (720p)",
+      "poster": "https://i.imgur.com/qzZFU6d.png",
+      "posterShape": "square",
+      "description": "My Kidz (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ninja-kidz-720p",
+      "type": "tv",
+      "name": "Ninja Kidz (720p)",
+      "poster": "https://i.imgur.com/7EngqUi.png",
+      "posterShape": "square",
+      "description": "Ninja Kidz (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ninja-kidz",
+      "type": "tv",
+      "name": "Ninja Kidz",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20240924T011005SQUARE.png",
+      "posterShape": "square",
+      "description": "Ninja Kidz - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-orf-kids-720p",
+      "type": "tv",
+      "name": "ORF Kids (720p)",
+      "poster": "https://i.imgur.com/Zxuah2b.png",
+      "posterShape": "square",
+      "description": "ORF Kids (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pbs-kids-eastern-central-720p",
+      "type": "tv",
+      "name": "PBS Kids Eastern/Central (720p)",
+      "poster": "https://i.imgur.com/ambc9le.png",
+      "posterShape": "square",
+      "description": "PBS Kids Eastern/Central (720p) - Education;Kids",
+      "genres": [
+        "Education;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pbs-kids-hawaii-720p",
+      "type": "tv",
+      "name": "PBS Kids Hawaii (720p)",
+      "poster": "https://i.imgur.com/ambc9le.png",
+      "posterShape": "square",
+      "description": "PBS Kids Hawaii (720p) - Education;Kids",
+      "genres": [
+        "Education;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids-classics-720p",
+      "type": "tv",
+      "name": "Pluto TV Kids Classics (720p)",
+      "poster": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids Classics (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids-classics-720p",
+      "type": "tv",
+      "name": "Pluto TV Kids Classics (720p)",
+      "poster": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids Classics (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids-spain-720p",
+      "type": "tv",
+      "name": "Pluto TV Kids Spain (720p)",
+      "poster": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids Spain (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-super-kids-classics-720p",
+      "type": "tv",
+      "name": "Super! Kids Classics (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Super! Kids Classics (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-tvokids-720p",
+      "type": "tv",
+      "name": "TVOKids (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
+      "posterShape": "square",
+      "description": "TVOKids (720p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-mbc-3-usa-1080p-geo-blocked",
+      "type": "tv",
+      "name": "MBC 3 USA (1080p) [Geo-blocked]",
+      "poster": "https://i.imgur.com/PVt8OPN.png",
+      "posterShape": "square",
+      "description": "MBC 3 USA (1080p) [Geo-blocked] - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-amou-yazid-tv-576p",
+      "type": "tv",
+      "name": "Amou Yazid TV (576p)",
+      "poster": "https://i.imgur.com/L8UPGPC.png",
+      "posterShape": "square",
+      "description": "Amou Yazid TV (576p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ekids-576p",
+      "type": "tv",
+      "name": "EKids (576p)",
+      "poster": "https://i.imgur.com/dux7sjZ.png",
+      "posterShape": "square",
+      "description": "EKids (576p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-tv2-kids-576p",
+      "type": "tv",
+      "name": "TV2 Kids (576p)",
+      "poster": "https://i.imgur.com/Zltlezm.png",
+      "posterShape": "square",
+      "description": "TV2 Kids (576p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-zhara-kids-tv-576p",
+      "type": "tv",
+      "name": "Zhara Kids TV (576p)",
+      "poster": "https://i.imgur.com/OkPqFNY.png",
+      "posterShape": "square",
+      "description": "Zhara Kids TV (576p) - Kids;Music",
+      "genres": [
+        "Kids;Music",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-logos-tv-kids-720p-not-24-7",
+      "type": "tv",
+      "name": "Logos TV Kids (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/Kr3U3Ub.png",
+      "posterShape": "square",
+      "description": "Logos TV Kids (720p) [Not 24/7] - Kids;Religious",
+      "genres": [
+        "Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-tvcarib-kids-teens-720p-not-24-7",
+      "type": "tv",
+      "name": "TVCARiB Kids & Teens (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/fvGlwKo.png",
+      "posterShape": "square",
+      "description": "TVCARiB Kids & Teens (720p) [Not 24/7] - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-90-s-kids",
+      "type": "tv",
+      "name": "90's Kids",
+      "poster": "https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",
+      "posterShape": "square",
+      "description": "90's Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-90s-kids-tv-2",
+      "type": "tv",
+      "name": "90s Kids TV 2",
+      "poster": "https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "90s Kids TV 2 - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-forever-kids",
+      "type": "tv",
+      "name": "Forever Kids",
+      "poster": "https://i.imgur.com/deeQqYZ.png",
+      "posterShape": "square",
+      "description": "Forever Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids-movie-club",
+      "type": "tv",
+      "name": "Kids Movie Club",
+      "poster": "https://i.imgur.com/avFk0Tt.png",
+      "posterShape": "square",
+      "description": "Kids Movie Club - Kids;Movies",
+      "genres": [
+        "Kids;Movies",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-lego-kids-tv",
+      "type": "tv",
+      "name": "LEGO Kids TV",
+      "poster": "https://i.imgur.com/tMfEsVr.png",
+      "posterShape": "square",
+      "description": "LEGO Kids TV - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-peniel-kids-young-480p",
+      "type": "tv",
+      "name": "Peniel Kids & Young (480p)",
+      "poster": "https://i.imgur.com/YtPRKmS.png",
+      "posterShape": "square",
+      "description": "Peniel Kids & Young (480p) - Religious",
+      "genres": [
+        "Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-watch-it-kid-480i",
+      "type": "tv",
+      "name": "Watch it KID! (480i)",
+      "poster": "https://i.imgur.com/YNx0j1b.png",
+      "posterShape": "square",
+      "description": "Watch it KID! (480i) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-filmrise-kids",
+      "type": "tv",
+      "name": "FilmRise Kids",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/af1f69a0-3453-437e-afcb-d4403d0ff213/FilmRise_Kids_1500x1000_Dark_Logo.png",
+      "posterShape": "square",
+      "description": "FilmRise Kids - United States",
+      "genres": [
+        "United States",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-the-kids-in-the-hall",
+      "type": "tv",
+      "name": "The Kids in the Hall",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",
+      "posterShape": "square",
+      "description": "The Kids in the Hall - United States",
+      "genres": [
+        "United States",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-the-kids-in-the-hall",
+      "type": "tv",
+      "name": "The Kids in the Hall",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",
+      "posterShape": "square",
+      "description": "The Kids in the Hall - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-the-kids-in-the-hall",
+      "type": "tv",
+      "name": "The Kids in the Hall",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",
+      "posterShape": "square",
+      "description": "The Kids in the Hall - Australia",
+      "genres": [
+        "Australia",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-4-fun-kids-576i-not-24-7",
+      "type": "tv",
+      "name": "4 Fun Kids (576i) [[Not 24/7]]",
+      "poster": "https://i.imgur.com/2JO5Y8c.png",
+      "posterShape": "square",
+      "description": "4 Fun Kids (576i) [[Not 24/7]] - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-xumo-free-kids-tv",
+      "type": "tv",
+      "name": "Xumo Free Kids TV",
+      "poster": "https://image.xumo.com/v1/channels/channel/99991107/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Xumo Free Kids TV - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Kids",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-608-kids-tv",
+      "type": "tv",
+      "name": "608 Kids TV",
+      "poster": "http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png",
+      "posterShape": "square",
+      "description": "608 Kids TV - Live TV",
+      "genres": [
+        "Live TV",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-3abn-kids-network",
+      "type": "tv",
+      "name": "3ABN Kids Network",
+      "poster": "https://i.imgur.com/z3npqO1.png",
+      "posterShape": "square",
+      "description": "3ABN Kids Network - Animation;Kids;Religious",
+      "genres": [
+        "Animation;Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-abc-kids",
+      "type": "tv",
+      "name": "ABC Kids",
+      "poster": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+      "posterShape": "square",
+      "description": "ABC Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-canela-kids",
+      "type": "tv",
+      "name": "Canela Kids",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Canela Kids - Undefined",
+      "genres": [
+        "Undefined",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-gem-kids",
+      "type": "tv",
+      "name": "GEM Kids",
+      "poster": "https://i.imgur.com/ArkjaFk.png",
+      "posterShape": "square",
+      "description": "GEM Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-god-stands-kids-club-tv-arabic",
+      "type": "tv",
+      "name": "God Stands Kids Club TV Arabic",
+      "poster": "https://i.imgur.com/FxDBbpz.jpeg",
+      "posterShape": "square",
+      "description": "God Stands Kids Club TV Arabic - Kids;Religious",
+      "genres": [
+        "Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-god-stands-kids-club-tv-chinese",
+      "type": "tv",
+      "name": "God Stands Kids Club TV Chinese",
+      "poster": "https://i.imgur.com/FxDBbpz.jpeg",
+      "posterShape": "square",
+      "description": "God Stands Kids Club TV Chinese - Kids;Religious",
+      "genres": [
+        "Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-god-stands-kids-club-tv-english",
+      "type": "tv",
+      "name": "God Stands Kids Club TV English",
+      "poster": "https://i.imgur.com/FxDBbpz.jpeg",
+      "posterShape": "square",
+      "description": "God Stands Kids Club TV English - Kids;Religious",
+      "genres": [
+        "Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-god-stands-kids-club-tv-urdu",
+      "type": "tv",
+      "name": "God Stands Kids Club TV Urdu",
+      "poster": "https://i.imgur.com/FxDBbpz.jpeg",
+      "posterShape": "square",
+      "description": "God Stands Kids Club TV Urdu - Kids;Religious",
+      "genres": [
+        "Kids;Religious",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-magic-kids-486p",
+      "type": "tv",
+      "name": "Magic Kids (486p)",
+      "poster": "https://i.imgur.com/CMImqQY.png",
+      "posterShape": "square",
+      "description": "Magic Kids (486p) - Animation",
+      "genres": [
+        "Animation",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ncm-educational-kids-channel",
+      "type": "tv",
+      "name": "NCM Educational & Kids Channel",
+      "poster": "https://i.imgur.com/3YPvfPn.png",
+      "posterShape": "square",
+      "description": "NCM Educational & Kids Channel - Education;Kids",
+      "genres": [
+        "Education;Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-omid",
+      "type": "tv",
+      "name": "Omid",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png",
+      "posterShape": "square",
+      "description": "Omid - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-forever-kids",
+      "type": "tv",
+      "name": "Pluto TV Forever Kids",
+      "poster": "https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png",
+      "posterShape": "square",
+      "description": "Pluto TV Forever Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids",
+      "type": "tv",
+      "name": "Pluto TV Kids",
+      "poster": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids",
+      "type": "tv",
+      "name": "Pluto TV Kids",
+      "poster": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids",
+      "type": "tv",
+      "name": "Pluto TV Kids",
+      "poster": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids-club",
+      "type": "tv",
+      "name": "Pluto TV Kids Club",
+      "poster": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids Club - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-kids-club",
+      "type": "tv",
+      "name": "Pluto TV Kids Club",
+      "poster": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Kids Club - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-retro-kid",
+      "type": "tv",
+      "name": "Pluto TV Retro Kid",
+      "poster": "https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Retro Kid - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-pluto-tv-super-kids",
+      "type": "tv",
+      "name": "Pluto TV Super Kids",
+      "poster": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
+      "posterShape": "square",
+      "description": "Pluto TV Super Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-roya-kids",
+      "type": "tv",
+      "name": "Roya Kids",
+      "poster": "https://i.imgur.com/acuCGF8.png",
+      "posterShape": "square",
+      "description": "Roya Kids - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-tnt-kids-288p",
+      "type": "tv",
+      "name": "TNT Kids (288p)",
+      "poster": "https://i.imgur.com/irTDbpn.png",
+      "posterShape": "square",
+      "description": "TNT Kids (288p) - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ert-kids",
+      "type": "tv",
+      "name": "ERT Kids \u24bc",
+      "poster": "https://i.imgur.com/XkSR66q.png",
+      "posterShape": "square",
+      "description": "ERT Kids \u24bc - Greece",
+      "genres": [
+        "Greece",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kbs-kids",
+      "type": "tv",
+      "name": "KBS Kids",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",
+      "posterShape": "square",
+      "description": "KBS Kids - Korea",
+      "genres": [
+        "Korea",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-hqm-kids",
+      "type": "tv",
+      "name": "HQM Kids",
+      "poster": "https://hqm.es/wp-content/uploads/kids-hqm-logo.png",
+      "posterShape": "square",
+      "description": "HQM Kids - Spain VOD",
+      "genres": [
+        "Spain VOD",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-bumblebee-tv-country-boy-kids-video-us",
+      "type": "tv",
+      "name": "Bumblebee TV Country Boy Kids Video.us",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Bumblebee TV Country Boy Kids Video.us - Usa VOD",
+      "genres": [
+        "Usa VOD",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-mondo-tv-kids",
+      "type": "tv",
+      "name": "MONDO TV KIDS",
+      "poster": "https://i.imgur.com/DMqKFIM.png",
+      "posterShape": "square",
+      "description": "MONDO TV KIDS - VOD Italy",
+      "genres": [
+        "VOD Italy",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids-pluto-tv",
+      "type": "tv",
+      "name": "Kids \u2013 Pluto TV",
+      "poster": "https://i.imgur.com/ybd7A0r.png",
+      "posterShape": "square",
+      "description": "Kids \u2013 Pluto TV - VOD Italy",
+      "genres": [
+        "VOD Italy",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-kids-ukraine-pluto-tv",
+      "type": "tv",
+      "name": "Kids Ukraine \u2013 Pluto TV",
+      "poster": "https://i.imgur.com/MrIlypV.png",
+      "posterShape": "square",
+      "description": "Kids Ukraine \u2013 Pluto TV - VOD Italy",
+      "genres": [
+        "VOD Italy",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-ebs-kids-400p-not-24-7",
+      "type": "tv",
+      "name": "EBS kids (400p) [Not 24/7]",
+      "poster": "https://i.imgur.com/62oo8Bx.png",
+      "posterShape": "square",
+      "description": "EBS kids (400p) [Not 24/7] - Kids",
+      "genres": [
+        "Kids",
+        "kids"
+      ]
+    },
+    {
+      "id": "kids-extrema-kids-tv-not-24-7",
+      "type": "tv",
+      "name": "Extrema Kids TV [Not 24/7]",
+      "poster": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
+      "posterShape": "square",
+      "description": "Extrema Kids TV [Not 24/7] - Animation;Kids",
+      "genres": [
+        "Animation;Kids",
+        "kids"
+      ]
+    }
+  ]
+}

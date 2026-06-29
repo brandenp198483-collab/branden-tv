@@ -1,0 +1,3580 @@
+{
+  "metas": [
+    {
+      "id": "news-bloomberg-tv-2160p",
+      "type": "tv",
+      "name": "Bloomberg TV+ (2160p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV+ (2160p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-4k-us",
+      "type": "tv",
+      "name": "Bloomberg TV 4K (US)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Bloomberg TV 4K (US) - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-1080p",
+      "type": "tv",
+      "name": "Bloomberg TV (1080p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV (1080p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-bay-area-720p",
+      "type": "tv",
+      "name": "CBS News Bay Area (720p)",
+      "poster": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
+      "posterShape": "square",
+      "description": "CBS News Bay Area (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-bay-area",
+      "type": "tv",
+      "name": "CBS News Bay Area",
+      "poster": "https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Bay Area - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-bay-area",
+      "type": "tv",
+      "name": "CBS News Bay Area",
+      "poster": "https://image.xumo.com/v1/channels/channel/99991655/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "CBS News Bay Area - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cnbc-1080p",
+      "type": "tv",
+      "name": "CNBC (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
+      "posterShape": "square",
+      "description": "CNBC (1080p) - Business;News",
+      "genres": [
+        "Business;News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-court-tv",
+      "type": "tv",
+      "name": "Court TV",
+      "poster": "https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Court TV - True Crime",
+      "genres": [
+        "True Crime",
+        "news"
+      ]
+    },
+    {
+      "id": "news-hallmark-movies-more",
+      "type": "tv",
+      "name": "Hallmark Movies & More",
+      "poster": "https://images.pluto.tv/channels/628e685ba3811100070551a8/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Hallmark Movies & More - Entertainment",
+      "genres": [
+        "Entertainment",
+        "news"
+      ]
+    },
+    {
+      "id": "news-history-warfare-now",
+      "type": "tv",
+      "name": "History & Warfare Now",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png",
+      "posterShape": "square",
+      "description": "History & Warfare Now - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Documentary",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Documentary",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nbc-news-now-1080p",
+      "type": "tv",
+      "name": "NBC News NOW (1080p)",
+      "poster": "https://i.imgur.com/JZt2qh5.png",
+      "posterShape": "square",
+      "description": "NBC News NOW (1080p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nbc-news-now",
+      "type": "tv",
+      "name": "NBC News NOW",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png",
+      "posterShape": "square",
+      "description": "NBC News NOW - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Breaking News",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Breaking News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nbc-news-now",
+      "type": "tv",
+      "name": "NBC News NOW",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png",
+      "posterShape": "square",
+      "description": "NBC News NOW - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: News And Opinion",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: News And Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ryan-and-friends",
+      "type": "tv",
+      "name": "Ryan and Friends",
+      "poster": "https://images.pluto.tv/channels/5fb584b7613a31000789de5a/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Ryan and Friends - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-129-bloomberg-tv",
+      "type": "tv",
+      "name": "129 Bloomberg TV+",
+      "poster": "http://img.platform.wurl.dev/channel/833/lg/2540db/LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "129 Bloomberg TV+ - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-1080p-geo-blocked",
+      "type": "tv",
+      "name": "ABC News Live (1080p) [Geo-blocked]",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live (1080p) [Geo-blocked] - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live",
+      "type": "tv",
+      "name": "ABC News Live",
+      "poster": "https://images.pluto.tv/channels/6508be683a0d700008c534e4/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "ABC News Live - News + Opinion",
+      "genres": [
+        "News + Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-1-720p",
+      "type": "tv",
+      "name": "ABC News Live 1 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 1 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-2-720p",
+      "type": "tv",
+      "name": "ABC News Live 2 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 2 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-3-720p",
+      "type": "tv",
+      "name": "ABC News Live 3 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 3 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-4-720p",
+      "type": "tv",
+      "name": "ABC News Live 4 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 4 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-5-720p",
+      "type": "tv",
+      "name": "ABC News Live 5 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 5 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-6-720p",
+      "type": "tv",
+      "name": "ABC News Live 6 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 6 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-7-720p",
+      "type": "tv",
+      "name": "ABC News Live 7 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 7 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-8-720p",
+      "type": "tv",
+      "name": "ABC News Live 8 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 8 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-9-720p",
+      "type": "tv",
+      "name": "ABC News Live 9 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 9 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-live-10-720p",
+      "type": "tv",
+      "name": "ABC News Live 10 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "ABC News Live 10 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-asia-720p",
+      "type": "tv",
+      "name": "Bloomberg TV Asia (720p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV Asia (720p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-asia-live-event-720p",
+      "type": "tv",
+      "name": "Bloomberg TV Asia Live Event (720p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV Asia Live Event (720p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-emea-live-event-720p",
+      "type": "tv",
+      "name": "Bloomberg TV EMEA Live Event (720p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV EMEA Live Event (720p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-europe-720p",
+      "type": "tv",
+      "name": "Bloomberg TV Europe (720p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV Europe (720p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-us-live-event-720p",
+      "type": "tv",
+      "name": "Bloomberg TV US Live Event (720p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV US Live Event (720p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-us-politics-live-event-720p",
+      "type": "tv",
+      "name": "Bloomberg TV US Politics Live Event (720p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV US Politics Live Event (720p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-720p",
+      "type": "tv",
+      "name": "CBS News (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "CBS News (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-720p",
+      "type": "tv",
+      "name": "CBS News (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "CBS News (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news",
+      "type": "tv",
+      "name": "CBS News",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/7c7be41d-477b-447c-baaf-61be24cf44fc/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
+      "posterShape": "square",
+      "description": "CBS News - United States",
+      "genres": [
+        "United States",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-24-7-720p",
+      "type": "tv",
+      "name": "CBS News 24/7 (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png",
+      "posterShape": "square",
+      "description": "CBS News 24/7 (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-baltimore-720p",
+      "type": "tv",
+      "name": "CBS News Baltimore (720p)",
+      "poster": "https://i.imgur.com/jy3UfCe.png",
+      "posterShape": "square",
+      "description": "CBS News Baltimore (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-baltimore",
+      "type": "tv",
+      "name": "CBS News Baltimore",
+      "poster": "https://images.pluto.tv/channels/60f75919718aed0007250d7a/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Baltimore - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-baltimore",
+      "type": "tv",
+      "name": "CBS News Baltimore",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67F849C4-BA4A-40C4-BD20-4842B9D679DB/3-1x1.png",
+      "posterShape": "square",
+      "description": "CBS News Baltimore - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-boston-720p",
+      "type": "tv",
+      "name": "CBS News Boston (720p)",
+      "poster": "https://i.imgur.com/9un7R3N.png",
+      "posterShape": "square",
+      "description": "CBS News Boston (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-boston",
+      "type": "tv",
+      "name": "CBS News Boston",
+      "poster": "https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Boston - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-boston",
+      "type": "tv",
+      "name": "CBS News Boston",
+      "poster": "https://image.xumo.com/v1/channels/channel/99991656/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "CBS News Boston - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-chicago-720p",
+      "type": "tv",
+      "name": "CBS News Chicago (720p)",
+      "poster": "https://i.imgur.com/qGbVQir.png",
+      "posterShape": "square",
+      "description": "CBS News Chicago (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-chicago",
+      "type": "tv",
+      "name": "CBS News Chicago",
+      "poster": "https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Chicago - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-chicago",
+      "type": "tv",
+      "name": "CBS News Chicago",
+      "poster": "https://image.xumo.com/v1/channels/channel/99991643/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "CBS News Chicago - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-colorado-720p",
+      "type": "tv",
+      "name": "CBS News Colorado (720p)",
+      "poster": "https://i.imgur.com/2oyYwBw.png",
+      "posterShape": "square",
+      "description": "CBS News Colorado (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-colorado",
+      "type": "tv",
+      "name": "CBS News Colorado",
+      "poster": "https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Colorado - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-colorado",
+      "type": "tv",
+      "name": "CBS News Colorado",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7680201D-7C0C-4E07-8FF2-DEAE4CC6AC2E/3-1x1.png",
+      "posterShape": "square",
+      "description": "CBS News Colorado - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-detroit-720p",
+      "type": "tv",
+      "name": "CBS News Detroit (720p)",
+      "poster": "https://i.imgur.com/cMels2Y.png",
+      "posterShape": "square",
+      "description": "CBS News Detroit (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-detroit",
+      "type": "tv",
+      "name": "CBS News Detroit",
+      "poster": "https://images.pluto.tv/channels/634f2610d5023700078f7dee/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Detroit - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-detroit",
+      "type": "tv",
+      "name": "CBS News Detroit",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CAB01DA5-907F-482E-A1F1-149DED2983EE/3-1x1.png",
+      "posterShape": "square",
+      "description": "CBS News Detroit - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-los-angeles-720p",
+      "type": "tv",
+      "name": "CBS News Los Angeles (720p)",
+      "poster": "https://i.imgur.com/klULxMV.png",
+      "posterShape": "square",
+      "description": "CBS News Los Angeles (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-los-angeles",
+      "type": "tv",
+      "name": "CBS News Los Angeles",
+      "poster": "https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Los Angeles - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-los-angeles",
+      "type": "tv",
+      "name": "CBS News Los Angeles",
+      "poster": "https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Los Angeles - News + Opinion",
+      "genres": [
+        "News + Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-miami-720p",
+      "type": "tv",
+      "name": "CBS News Miami (720p)",
+      "poster": "https://i.imgur.com/DExbVa9.png",
+      "posterShape": "square",
+      "description": "CBS News Miami (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-miami",
+      "type": "tv",
+      "name": "CBS News Miami",
+      "poster": "https://images.pluto.tv/channels/60fb299b79498900070b29e0/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Miami - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-miami",
+      "type": "tv",
+      "name": "CBS News Miami",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/54F89A60-E6B9-462B-B496-6980F863C92E/3-1x1.png",
+      "posterShape": "square",
+      "description": "CBS News Miami - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-minnesota-720p",
+      "type": "tv",
+      "name": "CBS News Minnesota (720p)",
+      "poster": "https://i.imgur.com/ubxwfMY.png",
+      "posterShape": "square",
+      "description": "CBS News Minnesota (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-minnesota",
+      "type": "tv",
+      "name": "CBS News Minnesota",
+      "poster": "https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Minnesota - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-minnesota",
+      "type": "tv",
+      "name": "CBS News Minnesota",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6521CF71-9C6D-4BA9-AC24-710BBF841EE7/3-1x1.png",
+      "posterShape": "square",
+      "description": "CBS News Minnesota - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-new-york-720p",
+      "type": "tv",
+      "name": "CBS News New York (720p)",
+      "poster": "https://i.imgur.com/bpc4v0u.png",
+      "posterShape": "square",
+      "description": "CBS News New York (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-new-york",
+      "type": "tv",
+      "name": "CBS News New York",
+      "poster": "https://images.pluto.tv/channels/5dc48170e280c80009a861ab/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News New York - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-new-york",
+      "type": "tv",
+      "name": "CBS News New York",
+      "poster": "https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News New York - News + Opinion",
+      "genres": [
+        "News + Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-philadelphia-720p",
+      "type": "tv",
+      "name": "CBS News Philadelphia (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "CBS News Philadelphia (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-philadelphia-720p",
+      "type": "tv",
+      "name": "CBS News Philadelphia (720p)",
+      "poster": "https://i.imgur.com/FmtTbNY.png",
+      "posterShape": "square",
+      "description": "CBS News Philadelphia (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-philadelphia",
+      "type": "tv",
+      "name": "CBS News Philadelphia",
+      "poster": "https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Philadelphia - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-pittsburgh-720p",
+      "type": "tv",
+      "name": "CBS News Pittsburgh (720p)",
+      "poster": "https://i.imgur.com/Un9IrUh.png",
+      "posterShape": "square",
+      "description": "CBS News Pittsburgh (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-pittsburgh",
+      "type": "tv",
+      "name": "CBS News Pittsburgh",
+      "poster": "https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Pittsburgh - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-pittsburgh",
+      "type": "tv",
+      "name": "CBS News Pittsburgh",
+      "poster": "https://images.pluto.tv/channels/62cdcac1be7a970008781a64/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Pittsburgh - News + Opinion",
+      "genres": [
+        "News + Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-sacramento-720p",
+      "type": "tv",
+      "name": "CBS News Sacramento (720p)",
+      "poster": "https://i.imgur.com/0e1kSGX.png",
+      "posterShape": "square",
+      "description": "CBS News Sacramento (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-sacramento",
+      "type": "tv",
+      "name": "CBS News Sacramento",
+      "poster": "https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Sacramento - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-sacramento",
+      "type": "tv",
+      "name": "CBS News Sacramento",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DE849116-25C7-4E10-8610-3D3CAFF8EF15/3-1x1.png",
+      "posterShape": "square",
+      "description": "CBS News Sacramento - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-texas-720p",
+      "type": "tv",
+      "name": "CBS News Texas (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "CBS News Texas (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-texas-720p",
+      "type": "tv",
+      "name": "CBS News Texas (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "CBS News Texas (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-texas",
+      "type": "tv",
+      "name": "CBS News Texas",
+      "poster": "https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News Texas - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-news-channel-720p",
+      "type": "tv",
+      "name": "Fox News Channel (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+      "posterShape": "square",
+      "description": "Fox News Channel (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-news-radio-720p",
+      "type": "tv",
+      "name": "Fox News Radio (720p)",
+      "poster": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
+      "posterShape": "square",
+      "description": "Fox News Radio (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-modern-marvels-by-history",
+      "type": "tv",
+      "name": "Modern Marvels by HISTORY",
+      "poster": "https://images.pluto.tv/channels/65775d29dfed030008cb3db2/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Modern Marvels by HISTORY - History + Science",
+      "genres": [
+        "History + Science",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nick-jr-pluto-tv",
+      "type": "tv",
+      "name": "Nick Jr. Pluto TV",
+      "poster": "https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Nick Jr. Pluto TV - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nickelodeon-pluto-tv",
+      "type": "tv",
+      "name": "Nickelodeon Pluto TV",
+      "poster": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Nickelodeon Pluto TV - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-25-boston-wfxt-tv-1080p-geo-blocked",
+      "type": "tv",
+      "name": "Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png",
+      "posterShape": "square",
+      "description": "Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-comedy-central-pluto-tv",
+      "type": "tv",
+      "name": "Comedy Central Pluto TV",
+      "poster": "https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Comedy Central Pluto TV - Comedy",
+      "genres": [
+        "Comedy",
+        "news"
+      ]
+    },
+    {
+      "id": "news-blue-bloods",
+      "type": "tv",
+      "name": "Blue Bloods",
+      "poster": "https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Blue Bloods - Drama",
+      "genres": [
+        "Drama",
+        "news"
+      ]
+    },
+    {
+      "id": "news-comedy-central-en-espa-ol",
+      "type": "tv",
+      "name": "Comedy Central en espa\u00f1ol",
+      "poster": "https://images.pluto.tv/channels/5cf96dad1652631e36d43320/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Comedy Central en espa\u00f1ol - En Espa\u00f1ol",
+      "genres": [
+        "En Espa\u00f1ol",
+        "news"
+      ]
+    },
+    {
+      "id": "news-pluto-tv-history",
+      "type": "tv",
+      "name": "Pluto TV History",
+      "poster": "https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Pluto TV History - History + Science",
+      "genres": [
+        "History + Science",
+        "news"
+      ]
+    },
+    {
+      "id": "news-garfield-and-friends",
+      "type": "tv",
+      "name": "Garfield and Friends",
+      "poster": "https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Garfield and Friends - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nickelodeon-en-espa-ol",
+      "type": "tv",
+      "name": "Nickelodeon en espa\u00f1ol",
+      "poster": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Nickelodeon en espa\u00f1ol - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-strawberry-shortcake-and-friends",
+      "type": "tv",
+      "name": "Strawberry Shortcake and Friends",
+      "poster": "https://images.pluto.tv/channels/667f393836a2f90008fd17c0/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Strawberry Shortcake and Friends - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-24-7",
+      "type": "tv",
+      "name": "CBS News 24/7",
+      "poster": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "CBS News 24/7 - News + Opinion",
+      "genres": [
+        "News + Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-24-7",
+      "type": "tv",
+      "name": "CBS News 24/7",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20251118T230104SQUARE.png",
+      "posterShape": "square",
+      "description": "CBS News 24/7 - News & Opinion",
+      "genres": [
+        "News & Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-24-7",
+      "type": "tv",
+      "name": "CBS News 24/7",
+      "poster": "https://image.xumo.com/v1/channels/channel/99991158/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "CBS News 24/7 - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-xtreme-outdoor-by-history",
+      "type": "tv",
+      "name": "Xtreme Outdoor by HISTORY",
+      "poster": "https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Xtreme Outdoor by HISTORY - Reality",
+      "genres": [
+        "Reality",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cold-case-files-by-a-e",
+      "type": "tv",
+      "name": "Cold Case Files by A&E",
+      "poster": "https://images.pluto.tv/channels/5c37d6712de254456f7ec340/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Cold Case Files by A&E - True Crime",
+      "genres": [
+        "True Crime",
+        "news"
+      ]
+    },
+    {
+      "id": "news-forensic-files",
+      "type": "tv",
+      "name": "Forensic Files",
+      "poster": "https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Forensic Files - True Crime",
+      "genres": [
+        "True Crime",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-canada",
+      "type": "tv",
+      "name": "CBS News Canada",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/cc6a6428-8c18-4f72-9809-1084e10e7359/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
+      "posterShape": "square",
+      "description": "CBS News Canada - Canada",
+      "genres": [
+        "Canada",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-united-kingdom",
+      "type": "tv",
+      "name": "CBS News United Kingdom",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/ebc60563-a74c-438d-b1a0-6c96cf07a8fa/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
+      "posterShape": "square",
+      "description": "CBS News United Kingdom - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "news"
+      ]
+    },
+    {
+      "id": "news-120-abc-news-live",
+      "type": "tv",
+      "name": "120 ABC News Live",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABCNewsLive/abc_logo_new.png",
+      "posterShape": "square",
+      "description": "120 ABC News Live - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-121-nbc-news-now",
+      "type": "tv",
+      "name": "121 NBC News NOW",
+      "poster": "https://image.xumo.com/v1/channels/channel/99992212/600x200.png?type=white_cropped",
+      "posterShape": "square",
+      "description": "121 NBC News NOW - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-122-cbs-news-24-7",
+      "type": "tv",
+      "name": "122 CBS News 24/7",
+      "poster": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+      "posterShape": "square",
+      "description": "122 CBS News 24/7 - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-151-cbs-news-new-york",
+      "type": "tv",
+      "name": "151 CBS News New York",
+      "poster": "https://images.pluto.tv/channels/5dc48170e280c80009a861ab/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+      "posterShape": "square",
+      "description": "151 CBS News New York - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-tv-australia-270p",
+      "type": "tv",
+      "name": "Bloomberg TV Australia (270p)",
+      "poster": "https://i.imgur.com/OuogLHx.png",
+      "posterShape": "square",
+      "description": "Bloomberg TV Australia (270p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-news-pluto-tv",
+      "type": "tv",
+      "name": "CBS News \u2013 Pluto TV",
+      "poster": "https://i.imgur.com/ApsK6Eq.png",
+      "posterShape": "square",
+      "description": "CBS News \u2013 Pluto TV - VOD Italy",
+      "genres": [
+        "VOD Italy",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wfxt-fox-news-25-boston-ma",
+      "type": "tv",
+      "name": "WFXT (FOX) News 25 Boston MA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CD6FBCE3-AAE2-4602-8CBD-7C26B897243C/3-1x1.png",
+      "posterShape": "square",
+      "description": "WFXT (FOX) News 25 Boston MA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-vidas-extremas",
+      "type": "tv",
+      "name": "Vidas Extremas",
+      "poster": "https://images.pluto.tv/channels/673249afc7626f0008c7205d/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Vidas Extremas - En Espa\u00f1ol",
+      "genres": [
+        "En Espa\u00f1ol",
+        "news"
+      ]
+    },
+    {
+      "id": "news-vidas-extremas",
+      "type": "tv",
+      "name": "Vidas Extremas",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BAA7B0C1-76FD-4DDD-87EA-7034BD93028F/3-1x1.png",
+      "posterShape": "square",
+      "description": "Vidas Extremas - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: En Espanol",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: En Espanol",
+        "news"
+      ]
+    },
+    {
+      "id": "news-storage-wars-by-a-e",
+      "type": "tv",
+      "name": "Storage Wars by A&E",
+      "poster": "https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Storage Wars by A&E - Reality",
+      "genres": [
+        "Reality",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-originals-1080p",
+      "type": "tv",
+      "name": "Bloomberg Originals (1080p)",
+      "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+      "posterShape": "square",
+      "description": "Bloomberg Originals (1080p) - Business;Documentary",
+      "genres": [
+        "Business;Documentary",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-originals-1080p",
+      "type": "tv",
+      "name": "Bloomberg Originals (1080p)",
+      "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+      "posterShape": "square",
+      "description": "Bloomberg Originals (1080p) - Business;Documentary",
+      "genres": [
+        "Business;Documentary",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-originals",
+      "type": "tv",
+      "name": "Bloomberg Originals",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png",
+      "posterShape": "square",
+      "description": "Bloomberg Originals - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "news"
+      ]
+    },
+    {
+      "id": "news-dazn-ringside",
+      "type": "tv",
+      "name": "DAZN Ringside",
+      "poster": "https://images.pluto.tv/channels/649b6898f2ec0000081a9460/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "DAZN Ringside - Sports",
+      "genres": [
+        "Sports",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-1080p",
+      "type": "tv",
+      "name": "Fox (1080p)",
+      "poster": "https://i.imgur.com/hSDN9YQ.png",
+      "posterShape": "square",
+      "description": "Fox (1080p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-540p",
+      "type": "tv",
+      "name": "Fox (540p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+      "posterShape": "square",
+      "description": "Fox (540p) - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-17",
+      "type": "tv",
+      "name": "FOX 17",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242287/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX 17 - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-11-green-bay-wi-wluk-1080p",
+      "type": "tv",
+      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+      "posterShape": "square",
+      "description": "FOX 11 Green Bay WI (WLUK) (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-25-oklahoma-city-ok-kokh-1080p",
+      "type": "tv",
+      "name": "FOX 25 Oklahoma City OK (KOKH) (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+      "posterShape": "square",
+      "description": "FOX 25 Oklahoma City OK (KOKH) (1080p) - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-26-visalia-ca-kmph-1080p",
+      "type": "tv",
+      "name": "FOX 26 Visalia CA (KMPH) (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+      "posterShape": "square",
+      "description": "FOX 26 Visalia CA (KMPH) (1080p) - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-45-baltimore-md-wbff-1080p",
+      "type": "tv",
+      "name": "FOX 45 Baltimore MD (WBFF) (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+      "posterShape": "square",
+      "description": "FOX 45 Baltimore MD (WBFF) (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-soul-1080p",
+      "type": "tv",
+      "name": "Fox Soul (1080p)",
+      "poster": "https://i.imgur.com/YIamDGn.png",
+      "posterShape": "square",
+      "description": "Fox Soul (1080p) - Culture",
+      "genres": [
+        "Culture",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-soul",
+      "type": "tv",
+      "name": "FOX SOUL",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20240520T214534SQUARE.png",
+      "posterShape": "square",
+      "description": "FOX SOUL - Lifestyle & Pop Culture",
+      "genres": [
+        "Lifestyle & Pop Culture",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-soul",
+      "type": "tv",
+      "name": "FOX Soul",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdf6b34e48585f588789f7e7857a84a6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693448159612_1687189414430_FOXSOUL_260x147.png",
+      "posterShape": "square",
+      "description": "FOX Soul - Music Talk",
+      "genres": [
+        "Music Talk",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-sports-1080p",
+      "type": "tv",
+      "name": "FOX Sports (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "FOX Sports (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-sports-720p",
+      "type": "tv",
+      "name": "Fox Sports (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Fox Sports (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-sports-720p",
+      "type": "tv",
+      "name": "FOX Sports (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+      "posterShape": "square",
+      "description": "FOX Sports (720p) - Sports",
+      "genres": [
+        "Sports",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-weather-1080p",
+      "type": "tv",
+      "name": "Fox Weather (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png",
+      "posterShape": "square",
+      "description": "Fox Weather (1080p) - Weather",
+      "genres": [
+        "Weather",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-weather",
+      "type": "tv",
+      "name": "FOX Weather",
+      "poster": "https://images.pluto.tv/channels/640a68880e884c0009979cc2/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "FOX Weather - News + Opinion",
+      "genres": [
+        "News + Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-weather",
+      "type": "tv",
+      "name": "FOX Weather",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
+      "posterShape": "square",
+      "description": "FOX Weather - News & Opinion",
+      "genres": [
+        "News & Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-i24news-english-usa-1080p",
+      "type": "tv",
+      "name": "i24NEWS English USA (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+      "posterShape": "square",
+      "description": "i24NEWS English USA (1080p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-midsomer-murders",
+      "type": "tv",
+      "name": "Midsomer Murders",
+      "poster": "https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Midsomer Murders - Drama",
+      "genres": [
+        "Drama",
+        "news"
+      ]
+    },
+    {
+      "id": "news-musavision-1080p",
+      "type": "tv",
+      "name": "Musavision (1080p)",
+      "poster": "https://i.imgur.com/wMse6cT.png",
+      "posterShape": "square",
+      "description": "Musavision (1080p) - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-telemundo-noticias-florida",
+      "type": "tv",
+      "name": "Telemundo Noticias Florida",
+      "poster": "https://images.pluto.tv/channels/6579113f14fbe40008701fc0/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Telemundo Noticias Florida - En Espa\u00f1ol",
+      "genres": [
+        "En Espa\u00f1ol",
+        "news"
+      ]
+    },
+    {
+      "id": "news-telemundo-noticias-florida",
+      "type": "tv",
+      "name": "Telemundo Noticias Florida",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951227/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Telemundo Noticias Florida - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-televida-1080p-not-24-7",
+      "type": "tv",
+      "name": "Televida (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/S8Zdn41.png",
+      "posterShape": "square",
+      "description": "Televida (1080p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "news"
+      ]
+    },
+    {
+      "id": "news-usa-today-1080p",
+      "type": "tv",
+      "name": "USA Today (1080p)",
+      "poster": "https://i.imgur.com/37K0AZX.png",
+      "posterShape": "square",
+      "description": "USA Today (1080p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-usa-today",
+      "type": "tv",
+      "name": "USA Today",
+      "poster": "https://images.vizio.com/v4/btv/1/1646848058/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "USA Today - NEWS + OPINION",
+      "genres": [
+        "NEWS + OPINION",
+        "news"
+      ]
+    },
+    {
+      "id": "news-livenow-from-fox",
+      "type": "tv",
+      "name": "LiveNOW from FOX",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png",
+      "posterShape": "square",
+      "description": "LiveNOW from FOX - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-livenow-from-fox-1080p-geo-blocked",
+      "type": "tv",
+      "name": "LiveNOW from FOX (1080p) [Geo-blocked]",
+      "poster": "https://i.imgur.com/1JnyzHv.png",
+      "posterShape": "square",
+      "description": "LiveNOW from FOX (1080p) [Geo-blocked] - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-livenow-from-fox",
+      "type": "tv",
+      "name": "LiveNOW from FOX",
+      "poster": "https://images.pluto.tv/channels/63d025db4e83e700086eaa96/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "LiveNOW from FOX - News + Opinion",
+      "genres": [
+        "News + Opinion",
+        "news"
+      ]
+    },
+    {
+      "id": "news-a-e-crime-360",
+      "type": "tv",
+      "name": "A&E Crime 360",
+      "poster": "https://images.pluto.tv/channels/6000a5a9e767980007b497ca/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "A&E Crime 360 - True Crime",
+      "genres": [
+        "True Crime",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kusa-9news",
+      "type": "tv",
+      "name": "KUSA 9NEWS",
+      "poster": "https://canvas-lb.tubitv.com/opts/ke_ornWShTfyaw==/19de8aa2-e268-4204-96a3-5407fe3c6632/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "KUSA 9NEWS - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-720p",
+      "type": "tv",
+      "name": "ABC News (720p)",
+      "poster": "https://i.imgur.com/BrW7gk8.png",
+      "posterShape": "square",
+      "description": "ABC News (720p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-best-of-bobby-flay-by-food-network",
+      "type": "tv",
+      "name": "Best of Bobby Flay by Food Network",
+      "poster": "https://images.pluto.tv/channels/68bb167e00a2f063fdf7ee8f/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Best of Bobby Flay by Food Network - Home + Food",
+      "genres": [
+        "Home + Food",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bloomberg-ht-720p",
+      "type": "tv",
+      "name": "Bloomberg HT (720p)",
+      "poster": "https://i.imgur.com/bmkXfIE.png",
+      "posterShape": "square",
+      "description": "Bloomberg HT (720p) - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-chef-vs-chef-by-food-network",
+      "type": "tv",
+      "name": "Chef vs Chef by Food Network",
+      "poster": "https://images.pluto.tv/channels/68bb16a500a2f063fdf89f8c/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Chef vs Chef by Food Network - Home + Food",
+      "genres": [
+        "Home + Food",
+        "news"
+      ]
+    },
+    {
+      "id": "news-delicious-eats-by-food-network",
+      "type": "tv",
+      "name": "Delicious Eats by Food Network",
+      "poster": "https://images.pluto.tv/channels/68bb16ba3efb41cd971f3ce6/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Delicious Eats by Food Network - Home + Food",
+      "genres": [
+        "Home + Food",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-2-san-francisco-ca-ktvu-720p",
+      "type": "tv",
+      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+      "posterShape": "square",
+      "description": "FOX 2 San Francisco CA (KTVU) (720p) - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-13-seattle-wa-kcpq-720p",
+      "type": "tv",
+      "name": "FOX 13 Seattle WA (KCPQ) (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png",
+      "posterShape": "square",
+      "description": "FOX 13 Seattle WA (KCPQ) (720p) - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-matched-married-meet-by-lifetime",
+      "type": "tv",
+      "name": "Matched Married Meet by Lifetime",
+      "poster": "https://images.pluto.tv/channels/6887a86be3703b7d42b3eca3/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Matched Married Meet by Lifetime - Reality",
+      "genres": [
+        "Reality",
+        "news"
+      ]
+    },
+    {
+      "id": "news-pbr-ridepass",
+      "type": "tv",
+      "name": "PBR RidePass",
+      "poster": "https://images.pluto.tv/channels/60d39387706fe50007fda8e8/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "PBR RidePass - Sports",
+      "genres": [
+        "Sports",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ridiculousness",
+      "type": "tv",
+      "name": "Ridiculousness",
+      "poster": "https://images.pluto.tv/channels/6996296087742204bff43147/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Ridiculousness - Comedy",
+      "genres": [
+        "Comedy",
+        "news"
+      ]
+    },
+    {
+      "id": "news-the-first-48-by-a-e",
+      "type": "tv",
+      "name": "The First 48 by A&E",
+      "poster": "https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "The First 48 by A&E - True Crime",
+      "genres": [
+        "True Crime",
+        "news"
+      ]
+    },
+    {
+      "id": "news-actualidad-360-1080p-geo-blocked",
+      "type": "tv",
+      "name": "Actualidad 360 (1080p) [Geo-blocked]",
+      "poster": "https://i.imgur.com/3YeTu0n.png",
+      "posterShape": "square",
+      "description": "Actualidad 360 (1080p) [Geo-blocked] - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nash-bridges",
+      "type": "tv",
+      "name": "Nash Bridges",
+      "poster": "https://images.pluto.tv/channels/6675c742ca74680008566b88/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Nash Bridges - Drama",
+      "genres": [
+        "Drama",
+        "news"
+      ]
+    },
+    {
+      "id": "news-didgah-tv-576p",
+      "type": "tv",
+      "name": "Didgah TV (576p)",
+      "poster": "https://i.imgur.com/3SeAyBS.png",
+      "posterShape": "square",
+      "description": "Didgah TV (576p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-pratidin-time-576p",
+      "type": "tv",
+      "name": "Pratidin Time (576p)",
+      "poster": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRATIDIN_TIME/images/LOGO_HD/image.png",
+      "posterShape": "square",
+      "description": "Pratidin Time (576p) - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-23-cape-girardeau-mo-kbsi-dt1-720p-not-24-7",
+      "type": "tv",
+      "name": "FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",
+      "poster": "https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",
+      "posterShape": "square",
+      "description": "FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7] - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-online-tv-nusantara-720p-not-24-7",
+      "type": "tv",
+      "name": "Online TV Nusantara (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/E9CCIpP.jpg",
+      "posterShape": "square",
+      "description": "Online TV Nusantara (720p) [Not 24/7] - Culture;General;Music;News",
+      "genres": [
+        "Culture;General;Music;News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-anime-x-hidive",
+      "type": "tv",
+      "name": "ANIME x HIDIVE",
+      "poster": "https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "ANIME x HIDIVE - Anime",
+      "genres": [
+        "Anime",
+        "news"
+      ]
+    },
+    {
+      "id": "news-tv-land-sitcoms",
+      "type": "tv",
+      "name": "TV Land Sitcoms",
+      "poster": "https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "TV Land Sitcoms - Comedy",
+      "genres": [
+        "Comedy",
+        "news"
+      ]
+    },
+    {
+      "id": "news-tv-land-drama",
+      "type": "tv",
+      "name": "TV Land Drama",
+      "poster": "https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "TV Land Drama - Drama",
+      "genres": [
+        "Drama",
+        "news"
+      ]
+    },
+    {
+      "id": "news-pluto-tv-pride",
+      "type": "tv",
+      "name": "Pluto TV Pride",
+      "poster": "https://images.pluto.tv/channels/69fa3faab9c0f0d444e64de3/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Pluto TV Pride - Entertainment",
+      "genres": [
+        "Entertainment",
+        "news"
+      ]
+    },
+    {
+      "id": "news-home-cooking-by-food-network",
+      "type": "tv",
+      "name": "Home Cooking by Food Network",
+      "poster": "https://images.pluto.tv/channels/68bb16916523408b14bac7f8/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Home Cooking by Food Network - Home + Food",
+      "genres": [
+        "Home + Food",
+        "news"
+      ]
+    },
+    {
+      "id": "news-90-s-kids",
+      "type": "tv",
+      "name": "90's Kids",
+      "poster": "https://images.pluto.tv/channels/6452c814939a590008567a3b/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "90's Kids - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-90s-kids-tv-2",
+      "type": "tv",
+      "name": "90s Kids TV 2",
+      "poster": "https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "90s Kids TV 2 - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-forever-kids",
+      "type": "tv",
+      "name": "Forever Kids",
+      "poster": "https://images.pluto.tv/channels/56171fafada51f8004c4b40f/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Forever Kids - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kids-movie-club",
+      "type": "tv",
+      "name": "Kids Movie Club",
+      "poster": "https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Kids Movie Club - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-lego-kids-tv",
+      "type": "tv",
+      "name": "LEGO Kids TV",
+      "poster": "https://images.pluto.tv/channels/60fb01a24795a6000762fe83/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "LEGO Kids TV - Kids",
+      "genres": [
+        "Kids",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-los-angeles",
+      "type": "tv",
+      "name": "FOX LOCAL Los Angeles",
+      "poster": "https://images.pluto.tv/channels/667f2c7b22acab0008b7072b/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "FOX LOCAL Los Angeles - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-los-angeles",
+      "type": "tv",
+      "name": "FOX LOCAL Los Angeles",
+      "poster": "https://canvas-lb.tubitv.com/opts/oC-hI5oCZJUiBA==/0e73f3ca-3e7a-4fa9-82e2-cefdfb798fef/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "FOX LOCAL Los Angeles - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-los-angeles",
+      "type": "tv",
+      "name": "FOX LOCAL Los Angeles",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951420/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Los Angeles - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-discovery-turbo-tv",
+      "type": "tv",
+      "name": "Discovery Turbo TV",
+      "poster": "https://images.pluto.tv/channels/6400f731d200410008f9b339/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Discovery Turbo TV - Sports",
+      "genres": [
+        "Sports",
+        "news"
+      ]
+    },
+    {
+      "id": "news-rawhide",
+      "type": "tv",
+      "name": "Rawhide",
+      "poster": "https://images.pluto.tv/channels/634f307c7a068e00072c9982/logo.png?fit=fill&fm=png&h=80&w=280",
+      "posterShape": "square",
+      "description": "Rawhide - Westerns",
+      "genres": [
+        "Westerns",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kptv-fox-12-oregon-news",
+      "type": "tv",
+      "name": "KPTV FOX 12 Oregon News",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5c8d77c2f6b85da3a7e74223b769ef5c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345991989_KPTV_EPG%2526Hud_LogoKPTV_HUD_logo_260x147.png",
+      "posterShape": "square",
+      "description": "KPTV FOX 12 Oregon News - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-sabc-news-720p-geo-blocked",
+      "type": "tv",
+      "name": "SABC News (720p) [Geo-blocked]",
+      "poster": "https://i.imgur.com/liLta8j.png",
+      "posterShape": "square",
+      "description": "SABC News (720p) [Geo-blocked] - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-sabc-news",
+      "type": "tv",
+      "name": "SABC News",
+      "poster": "https://i.imgur.com/H9q3Q9d.png",
+      "posterShape": "square",
+      "description": "SABC News - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-new-york",
+      "type": "tv",
+      "name": "FOX LOCAL New York",
+      "poster": "https://canvas-lb.tubitv.com/opts/bKxO2pZFIwBisA==/c6c25ba1-c2fd-4e78-973f-3a220337f694/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "FOX LOCAL New York - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-new-york",
+      "type": "tv",
+      "name": "FOX LOCAL New York",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951427/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL New York - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-new-york",
+      "type": "tv",
+      "name": "FOX LOCAL New York",
+      "poster": "https://images.vizio.com/v4/btv/1/1736185155/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL New York - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-washington-dc",
+      "type": "tv",
+      "name": "FOX LOCAL Washington DC",
+      "poster": "https://canvas-lb.tubitv.com/opts/_jvGWcGqFs6DhQ==/8c560c21-a9f7-41c7-82ad-df5674fb9692/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "FOX LOCAL Washington DC - Local News",
+      "genres": [
+        "Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-washington-dc",
+      "type": "tv",
+      "name": "FOX LOCAL Washington DC",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951428/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Washington DC - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-washington-dc",
+      "type": "tv",
+      "name": "FOX LOCAL Washington DC",
+      "poster": "https://images.vizio.com/v4/btv/1/1736185161/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Washington DC - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-sports-en-espa-ol",
+      "type": "tv",
+      "name": "Fox Sports En Espa\u00f1ol",
+      "poster": "https://canvas-lb.tubitv.com/opts/Rt5VK8q8c6pWvw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "Fox Sports En Espa\u00f1ol - Espa\u00f1ol",
+      "genres": [
+        "Espa\u00f1ol",
+        "news"
+      ]
+    },
+    {
+      "id": "news-real-madrid-tv",
+      "type": "tv",
+      "name": "Real Madrid TV",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/122DB51B-5AAB-4ED4-A961-6C531C82504E/3-1x1.png",
+      "posterShape": "square",
+      "description": "Real Madrid TV - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Sports",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Sports",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ideaal-tv-480p-not-24-7",
+      "type": "tv",
+      "name": "Ideaal TV (480p) [Not 24/7]",
+      "poster": "https://i.imgur.com/JLYQFoX.png",
+      "posterShape": "square",
+      "description": "Ideaal TV (480p) [Not 24/7] - General",
+      "genres": [
+        "General",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wtvt-fox-13-tampa-bay-fl",
+      "type": "tv",
+      "name": "WTVT FOX 13 Tampa Bay FL",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7032D826-426C-47D6-8150-93480BD08A91/3-1x1.png",
+      "posterShape": "square",
+      "description": "WTVT FOX 13 Tampa Bay FL - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nbc-6-south-florida-news",
+      "type": "tv",
+      "name": "NBC 6 South Florida News",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951167/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "NBC 6 South Florida News - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nbc-6-south-florida-news",
+      "type": "tv",
+      "name": "NBC 6 South Florida News",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DD4CB97A-CD5E-4850-BB1A-59F15A501BB2/3-1x1.png",
+      "posterShape": "square",
+      "description": "NBC 6 South Florida News - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-seattle",
+      "type": "tv",
+      "name": "FOX LOCAL Seattle",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951417/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Seattle - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-seattle",
+      "type": "tv",
+      "name": "FOX LOCAL Seattle",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206514/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Seattle - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-dallas-fort-worth",
+      "type": "tv",
+      "name": "FOX LOCAL Dallas-Fort Worth",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951418/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Dallas-Fort Worth - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-dallas-fort-worth",
+      "type": "tv",
+      "name": "FOX LOCAL Dallas | Fort Worth",
+      "poster": "https://images.vizio.com/v4/btv/1/1736185145/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Dallas | Fort Worth - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-minneapolis",
+      "type": "tv",
+      "name": "FOX LOCAL Minneapolis",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951431/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Minneapolis - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-minneapolis",
+      "type": "tv",
+      "name": "FOX LOCAL Minneapolis",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206297/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Minneapolis - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-houston",
+      "type": "tv",
+      "name": "FOX LOCAL Houston",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951423/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Houston - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-houston",
+      "type": "tv",
+      "name": "FOX LOCAL Houston",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206527/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Houston - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-phoenix",
+      "type": "tv",
+      "name": "FOX LOCAL Phoenix",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951419/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Phoenix - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-phoenix",
+      "type": "tv",
+      "name": "FOX LOCAL Phoenix",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206304/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Phoenix - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-austin",
+      "type": "tv",
+      "name": "FOX LOCAL Austin",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951430/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Austin - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-austin",
+      "type": "tv",
+      "name": "FOX LOCAL Austin",
+      "poster": "https://images.vizio.com/v4/btv/1/1736205029/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Austin - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-san-francisco",
+      "type": "tv",
+      "name": "FOX LOCAL San Francisco",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951422/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL San Francisco - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-san-francisco",
+      "type": "tv",
+      "name": "FOX LOCAL San Francisco",
+      "poster": "https://images.vizio.com/v4/btv/1/1736185140/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL San Francisco - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-atlanta",
+      "type": "tv",
+      "name": "FOX LOCAL Atlanta",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951426/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Atlanta - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-atlanta",
+      "type": "tv",
+      "name": "FOX LOCAL Atlanta",
+      "poster": "https://images.vizio.com/v4/btv/1/1736185151/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Atlanta - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-chicago",
+      "type": "tv",
+      "name": "FOX LOCAL Chicago",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951415/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Chicago - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-chicago",
+      "type": "tv",
+      "name": "FOX LOCAL Chicago",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206537/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Chicago - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-milwaukee",
+      "type": "tv",
+      "name": "FOX LOCAL Milwaukee",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951429/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Milwaukee - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-milwaukee",
+      "type": "tv",
+      "name": "FOX LOCAL Milwaukee",
+      "poster": "https://images.vizio.com/v4/btv/1/1736185165/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Milwaukee - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-detroit",
+      "type": "tv",
+      "name": "FOX LOCAL Detroit",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951421/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Detroit - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-detroit",
+      "type": "tv",
+      "name": "FOX LOCAL Detroit",
+      "poster": "https://images.vizio.com/v4/btv/1/1736185134/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Detroit - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-orlando",
+      "type": "tv",
+      "name": "FOX LOCAL Orlando",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951425/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Orlando - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-orlando",
+      "type": "tv",
+      "name": "FOX LOCAL Orlando",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206542/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Orlando - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-tampa-bay",
+      "type": "tv",
+      "name": "FOX LOCAL Tampa Bay",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951416/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Tampa Bay - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-tampa-bay",
+      "type": "tv",
+      "name": "FOX LOCAL Tampa Bay",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206520/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Tampa Bay - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-philadelphia",
+      "type": "tv",
+      "name": "FOX LOCAL Philadelphia",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951424/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "FOX LOCAL Philadelphia - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Local News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-local-philadelphia",
+      "type": "tv",
+      "name": "FOX LOCAL Philadelphia",
+      "poster": "https://images.vizio.com/v4/btv/1/1736206532/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX LOCAL Philadelphia - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-123-livenow-from-fox",
+      "type": "tv",
+      "name": "123 LiveNOW from FOX",
+      "poster": "https://d3rimcir91uaav.cloudfront.net/196481_LG_LiveNow_Logo_White_800x200_001.png",
+      "posterShape": "square",
+      "description": "123 LiveNOW from FOX - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-144-bloomberg-originals",
+      "type": "tv",
+      "name": "144 Bloomberg Originals",
+      "poster": "http://img.platform.wurl.dev/channel/903/lg/fab89a/LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "144 Bloomberg Originals - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-148-fox-weather",
+      "type": "tv",
+      "name": "148 Fox Weather",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/fox-weather/FoxWeather_White_Logo_400x200.png",
+      "posterShape": "square",
+      "description": "148 Fox Weather - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-154-fox-local-washington-dc",
+      "type": "tv",
+      "name": "154 FOX LOCAL Washington DC",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/foxdigital/WTTG/FL-WashingtonDC-400x200-LG-Channel_Logo.png",
+      "posterShape": "square",
+      "description": "154 FOX LOCAL Washington DC - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-407-fox-soul",
+      "type": "tv",
+      "name": "407 Fox Soul",
+      "poster": "https://d3rimcir91uaav.cloudfront.net/FOX-SOUL_800x200_white.png",
+      "posterShape": "square",
+      "description": "407 Fox Soul - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-450-fox-sports",
+      "type": "tv",
+      "name": "450 Fox Sports",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/foxsports/foxsports_logo_lg.png",
+      "posterShape": "square",
+      "description": "450 Fox Sports - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-805-telemundo-noticias-florida",
+      "type": "tv",
+      "name": "805 Telemundo Noticias Florida",
+      "poster": "https://image.xumo.com/v1/channels/channel/99993037/600x200.png?type=white_cropped",
+      "posterShape": "square",
+      "description": "805 Telemundo Noticias Florida - Live TV",
+      "genres": [
+        "Live TV",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-12-oregon",
+      "type": "tv",
+      "name": "FOX 12 Oregon",
+      "poster": "https://images.vizio.com/v4/btv/1/1643021415/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX 12 Oregon - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox19-now-cincinnati",
+      "type": "tv",
+      "name": "FOX19 Now Cincinnati",
+      "poster": "https://images.vizio.com/v4/btv/1/1647826595/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX19 Now Cincinnati - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wftv-9-central-florida",
+      "type": "tv",
+      "name": "WFTV 9 Central Florida",
+      "poster": "https://images.vizio.com/v4/btv/1/1654150072/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "WFTV 9 Central Florida - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cbs-47-fox-30-action-news-jax",
+      "type": "tv",
+      "name": "CBS 47 Fox 30 Action News Jax",
+      "poster": "https://images.vizio.com/v4/btv/1/1654150170/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "CBS 47 Fox 30 Action News Jax - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-carolina-whns",
+      "type": "tv",
+      "name": "Fox Carolina WHNS",
+      "poster": "https://images.vizio.com/v4/btv/1/1664636398/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Fox Carolina WHNS - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-5-kvvu-las-vegas",
+      "type": "tv",
+      "name": "Fox 5 KVVU Las Vegas",
+      "poster": "https://images.vizio.com/v4/btv/1/1664636383/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Fox 5 KVVU Las Vegas - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wbrc-fox-6-news-birmingham",
+      "type": "tv",
+      "name": "WBRC Fox 6 News Birmingham",
+      "poster": "https://images.vizio.com/v4/btv/1/1664636393/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "WBRC Fox 6 News Birmingham - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-8-local-first-new-orleans",
+      "type": "tv",
+      "name": "Fox 8 Local First New Orleans",
+      "poster": "https://images.vizio.com/v4/btv/1/1664636424/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Fox 8 Local First New Orleans - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-10-news-mobile-pensacola",
+      "type": "tv",
+      "name": "Fox 10 News Mobile-Pensacola",
+      "poster": "https://images.vizio.com/v4/btv/1/1664636388/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Fox 10 News Mobile-Pensacola - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-23abc-news",
+      "type": "tv",
+      "name": "23ABC News",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242318/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "23ABC News - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-idaho-news-6",
+      "type": "tv",
+      "name": "Idaho News 6",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242343/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Idaho News 6 - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-47-news",
+      "type": "tv",
+      "name": "FOX 47 News",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242313/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX 47 News - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-13-news",
+      "type": "tv",
+      "name": "FOX 13 News",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242325/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "FOX 13 News - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "news"
+      ]
+    },
+    {
+      "id": "news-bnn-bloomberg",
+      "type": "tv",
+      "name": "BNN Bloomberg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png",
+      "posterShape": "square",
+      "description": "BNN Bloomberg - Business",
+      "genres": [
+        "Business",
+        "news"
+      ]
+    },
+    {
+      "id": "news-fox-deportes-1280p",
+      "type": "tv",
+      "name": "Fox Deportes (1280p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+      "posterShape": "square",
+      "description": "Fox Deportes (1280p) - Sports",
+      "genres": [
+        "Sports",
+        "news"
+      ]
+    },
+    {
+      "id": "news-global-news-lethbridge",
+      "type": "tv",
+      "name": "Global News Lethbridge",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Global News Lethbridge - Undefined",
+      "genres": [
+        "Undefined",
+        "news"
+      ]
+    },
+    {
+      "id": "news-portalfoxmix",
+      "type": "tv",
+      "name": "Portalfoxmix",
+      "poster": "https://i.imgur.com/ZEBOeGe.png",
+      "posterShape": "square",
+      "description": "Portalfoxmix - Music",
+      "genres": [
+        "Music",
+        "news"
+      ]
+    },
+    {
+      "id": "news-abc-news-albania",
+      "type": "tv",
+      "name": "ABC News Albania \u24c9",
+      "poster": "https://i.imgur.com/aObcudw.png",
+      "posterShape": "square",
+      "description": "ABC News Albania \u24c9 - Albania",
+      "genres": [
+        "Albania",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cusano-news-7",
+      "type": "tv",
+      "name": "Cusano News 7",
+      "poster": "https://i.imgur.com/L49Ie1Q.png",
+      "posterShape": "square",
+      "description": "Cusano News 7 - Italy",
+      "genres": [
+        "Italy",
+        "news"
+      ]
+    },
+    {
+      "id": "news-nbc-news",
+      "type": "tv",
+      "name": "NBC News",
+      "poster": "https://i.imgur.com/v48mMRT.png",
+      "posterShape": "square",
+      "description": "NBC News - USA",
+      "genres": [
+        "USA",
+        "news"
+      ]
+    },
+    {
+      "id": "news-cholusat-sur-36-214p-not-24-7",
+      "type": "tv",
+      "name": "Cholusat Sur 36 (214p) [Not 24/7]",
+      "poster": "https://i.imgur.com/6qL2hE5.png",
+      "posterShape": "square",
+      "description": "Cholusat Sur 36 (214p) [Not 24/7] - News",
+      "genres": [
+        "News",
+        "news"
+      ]
+    },
+    {
+      "id": "news-tudiscovery",
+      "type": "tv",
+      "name": "TuDiscovery",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2B411E4B-58F1-47FD-84A5-C8CDB543A9D8/3-1x1.png",
+      "posterShape": "square",
+      "description": "TuDiscovery - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: En Espanol",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: En Espanol",
+        "news"
+      ]
+    },
+    {
+      "id": "news-inside-edition",
+      "type": "tv",
+      "name": "Inside Edition",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F18D7F32-BC3A-444E-BB73-8F5336F53EFC/3-1x1.png",
+      "posterShape": "square",
+      "description": "Inside Edition - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Entertainment",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Entertainment",
+        "news"
+      ]
+    },
+    {
+      "id": "news-h2o-tv",
+      "type": "tv",
+      "name": "H2O TV",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF/3-1x1.png",
+      "posterShape": "square",
+      "description": "H2O TV - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Nature and Outdoors",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Nature and Outdoors",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wnyw-fox-5-new-york-ny",
+      "type": "tv",
+      "name": "WNYW FOX 5 New York NY",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3569A332-B62F-4E04-9A49-7ADB31044EE5/3-1x1.png",
+      "posterShape": "square",
+      "description": "WNYW FOX 5 New York NY - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wtxf-fox-29-philadelphia-pa",
+      "type": "tv",
+      "name": "WTXF FOX 29 Philadelphia PA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9D57FCBE-E0D1-4B54-BA1E-0FDC9BC238F3/3-1x1.png",
+      "posterShape": "square",
+      "description": "WTXF FOX 29 Philadelphia PA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-waga-fox-5-atlanta-ga",
+      "type": "tv",
+      "name": "WAGA FOX 5 Atlanta GA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0F9F3A85-2CAD-4492-BFE7-C809E79489CB/3-1x1.png",
+      "posterShape": "square",
+      "description": "WAGA FOX 5 Atlanta GA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wttg-fox-5-washington-dc",
+      "type": "tv",
+      "name": "WTTG FOX 5 Washington DC",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2A3827F4-2784-4890-A382-2091829FE1D0/3-1x1.png",
+      "posterShape": "square",
+      "description": "WTTG FOX 5 Washington DC - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wusa-cbs-9-washington-dc",
+      "type": "tv",
+      "name": "WUSA CBS 9 Washington DC",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F878B9F4-133B-4725-89AC-33829F7CE1C4/3-1x1.png",
+      "posterShape": "square",
+      "description": "WUSA CBS 9 Washington DC - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wjbk-fox-2-detroit-mi",
+      "type": "tv",
+      "name": "WJBK FOX 2 Detroit MI",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FB6EBBB1-EF1E-4F4E-B1AD-B086343F5A80/3-1x1.png",
+      "posterShape": "square",
+      "description": "WJBK FOX 2 Detroit MI - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wofl-fox-35-orlando-fl",
+      "type": "tv",
+      "name": "WOFL FOX 35 Orlando FL",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4EF27822-60FA-41B3-93A4-BE0751396E7E/3-1x1.png",
+      "posterShape": "square",
+      "description": "WOFL FOX 35 Orlando FL - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wthr-nbc-news-13-indianapolis-in",
+      "type": "tv",
+      "name": "WTHR NBC News 13 Indianapolis IN",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A5E89862-1EAA-4B2E-9BCD-B99827511897/3-1x1.png",
+      "posterShape": "square",
+      "description": "WTHR NBC News 13 Indianapolis IN - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wbff-fox45-baltimore-md",
+      "type": "tv",
+      "name": "WBFF FOX45 Baltimore MD",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B4C0B63A-6E32-45FB-9742-E9D95987D5B5/3-1x1.png",
+      "posterShape": "square",
+      "description": "WBFF FOX45 Baltimore MD - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wtic-fox-61-news-hartford-ct",
+      "type": "tv",
+      "name": "WTIC FOX 61 News Hartford CT",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3DB8EFF1-8650-4624-98AD-5FC04754EA03/3-1x1.png",
+      "posterShape": "square",
+      "description": "WTIC FOX 61 News Hartford CT - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-very-south-florida-by-wpbf-25",
+      "type": "tv",
+      "name": "Very South Florida by WPBF 25",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/8F7CBCF6-0CA1-474D-8275-FC4DB844355A/3-1x1.png",
+      "posterShape": "square",
+      "description": "Very South Florida by WPBF 25 - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wpmt-fox43-harrisburg-pa",
+      "type": "tv",
+      "name": "WPMT FOX43 Harrisburg PA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/07D7FE47-3F62-4563-BD5A-DE4028E9E894/3-1x1.png",
+      "posterShape": "square",
+      "description": "WPMT FOX43 Harrisburg PA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wwmt-news-channel-3-grand-rapids-mi",
+      "type": "tv",
+      "name": "WWMT News Channel 3 Grand Rapids MI",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A75FC2FE-BC1F-4935-816D-6566283A47D6/3-1x1.png",
+      "posterShape": "square",
+      "description": "WWMT News Channel 3 Grand Rapids MI - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wzzm-abc-13-on-your-side-grand-rapids-mi",
+      "type": "tv",
+      "name": "WZZM ABC 13 On Your Side Grand Rapids MI",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E32EB143-84E0-4174-BE06-A3A076F0AF2E/3-1x1.png",
+      "posterShape": "square",
+      "description": "WZZM ABC 13 On Your Side Grand Rapids MI - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wxmi-fox17-news-west-michigan",
+      "type": "tv",
+      "name": "WXMI FOX17 News West Michigan",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6A5F5D5D-9634-4611-8E1B-CBB94EDE0CB0/3-1x1.png",
+      "posterShape": "square",
+      "description": "WXMI FOX17 News West Michigan - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-whas-abc-11-on-your-side-louisville-ky",
+      "type": "tv",
+      "name": "WHAS ABC 11 On Your Side Louisville KY",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FDD35A88-7E85-4FF5-B89D-29CF4BFC3DE0/3-1x1.png",
+      "posterShape": "square",
+      "description": "WHAS ABC 11 On Your Side Louisville KY - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wjar-nbc-10-news-providence-ri",
+      "type": "tv",
+      "name": "WJAR NBC 10 News Providence RI",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0A5D8859-18DF-4749-A8C4-9B866A17CEAD/3-1x1.png",
+      "posterShape": "square",
+      "description": "WJAR NBC 10 News Providence RI - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wgrz-nbc-2-on-your-side-buffalo-ny",
+      "type": "tv",
+      "name": "WGRZ NBC 2 On Your Side Buffalo NY",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4EC614AF-739E-4E85-8071-CAC9A6D94C77/3-1x1.png",
+      "posterShape": "square",
+      "description": "WGRZ NBC 2 On Your Side Buffalo NY - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wciv-abc-news-4-charleston-sc",
+      "type": "tv",
+      "name": "WCIV ABC News 4 Charleston SC",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/57A26E48-B4A8-49C9-A9A7-FFFADE73E09A/3-1x1.png",
+      "posterShape": "square",
+      "description": "WCIV ABC News 4 Charleston SC - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wfft-fox-news-55-fort-wayne-in",
+      "type": "tv",
+      "name": "WFFT (FOX) News 55 Fort Wayne IN",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B8190E61-2567-40AC-8265-2691C325E769/3-1x1.png",
+      "posterShape": "square",
+      "description": "WFFT (FOX) News 55 Fort Wayne IN - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wsym-fox47-news-lansing",
+      "type": "tv",
+      "name": "WSYM FOX47 News Lansing",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E9BA3BDF-EFD8-4AB0-BCBD-F29588ABAAF3/3-1x1.png",
+      "posterShape": "square",
+      "description": "WSYM FOX47 News Lansing - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wfld-fox-32-chicago-il",
+      "type": "tv",
+      "name": "WFLD FOX 32 Chicago IL",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/71D24045-457E-467E-99E3-EB02DF915AA9/3-1x1.png",
+      "posterShape": "square",
+      "description": "WFLD FOX 32 Chicago IL - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kdfw-fox-4-dallas-fort-worth-tx",
+      "type": "tv",
+      "name": "KDFW FOX 4 Dallas Fort Worth TX",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9B0632AF-6883-42E5-9BB6-F8827ADD7C0F/3-1x1.png",
+      "posterShape": "square",
+      "description": "KDFW FOX 4 Dallas Fort Worth TX - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kriv-fox-26-houston-tx",
+      "type": "tv",
+      "name": "KRIV FOX 26 Houston TX",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AF361DA6-F26C-4495-8C74-23668A59FA15/3-1x1.png",
+      "posterShape": "square",
+      "description": "KRIV FOX 26 Houston TX - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kmsp-fox-local-minnesota",
+      "type": "tv",
+      "name": "KMSP FOX LOCAL Minnesota",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2DC8F37C-B6A9-481C-92E5-4B938499AF46/3-1x1.png",
+      "posterShape": "square",
+      "description": "KMSP FOX LOCAL Minnesota - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ksdk-nbc-news-st-louis-mo",
+      "type": "tv",
+      "name": "KSDK NBC News St. Louis MO",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/57B518C9-5E2A-4AD7-82E5-3A9EB6B90750/3-1x1.png",
+      "posterShape": "square",
+      "description": "KSDK NBC News St. Louis MO - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-woai-nbc-news-channel-4-san-antonio-tx",
+      "type": "tv",
+      "name": "WOAI NBC News Channel 4 San Antonio TX",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5EE90F1D-1088-4615-8C75-D779961CA771/3-1x1.png",
+      "posterShape": "square",
+      "description": "WOAI NBC News Channel 4 San Antonio TX - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ktbc-fox-7-austin-tx",
+      "type": "tv",
+      "name": "KTBC FOX 7 Austin TX",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E3140482-1FDF-4A4F-AC5D-B2B4A7367957/3-1x1.png",
+      "posterShape": "square",
+      "description": "KTBC FOX 7 Austin TX - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-witi-fox-6-milwaukee-wi",
+      "type": "tv",
+      "name": "WITI FOX 6 Milwaukee WI",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/20D04EDA-5A39-4CB3-B07F-971C9B4F8713/3-1x1.png",
+      "posterShape": "square",
+      "description": "WITI FOX 6 Milwaukee WI - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kokh-fox-25-news-oklahoma-city-ok",
+      "type": "tv",
+      "name": "KOKH FOX 25 News Oklahoma City OK",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/974881DF-FC85-4E54-A62C-01C3B96BFF02/3-1x1.png",
+      "posterShape": "square",
+      "description": "KOKH FOX 25 News Oklahoma City OK - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-whbq-fox-news-13-memphis-tn",
+      "type": "tv",
+      "name": "WHBQ (FOX) News 13 Memphis TN",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3E043FAD-4A6B-4653-AA3B-42D9A28E3CF6/3-1x1.png",
+      "posterShape": "square",
+      "description": "WHBQ (FOX) News 13 Memphis TN - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-koki-fox-news-23-tulsa-ok",
+      "type": "tv",
+      "name": "KOKI (FOX) News 23 Tulsa OK",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/96887ABA-1F9D-4166-AD32-436CB8FFFD47/3-1x1.png",
+      "posterShape": "square",
+      "description": "KOKI (FOX) News 23 Tulsa OK - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wluk-fox11-news-green-bay-wi",
+      "type": "tv",
+      "name": "WLUK FOX11 News Green Bay WI",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/EE21732A-1C22-425B-86B1-78DDEE5AB84F/3-1x1.png",
+      "posterShape": "square",
+      "description": "WLUK FOX11 News Green Bay WI - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-wzdx-fox54-huntsville-al",
+      "type": "tv",
+      "name": "WZDX FOX54 Huntsville AL",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CE14A47F-05F0-446C-9FCD-D853B99897E8/3-1x1.png",
+      "posterShape": "square",
+      "description": "WZDX FOX54 Huntsville AL - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kadn-fox-news-15-lafayette-la",
+      "type": "tv",
+      "name": "KADN (FOX) News 15 Lafayette LA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B27F5424-C7AA-448C-891E-FD5489DCB6B7/3-1x1.png",
+      "posterShape": "square",
+      "description": "KADN (FOX) News 15 Lafayette LA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-waow-wausau-wi",
+      "type": "tv",
+      "name": "WAOW Wausau WI",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/49EDCA6F-4FD2-47FB-84BB-A3771C5FE9CE/3-1x1.png",
+      "posterShape": "square",
+      "description": "WAOW Wausau WI - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kwes-newswest9-midland-odessa-tx",
+      "type": "tv",
+      "name": "KWES NewsWest9 Midland-Odessa TX",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E2C6E63F-DAE3-4070-923F-CB93FAE15456/3-1x1.png",
+      "posterShape": "square",
+      "description": "KWES NewsWest9 Midland-Odessa TX - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-koam-fox-news-now-joplin-mo",
+      "type": "tv",
+      "name": "KOAM (FOX) NEWS NOW Joplin MO",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A3200D29-05E6-4ED9-AD44-8BF177220A0B/3-1x1.png",
+      "posterShape": "square",
+      "description": "KOAM (FOX) NEWS NOW Joplin MO - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kidy-fox-west-texas-abilene-san-angelo-tx",
+      "type": "tv",
+      "name": "KIDY FOX West Texas Abilene-San Angelo TX",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B2780689-7FD9-420A-9E68-6319FC96356E/3-1x1.png",
+      "posterShape": "square",
+      "description": "KIDY FOX West Texas Abilene-San Angelo TX - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ksaz-fox-10-phoenix-az",
+      "type": "tv",
+      "name": "KSAZ FOX 10 Phoenix AZ",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/44EC97EC-FF9A-4BFC-9E82-F423299341FC/3-1x1.png",
+      "posterShape": "square",
+      "description": "KSAZ FOX 10 Phoenix AZ - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kusa-nbc-9news-denver-co",
+      "type": "tv",
+      "name": "KUSA NBC 9News Denver CO",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/83A27C45-DAC7-4BCE-BBD8-035342F7C3CC/3-1x1.png",
+      "posterShape": "square",
+      "description": "KUSA NBC 9News Denver CO - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kstu-fox13-news-salt-lake",
+      "type": "tv",
+      "name": "KSTU FOX13 News Salt Lake",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/98C37ABA-D656-4C2C-B075-00F93DDC7475/3-1x1.png",
+      "posterShape": "square",
+      "description": "KSTU FOX13 News Salt Lake - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ktvb-7-idaho-s-news-channel-bosie-id",
+      "type": "tv",
+      "name": "KTVB 7 Idaho's News Channel Bosie ID",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9902DAB6-7D3D-4951-A5B0-121D6F4F37D0/3-1x1.png",
+      "posterShape": "square",
+      "description": "KTVB 7 Idaho's News Channel Bosie ID - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kivi-idaho-news-6-boise",
+      "type": "tv",
+      "name": "KIVI Idaho News 6 Boise",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/31541811-1AEF-429D-A7B0-B5C99BD67D99/3-1x1.png",
+      "posterShape": "square",
+      "description": "KIVI Idaho News 6 Boise - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kifi-abc-local-news-8-idaho-falls-id",
+      "type": "tv",
+      "name": "KIFI ABC Local News 8 Idaho Falls ID",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2209886A-B6DF-4D26-8940-BEBF4195EB22/3-1x1.png",
+      "posterShape": "square",
+      "description": "KIFI ABC Local News 8 Idaho Falls ID - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kttv-fox-11-los-angeles-ca",
+      "type": "tv",
+      "name": "KTTV FOX 11 Los Angeles CA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/ECB034C5-9FB9-4719-86A6-B367EEC0F055/3-1x1.png",
+      "posterShape": "square",
+      "description": "KTTV FOX 11 Los Angeles CA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-ktvu-fox-2-san-francisco-ca",
+      "type": "tv",
+      "name": "KTVU FOX 2 San Francisco CA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D7907098-2451-4162-ABEA-D06D0288EA68/3-1x1.png",
+      "posterShape": "square",
+      "description": "KTVU FOX 2 San Francisco CA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kcpq-fox-13-seattle-wa",
+      "type": "tv",
+      "name": "KCPQ FOX 13 Seattle WA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/991C9E73-687C-4B95-AD6A-1ED471747562/3-1x1.png",
+      "posterShape": "square",
+      "description": "KCPQ FOX 13 Seattle WA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kgw-nbc-news-8-portland-or",
+      "type": "tv",
+      "name": "KGW NBC News 8 Portland OR",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CA8A62A2-B954-44F0-B9CF-96AB6417F5D7/3-1x1.png",
+      "posterShape": "square",
+      "description": "KGW NBC News 8 Portland OR - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kmph-fox-26-news-fresno-ca",
+      "type": "tv",
+      "name": "KMPH FOX 26 News Fresno CA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4CDF9FF1-C4B9-4DE1-8D35-22FFD7BEA383/3-1x1.png",
+      "posterShape": "square",
+      "description": "KMPH FOX 26 News Fresno CA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-keyt-abc-news-channel-3-santa-barbara-ca",
+      "type": "tv",
+      "name": "KEYT ABC News Channel 3 Santa Barbara CA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/92BB5F74-FB9A-4970-8538-7BE44BCB1222/3-1x1.png",
+      "posterShape": "square",
+      "description": "KEYT ABC News Channel 3 Santa Barbara CA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    },
+    {
+      "id": "news-kesq-abc-news-channel-3-palm-springs-ca",
+      "type": "tv",
+      "name": "KESQ ABC News Channel 3 Palm Springs CA",
+      "poster": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4270FD19-9BEB-411F-B326-E54703C45C2F/3-1x1.png",
+      "posterShape": "square",
+      "description": "KESQ ABC News Channel 3 Palm Springs CA - LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+      "genres": [
+        "LocalNow\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: More Cities",
+        "news"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "metas": [
+    {
+      "id": "sports-615-barney-and-friends",
+      "type": "tv",
+      "name": "615 Barney And Friends",
+      "poster": "https://image.xumo.com/v1/channels/channel/99993100/600x200.png?type=white_cropped",
+      "posterShape": "square",
+      "description": "615 Barney And Friends - Live TV",
+      "genres": [
+        "Live TV",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-arryadia-hd-tnt-1080p",
+      "type": "tv",
+      "name": "Arryadia HD TNT (1080p)",
+      "poster": "https://i.imgur.com/XjzK3gZ.png",
+      "posterShape": "square",
+      "description": "Arryadia HD TNT (1080p) - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-equidia-1080p",
+      "type": "tv",
+      "name": "Equidia (1080p)",
+      "poster": "https://i.imgur.com/QPpbRcZ.png",
+      "posterShape": "square",
+      "description": "Equidia (1080p) - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-pac-12-insider-1080p",
+      "type": "tv",
+      "name": "Pac 12 Insider (1080p)",
+      "poster": "https://i.imgur.com/736QREy.png",
+      "posterShape": "square",
+      "description": "Pac 12 Insider (1080p) - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-pac-12-insider",
+      "type": "tv",
+      "name": "Pac-12 Insider",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20250415T005925SQUARE.png",
+      "posterShape": "square",
+      "description": "Pac-12 Insider - Sports & Outdoors",
+      "genres": [
+        "Sports & Outdoors",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-team-usa-tv",
+      "type": "tv",
+      "name": "Team USA TV",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900007ZW_20251118T030639SQUARE.png",
+      "posterShape": "square",
+      "description": "Team USA TV - Sports & Outdoors",
+      "genres": [
+        "Sports & Outdoors",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-bein-sports-usa-720p",
+      "type": "tv",
+      "name": "beIN Sports USA (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
+      "posterShape": "square",
+      "description": "beIN Sports USA (720p) - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-midpen-media-center-youth-education-and-sports-channel-28-720p",
+      "type": "tv",
+      "name": "Midpen Media Center Youth Education and Sports Channel 28 (720p)",
+      "poster": "https://i.imgur.com/RPJiolQ.png",
+      "posterShape": "square",
+      "description": "Midpen Media Center Youth Education and Sports Channel 28 (720p) - Education",
+      "genres": [
+        "Education",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-pbr-ridepass-720p",
+      "type": "tv",
+      "name": "PBR RidePass (720p)",
+      "poster": "https://i.imgur.com/gUxH97E.png",
+      "posterShape": "square",
+      "description": "PBR RidePass (720p) - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-pbr-ridepass",
+      "type": "tv",
+      "name": "PBR RidePass",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951388/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "PBR RidePass - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Sports",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-usa-network-720p",
+      "type": "tv",
+      "name": "USA Network (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+      "posterShape": "square",
+      "description": "USA Network (720p) - Comedy;Movies;Series;Sports",
+      "genres": [
+        "Comedy;Movies;Series;Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-meridiano-tv-576p",
+      "type": "tv",
+      "name": "Meridiano TV (576p)",
+      "poster": "https://i.imgur.com/I6gsUqD.png",
+      "posterShape": "square",
+      "description": "Meridiano TV (576p) - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-outside-tv",
+      "type": "tv",
+      "name": "Outside TV",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20250325T014938SQUARE.png",
+      "posterShape": "square",
+      "description": "Outside TV - Sports & Outdoors",
+      "genres": [
+        "Sports & Outdoors",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-sportsgrid",
+      "type": "tv",
+      "name": "SportsGrid",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png",
+      "posterShape": "square",
+      "description": "SportsGrid - Sports & Outdoors",
+      "genres": [
+        "Sports & Outdoors",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-sportsgrid",
+      "type": "tv",
+      "name": "SportsGrid",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png",
+      "posterShape": "square",
+      "description": "SportsGrid - United States",
+      "genres": [
+        "United States",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-sportsgrid",
+      "type": "tv",
+      "name": "SportsGrid",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/b6c3266e-3f14-426d-b9c8-f419738b1eea/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png",
+      "posterShape": "square",
+      "description": "SportsGrid - Canada",
+      "genres": [
+        "Canada",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-pbr-ride-pass",
+      "type": "tv",
+      "name": "PBR: Ride Pass",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png",
+      "posterShape": "square",
+      "description": "PBR: Ride Pass - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-real-madrid",
+      "type": "tv",
+      "name": "Real Madrid",
+      "poster": "https://canvas-lb.tubitv.com/opts/0eZIOEWFj-zM3A==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "Real Madrid - Sports On Now",
+      "genres": [
+        "Sports On Now",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-real-madrid-tv",
+      "type": "tv",
+      "name": "Real Madrid TV",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951381/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Real Madrid TV - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Sports",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-447-sportsgrid",
+      "type": "tv",
+      "name": "447 SportsGrid",
+      "poster": "https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250617/channel_600x200_363fd309-7f49-4b00-9e93-3ca3bfe22ed9.png",
+      "posterShape": "square",
+      "description": "447 SportsGrid - Live TV",
+      "genres": [
+        "Live TV",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-omide-iran",
+      "type": "tv",
+      "name": "Omide Iran",
+      "poster": "https://i.imgur.com/CeMf68L.png",
+      "posterShape": "square",
+      "description": "Omide Iran - Entertainment",
+      "genres": [
+        "Entertainment",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-tyc-sports-usa",
+      "type": "tv",
+      "name": "TyC Sports USA",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+      "posterShape": "square",
+      "description": "TyC Sports USA - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-sports-grid",
+      "type": "tv",
+      "name": "Sports Grid",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Sports Grid - Live TV",
+      "genres": [
+        "Live TV",
+        "sports"
+      ]
+    },
+    {
+      "id": "sports-real-madrid-tv-english-geo-blocked",
+      "type": "tv",
+      "name": "Real Madrid TV English [Geo-blocked]",
+      "poster": "https://i.imgur.com/5pMo7dL.png",
+      "posterShape": "square",
+      "description": "Real Madrid TV English [Geo-blocked] - Sports",
+      "genres": [
+        "Sports",
+        "sports"
+      ]
+    }
+  ]
+}

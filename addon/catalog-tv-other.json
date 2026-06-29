@@ -1,0 +1,6052 @@
+{
+  "metas": [
+    {
+      "id": "other-autentic-history-1080p",
+      "type": "tv",
+      "name": "Autentic History (1080p)",
+      "poster": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+      "posterShape": "square",
+      "description": "Autentic History (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-720p",
+      "type": "tv",
+      "name": "CNBC (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
+      "posterShape": "square",
+      "description": "CNBC (720p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc",
+      "type": "tv",
+      "name": "CNBC \u24ce",
+      "poster": "https://i.imgur.com/BTasyOy.png",
+      "posterShape": "square",
+      "description": "CNBC \u24ce - USA",
+      "genres": [
+        "USA",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-arabiya-1080p",
+      "type": "tv",
+      "name": "CNBC Arabiya (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png",
+      "posterShape": "square",
+      "description": "CNBC Arabiya (1080p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-awaaz-1080p",
+      "type": "tv",
+      "name": "CNBC Awaaz (1080p)",
+      "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png",
+      "posterShape": "square",
+      "description": "CNBC Awaaz (1080p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-bajar-1080p",
+      "type": "tv",
+      "name": "CNBC Bajar (1080p)",
+      "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png",
+      "posterShape": "square",
+      "description": "CNBC Bajar (1080p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-tv18-1080p",
+      "type": "tv",
+      "name": "CNBC TV18 (1080p)",
+      "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png",
+      "posterShape": "square",
+      "description": "CNBC TV18 (1080p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-tv18-prime-hd-1080p",
+      "type": "tv",
+      "name": "CNBC TV18 Prime HD (1080p)",
+      "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png",
+      "posterShape": "square",
+      "description": "CNBC TV18 Prime HD (1080p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cold-case-files-1080p",
+      "type": "tv",
+      "name": "Cold Case Files (1080p)",
+      "poster": "https://i.imgur.com/mowSfj6.png",
+      "posterShape": "square",
+      "description": "Cold Case Files (1080p) - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cold-case-files",
+      "type": "tv",
+      "name": "Cold Case Files",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20251104T004610SQUARE.png",
+      "posterShape": "square",
+      "description": "Cold Case Files - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cold-case-files",
+      "type": "tv",
+      "name": "Cold Case Files",
+      "poster": "https://canvas-lb.tubitv.com/opts/2sFOpuolp9lAjA==/1741bc33-42d6-4044-8584-c7875bba243c/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "Cold Case Files - True Crime",
+      "genres": [
+        "True Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-1080p",
+      "type": "tv",
+      "name": "Comedy Central (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+      "posterShape": "square",
+      "description": "Comedy Central (1080p) - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-1080p",
+      "type": "tv",
+      "name": "Comedy Central (1080p)",
+      "poster": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Comedy Central (1080p) - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-720p",
+      "type": "tv",
+      "name": "Comedy Central (720p)",
+      "poster": "https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Comedy Central (720p) - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-latin-america-1080p",
+      "type": "tv",
+      "name": "Comedy Central Latin America (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+      "posterShape": "square",
+      "description": "Comedy Central Latin America (1080p) - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-court-tv-1080p",
+      "type": "tv",
+      "name": "Court TV (1080p)",
+      "poster": "https://i.imgur.com/qkfe3o9.png",
+      "posterShape": "square",
+      "description": "Court TV (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-court-tv",
+      "type": "tv",
+      "name": "Court TV",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20250513T012620SQUARE.png",
+      "posterShape": "square",
+      "description": "Court TV - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fx-1080p",
+      "type": "tv",
+      "name": "FX (1080p)",
+      "poster": "https://i.imgur.com/ZScwrpi.png",
+      "posterShape": "square",
+      "description": "FX (1080p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fx-1080p-geo-blocked",
+      "type": "tv",
+      "name": "FX (1080p) [Geo-blocked]",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+      "posterShape": "square",
+      "description": "FX (1080p) [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fx-tv-1",
+      "type": "tv",
+      "name": "FX TV 1",
+      "poster": "",
+      "posterShape": "square",
+      "description": "FX TV 1 - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fxx-1080p",
+      "type": "tv",
+      "name": "FXX (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
+      "posterShape": "square",
+      "description": "FXX (1080p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-h2o-friends-1080p",
+      "type": "tv",
+      "name": "H2O & Friends (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "H2O & Friends (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hallmark-channel-1080p",
+      "type": "tv",
+      "name": "Hallmark Channel (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
+      "posterShape": "square",
+      "description": "Hallmark Channel (1080p) - Family",
+      "genres": [
+        "Family",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hgtv-1080p",
+      "type": "tv",
+      "name": "HGTV (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
+      "posterShape": "square",
+      "description": "HGTV (1080p) - Lifestyle",
+      "genres": [
+        "Lifestyle",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-2-latin-america-1080p",
+      "type": "tv",
+      "name": "History 2 Latin America (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+      "posterShape": "square",
+      "description": "History 2 Latin America (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-warfare-now-1080p",
+      "type": "tv",
+      "name": "History & Warfare Now (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "History & Warfare Now (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-science-history-warfare-now",
+      "type": "tv",
+      "name": "History & Science\",History & Warfare Now",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200009JI_20250401T004831SQUARE.png",
+      "posterShape": "square",
+      "description": "History & Science\",History & Warfare Now - Nature, History & Science",
+      "genres": [
+        "Nature, History & Science",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-and-warfare-now-1080p",
+      "type": "tv",
+      "name": "History and Warfare Now (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "History and Warfare Now (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-and-warfare-now-1080p",
+      "type": "tv",
+      "name": "History and Warfare Now (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "History and Warfare Now (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-channel-1080p",
+      "type": "tv",
+      "name": "History Channel (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+      "posterShape": "square",
+      "description": "History Channel (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-576p",
+      "type": "tv",
+      "name": "History (576p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+      "posterShape": "square",
+      "description": "History (576p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-science-history-365",
+      "type": "tv",
+      "name": "History & Science\",History 365",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20250729T010435SQUARE.png",
+      "posterShape": "square",
+      "description": "History & Science\",History 365 - Nature, History & Science",
+      "genres": [
+        "Nature, History & Science",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-hit-1080p",
+      "type": "tv",
+      "name": "History Hit (1080p)",
+      "poster": "https://i.imgur.com/ulHoqlP.png",
+      "posterShape": "square",
+      "description": "History Hit (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-hit",
+      "type": "tv",
+      "name": "History Hit",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png",
+      "posterShape": "square",
+      "description": "History Hit - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-hit",
+      "type": "tv",
+      "name": "History Hit",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png",
+      "posterShape": "square",
+      "description": "History Hit - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-hunters-1080p",
+      "type": "tv",
+      "name": "History Hunters (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "History Hunters (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-hunters-1080p",
+      "type": "tv",
+      "name": "History Hunters (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "History Hunters (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-hunters",
+      "type": "tv",
+      "name": "HISTORY HUNTERS",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/da6abce8-965d-4f95-a300-8a1c788558d1/History-Hunters_Logo_Dark_-_Greta_WilliamsRDX.png",
+      "posterShape": "square",
+      "description": "HISTORY HUNTERS - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-latin-america-1080p",
+      "type": "tv",
+      "name": "History Latin America (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+      "posterShape": "square",
+      "description": "History Latin America (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-tv18-hd-1080p",
+      "type": "tv",
+      "name": "History TV18 HD (1080p)",
+      "poster": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+      "posterShape": "square",
+      "description": "History TV18 HD (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-tv18-576p",
+      "type": "tv",
+      "name": "History TV18 (576p)",
+      "poster": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
+      "posterShape": "square",
+      "description": "History TV18 (576p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ion-mystery-1080p",
+      "type": "tv",
+      "name": "ION Mystery (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "ION Mystery (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ion-mystery-1080p-geo-blocked",
+      "type": "tv",
+      "name": "ION Mystery (1080p) [Geo-blocked]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "ION Mystery (1080p) [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ion-mystery",
+      "type": "tv",
+      "name": "ION Mystery",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20251110T235100SQUARE.png",
+      "posterShape": "square",
+      "description": "ION Mystery - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pbs-history-1080p",
+      "type": "tv",
+      "name": "PBS History (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "PBS History (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pbs-history-1080p",
+      "type": "tv",
+      "name": "PBS History (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "PBS History (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pbs-history",
+      "type": "tv",
+      "name": "PBS History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/578b3975-094b-41e3-b20c-d41cb84afd30/PBS_History_Logo_Stacked_Dark_Backgrounds_1500x1000_-_Antonio_de_la_Torre__Tony_.png",
+      "posterShape": "square",
+      "description": "PBS History - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-wfxt-dt2-1080p",
+      "type": "tv",
+      "name": "WFXT-DT2 (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png",
+      "posterShape": "square",
+      "description": "WFXT-DT2 (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-warfare",
+      "type": "tv",
+      "name": "History & Warfare",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/d7d8dd5f-8897-4822-a96f-358a616f40f5/Plex_HistoryWarfare_Logo_DarkBackground_.png",
+      "posterShape": "square",
+      "description": "History & Warfare - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-warfare",
+      "type": "tv",
+      "name": "History & Warfare",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/cd331b0e-4fa8-4771-a9be-d74565549d45/Plex_HistoryWarfare_Logo_DarkBackground_.png",
+      "posterShape": "square",
+      "description": "History & Warfare - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-warfare",
+      "type": "tv",
+      "name": "History & Warfare",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/cd331b0e-4fa8-4771-a9be-d74565549d45/Plex_HistoryWarfare_Logo_DarkBackground_.png",
+      "posterShape": "square",
+      "description": "History & Warfare - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-court-tv-legendary-trials",
+      "type": "tv",
+      "name": "Court TV Legendary Trials",
+      "poster": "https://provider-static.plex.tv/4/epg/channels/logos/gracenote/44b8c938b34238f227a4030123f8dfcf.png",
+      "posterShape": "square",
+      "description": "Court TV Legendary Trials - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-court-tv-legendary-trials",
+      "type": "tv",
+      "name": "Court TV Legendary Trials",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/586bd3d19f6e4b7a5cf3458722984b82/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1753726975635_25-CTV-1681835828-Court-TV-Legendary-Trials---OTT-CTV---Legendary-Trials-Logos---Roku-Channel-Launch_CourtTVLT_Roku_HUD1.png",
+      "posterShape": "square",
+      "description": "Court TV Legendary Trials - Law",
+      "genres": [
+        "Law",
+        "other"
+      ]
+    },
+    {
+      "id": "other-court-tv-legendary-trials",
+      "type": "tv",
+      "name": "Court TV Legendary Trials",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951233/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Court TV Legendary Trials - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Crime TV",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Crime TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-alone-by-history-720p",
+      "type": "tv",
+      "name": "Alone By History (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Alone By History (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-alone-by-history",
+      "type": "tv",
+      "name": "Alone By History",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20250520T211337SQUARE.png",
+      "posterShape": "square",
+      "description": "Alone By History - Reality Competition",
+      "genres": [
+        "Reality Competition",
+        "other"
+      ]
+    },
+    {
+      "id": "other-barney-and-friends-720p",
+      "type": "tv",
+      "name": "Barney and Friends (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Barney and Friends (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-asia-720p",
+      "type": "tv",
+      "name": "CNBC Asia (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
+      "posterShape": "square",
+      "description": "CNBC Asia (720p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-indonesia-720p",
+      "type": "tv",
+      "name": "CNBC Indonesia (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png",
+      "posterShape": "square",
+      "description": "CNBC Indonesia (720p) - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-indonesia",
+      "type": "tv",
+      "name": "CNBC Indonesia",
+      "poster": "https://imgur.com/ie2zSTY",
+      "posterShape": "square",
+      "description": "CNBC Indonesia - Indonesia",
+      "genres": [
+        "Indonesia",
+        "other"
+      ]
+    },
+    {
+      "id": "other-modern-marvels-by-history-720p",
+      "type": "tv",
+      "name": "Modern Marvels by HISTORY (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Modern Marvels by HISTORY (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-modern-marvels-by-history",
+      "type": "tv",
+      "name": "Modern Marvels by History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/aaf9646c-8418-4756-af50-9bd7eac5ef28/Modern_Marvels_logo_wht_text_color.png",
+      "posterShape": "square",
+      "description": "Modern Marvels by History - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-radio-fx-net-720p",
+      "type": "tv",
+      "name": "Radio Fx Net (720p)",
+      "poster": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
+      "posterShape": "square",
+      "description": "Radio Fx Net (720p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-times-brasil-cnbc-720p",
+      "type": "tv",
+      "name": "Times Brasil | CNBC (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Times Brasil | CNBC (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-true-history-channel-720p",
+      "type": "tv",
+      "name": "True History Channel (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "True History Channel (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-true-history",
+      "type": "tv",
+      "name": "True History",
+      "poster": "https://images.vizio.com/v4/btv/1/1646848013/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "True History - HISTORY + DOCS",
+      "genres": [
+        "HISTORY + DOCS",
+        "other"
+      ]
+    },
+    {
+      "id": "other-true-history",
+      "type": "tv",
+      "name": "True History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png",
+      "posterShape": "square",
+      "description": "True History - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-viasat-history-720p",
+      "type": "tv",
+      "name": "Viasat History (720p)",
+      "poster": "https://i.imgur.com/wRP9XA7.png",
+      "posterShape": "square",
+      "description": "Viasat History (720p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-viasat-history-not-24-7",
+      "type": "tv",
+      "name": "Viasat History [Not 24/7]",
+      "poster": "https://i.imgur.com/wRP9XA7.png",
+      "posterShape": "square",
+      "description": "Viasat History [Not 24/7] - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-xtreme-outdoor-presented-by-history-720p",
+      "type": "tv",
+      "name": "Xtreme Outdoor Presented by HISTORY (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Xtreme Outdoor Presented by HISTORY (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-xtreme-outdoor-presented-by-history",
+      "type": "tv",
+      "name": "Xtreme Outdoor Presented by HISTORY",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20250602T231449SQUARE.png",
+      "posterShape": "square",
+      "description": "Xtreme Outdoor Presented by HISTORY - Reality Competition",
+      "genres": [
+        "Reality Competition",
+        "other"
+      ]
+    },
+    {
+      "id": "other-american-pickers-by-history-1080p-geo-blocked",
+      "type": "tv",
+      "name": "American Pickers by History (1080p) [Geo-blocked]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "American Pickers by History (1080p) [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-american-pickers-by-history",
+      "type": "tv",
+      "name": "American Pickers by History",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20250526T230401SQUARE.png",
+      "posterShape": "square",
+      "description": "American Pickers by History - Reality Competition",
+      "genres": [
+        "Reality Competition",
+        "other"
+      ]
+    },
+    {
+      "id": "other-class-cnbc-1080p-geo-blocked",
+      "type": "tv",
+      "name": "Class CNBC (1080p) [Geo-blocked]",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png",
+      "posterShape": "square",
+      "description": "Class CNBC (1080p) [Geo-blocked] - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-365-1080p-geo-blocked",
+      "type": "tv",
+      "name": "History 365 (1080p) [Geo-blocked]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "History 365 (1080p) [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-pluto-tv",
+      "type": "tv",
+      "name": "Comedy Central Pluto TV",
+      "poster": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Comedy Central Pluto TV - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-pluto-tv",
+      "type": "tv",
+      "name": "Comedy Central Pluto TV",
+      "poster": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Comedy Central Pluto TV - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-blue-bloods",
+      "type": "tv",
+      "name": "Blue Bloods",
+      "poster": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Blue Bloods - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-blue-bloods",
+      "type": "tv",
+      "name": "Blue Bloods",
+      "poster": "https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg",
+      "posterShape": "square",
+      "description": "Blue Bloods - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-en-espa-ol",
+      "type": "tv",
+      "name": "Comedy Central en espa\u00f1ol",
+      "poster": "https://i.imgur.com/6xTD3G8.png",
+      "posterShape": "square",
+      "description": "Comedy Central en espa\u00f1ol - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-history",
+      "type": "tv",
+      "name": "Pluto TV History",
+      "poster": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV History - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-history",
+      "type": "tv",
+      "name": "Pluto TV History",
+      "poster": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV History - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-strawberry-shortcake-and-friends",
+      "type": "tv",
+      "name": "Strawberry Shortcake and Friends",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Strawberry Shortcake and Friends - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-xtreme-outdoor-by-history",
+      "type": "tv",
+      "name": "Xtreme Outdoor by HISTORY",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/234991cc-10ed-4998-9713-fbe9faf3d09a/Xtreme_Outdoor_channel_logo_4c_2250x1500_-_Laura_ConnollyRDX.png",
+      "posterShape": "square",
+      "description": "Xtreme Outdoor by HISTORY - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-xtreme-outdoor-by-history",
+      "type": "tv",
+      "name": "Xtreme Outdoor By History",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242082/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Xtreme Outdoor By History - TV",
+      "genres": [
+        "TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cold-case-files-by-a-e",
+      "type": "tv",
+      "name": "Cold Case Files by A&E",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/397a22d3-edbe-4dab-830e-030e4d2b7680/Cold_Case_Files_channel_logo_4c_1500x1000.png",
+      "posterShape": "square",
+      "description": "Cold Case Files by A&E - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cold-case-files-by-a-e",
+      "type": "tv",
+      "name": "Cold Case Files by A&E",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242044/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Cold Case Files by A&E - CRIME",
+      "genres": [
+        "CRIME",
+        "other"
+      ]
+    },
+    {
+      "id": "other-forensic-files",
+      "type": "tv",
+      "name": "Forensic Files",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20251202T005853SQUARE.png",
+      "posterShape": "square",
+      "description": "Forensic Files - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hallmark-en-espa-ol",
+      "type": "tv",
+      "name": "Hallmark en Espa\u00f1ol",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300001GM_20241008T212643SQUARE.png",
+      "posterShape": "square",
+      "description": "Hallmark en Espa\u00f1ol - Latino",
+      "genres": [
+        "Latino",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-science-modern-marvels-presented-by-history",
+      "type": "tv",
+      "name": "History & Science\",Modern Marvels Presented by History",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200025DO_20250805T005829SQUARE.png",
+      "posterShape": "square",
+      "description": "History & Science\",Modern Marvels Presented by History - Nature, History & Science",
+      "genres": [
+        "Nature, History & Science",
+        "other"
+      ]
+    },
+    {
+      "id": "other-modern-marvels-presented-by-history-720p-geo-blocked",
+      "type": "tv",
+      "name": "Modern Marvels Presented by History (720p) [Geo-blocked]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Modern Marvels Presented by History (720p) [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-modern-marvels-presented-by-history",
+      "type": "tv",
+      "name": "Modern Marvels Presented by History",
+      "poster": "https://images.vizio.com/v4/btv/1/1725491702/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Modern Marvels Presented by History - HISTORY + DOCS",
+      "genres": [
+        "HISTORY + DOCS",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ax-men-by-history",
+      "type": "tv",
+      "name": "Ax Men by History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/7b641c90-6955-4fcd-9c0d-5ca04dfa18d8/Ax_Men_4Color_Logo_RDX.png",
+      "posterShape": "square",
+      "description": "Ax Men by History - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-deal-zone-presented-by-history",
+      "type": "tv",
+      "name": "Deal Zone Presented By History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/cfcbbde8-f58b-48d0-bcd4-d5165a737d4b/DealZone_channel_logo_4c_RDEX.png",
+      "posterShape": "square",
+      "description": "Deal Zone Presented By History - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-military-heroes-presented-by-history",
+      "type": "tv",
+      "name": "Military Heroes Presented By History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png",
+      "posterShape": "square",
+      "description": "Military Heroes Presented By History - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-modern-innovations-by-history",
+      "type": "tv",
+      "name": "Modern Innovations by History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png",
+      "posterShape": "square",
+      "description": "Modern Innovations by History - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-modern-innovations-by-history",
+      "type": "tv",
+      "name": "Modern Innovations by History",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/cd2b8b03da52da0868e63927b54f9e7e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747059823625_Modern_Innovations_by_History_General_Market_Launch_HUD.png",
+      "posterShape": "square",
+      "description": "Modern Innovations by History - Environment",
+      "genres": [
+        "Environment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-the-fbi-files",
+      "type": "tv",
+      "name": "The FBI Files",
+      "poster": "https://canvas-lb.tubitv.com/opts/b_lV2vB1BiPx6A==/56b0a95e-2750-408d-9059-2c4c170e7dca/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "The FBI Files - True Crime",
+      "genres": [
+        "True Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-torque-presented-by-history",
+      "type": "tv",
+      "name": "Torque Presented By History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/58e9d900-596f-4be9-bb02-8e9d9b8c278d/Torque_channel_logo_4c_2250x1500_-_Laura_ConnollyRDX.png",
+      "posterShape": "square",
+      "description": "Torque Presented By History - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-love-crime-history",
+      "type": "tv",
+      "name": "Love Crime & History",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/6f2c8bea-d8e2-4d2f-b72d-af7539f1f435/Logo_Love_Crime_History_1500x1000_DarkBackground_-_David_Mar__n.png",
+      "posterShape": "square",
+      "description": "Love Crime & History - France",
+      "genres": [
+        "France",
+        "other"
+      ]
+    },
+    {
+      "id": "other-classic-car-auctions-by-history",
+      "type": "tv",
+      "name": "Classic Car Auctions by History",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f862a66d14ccfdde7ba6a14ef412d033/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402638636_Classic_Car_Auctions_By_HISTORY_HUD_Center_Align_Light_Gray_260x147.png",
+      "posterShape": "square",
+      "description": "Classic Car Auctions by History - Auction",
+      "genres": [
+        "Auction",
+        "other"
+      ]
+    },
+    {
+      "id": "other-classic-car-auctions-by-history",
+      "type": "tv",
+      "name": "Classic Car Auctions by History",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951486/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Classic Car Auctions by History - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Automotive",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Automotive",
+        "other"
+      ]
+    },
+    {
+      "id": "other-the-yorkshire-vet-friends",
+      "type": "tv",
+      "name": "The Yorkshire Vet & Friends",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951347/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "The Yorkshire Vet & Friends - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Animals & Nature",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Animals & Nature",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ice-road-truckers-by-history",
+      "type": "tv",
+      "name": "Ice Road Truckers by History",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951484/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Ice Road Truckers by History - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Reality TV",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Reality TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-311-xtreme-outdoor-presented-by-history",
+      "type": "tv",
+      "name": "311 Xtreme Outdoor Presented by HISTORY",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/590-LG-Logo-PNG-100x100_v2.png",
+      "posterShape": "square",
+      "description": "311 Xtreme Outdoor Presented by HISTORY - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-370-ion-mystery",
+      "type": "tv",
+      "name": "370 ION Mystery",
+      "poster": "http://img.platform.wurl.dev/channel/1206/lg/4adf47/LG-Logo-PNG-100x100_v2.png",
+      "posterShape": "square",
+      "description": "370 ION Mystery - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-388-cold-case-files",
+      "type": "tv",
+      "name": "388 Cold Case Files",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png",
+      "posterShape": "square",
+      "description": "388 Cold Case Files - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-399-court-tv",
+      "type": "tv",
+      "name": "399 Court TV",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png",
+      "posterShape": "square",
+      "description": "399 Court TV - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-627-garfield-and-friends",
+      "type": "tv",
+      "name": "627 Garfield and Friends",
+      "poster": "https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+      "posterShape": "square",
+      "description": "627 Garfield and Friends - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-barney-friends",
+      "type": "tv",
+      "name": "Barney & Friends",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Barney & Friends - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-beyond-history",
+      "type": "tv",
+      "name": "Beyond History",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Beyond History - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-chappelle-s-show",
+      "type": "tv",
+      "name": "Chappelle's Show",
+      "poster": "https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Chappelle's Show - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-chappelle-s-show",
+      "type": "tv",
+      "name": "Chappelle's Show",
+      "poster": "https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Chappelle's Show - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-chappelle-s-show",
+      "type": "tv",
+      "name": "Chappelle's Show",
+      "poster": "https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Chappelle's Show - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-e",
+      "type": "tv",
+      "name": "CNBC-e",
+      "poster": "https://s.cnbce.com/dist/images/logo-nav.png",
+      "posterShape": "square",
+      "description": "CNBC-e - Business;Series",
+      "genres": [
+        "Business;Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-animation",
+      "type": "tv",
+      "name": "Comedy Central Animation",
+      "poster": "https://i.imgur.com/uENch0P.png",
+      "posterShape": "square",
+      "description": "Comedy Central Animation - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-roast",
+      "type": "tv",
+      "name": "Comedy Central Roast",
+      "poster": "https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Comedy Central Roast - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-south-park",
+      "type": "tv",
+      "name": "Comedy Central South Park",
+      "poster": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
+      "posterShape": "square",
+      "description": "Comedy Central South Park - Animation;Comedy",
+      "genres": [
+        "Animation;Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-south-park",
+      "type": "tv",
+      "name": "Comedy Central South Park",
+      "poster": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
+      "posterShape": "square",
+      "description": "Comedy Central South Park - Animation;Comedy",
+      "genres": [
+        "Animation;Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-comedy-central-south-park",
+      "type": "tv",
+      "name": "Comedy Central South Park",
+      "poster": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
+      "posterShape": "square",
+      "description": "Comedy Central South Park - Animation;Comedy",
+      "genres": [
+        "Animation;Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fbi-files",
+      "type": "tv",
+      "name": "FBI Files",
+      "poster": "https://i.imgur.com/vzYDSLo.png",
+      "posterShape": "square",
+      "description": "FBI Files - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-history-asia",
+      "type": "tv",
+      "name": "History Asia",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+      "posterShape": "square",
+      "description": "History Asia - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-king-of-queens",
+      "type": "tv",
+      "name": "King of Queens",
+      "poster": "",
+      "posterShape": "square",
+      "description": "King of Queens - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tvs-hollywood-history-582p",
+      "type": "tv",
+      "name": "TVS Hollywood History (582p)",
+      "poster": "https://i.imgur.com/QtQGyMS.png",
+      "posterShape": "square",
+      "description": "TVS Hollywood History (582p) - Classic",
+      "genres": [
+        "Classic",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hgtv-home-garden-tv",
+      "type": "tv",
+      "name": "HGTV \u2013 Home & Garden Tv",
+      "poster": "https://i.imgur.com/emLNC0U.png",
+      "posterShape": "square",
+      "description": "HGTV \u2013 Home & Garden Tv - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-europe",
+      "type": "tv",
+      "name": "CNBC Europe",
+      "poster": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png",
+      "posterShape": "square",
+      "description": "CNBC Europe - Business",
+      "genres": [
+        "Business",
+        "other"
+      ]
+    },
+    {
+      "id": "other-forensic-files-pluto-tv",
+      "type": "tv",
+      "name": "Forensic Files \u2013 Pluto TV",
+      "poster": "https://i.imgur.com/hF5maH7.png",
+      "posterShape": "square",
+      "description": "Forensic Files \u2013 Pluto TV - VOD Italy",
+      "genres": [
+        "VOD Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fx-life-not-24-7",
+      "type": "tv",
+      "name": "FX Life [Not 24/7]",
+      "poster": "https://i.imgur.com/VLv4r50.png",
+      "posterShape": "square",
+      "description": "FX Life [Not 24/7] - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cnbc-tv-18-geo",
+      "type": "tv",
+      "name": "CNBC TV 18 Geo",
+      "poster": "",
+      "posterShape": "square",
+      "description": "CNBC TV 18 Geo - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-love-crime-and-history",
+      "type": "tv",
+      "name": "Love Crime and History",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Love Crime and History - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-love-crime-and-history-spain",
+      "type": "tv",
+      "name": "Love Crime and History Spain",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Love Crime and History Spain - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hallmark-en-espanol-geo-blocked",
+      "type": "tv",
+      "name": "Hallmark en Espanol [Geo-blocked]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Hallmark en Espanol [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-videotelecarnia",
+      "type": "tv",
+      "name": "Videotelecarnia",
+      "poster": "https://i.imgur.com/r4K9JHW.png",
+      "posterShape": "square",
+      "description": "Videotelecarnia - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-vidas-extremas",
+      "type": "tv",
+      "name": "Vidas Extremas",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Vidas Extremas - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-storage-wars-by-a-e",
+      "type": "tv",
+      "name": "Storage Wars by A&E",
+      "poster": "https://provider-static.plex.tv/c/epg/channels/logos/gracenote/ccc7e00184dfa20eca22c08fa48e10a8.png",
+      "posterShape": "square",
+      "description": "Storage Wars by A&E - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-storage-wars-by-a-e-720p",
+      "type": "tv",
+      "name": "Storage Wars by A&E (720p)",
+      "poster": "https://i.imgur.com/mnHRLlg.png",
+      "posterShape": "square",
+      "description": "Storage Wars by A&E (720p) - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-10-bold-adelaide-1080p",
+      "type": "tv",
+      "name": "10 Bold Adelaide (1080p)",
+      "poster": "https://i.imgur.com/2xglh33.png",
+      "posterShape": "square",
+      "description": "10 Bold Adelaide (1080p) - Lifestyle;Relax",
+      "genres": [
+        "Lifestyle;Relax",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-latin-america-1080p",
+      "type": "tv",
+      "name": "A&E Latin America (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+      "posterShape": "square",
+      "description": "A&E Latin America (1080p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-1080p",
+      "type": "tv",
+      "name": "AMC (1080p)",
+      "poster": "https://i.imgur.com/yj8RNnG.png",
+      "posterShape": "square",
+      "description": "AMC (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-cupid-1080p",
+      "type": "tv",
+      "name": "AMC Cupid (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "AMC Cupid (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-reality-1080p",
+      "type": "tv",
+      "name": "AMC Reality (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "AMC Reality (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-america-s-funniest-home-videos-1080p",
+      "type": "tv",
+      "name": "America\u2019s Funniest Home Videos (1080p)",
+      "poster": "https://i.imgur.com/TOB9vmW.png",
+      "posterShape": "square",
+      "description": "America\u2019s Funniest Home Videos (1080p) - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-america-s-funniest-home-videos-720p",
+      "type": "tv",
+      "name": "America's Funniest Home Videos (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "America's Funniest Home Videos (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-america-s-funniest-home-videos-720p",
+      "type": "tv",
+      "name": "America's Funniest Home Videos (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "America's Funniest Home Videos (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-american-idol-1080p",
+      "type": "tv",
+      "name": "American Idol (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "American Idol (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-asharq-discovery-1080p",
+      "type": "tv",
+      "name": "Asharq Discovery (1080p)",
+      "poster": "https://i.imgur.com/Czxi7yk.png",
+      "posterShape": "square",
+      "description": "Asharq Discovery (1080p) - Documentary;Education",
+      "genres": [
+        "Documentary;Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bbc-one-east-midlands-1080p",
+      "type": "tv",
+      "name": "BBC One East Midlands (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "BBC One East Midlands (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bbc-one-east-midlands-1080p-hevc-geo-blocked",
+      "type": "tv",
+      "name": "BBC One East Midlands (1080p) (HEVC) [Geo-blocked]",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "BBC One East Midlands (1080p) (HEVC) [Geo-blocked] - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bbc-one-west-midlands-1080p",
+      "type": "tv",
+      "name": "BBC One West Midlands (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+      "posterShape": "square",
+      "description": "BBC One West Midlands (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bridge-deluxe-1080p",
+      "type": "tv",
+      "name": "BRIDGE Deluxe (1080p)",
+      "poster": "https://i.imgur.com/EazL8w7.png",
+      "posterShape": "square",
+      "description": "BRIDGE Deluxe (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-dazn-ringside-1080p",
+      "type": "tv",
+      "name": "Dazn Ringside (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Dazn Ringside (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-dazn-ringside",
+      "type": "tv",
+      "name": "DAZN Ringside",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/a80e755e-06ee-438a-9b24-628f0ebb1c81/PLEX-Channel_Logos-1500x1000WHITE.png",
+      "posterShape": "square",
+      "description": "DAZN Ringside - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-dokusat-1080p",
+      "type": "tv",
+      "name": "Dokusat (1080p)",
+      "poster": "https://i.imgur.com/GadfTwF.png",
+      "posterShape": "square",
+      "description": "Dokusat (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-don-t-tell-the-bride-1080p",
+      "type": "tv",
+      "name": "Don't Tell The Bride (1080p)",
+      "poster": "https://i.imgur.com/h0bc3Fa.png",
+      "posterShape": "square",
+      "description": "Don't Tell The Bride (1080p) - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-don-t-tell-the-bride",
+      "type": "tv",
+      "name": "Don't Tell The Bride",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/dd9af438-b087-47c9-bd15-d7900fffb640/Plex_LogoWhite_-_Simon_Tuquabo.png",
+      "posterShape": "square",
+      "description": "Don't Tell The Bride - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-don-t-tell-the-bride",
+      "type": "tv",
+      "name": "Don't Tell The Bride",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/dd9af438-b087-47c9-bd15-d7900fffb640/Plex_LogoWhite_-_Simon_Tuquabo.png",
+      "posterShape": "square",
+      "description": "Don't Tell The Bride - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-equidia-racing-mag-1080p",
+      "type": "tv",
+      "name": "Equidia Racing Mag (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Equidia Racing Mag (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-estilo-y-vida-1080p",
+      "type": "tv",
+      "name": "Estilo y Vida (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Estilo y Vida (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-evidence-of-evil-1080p",
+      "type": "tv",
+      "name": "Evidence of Evil (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Evidence of Evil (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-evidence-of-evil-720p",
+      "type": "tv",
+      "name": "Evidence of Evil (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Evidence of Evil (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-evidence-of-evil",
+      "type": "tv",
+      "name": "Evidence of Evil",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/bf9ff678-d3cf-4a9b-8095-eed2752bcb01/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png",
+      "posterShape": "square",
+      "description": "Evidence of Evil - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-friday-1080p",
+      "type": "tv",
+      "name": "Friday! (1080p)",
+      "poster": "https://i.imgur.com/UfmlXxe.png",
+      "posterShape": "square",
+      "description": "Friday! (1080p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-h20-tv-1080p",
+      "type": "tv",
+      "name": "H20 TV (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "H20 TV (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-h20-tv-720p",
+      "type": "tv",
+      "name": "H20 TV (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "H20 TV (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hidabroot-1080p",
+      "type": "tv",
+      "name": "Hidabroot (1080p)",
+      "poster": "https://i.imgur.com/CTH4Hu2.png",
+      "posterShape": "square",
+      "description": "Hidabroot (1080p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-homicide-la-cha-ne-du-fait-divers-1080p",
+      "type": "tv",
+      "name": "Homicide la cha\u00eene du fait divers (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Homicide la cha\u00eene du fait divers (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ideas-en-5-minutos-1080p",
+      "type": "tv",
+      "name": "Ideas en 5 minutos (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Ideas en 5 minutos (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ideas-en-5-minutos",
+      "type": "tv",
+      "name": "Ideas En 5 Minutos",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png",
+      "posterShape": "square",
+      "description": "Ideas En 5 Minutos - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ideas-en-5-minutos",
+      "type": "tv",
+      "name": "Ideas En 5 Minutos",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png",
+      "posterShape": "square",
+      "description": "Ideas En 5 Minutos - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-inside-crime-1080p",
+      "type": "tv",
+      "name": "Inside Crime (1080p)",
+      "poster": "https://i.imgur.com/wvQYWsj.png",
+      "posterShape": "square",
+      "description": "Inside Crime (1080p) - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-inside-crime",
+      "type": "tv",
+      "name": "INSIDE CRIME",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/a1148e03-0d33-4faf-ab74-4039f5f3b6e8/Inside-Crime-Logo_Dark_-_Greta_WilliamsRDX.png",
+      "posterShape": "square",
+      "description": "INSIDE CRIME - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-kiddo-1080p",
+      "type": "tv",
+      "name": "Kiddo+ (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Kiddo+ (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-kidoodle-tv",
+      "type": "tv",
+      "name": "Kidoodle TV",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
+      "posterShape": "square",
+      "description": "Kidoodle TV - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-las-vegas-tonight-with-dale-davidson-1080p",
+      "type": "tv",
+      "name": "Las Vegas Tonight with Dale Davidson (1080p)",
+      "poster": "https://i.imgur.com/05Xdqa6.png",
+      "posterShape": "square",
+      "description": "Las Vegas Tonight with Dale Davidson (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-le-figaro-idf-1080p",
+      "type": "tv",
+      "name": "Le Figaro IDF (1080p)",
+      "poster": "https://i.imgur.com/a8RuRUQ.png",
+      "posterShape": "square",
+      "description": "Le Figaro IDF (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-lifetime-holiday-favourites-1080p",
+      "type": "tv",
+      "name": "Lifetime Holiday Favourites (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Lifetime Holiday Favourites (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-lifetime-latin-america-1080p",
+      "type": "tv",
+      "name": "Lifetime Latin America (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+      "posterShape": "square",
+      "description": "Lifetime Latin America (1080p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-majid-al-mohandis-1080p",
+      "type": "tv",
+      "name": "Majid Al Mohandis (1080p)",
+      "poster": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
+      "posterShape": "square",
+      "description": "Majid Al Mohandis (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mbc-drama-usa-1080p",
+      "type": "tv",
+      "name": "MBC Drama USA (1080p)",
+      "poster": "https://i.imgur.com/g5PWnqp.png",
+      "posterShape": "square",
+      "description": "MBC Drama USA (1080p) - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mbc-masr-usa-1080p",
+      "type": "tv",
+      "name": "MBC Masr USA (1080p)",
+      "poster": "https://i.imgur.com/o2elx0u.png",
+      "posterShape": "square",
+      "description": "MBC Masr USA (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midnight-pulp-1080p",
+      "type": "tv",
+      "name": "Midnight Pulp (1080p)",
+      "poster": "https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png",
+      "posterShape": "square",
+      "description": "Midnight Pulp (1080p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midnight-pulp",
+      "type": "tv",
+      "name": "Midnight Pulp",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20241112T000919SQUARE.png",
+      "posterShape": "square",
+      "description": "Midnight Pulp - Sci-Fi & Horror",
+      "genres": [
+        "Sci-Fi & Horror",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midnight-pulp",
+      "type": "tv",
+      "name": "Midnight Pulp",
+      "poster": "https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png",
+      "posterShape": "square",
+      "description": "Midnight Pulp - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midsomer-murders-1080p",
+      "type": "tv",
+      "name": "Midsomer Murders (1080p)",
+      "poster": "https://i.imgur.com/VFqfyfY.png",
+      "posterShape": "square",
+      "description": "Midsomer Murders (1080p) - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midsomer-murders",
+      "type": "tv",
+      "name": "Midsomer Murders",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20241014T232251SQUARE.png",
+      "posterShape": "square",
+      "description": "Midsomer Murders - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nbc-10-providence-ma-1080p",
+      "type": "tv",
+      "name": "NBC 10 Providence MA (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/960px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png",
+      "posterShape": "square",
+      "description": "NBC 10 Providence MA (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nbcu-telemundo-florida-1080p",
+      "type": "tv",
+      "name": "NBCU Telemundo Florida (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "NBCU Telemundo Florida (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nidae-alislam-radio-1080p",
+      "type": "tv",
+      "name": "Nidae AlIslam Radio (1080p)",
+      "poster": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
+      "posterShape": "square",
+      "description": "Nidae AlIslam Radio (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-niederbayern-tv-landshut-1080p",
+      "type": "tv",
+      "name": "Niederbayern TV Landshut (1080p)",
+      "poster": "https://i.imgur.com/5sHzZAh.png",
+      "posterShape": "square",
+      "description": "Niederbayern TV Landshut (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nusantara-tv-1080p",
+      "type": "tv",
+      "name": "Nusantara TV (1080p)",
+      "poster": "https://i.imgur.com/viun5hj.png",
+      "posterShape": "square",
+      "description": "Nusantara TV (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pac-12-insider",
+      "type": "tv",
+      "name": "Pac-12 Insider",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",
+      "posterShape": "square",
+      "description": "Pac-12 Insider - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pridetv-latam-1080p",
+      "type": "tv",
+      "name": "PRIDEtv LATAM (1080p)",
+      "poster": "https://neotv.cl/img/pridetv-512.png",
+      "posterShape": "square",
+      "description": "PRIDEtv LATAM (1080p) - Entertainment;Lifestyle;Music",
+      "genres": [
+        "Entertainment;Lifestyle;Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rabbids-invasion-1080p",
+      "type": "tv",
+      "name": "Rabbids Invasion (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Rabbids Invasion (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rashid-almajed-1080p",
+      "type": "tv",
+      "name": "Rashid AlMajed (1080p)",
+      "poster": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
+      "posterShape": "square",
+      "description": "Rashid AlMajed (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rtv-vida-1080p",
+      "type": "tv",
+      "name": "RTV Vida (1080p)",
+      "poster": "https://i.imgur.com/EqUfEAh.png",
+      "posterShape": "square",
+      "description": "RTV Vida (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-sanskar-usa-1080p",
+      "type": "tv",
+      "name": "Sanskar USA (1080p)",
+      "poster": "https://i.imgur.com/5WBWruX.png",
+      "posterShape": "square",
+      "description": "Sanskar USA (1080p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stingray-holidayscapes-1080p",
+      "type": "tv",
+      "name": "Stingray Holidayscapes (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Stingray Holidayscapes (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stingray-holidayscapes-1080p",
+      "type": "tv",
+      "name": "Stingray Holidayscapes (1080p)",
+      "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+      "posterShape": "square",
+      "description": "Stingray Holidayscapes (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stingray-holidayscapes",
+      "type": "tv",
+      "name": "Stingray Holidayscapes",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20251110T235028SQUARE.png",
+      "posterShape": "square",
+      "description": "Stingray Holidayscapes - Ambiance",
+      "genres": [
+        "Ambiance",
+        "other"
+      ]
+    },
+    {
+      "id": "other-team-liquid-1080p",
+      "type": "tv",
+      "name": "Team Liquid (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Team Liquid (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-team-liquid",
+      "type": "tv",
+      "name": "Team Liquid",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US240000434_20250812T003525SQUARE.png",
+      "posterShape": "square",
+      "description": "Team Liquid - Anime & Gaming",
+      "genres": [
+        "Anime & Gaming",
+        "other"
+      ]
+    },
+    {
+      "id": "other-team-liquid",
+      "type": "tv",
+      "name": "Team Liquid",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f17c82792f7cab26596e1a84ebc82a8b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750722575713_TL_HUD_Logo_-_260x147-1.png",
+      "posterShape": "square",
+      "description": "Team Liquid - Gaming & Tech",
+      "genres": [
+        "Gaming & Tech",
+        "other"
+      ]
+    },
+    {
+      "id": "other-team-usa-1080p",
+      "type": "tv",
+      "name": "Team USA (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Team USA (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-team-usa-tv-1080p",
+      "type": "tv",
+      "name": "Team USA TV (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Team USA TV (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-telemundo-noticias-florida-1080p",
+      "type": "tv",
+      "name": "Telemundo Noticias Florida (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Telemundo Noticias Florida (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-televida-1080p",
+      "type": "tv",
+      "name": "Televida (1080p)",
+      "poster": "https://i.imgur.com/bmNA8hq.png",
+      "posterShape": "square",
+      "description": "Televida (1080p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-test-my-ride-1080p",
+      "type": "tv",
+      "name": "Test My Ride (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Test My Ride (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tide-tv-1080p",
+      "type": "tv",
+      "name": "Tide TV (1080p)",
+      "poster": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png",
+      "posterShape": "square",
+      "description": "Tide TV (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tidpix-authentically-african-1080p",
+      "type": "tv",
+      "name": "TidPix-Authentically African (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "TidPix-Authentically African (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tntv-1080p",
+      "type": "tv",
+      "name": "TNTV (1080p)",
+      "poster": "https://i.imgur.com/e5eVHam.png",
+      "posterShape": "square",
+      "description": "TNTV (1080p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-unidentified-1080p",
+      "type": "tv",
+      "name": "Unidentified (1080p)",
+      "poster": "https://i.imgur.com/naYszow.jpg",
+      "posterShape": "square",
+      "description": "Unidentified (1080p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-unidentified",
+      "type": "tv",
+      "name": "Unidentified",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png",
+      "posterShape": "square",
+      "description": "Unidentified - Sci-Fi & Horror",
+      "genres": [
+        "Sci-Fi & Horror",
+        "other"
+      ]
+    },
+    {
+      "id": "other-unidentified",
+      "type": "tv",
+      "name": "Unidentified",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png",
+      "posterShape": "square",
+      "description": "Unidentified - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-usa-network-latin-america-1080p",
+      "type": "tv",
+      "name": "USA Network Latin America (1080p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+      "posterShape": "square",
+      "description": "USA Network Latin America (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-usa-today",
+      "type": "tv",
+      "name": "USA Today",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20250325T020255SQUARE.png",
+      "posterShape": "square",
+      "description": "USA Today - Lifestyle & Pop Culture",
+      "genres": [
+        "Lifestyle & Pop Culture",
+        "other"
+      ]
+    },
+    {
+      "id": "other-usadba-1080p",
+      "type": "tv",
+      "name": "Usadba (1080p)",
+      "poster": "https://i.imgur.com/mf13haG.png",
+      "posterShape": "square",
+      "description": "Usadba (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-game-heroes-1080p",
+      "type": "tv",
+      "name": "Video Game Heroes (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Video Game Heroes (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-rola-1080p",
+      "type": "tv",
+      "name": "Video Rola (1080p)",
+      "poster": "https://i.imgur.com/9w54eVy.png",
+      "posterShape": "square",
+      "description": "Video Rola (1080p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-historia-y-vida",
+      "type": "tv",
+      "name": "Historia Y Vida",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/d93cbfe7-324c-46eb-8c7a-6d959837e20c/Logo_Historia_Vida_1500x1000_DarkBackground_-_Belen_Bruno.png",
+      "posterShape": "square",
+      "description": "Historia Y Vida - Spain",
+      "genres": [
+        "Spain",
+        "other"
+      ]
+    },
+    {
+      "id": "other-historia-y-vida-720p",
+      "type": "tv",
+      "name": "Historia y Vida (720p)",
+      "poster": "https://i.imgur.com/56ZtCA1.png",
+      "posterShape": "square",
+      "description": "Historia y Vida (720p) - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-historia-y-vida",
+      "type": "tv",
+      "name": "Historia Y Vida",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Historia Y Vida - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-alkarma-tv-middle-east-1080p-not-24-7",
+      "type": "tv",
+      "name": "Alkarma TV Middle East (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/6OmNw5A.png",
+      "posterShape": "square",
+      "description": "Alkarma TV Middle East (1080p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-almagd-tv-middle-east-1080p-not-24-7",
+      "type": "tv",
+      "name": "Almagd TV Middle East (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/3pUik3b.png",
+      "posterShape": "square",
+      "description": "Almagd TV Middle East (1080p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-placid-1080p-not-24-7",
+      "type": "tv",
+      "name": "Placid (1080p) [Not 24/7]",
+      "poster": "https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg",
+      "posterShape": "square",
+      "description": "Placid (1080p) [Not 24/7] - Animation",
+      "genres": [
+        "Animation",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-aparecida-1080p-not-24-7",
+      "type": "tv",
+      "name": "TV Aparecida (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/kxrja0X.png",
+      "posterShape": "square",
+      "description": "TV Aparecida (1080p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-cidade-de-petr-polis-1080p-not-24-7",
+      "type": "tv",
+      "name": "TV Cidade de Petr\u00f3polis (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/xUs8gHV.png",
+      "posterShape": "square",
+      "description": "TV Cidade de Petr\u00f3polis (1080p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-gideoes-1080p-not-24-7",
+      "type": "tv",
+      "name": "TV Gideoes (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/dDomKND.png",
+      "posterShape": "square",
+      "description": "TV Gideoes (1080p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-universidad-aut-noma-temuco-uatv-1080p-not-24-7",
+      "type": "tv",
+      "name": "Universidad Aut\u00f3noma Temuco (UATV) (1080p) [Not 24/7]",
+      "poster": "https://i.imgur.com/BdZGS66.png",
+      "posterShape": "square",
+      "description": "Universidad Aut\u00f3noma Temuco (UATV) (1080p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-crime-360",
+      "type": "tv",
+      "name": "A&E Crime 360",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png",
+      "posterShape": "square",
+      "description": "A&E Crime 360 - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-crime-360",
+      "type": "tv",
+      "name": "A&E Crime 360",
+      "poster": "https://canvas-lb.tubitv.com/opts/PkGioxw_qoRs4Q==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "A&E Crime 360 - True Crime",
+      "genres": [
+        "True Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-actualidad-360",
+      "type": "tv",
+      "name": "Actualidad 360",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/c8f6acf9-137f-4d15-ae6d-5ccca8afdb6f/Logo_Actualidad360_1500x1000_DarkBackground_-_Belen_BrunWHITE_TEXTo.png",
+      "posterShape": "square",
+      "description": "Actualidad 360 - Spain",
+      "genres": [
+        "Spain",
+        "other"
+      ]
+    },
+    {
+      "id": "other-inside-outside",
+      "type": "tv",
+      "name": "Inside Outside",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/0ca81896-4978-4881-a829-008961897161/InsideOutside_DarkLogo.png",
+      "posterShape": "square",
+      "description": "Inside Outside - Australia",
+      "genres": [
+        "Australia",
+        "other"
+      ]
+    },
+    {
+      "id": "other-inside-outside",
+      "type": "tv",
+      "name": "Inside Outside",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/0ca81896-4978-4881-a829-008961897161/InsideOutside_DarkLogo.png",
+      "posterShape": "square",
+      "description": "Inside Outside - NZ",
+      "genres": [
+        "NZ",
+        "other"
+      ]
+    },
+    {
+      "id": "other-inside-outside-720p",
+      "type": "tv",
+      "name": "Inside Outside (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Inside Outside (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-30a-ridiculous-tv-720p",
+      "type": "tv",
+      "name": "30A Ridiculous TV (720p)",
+      "poster": "https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg",
+      "posterShape": "square",
+      "description": "30A Ridiculous TV (720p) - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-30a-sidewalks-720p",
+      "type": "tv",
+      "name": "30A Sidewalks (720p)",
+      "poster": "https://i.imgur.com/HSdwqZN.png",
+      "posterShape": "square",
+      "description": "30A Sidewalks (720p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-60-days-in-by-a-e-720p",
+      "type": "tv",
+      "name": "60 Days In by A&E (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "60 Days In by A&E (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-60-days-in-by-a-e",
+      "type": "tv",
+      "name": "60 Days In by A&E",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png",
+      "posterShape": "square",
+      "description": "60 Days In by A&E - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-720p",
+      "type": "tv",
+      "name": "A&E (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+      "posterShape": "square",
+      "description": "A&E (720p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-crime-360-720p",
+      "type": "tv",
+      "name": "A&E Crime 360 (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "A&E Crime 360 (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-afroland-afrokiddos-720p",
+      "type": "tv",
+      "name": "Afroland AfroKiddos (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Afroland AfroKiddos (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-always-funny-videos-720p",
+      "type": "tv",
+      "name": "Always Funny Videos (720p)",
+      "poster": "https://i.imgur.com/vfdN5Xl.png",
+      "posterShape": "square",
+      "description": "Always Funny Videos (720p) - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-always-funny-videos",
+      "type": "tv",
+      "name": "Always Funny Videos",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA1600001XM_20240520T215804SQUARE.png",
+      "posterShape": "square",
+      "description": "Always Funny Videos - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-always-funny-videos",
+      "type": "tv",
+      "name": "Always Funny Videos",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/86c08261fc015a58866210bea63eb8f4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1723058240057_AF_Logo_EFEFEF_Centered_260x147.png",
+      "posterShape": "square",
+      "description": "Always Funny Videos - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-beach-tv-florida-alabama-720p",
+      "type": "tv",
+      "name": "Beach TV Florida & Alabama (720p)",
+      "poster": "https://i.imgur.com/weypM9C.png",
+      "posterShape": "square",
+      "description": "Beach TV Florida & Alabama (720p) - Travel",
+      "genres": [
+        "Travel",
+        "other"
+      ]
+    },
+    {
+      "id": "other-beach-tv-key-west-florida-keys-720p",
+      "type": "tv",
+      "name": "Beach TV Key West & Florida Keys (720p)",
+      "poster": "https://i.imgur.com/XhDBdff.png",
+      "posterShape": "square",
+      "description": "Beach TV Key West & Florida Keys (720p) - Travel",
+      "genres": [
+        "Travel",
+        "other"
+      ]
+    },
+    {
+      "id": "other-best-of-bobby-flay-by-food-network-720p",
+      "type": "tv",
+      "name": "Best of Bobby Flay by Food Network (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Best of Bobby Flay by Food Network (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-chef-vs-chef-by-food-network-720p",
+      "type": "tv",
+      "name": "Chef vs Chef by Food Network (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Chef vs Chef by Food Network (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cox-meriden-public-access-channel-15-meriden-ct-720p",
+      "type": "tv",
+      "name": "Cox Meriden Public Access Channel 15 (Meriden CT) (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Cox Meriden Public Access Channel 15 (Meriden CT) (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-crime-and-evidence-720p",
+      "type": "tv",
+      "name": "Crime and Evidence (720p)",
+      "poster": "https://i.imgur.com/xwGquEb.png",
+      "posterShape": "square",
+      "description": "Crime and Evidence (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cusano-italia-tv-720p",
+      "type": "tv",
+      "name": "Cusano Italia TV (720p)",
+      "poster": "https://i.imgur.com/fOluzuE.png",
+      "posterShape": "square",
+      "description": "Cusano Italia TV (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-delicious-eats-by-food-network-720p",
+      "type": "tv",
+      "name": "Delicious Eats by Food Network (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Delicious Eats by Food Network (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-faro-de-santidad-tv-720p",
+      "type": "tv",
+      "name": "Faro de Santidad TV (720p)",
+      "poster": "https://i.imgur.com/GoNBFzI.png",
+      "posterShape": "square",
+      "description": "Faro de Santidad TV (720p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-go-usa-tv-720p",
+      "type": "tv",
+      "name": "Go USA TV (720p)",
+      "poster": "https://i.imgur.com/x90ALip.png",
+      "posterShape": "square",
+      "description": "Go USA TV (720p) - Travel",
+      "genres": [
+        "Travel",
+        "other"
+      ]
+    },
+    {
+      "id": "other-go-usa-eu",
+      "type": "tv",
+      "name": "Go USA (EU)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Go USA (EU) - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-tv-ch2-720p",
+      "type": "tv",
+      "name": "GOOD TV CH2 \u771f\u7406\u53f0 (720p)",
+      "poster": "https://i.imgur.com/YxFRoft.png",
+      "posterShape": "square",
+      "description": "GOOD TV CH2 \u771f\u7406\u53f0 (720p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-guide-love-tv-720p",
+      "type": "tv",
+      "name": "Guide Love TV (720p)",
+      "poster": "https://i.ibb.co/9gS2Y4G/guidelove-logo.png",
+      "posterShape": "square",
+      "description": "Guide Love TV (720p) - Lifestyle",
+      "genres": [
+        "Lifestyle",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hoarders-by-a-e-720p",
+      "type": "tv",
+      "name": "Hoarders by A&E (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Hoarders by A&E (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hoarders-by-a-e",
+      "type": "tv",
+      "name": "Hoarders by A&E",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200009Y4_20250805T005802SQUARE.png",
+      "posterShape": "square",
+      "description": "Hoarders by A&E - Reality TV",
+      "genres": [
+        "Reality TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-homicide-720p",
+      "type": "tv",
+      "name": "Homicide (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Homicide (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-homicide",
+      "type": "tv",
+      "name": "Homicide",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/e8c8dd6a-52d4-4efb-8343-deb4f95e2409/HOMICIDE_LOGO_DARK_BG_-_richard_maroko.png",
+      "posterShape": "square",
+      "description": "Homicide - France",
+      "genres": [
+        "France",
+        "other"
+      ]
+    },
+    {
+      "id": "other-homicide",
+      "type": "tv",
+      "name": "Homicide",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Homicide - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ironside-720p",
+      "type": "tv",
+      "name": "Ironside (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Ironside (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-lider-tv-720p",
+      "type": "tv",
+      "name": "Lider TV (720p)",
+      "poster": "https://i.imgur.com/naZXUdR.jpeg",
+      "posterShape": "square",
+      "description": "Lider TV (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-lifetime-720p",
+      "type": "tv",
+      "name": "Lifetime (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+      "posterShape": "square",
+      "description": "Lifetime (720p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-loveworld-usa-720p",
+      "type": "tv",
+      "name": "LoveWorld USA (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "LoveWorld USA (720p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-matched-married-meet-by-lifetime-720p",
+      "type": "tv",
+      "name": "Matched Married Meet by Lifetime (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Matched Married Meet by Lifetime (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-matched-married-meet-by-lifetime",
+      "type": "tv",
+      "name": "Matched Married Meet by Lifetime",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951487/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Matched Married Meet by Lifetime - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Reality TV",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Reality TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midpen-media-center-arts-issues-and-lifestyles-channel-30-720p",
+      "type": "tv",
+      "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)",
+      "poster": "https://i.imgur.com/RPJiolQ.png",
+      "posterShape": "square",
+      "description": "Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p) - Culture",
+      "genres": [
+        "Culture",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midpen-media-center-diversity-and-culture-channel-75-720p",
+      "type": "tv",
+      "name": "Midpen Media Center Diversity and Culture Channel 75 (720p)",
+      "poster": "https://i.imgur.com/RPJiolQ.png",
+      "posterShape": "square",
+      "description": "Midpen Media Center Diversity and Culture Channel 75 (720p) - Culture",
+      "genres": [
+        "Culture",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midpen-media-center-government-etc-channel-26-720p",
+      "type": "tv",
+      "name": "Midpen Media Center Government etc Channel 26 (720p)",
+      "poster": "https://i.imgur.com/aX1GkCD.png",
+      "posterShape": "square",
+      "description": "Midpen Media Center Government etc Channel 26 (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-midpen-media-center-government-etc-channel-29-720p",
+      "type": "tv",
+      "name": "Midpen Media Center Government etc Channel 29 (720p)",
+      "poster": "https://i.imgur.com/RPJiolQ.png",
+      "posterShape": "square",
+      "description": "Midpen Media Center Government etc Channel 29 (720p) - Legislative",
+      "genres": [
+        "Legislative",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mmc-tv-usa-720p",
+      "type": "tv",
+      "name": "MMC TV USA (720p)",
+      "poster": "https://i.imgur.com/0MwrSYE.png",
+      "posterShape": "square",
+      "description": "MMC TV USA (720p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mtv-ridiculousness-720p",
+      "type": "tv",
+      "name": "MTV Ridiculousness (720p)",
+      "poster": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
+      "posterShape": "square",
+      "description": "MTV Ridiculousness (720p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mtv-ridiculousness-720p",
+      "type": "tv",
+      "name": "MTV Ridiculousness (720p)",
+      "poster": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
+      "posterShape": "square",
+      "description": "MTV Ridiculousness (720p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mtv-ridiculousness-720p",
+      "type": "tv",
+      "name": "MTV Ridiculousness (720p)",
+      "poster": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
+      "posterShape": "square",
+      "description": "MTV Ridiculousness (720p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ninja-kidz-tv",
+      "type": "tv",
+      "name": "Ninja Kidz TV",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
+      "posterShape": "square",
+      "description": "Ninja Kidz TV - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nueva-vida-tv-720p",
+      "type": "tv",
+      "name": "Nueva Vida TV (720p)",
+      "poster": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
+      "posterShape": "square",
+      "description": "Nueva Vida TV (720p) - Music;Religious",
+      "genres": [
+        "Music;Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-oceanside-community-television-koct-community-channel-18-720p",
+      "type": "tv",
+      "name": "Oceanside Community Television (KOCT) Community Channel 18 (720p)",
+      "poster": "https://i.imgur.com/6C71KwP.png",
+      "posterShape": "square",
+      "description": "Oceanside Community Television (KOCT) Community Channel 18 (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-oceanside-community-television-koct-education-and-government-channel-19-720p",
+      "type": "tv",
+      "name": "Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)",
+      "poster": "https://i.imgur.com/6C71KwP.png",
+      "posterShape": "square",
+      "description": "Oceanside Community Television (KOCT) Education and Government Channel 19 (720p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-onda-madrid-720p",
+      "type": "tv",
+      "name": "Onda Madrid (720p)",
+      "poster": "https://i.imgur.com/Q1YwYsR.png",
+      "posterShape": "square",
+      "description": "Onda Madrid (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pacific-coast-tv-hmb-coastside-channel-27-720p",
+      "type": "tv",
+      "name": "Pacific Coast TV HMB Coastside Channel 27 (720p)",
+      "poster": "https://i.imgur.com/b0ufMkd.png",
+      "posterShape": "square",
+      "description": "Pacific Coast TV HMB Coastside Channel 27 (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-qausain-tv-720p",
+      "type": "tv",
+      "name": "Qausain TV (720p)",
+      "poster": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+      "posterShape": "square",
+      "description": "Qausain TV (720p) - Culture",
+      "genres": [
+        "Culture",
+        "other"
+      ]
+    },
+    {
+      "id": "other-realmadrid-tv-720p",
+      "type": "tv",
+      "name": "Realmadrid TV (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Realmadrid TV (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-realmadrid-tv-720p",
+      "type": "tv",
+      "name": "Realmadrid TV (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Realmadrid TV (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-realmadrid-tv-720p",
+      "type": "tv",
+      "name": "Realmadrid TV (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Realmadrid TV (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ridiculousness-720p",
+      "type": "tv",
+      "name": "Ridiculousness (720p)",
+      "poster": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Ridiculousness (720p) - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ridiculousness",
+      "type": "tv",
+      "name": "Ridiculousness",
+      "poster": "https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png",
+      "posterShape": "square",
+      "description": "Ridiculousness - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-solidaria-tv-720p",
+      "type": "tv",
+      "name": "Solidaria TV (720p)",
+      "poster": "https://i.imgur.com/Bgm2iZY.png",
+      "posterShape": "square",
+      "description": "Solidaria TV (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-solidaria-576p",
+      "type": "tv",
+      "name": "TV Solidaria (576p)",
+      "poster": "https://i.imgur.com/M0fMypR.png",
+      "posterShape": "square",
+      "description": "TV Solidaria (576p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tbs-seoul-720p",
+      "type": "tv",
+      "name": "TBS Seoul (720p)",
+      "poster": "https://i.imgur.com/iOnWS6V.png",
+      "posterShape": "square",
+      "description": "TBS Seoul (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-telefides-720p",
+      "type": "tv",
+      "name": "Telefides (720p)",
+      "poster": "https://i.ibb.co/yn5M8dw/telefides-costa-rica.png",
+      "posterShape": "square",
+      "description": "Telefides (720p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-telemadrid-internacional-720p",
+      "type": "tv",
+      "name": "Telemadrid Internacional (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/960px-TeleMadrid_INT_Logo.jpg",
+      "posterShape": "square",
+      "description": "Telemadrid Internacional (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-the-first-48-by-a-e-720p",
+      "type": "tv",
+      "name": "The First 48 by A&E (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "The First 48 by A&E (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-the-first-48-by-a-e",
+      "type": "tv",
+      "name": "The First 48 by A&E",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/7b3bba03-eced-4e52-8627-407fb0406e0d/The_First_48_by_AE_channel_logo_white_RDX.png",
+      "posterShape": "square",
+      "description": "The First 48 by A&E - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-the-walking-dead-by-amc-720p",
+      "type": "tv",
+      "name": "The Walking Dead by AMC (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "The Walking Dead by AMC (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-the-walking-dead-by-amc",
+      "type": "tv",
+      "name": "The Walking Dead by AMC",
+      "poster": "",
+      "posterShape": "square",
+      "description": "The Walking Dead by AMC - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv9-nusantara-720p",
+      "type": "tv",
+      "name": "TV9 Nusantara (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",
+      "posterShape": "square",
+      "description": "TV9 Nusantara (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-cidade-verde-720p",
+      "type": "tv",
+      "name": "TV Cidade Verde (720p)",
+      "poster": "https://i.imgur.com/SysgBqZ.png",
+      "posterShape": "square",
+      "description": "TV Cidade Verde (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-land-720p",
+      "type": "tv",
+      "name": "TV Land (720p)",
+      "poster": "https://i.imgur.com/VNNS4mF.png",
+      "posterShape": "square",
+      "description": "TV Land (720p) - Classic",
+      "genres": [
+        "Classic",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-usach-720p",
+      "type": "tv",
+      "name": "TV Usach (720p)",
+      "poster": "https://i.imgur.com/KDC7IVl.png",
+      "posterShape": "square",
+      "description": "TV Usach (720p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tvca-televisi-n-cat-lica-arquidiocesana-720p",
+      "type": "tv",
+      "name": "TVCa Televisi\u00f3n Cat\u00f3lica Arquidiocesana (720p)",
+      "poster": "https://i.imgur.com/uPWWtCA.png",
+      "posterShape": "square",
+      "description": "TVCa Televisi\u00f3n Cat\u00f3lica Arquidiocesana (720p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tvri-nusa-tenggara-barat-720p",
+      "type": "tv",
+      "name": "TVRI Nusa Tenggara Barat (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "posterShape": "square",
+      "description": "TVRI Nusa Tenggara Barat (720p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-vam-vid-s-more-720p",
+      "type": "tv",
+      "name": "VAM Vid's & More (720p)",
+      "poster": "https://i.imgur.com/CD1PffA.png",
+      "posterShape": "square",
+      "description": "VAM Vid's & More (720p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-en-espa-ol",
+      "type": "tv",
+      "name": "AMC en Espa\u00f1ol",
+      "poster": "https://images.vizio.com/v4/btv/1/1642576396/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "AMC en Espa\u00f1ol - EN ESPA\u00d1OL",
+      "genres": [
+        "EN ESPA\u00d1OL",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-en-espa-ol",
+      "type": "tv",
+      "name": "AMC en Espa\u00f1ol",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20251125T030853SQUARE.png",
+      "posterShape": "square",
+      "description": "AMC en Espa\u00f1ol - Latino",
+      "genres": [
+        "Latino",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-en-espa-ol",
+      "type": "tv",
+      "name": "AMC en Espa\u00f1ol",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png",
+      "posterShape": "square",
+      "description": "AMC en Espa\u00f1ol - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-intervention-by-a-e-1080p-geo-blocked",
+      "type": "tv",
+      "name": "Intervention by A&E (1080p) [Geo-blocked]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Intervention by A&E (1080p) [Geo-blocked] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-intervention-by-a-e",
+      "type": "tv",
+      "name": "Intervention by A&E",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500040WX_20250805T005815SQUARE.png",
+      "posterShape": "square",
+      "description": "Intervention by A&E - Reality TV",
+      "genres": [
+        "Reality TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mbc-1-usa-1080p-geo-blocked",
+      "type": "tv",
+      "name": "MBC 1 USA (1080p) [Geo-blocked]",
+      "poster": "https://i.imgur.com/CiA3plN.png",
+      "posterShape": "square",
+      "description": "MBC 1 USA (1080p) [Geo-blocked] - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nash-bridges-channel-1080p-geo-blocked",
+      "type": "tv",
+      "name": "Nash Bridges Channel (1080p) [Geo-blocked]",
+      "poster": "https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Nash Bridges Channel (1080p) [Geo-blocked] - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nash-bridges",
+      "type": "tv",
+      "name": "Nash Bridges",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20251202T005938SQUARE.png",
+      "posterShape": "square",
+      "description": "Nash Bridges - Action & Drama",
+      "genres": [
+        "Action & Drama",
+        "other"
+      ]
+    },
+    {
+      "id": "other-asianet-middle-east-576p",
+      "type": "tv",
+      "name": "Asianet Middle East (576p)",
+      "poster": "https://i.imgur.com/du9iZ0s.png",
+      "posterShape": "square",
+      "description": "Asianet Middle East (576p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bride-tv-576p",
+      "type": "tv",
+      "name": "Bride TV (576p)",
+      "poster": "https://i.imgur.com/snZMucg.png",
+      "posterShape": "square",
+      "description": "Bride TV (576p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bridge-576p",
+      "type": "tv",
+      "name": "BRIDGE (576p)",
+      "poster": "https://i.imgur.com/qYObfrG.png",
+      "posterShape": "square",
+      "description": "BRIDGE (576p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bridge-classic-576p",
+      "type": "tv",
+      "name": "BRIDGE Classic (576p)",
+      "poster": "https://i.imgur.com/JJTQq81.png",
+      "posterShape": "square",
+      "description": "BRIDGE Classic (576p) - Classic;Music",
+      "genres": [
+        "Classic;Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bridge-hits-576p",
+      "type": "tv",
+      "name": "BRIDGE Hits (576p)",
+      "poster": "https://i.imgur.com/sIW9oR4.png",
+      "posterShape": "square",
+      "description": "BRIDGE Hits (576p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-1-576p",
+      "type": "tv",
+      "name": "E-Vidya 1 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 1 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-2-576p",
+      "type": "tv",
+      "name": "E-Vidya 2 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 2 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-3-576p",
+      "type": "tv",
+      "name": "E-Vidya 3 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 3 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-4-576p",
+      "type": "tv",
+      "name": "E-Vidya 4 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 4 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-5-576p",
+      "type": "tv",
+      "name": "E-Vidya 5 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 5 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-6-576p",
+      "type": "tv",
+      "name": "E-Vidya 6 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 6 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-7-576p",
+      "type": "tv",
+      "name": "E-Vidya 7 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 7 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-8-576p",
+      "type": "tv",
+      "name": "E-Vidya 8 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 8 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-9-576p",
+      "type": "tv",
+      "name": "E-Vidya 9 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 9 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-10-576p",
+      "type": "tv",
+      "name": "E-Vidya 10 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 10 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-11-576p",
+      "type": "tv",
+      "name": "E-Vidya 11 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 11 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-e-vidya-12-576p",
+      "type": "tv",
+      "name": "E-Vidya 12 (576p)",
+      "poster": "https://i.imgur.com/0sz6t9F.png",
+      "posterShape": "square",
+      "description": "E-Vidya 12 (576p) - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-harvest-usa-576p",
+      "type": "tv",
+      "name": "Harvest USA (576p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Harvest USA (576p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-maidan-576p",
+      "type": "tv",
+      "name": "Maidan (576p)",
+      "poster": "https://i.imgur.com/C8CCjZK.png",
+      "posterShape": "square",
+      "description": "Maidan (576p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rede-vida-576p",
+      "type": "tv",
+      "name": "Rede Vida (576p)",
+      "poster": "https://i.imgur.com/mP1qfp2.png",
+      "posterShape": "square",
+      "description": "Rede Vida (576p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ridee-tv-576p",
+      "type": "tv",
+      "name": "Ridee TV (576p)",
+      "poster": "https://i.imgur.com/HZLITjX.png",
+      "posterShape": "square",
+      "description": "Ridee TV (576p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-sender-neu-jerusalem-576p",
+      "type": "tv",
+      "name": "Sender Neu Jerusalem (576p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Sender Neu Jerusalem (576p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tnt-576p",
+      "type": "tv",
+      "name": "TNT (576p)",
+      "poster": "https://i.imgur.com/T4A6rEI.png",
+      "posterShape": "square",
+      "description": "TNT (576p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-didula-576p",
+      "type": "tv",
+      "name": "TV Didula (576p)",
+      "poster": "https://i.imgur.com/RANo5pt.png",
+      "posterShape": "square",
+      "description": "TV Didula (576p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-vidusdaugavas-telev-zija-576p",
+      "type": "tv",
+      "name": "Vidusdaugavas Telev\u012bzija (576p)",
+      "poster": "https://i.imgur.com/L5U3PQR.png",
+      "posterShape": "square",
+      "description": "Vidusdaugavas Telev\u012bzija (576p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-391-a-e-crime-360",
+      "type": "tv",
+      "name": "391 A&E Crime 360",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-Logo-PNG-100x100_v6.png",
+      "posterShape": "square",
+      "description": "391 A&E Crime 360 - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-al-rafidain-720p-not-24-7",
+      "type": "tv",
+      "name": "Al Rafidain (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/rjXDCN5.png",
+      "posterShape": "square",
+      "description": "Al Rafidain (720p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-al-rafidain",
+      "type": "tv",
+      "name": "Al-Rafidain",
+      "poster": "https://i.imgur.com/D78qG91.png",
+      "posterShape": "square",
+      "description": "Al-Rafidain - Iraq",
+      "genres": [
+        "Iraq",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-idea-tv-720p-not-24-7",
+      "type": "tv",
+      "name": "Good Idea TV (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/ETgVyTy.png",
+      "posterShape": "square",
+      "description": "Good Idea TV (720p) [Not 24/7] - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-tv-ch20-720p-not-24-7",
+      "type": "tv",
+      "name": "GOOD TV CH20 \u6069\u5178\u6642\u5206 (720p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "GOOD TV CH20 \u6069\u5178\u6642\u5206 (720p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-tv-ch21-720p-not-24-7",
+      "type": "tv",
+      "name": "GOOD TV CH21 \u83ef\u8a9e\u8b1b\u54e1 (720p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "GOOD TV CH21 \u83ef\u8a9e\u8b1b\u54e1 (720p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-tv-ch24-720p-not-24-7",
+      "type": "tv",
+      "name": "GOOD TV CH24 \u5289\u4e09\u8b1b\u53e4 (720p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "GOOD TV CH24 \u5289\u4e09\u8b1b\u53e4 (720p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-tv-ch27-720p-not-24-7",
+      "type": "tv",
+      "name": "GOOD TV CH27 \u7a7a\u4e2d\u8056\u7d93\u5b78\u9662 (720p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "GOOD TV CH27 \u7a7a\u4e2d\u8056\u7d93\u5b78\u9662 (720p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-tv-ch28-720p-not-24-7",
+      "type": "tv",
+      "name": "GOOD TV CH28 \u73fe\u4ee3\u8a69\u6b4c (720p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "GOOD TV CH28 \u73fe\u4ee3\u8a69\u6b4c (720p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-good-tv-ch29-720p-not-24-7",
+      "type": "tv",
+      "name": "GOOD TV CH29 \u7d93\u5178\u97f3\u6a02\u6cb3 (720p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "GOOD TV CH29 \u7d93\u5178\u97f3\u6a02\u6cb3 (720p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-idtv-720p-not-24-7",
+      "type": "tv",
+      "name": "IDTV (720p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "IDTV (720p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-nitida-tv-720p-not-24-7",
+      "type": "tv",
+      "name": "Nitida TV (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/z9JkxcM.png",
+      "posterShape": "square",
+      "description": "Nitida TV (720p) [Not 24/7] - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-radio-ideal-104-7-fm-la-esperanza-720p-not-24-7",
+      "type": "tv",
+      "name": "Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/chPfoOs.png",
+      "posterShape": "square",
+      "description": "Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7] - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-san-isidro-tv-720p-not-24-7",
+      "type": "tv",
+      "name": "San Isidro TV (720p) [Not 24/7]",
+      "poster": "https://i.imgur.com/pwmJrsm.jpg",
+      "posterShape": "square",
+      "description": "San Isidro TV (720p) [Not 24/7] - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-anime-x-hidive",
+      "type": "tv",
+      "name": "ANIME x HIDIVE",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US15000032I_20251110T235036SQUARE.png",
+      "posterShape": "square",
+      "description": "ANIME x HIDIVE - Anime & Gaming",
+      "genres": [
+        "Anime & Gaming",
+        "other"
+      ]
+    },
+    {
+      "id": "other-anime-x-hidive",
+      "type": "tv",
+      "name": "ANIME x HIDIVE",
+      "poster": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png",
+      "posterShape": "square",
+      "description": "ANIME x HIDIVE - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-land-sitcoms",
+      "type": "tv",
+      "name": "TV Land Sitcoms",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20241112T000748SQUARE.png",
+      "posterShape": "square",
+      "description": "TV Land Sitcoms - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-land-sitcoms",
+      "type": "tv",
+      "name": "TV Land Sitcoms",
+      "poster": "https://i.imgur.com/phHHs7l.png",
+      "posterShape": "square",
+      "description": "TV Land Sitcoms - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-land-drama",
+      "type": "tv",
+      "name": "TV Land Drama",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20241112T000745SQUARE.png",
+      "posterShape": "square",
+      "description": "TV Land Drama - Action & Drama",
+      "genres": [
+        "Action & Drama",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-pride",
+      "type": "tv",
+      "name": "Pluto TV Pride",
+      "poster": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Pride - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-pride",
+      "type": "tv",
+      "name": "Pluto TV Pride",
+      "poster": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Pride - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-home-cooking-by-food-network",
+      "type": "tv",
+      "name": "Home Cooking by Food Network",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Home Cooking by Food Network - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-discovery-turbo-tv",
+      "type": "tv",
+      "name": "Discovery Turbo TV",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/29397b83-4169-4eaa-8d67-e01d54812191/DiscoveryTurboTV_logo_1500x1000px_darkBg.png",
+      "posterShape": "square",
+      "description": "Discovery Turbo TV - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-discovery-turbo-tv",
+      "type": "tv",
+      "name": "Discovery Turbo TV",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951438/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Discovery Turbo TV - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Automotive",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Automotive",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rawhide",
+      "type": "tv",
+      "name": "Rawhide",
+      "poster": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
+      "posterShape": "square",
+      "description": "Rawhide - Classic;Series",
+      "genres": [
+        "Classic;Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rawhide",
+      "type": "tv",
+      "name": "Rawhide",
+      "poster": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
+      "posterShape": "square",
+      "description": "Rawhide - Classic;Series",
+      "genres": [
+        "Classic;Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fidele-tv-480p",
+      "type": "tv",
+      "name": "Fidele TV (480p)",
+      "poster": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
+      "posterShape": "square",
+      "description": "Fidele TV (480p) - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-leo-middels-tv-480p",
+      "type": "tv",
+      "name": "LEO Middels\u00e9 TV (480p)",
+      "poster": "https://i.imgur.com/wF3FFZv.png",
+      "posterShape": "square",
+      "description": "LEO Middels\u00e9 TV (480p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-velocidad",
+      "type": "tv",
+      "name": "Pluto TV Velocidad",
+      "poster": "https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Velocidad - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-potta-divine-tv-usa-480p",
+      "type": "tv",
+      "name": "Potta-Divine TV USA (480p)",
+      "poster": "https://i.imgur.com/Yx0AnLW.png",
+      "posterShape": "square",
+      "description": "Potta-Divine TV USA (480p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tvri-nusa-tenggara-timur-480p",
+      "type": "tv",
+      "name": "TVRI Nusa Tenggara Timur (480p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "posterShape": "square",
+      "description": "TVRI Nusa Tenggara Timur (480p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-vida-mejor-tv-480p",
+      "type": "tv",
+      "name": "Vida Mejor TV (480p)",
+      "poster": "https://i.imgur.com/1hJ16i0.png",
+      "posterShape": "square",
+      "description": "Vida Mejor TV (480p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-watch-it-kid",
+      "type": "tv",
+      "name": "Watch it Kid",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png",
+      "posterShape": "square",
+      "description": "Watch it Kid - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-watch-it-kid",
+      "type": "tv",
+      "name": "Watch it Kid",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png",
+      "posterShape": "square",
+      "description": "Watch it Kid - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-holiday-fireplace-vibes",
+      "type": "tv",
+      "name": "Holiday Fireplace Vibes",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US34000086U_20251209T013520SQUARE.png",
+      "posterShape": "square",
+      "description": "Holiday Fireplace Vibes - Ambiance",
+      "genres": [
+        "Ambiance",
+        "other"
+      ]
+    },
+    {
+      "id": "other-outside",
+      "type": "tv",
+      "name": "Outside",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/e0d4f5b6-5127-441d-8b30-f547cc0b4ed5/Outside_Logo_light_1500x1000.png",
+      "posterShape": "square",
+      "description": "Outside - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stingray-greatest-holiday-hits",
+      "type": "tv",
+      "name": "Stingray Greatest Holiday Hits",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251110T235026SQUARE.png",
+      "posterShape": "square",
+      "description": "Stingray Greatest Holiday Hits - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stingray-greatest-holiday-hits",
+      "type": "tv",
+      "name": "Stingray Greatest Holiday Hits",
+      "poster": "https://i.imgur.com/Hz2d6og.png",
+      "posterShape": "square",
+      "description": "Stingray Greatest Holiday Hits - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stories-by-amc",
+      "type": "tv",
+      "name": "Stories by AMC",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png",
+      "posterShape": "square",
+      "description": "Stories by AMC - Action & Drama",
+      "genres": [
+        "Action & Drama",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stories-by-amc",
+      "type": "tv",
+      "name": "Stories by AMC",
+      "poster": "https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png",
+      "posterShape": "square",
+      "description": "Stories by AMC - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stories-by-amc",
+      "type": "tv",
+      "name": "Stories by AMC",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/9fe25501-21e0-41be-97cb-81ce4fd17afc/Stories_ByAMC05fe66edb398fa8a4ee7debc208cf271Color.png",
+      "posterShape": "square",
+      "description": "Stories by AMC - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-vevo-holiday",
+      "type": "tv",
+      "name": "Vevo Holiday",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700012Z0_20251209T013526SQUARE.png",
+      "posterShape": "square",
+      "description": "Vevo Holiday - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-xite-happy-holidays",
+      "type": "tv",
+      "name": "XITE Happy Holidays",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20251110T235031SQUARE.png",
+      "posterShape": "square",
+      "description": "XITE Happy Holidays - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-alaska-state-troopers",
+      "type": "tv",
+      "name": "A&E Alaska State Troopers",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/4269e6c2-6949-4acb-a767-dae9faff021f/AlaskaStateTroopers_channel_logo_white_1500x1000.png",
+      "posterShape": "square",
+      "description": "A&E Alaska State Troopers - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-alaska-state-troopers",
+      "type": "tv",
+      "name": "A&E Alaska State Troopers",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/2fc3353cd214be87e4959643805a4d08/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775264988905_AlaskaStateTroopers_HUD_logo_efefef_center_aligned_260x147.png",
+      "posterShape": "square",
+      "description": "A&E Alaska State Troopers - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-live-pd-greatest-shifts",
+      "type": "tv",
+      "name": "A&E Live PD Greatest Shifts",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/fd548cf2-fcba-4c23-80cb-65a80bdeaad4/LivePD_Greatest_Shifts_channel_logo_4c_1500x1000.png",
+      "posterShape": "square",
+      "description": "A&E Live PD Greatest Shifts - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-a-e-live-pd-greatest-shifts",
+      "type": "tv",
+      "name": "A&E Live PD Greatest Shifts",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/62e84238f51a6b78c3883fbfdfb0cdb0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265344574_LivePD_Greatest_Shifts_HUD_logo_efefef_center_aligned_260x147.png",
+      "posterShape": "square",
+      "description": "A&E Live PD Greatest Shifts - Crime",
+      "genres": [
+        "Crime",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-thrillers",
+      "type": "tv",
+      "name": "AMC Thrillers",
+      "poster": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",
+      "posterShape": "square",
+      "description": "AMC Thrillers - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-thrillers",
+      "type": "tv",
+      "name": "AMC Thrillers",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951377/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "AMC Thrillers - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Horror & Sci-Fi",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Horror & Sci-Fi",
+        "other"
+      ]
+    },
+    {
+      "id": "other-caught-in-providence",
+      "type": "tv",
+      "name": "Caught in Providence",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/b4de0c09-34ab-452f-9dfd-c28dc607af6d/CaughtinProvidence_1500x1000_lightbgd.png",
+      "posterShape": "square",
+      "description": "Caught in Providence - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-chaos-on-cam-by-a-e",
+      "type": "tv",
+      "name": "Chaos on Cam by A&E",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/cf5b9071-33cc-4eab-a25d-1b291bbde740/Chaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png",
+      "posterShape": "square",
+      "description": "Chaos on Cam by A&E - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-chaos-on-cam-by-a-e",
+      "type": "tv",
+      "name": "Chaos on Cam by A&E",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/99e44ea6699928b32c444dce774b9b32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1751556977789_Chaos_On_Cam_by_AE_HUD_logo__efefef_center_aligned_260x147.png",
+      "posterShape": "square",
+      "description": "Chaos on Cam by A&E - TV & Entertainment",
+      "genres": [
+        "TV & Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cinepride",
+      "type": "tv",
+      "name": "CINEPRIDE",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png",
+      "posterShape": "square",
+      "description": "CINEPRIDE - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cinepride",
+      "type": "tv",
+      "name": "CINEPRIDE",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png",
+      "posterShape": "square",
+      "description": "CINEPRIDE - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cinepride",
+      "type": "tv",
+      "name": "CINEPRIDE",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png",
+      "posterShape": "square",
+      "description": "CINEPRIDE - Australia",
+      "genres": [
+        "Australia",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ctv-gridlock",
+      "type": "tv",
+      "name": "CTV Gridlock",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/c147d5a8-6a75-4446-a21f-24ecaead8252/CTVGridlock_Logo_ForDarkBackgrounds_1500x1000.png",
+      "posterShape": "square",
+      "description": "CTV Gridlock - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-dance-moms-by-lifetime",
+      "type": "tv",
+      "name": "Dance Moms by Lifetime",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/7f9a1355-d846-451c-a178-ac0fbc19bd18/DanceMoms-Channel-Logo-_All-White_-1500x1000px.png",
+      "posterShape": "square",
+      "description": "Dance Moms by Lifetime - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-dance-moms-by-lifetime",
+      "type": "tv",
+      "name": "Dance Moms by Lifetime",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951488/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Dance Moms by Lifetime - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Reality TV",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Reality TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-duck-dynasty-by-a-e",
+      "type": "tv",
+      "name": "Duck Dynasty by A&E",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/e37442d3-0104-4006-b6c1-674a8674edb8/Duck_Dynasty_channel_logo_4c_RDX.png",
+      "posterShape": "square",
+      "description": "Duck Dynasty by A&E - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-duck-dynasty-by-a-e",
+      "type": "tv",
+      "name": "Duck Dynasty by A&E",
+      "poster": "https://images.vizio.com/v4/btv/1/1729710674/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Duck Dynasty by A&E - TV",
+      "genres": [
+        "TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-gousa-tv",
+      "type": "tv",
+      "name": "GoUSA TV",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/2a937d36-e14d-470b-a909-746fb0744ec4/gousa-tvWHITE_RDX1500x1000.png",
+      "posterShape": "square",
+      "description": "GoUSA TV - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-gousa-tv",
+      "type": "tv",
+      "name": "GoUSA TV",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+      "posterShape": "square",
+      "description": "GoUSA TV - Canada",
+      "genres": [
+        "Canada",
+        "other"
+      ]
+    },
+    {
+      "id": "other-gousa-tv",
+      "type": "tv",
+      "name": "GoUSA TV",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+      "posterShape": "square",
+      "description": "GoUSA TV - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "other"
+      ]
+    },
+    {
+      "id": "other-los-asesinatos-de-midsomer",
+      "type": "tv",
+      "name": "Los Asesinatos de Midsomer",
+      "poster": "https://i.imgur.com/JIbupT1.png",
+      "posterShape": "square",
+      "description": "Los Asesinatos de Midsomer - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-perform-by-lifetime",
+      "type": "tv",
+      "name": "Perform by Lifetime",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/dda0e6ca-d061-486f-a36e-ac6221a079a4/Perform_by_Lifetime_COLOR_Logo_RDX.png",
+      "posterShape": "square",
+      "description": "Perform by Lifetime - United States",
+      "genres": [
+        "United States",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hegyvidek-tv-budapest-576p-not-24-7",
+      "type": "tv",
+      "name": "Hegyvidek Tv Budapest (576p) [Not 24/7]",
+      "poster": "https://i.imgur.com/t5bw1J1.png",
+      "posterShape": "square",
+      "description": "Hegyvidek Tv Budapest (576p) [Not 24/7] - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-antena-uno-radiovideo-360p",
+      "type": "tv",
+      "name": "Antena Uno RadioVideo (360p)",
+      "poster": "https://i.imgur.com/PCN6iZJ.png",
+      "posterShape": "square",
+      "description": "Antena Uno RadioVideo (360p) - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ksce-vida-cristiana-360p",
+      "type": "tv",
+      "name": "KSCE Vida Cristiana (360p)",
+      "poster": "https://i.imgur.com/970zAEn.png",
+      "posterShape": "square",
+      "description": "KSCE Vida Cristiana (360p) - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-lifetime-love-drama",
+      "type": "tv",
+      "name": "Lifetime Love & Drama",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d8befc9060e861eb1bdd5b21c0403b3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748881675113_LMLDHUD_logo_efefef_center_aligned_260x147.png",
+      "posterShape": "square",
+      "description": "Lifetime Love & Drama - Comedy",
+      "genres": [
+        "Comedy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-stingray-free-riding",
+      "type": "tv",
+      "name": "Stingray Free Riding",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/d90a57a66251fdda967c2e2b9e6aa25d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1753727436599_StingrayFreeRiding_HUDlogo_centered_260x147.png",
+      "posterShape": "square",
+      "description": "Stingray Free Riding - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bridezillas",
+      "type": "tv",
+      "name": "Bridezillas",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/9736abd83294d5fc1663fe8cfe3fcec8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763398177011_WEtv_BZ_ChannelLogo_EPG_260x147_InfoHUD2_Horiz_efefef_Bill_Watts.png",
+      "posterShape": "square",
+      "description": "Bridezillas - TV & Entertainment",
+      "genres": [
+        "TV & Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-vas-o-no-vas-usa",
+      "type": "tv",
+      "name": "Vas O No Vas USA",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/cdfd1ee39343a406984976d2687e894d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765921837825_DealOrNoDealUSA-LATAM_HUD_logo_260x147.png",
+      "posterShape": "square",
+      "description": "Vas O No Vas USA - TV & Entertainment",
+      "genres": [
+        "TV & Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-channel-9-adelaide-720p-geo-blocked",
+      "type": "tv",
+      "name": "Channel 9 Adelaide (720p) [Geo-blocked]",
+      "poster": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+      "posterShape": "square",
+      "description": "Channel 9 Adelaide (720p) [Geo-blocked] - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-deal-or-no-deal-usa",
+      "type": "tv",
+      "name": "Deal or No Deal USA",
+      "poster": "https://canvas-lb.tubitv.com/opts/g7byDgzsOUbQNA==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "Deal or No Deal USA - Games & Competition",
+      "genres": [
+        "Games & Competition",
+        "other"
+      ]
+    },
+    {
+      "id": "other-fear-factor-usa",
+      "type": "tv",
+      "name": "Fear Factor USA",
+      "poster": "https://canvas-lb.tubitv.com/opts/lnF_d9-y39CI8A==/ae22b756-ab2a-4cb2-bb18-ce281b110449/CHgQeDoFMS4xLjlAAQ==",
+      "posterShape": "square",
+      "description": "Fear Factor USA - Games & Competition",
+      "genres": [
+        "Games & Competition",
+        "other"
+      ]
+    },
+    {
+      "id": "other-teve-vida-network-480p-not-24-7",
+      "type": "tv",
+      "name": "Teve Vida Network (480p) [Not 24/7]",
+      "poster": "https://i.imgur.com/lCpf5P1.png",
+      "posterShape": "square",
+      "description": "Teve Vida Network (480p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-sol-comunidade-480p-not-24-7",
+      "type": "tv",
+      "name": "TV Sol Comunidade (480p) [Not 24/7]",
+      "poster": "https://i.imgur.com/5cGnb4r.png",
+      "posterShape": "square",
+      "description": "TV Sol Comunidade (480p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-tour-channel-480p-not-24-7",
+      "type": "tv",
+      "name": "Video Tour Channel (480p) [Not 24/7]",
+      "poster": "https://i.imgur.com/zEi8eMC.png",
+      "posterShape": "square",
+      "description": "Video Tour Channel (480p) [Not 24/7] - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-lidia-s-kitchen",
+      "type": "tv",
+      "name": "Lidia's Kitchen",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951151/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "Lidia's Kitchen - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Food",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Food",
+        "other"
+      ]
+    },
+    {
+      "id": "other-111-majordomo-tv-with-david-chang",
+      "type": "tv",
+      "name": "111 Majordomo TV with David Chang",
+      "poster": "http://img.platform.wurl.dev/channel/1369/lg/82e65a/LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "111 Majordomo TV with David Chang - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-274-stories-by-amc",
+      "type": "tv",
+      "name": "274 Stories by AMC",
+      "poster": "http://img.platform.wurl.dev/channel/474/lg/356989/LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "274 Stories by AMC - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-320-storage-wars-by-a-e",
+      "type": "tv",
+      "name": "320 Storage Wars by A&E",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1967-LG-Logo-PNG-100x100_v6.png",
+      "posterShape": "square",
+      "description": "320 Storage Wars by A&E - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-321-discovery-turbo-tv",
+      "type": "tv",
+      "name": "321 Discovery Turbo TV",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/DiscoveryTurboTV/DiscoveryTurboTV_Logo_400x200.png",
+      "posterShape": "square",
+      "description": "321 Discovery Turbo TV - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-374-nash-bridges",
+      "type": "tv",
+      "name": "374 Nash Bridges",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Nash%20Bridges/NashBridges_LGLaunch_Guide_Logo_800x200.png",
+      "posterShape": "square",
+      "description": "374 Nash Bridges - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-387-a-e-alaska-state-troopers",
+      "type": "tv",
+      "name": "387 A&E Alaska State Troopers",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2181-LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "387 A&E Alaska State Troopers - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-392-crimes-cults-killers-by-a-e",
+      "type": "tv",
+      "name": "392 Crimes Cults Killers  by A&E",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png",
+      "posterShape": "square",
+      "description": "392 Crimes Cults Killers  by A&E - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-394-a-e-live-pd-greatest-shifts",
+      "type": "tv",
+      "name": "394 A&E Live PD Greatest Shifts",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2183-LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "394 A&E Live PD Greatest Shifts - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-410-chaos-on-cam-by-a-e",
+      "type": "tv",
+      "name": "410 Chaos on Cam by A&E",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ChaosCam/Chaos_On_Cam_By_AE_LG-Logo-PNG-400x200.png",
+      "posterShape": "square",
+      "description": "410 Chaos on Cam by A&E - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-413-dark-side-of",
+      "type": "tv",
+      "name": "413 Dark Side Of",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/DarkSide_400x200.png",
+      "posterShape": "square",
+      "description": "413 Dark Side Of - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-429-anime-x-hidive",
+      "type": "tv",
+      "name": "429 ANIME x HIDIVE",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1398-LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "429 ANIME x HIDIVE - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-451-team-usa-tv",
+      "type": "tv",
+      "name": "451 Team USA TV",
+      "poster": "https://d2gqmql520my5n.cloudfront.net/USATV/TeamUSATVLogoWhite_800x200.png",
+      "posterShape": "square",
+      "description": "451 Team USA TV - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-471-dazn-ringside",
+      "type": "tv",
+      "name": "471 DAZN Ringside",
+      "poster": "https://d2epwduv7bstma.cloudfront.net/Dazn_Ringside/LG/DAZN_RINGSIDE_WHITE_800x264_TV.png",
+      "posterShape": "square",
+      "description": "471 DAZN Ringside - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-812-tudiscovery",
+      "type": "tv",
+      "name": "812 TuDiscovery",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/Tu_Discovery_Logo_Channel_Banner.png",
+      "posterShape": "square",
+      "description": "812 TuDiscovery - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-838-amc-en-espa-ol",
+      "type": "tv",
+      "name": "838 AMC en Espa\u00f1ol",
+      "poster": "http://img.platform.wurl.dev/channel/1228/lg/4d8396/LG-Logo-PNG-100x100_v1.png",
+      "posterShape": "square",
+      "description": "838 AMC en Espa\u00f1ol - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-927-stingray-holidayscapes",
+      "type": "tv",
+      "name": "927 Stingray Holidayscapes",
+      "poster": "https://epg.sam.stingray.com/IMAGE/HOL-001/lg-direct/Channel_Logo_315x200.png",
+      "posterShape": "square",
+      "description": "927 Stingray Holidayscapes - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mbc-busan-mbc-360p-not-24-7",
+      "type": "tv",
+      "name": "MBC Busan (\ubd80\uc0b0MBC) (360p) [Not 24/7]",
+      "poster": "https://i.imgur.com/jiFOYi5.png",
+      "posterShape": "square",
+      "description": "MBC Busan (\ubd80\uc0b0MBC) (360p) [Not 24/7] - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-12-on-your-side-richmond",
+      "type": "tv",
+      "name": "12 On Your Side Richmond",
+      "poster": "https://images.vizio.com/v4/btv/1/1664636427/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "12 On Your Side Richmond - LOCAL CHANNELS",
+      "genres": [
+        "LOCAL CHANNELS",
+        "other"
+      ]
+    },
+    {
+      "id": "other-amc-absolute-reality",
+      "type": "tv",
+      "name": "AMC Absolute Reality",
+      "poster": "https://i.imgur.com/Gtwk8ic.png",
+      "posterShape": "square",
+      "description": "AMC Absolute Reality - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-best-of-magnus-midtb",
+      "type": "tv",
+      "name": "Best of Magnus Midtb\u00f8",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Best of Magnus Midtb\u00f8 - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-best-of-magnus-midtb",
+      "type": "tv",
+      "name": "Best of Magnus Midtb\u00f8",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Best of Magnus Midtb\u00f8 - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-call-the-midwife",
+      "type": "tv",
+      "name": "Call the Midwife",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Call the Midwife - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-canal-33-madrid",
+      "type": "tv",
+      "name": "Canal 33 Madrid",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg",
+      "posterShape": "square",
+      "description": "Canal 33 Madrid - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-canal-universidad",
+      "type": "tv",
+      "name": "Canal Universidad",
+      "poster": "https://i.imgur.com/trmPKYw.png",
+      "posterShape": "square",
+      "description": "Canal Universidad - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-cazador-de-homicidas",
+      "type": "tv",
+      "name": "Cazador de Homicidas",
+      "poster": "https://i.imgur.com/hy6FJLe.png",
+      "posterShape": "square",
+      "description": "Cazador de Homicidas - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-deshebideshe-tv",
+      "type": "tv",
+      "name": "DesheBideshe TV",
+      "poster": "https://i.imgur.com/Ek1Ohj6.png",
+      "posterShape": "square",
+      "description": "DesheBideshe TV - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-flowers-tv-usa",
+      "type": "tv",
+      "name": "Flowers TV USA",
+      "poster": "https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png",
+      "posterShape": "square",
+      "description": "Flowers TV USA - Culture",
+      "genres": [
+        "Culture",
+        "other"
+      ]
+    },
+    {
+      "id": "other-forsidefruer",
+      "type": "tv",
+      "name": "Forsidefruer",
+      "poster": "https://images.pluto.tv/channels/61c19dcefbb4b50007d242e1/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Forsidefruer - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-heidi",
+      "type": "tv",
+      "name": "Heidi",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Heidi - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-homicide-hunter",
+      "type": "tv",
+      "name": "Homicide Hunter",
+      "poster": "https://i.imgur.com/ZSnATs0.png",
+      "posterShape": "square",
+      "description": "Homicide Hunter - Series",
+      "genres": [
+        "Series",
+        "other"
+      ]
+    },
+    {
+      "id": "other-i-soliti-idioti",
+      "type": "tv",
+      "name": "I soliti idioti",
+      "poster": "",
+      "posterShape": "square",
+      "description": "I soliti idioti - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-identit-t-l-cara-bes-548p",
+      "type": "tv",
+      "name": "Identit\u00e9 T\u00e9l\u00e9 Cara\u00efbes (548p)",
+      "poster": "https://i.imgur.com/Atsf6Cd.png",
+      "posterShape": "square",
+      "description": "Identit\u00e9 T\u00e9l\u00e9 Cara\u00efbes (548p) - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-kanal-jadid",
+      "type": "tv",
+      "name": "Kanal Jadid",
+      "poster": "https://i.imgur.com/7oGGgfD.png",
+      "posterShape": "square",
+      "description": "Kanal Jadid - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-love-island-usa",
+      "type": "tv",
+      "name": "Love Island USA",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Love Island USA - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-mit-plastikmareridt",
+      "type": "tv",
+      "name": "Mit plastikmareridt",
+      "poster": "https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Mit plastikmareridt - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-occidental-tv",
+      "type": "tv",
+      "name": "Occidental TV",
+      "poster": "https://i.imgur.com/8IRBA9h.png",
+      "posterShape": "square",
+      "description": "Occidental TV - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pimp-my-ride",
+      "type": "tv",
+      "name": "Pimp My Ride",
+      "poster": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pimp My Ride - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pimp-my-ride",
+      "type": "tv",
+      "name": "Pimp My Ride",
+      "poster": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pimp My Ride - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pimp-my-ride",
+      "type": "tv",
+      "name": "Pimp My Ride",
+      "poster": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pimp My Ride - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-curiosidade",
+      "type": "tv",
+      "name": "Pluto TV Curiosidade",
+      "poster": "https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG_1732044385150.png",
+      "posterShape": "square",
+      "description": "Pluto TV Curiosidade - Documentary",
+      "genres": [
+        "Documentary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-estilo-de-vida",
+      "type": "tv",
+      "name": "Pluto TV Estilo de Vida",
+      "poster": "https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1778796418782.png",
+      "posterShape": "square",
+      "description": "Pluto TV Estilo de Vida - Lifestyle",
+      "genres": [
+        "Lifestyle",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-inside",
+      "type": "tv",
+      "name": "Pluto TV Inside",
+      "poster": "https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Pluto TV Inside - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-vida-real",
+      "type": "tv",
+      "name": "Pluto TV Vida Real",
+      "poster": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png",
+      "posterShape": "square",
+      "description": "Pluto TV Vida Real - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pluto-tv-vida-real",
+      "type": "tv",
+      "name": "Pluto TV Vida Real",
+      "poster": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png",
+      "posterShape": "square",
+      "description": "Pluto TV Vida Real - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-promovideo-tv-486p",
+      "type": "tv",
+      "name": "Promovideo TV (486p)",
+      "poster": "https://i.imgur.com/eKpS5Ck.png",
+      "posterShape": "square",
+      "description": "Promovideo TV (486p) - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rawhide-tausend-meilen-staub",
+      "type": "tv",
+      "name": "Rawhide Tausend Meilen Staub",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Rawhide Tausend Meilen Staub - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ridiculousness-nya-avsnitt",
+      "type": "tv",
+      "name": "Ridiculousness Nya avsnitt",
+      "poster": "https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png",
+      "posterShape": "square",
+      "description": "Ridiculousness Nya avsnitt - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ridiculousness-nye-afsnit",
+      "type": "tv",
+      "name": "Ridiculousness Nye afsnit",
+      "poster": "https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png",
+      "posterShape": "square",
+      "description": "Ridiculousness Nye afsnit - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ridiculousness-nye-episoder",
+      "type": "tv",
+      "name": "Ridiculousness Nye episoder",
+      "poster": "https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/colorLogoPNG_1762510989212.png",
+      "posterShape": "square",
+      "description": "Ridiculousness Nye episoder - Entertainment",
+      "genres": [
+        "Entertainment",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ritmos-inolvidables",
+      "type": "tv",
+      "name": "Ritmos Inolvidables",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Ritmos Inolvidables - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ruidos-fm",
+      "type": "tv",
+      "name": "Ruidos FM",
+      "poster": "https://i.imgur.com/avIcT83.png",
+      "posterShape": "square",
+      "description": "Ruidos FM - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-s-quiero-ese-vestido",
+      "type": "tv",
+      "name": "S\u00ed quiero ese vestido",
+      "poster": "",
+      "posterShape": "square",
+      "description": "S\u00ed quiero ese vestido - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-til-middag-hos",
+      "type": "tv",
+      "name": "Til Middag Hos",
+      "poster": "https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png",
+      "posterShape": "square",
+      "description": "Til Middag Hos - Cooking;Lifestyle",
+      "genres": [
+        "Cooking;Lifestyle",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tokusato",
+      "type": "tv",
+      "name": "Tokusato",
+      "poster": "https://i.imgur.com/tWpjXtl.png",
+      "posterShape": "square",
+      "description": "Tokusato - Animation",
+      "genres": [
+        "Animation",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-cidade",
+      "type": "tv",
+      "name": "TV Cidade",
+      "poster": "https://i.imgur.com/gmSu21X.jpg",
+      "posterShape": "square",
+      "description": "TV Cidade - Music",
+      "genres": [
+        "Music",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-cidade-oeste",
+      "type": "tv",
+      "name": "TV Cidade Oeste",
+      "poster": "https://i.imgur.com/EmYaxEh.png",
+      "posterShape": "square",
+      "description": "TV Cidade Oeste - General",
+      "genres": [
+        "General",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-universidad",
+      "type": "tv",
+      "name": "TV Universidad",
+      "poster": "https://i.imgur.com/0MXsQ25.png",
+      "posterShape": "square",
+      "description": "TV Universidad - Education",
+      "genres": [
+        "Education",
+        "other"
+      ]
+    },
+    {
+      "id": "other-unidad-de-investigaci-n",
+      "type": "tv",
+      "name": "Unidad de investigaci\u00f3n",
+      "poster": "https://i.imgur.com/tc3zenG.png",
+      "posterShape": "square",
+      "description": "Unidad de investigaci\u00f3n - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-vida-nueva-tv",
+      "type": "tv",
+      "name": "Vida Nueva TV",
+      "poster": "https://i.imgur.com/lxv1lre.png",
+      "posterShape": "square",
+      "description": "Vida Nueva TV - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tv-midt-vest",
+      "type": "tv",
+      "name": "TV/Midt-Vest",
+      "poster": "https://i.imgur.com/OU7xIVa.png",
+      "posterShape": "square",
+      "description": "TV/Midt-Vest - Denmark",
+      "genres": [
+        "Denmark",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tlc-finland",
+      "type": "tv",
+      "name": "TLC Finland",
+      "poster": "https://i.imgur.com/0d5hP3A.png",
+      "posterShape": "square",
+      "description": "TLC Finland - Finland",
+      "genres": [
+        "Finland",
+        "other"
+      ]
+    },
+    {
+      "id": "other-hegyvid-k-tv",
+      "type": "tv",
+      "name": "Hegyvid\u00e9k TV",
+      "poster": "https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg",
+      "posterShape": "square",
+      "description": "Hegyvid\u00e9k TV - Hungary",
+      "genres": [
+        "Hungary",
+        "other"
+      ]
+    },
+    {
+      "id": "other-food-network",
+      "type": "tv",
+      "name": "Food Network",
+      "poster": "https://i.imgur.com/i60OYr9.png",
+      "posterShape": "square",
+      "description": "Food Network - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-discovery-channel",
+      "type": "tv",
+      "name": "Discovery Channel",
+      "poster": "https://i.imgur.com/5IxIFJ0.png",
+      "posterShape": "square",
+      "description": "Discovery Channel - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-idea-plus",
+      "type": "tv",
+      "name": "Idea Plus",
+      "poster": "https://i.imgur.com/2edmxYF.png",
+      "posterShape": "square",
+      "description": "Idea Plus - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tele-occidente",
+      "type": "tv",
+      "name": "Tele Occidente",
+      "poster": "https://i.imgur.com/3aOiWKa.png",
+      "posterShape": "square",
+      "description": "Tele Occidente - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tele-video-agrigento-t-v-a",
+      "type": "tv",
+      "name": "Tele Video Agrigento (T.V.A.)",
+      "poster": "https://i.imgur.com/AaPr63E.png",
+      "posterShape": "square",
+      "description": "Tele Video Agrigento (T.V.A.) - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-calabria",
+      "type": "tv",
+      "name": "Video Calabria",
+      "poster": "https://i.imgur.com/Bc2AvIm.png",
+      "posterShape": "square",
+      "description": "Video Calabria - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-mediterraneo",
+      "type": "tv",
+      "name": "Video Mediterraneo",
+      "poster": "https://i.imgur.com/hJHC3uQ.png",
+      "posterShape": "square",
+      "description": "Video Mediterraneo - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-nola",
+      "type": "tv",
+      "name": "Video Nola",
+      "poster": "https://i.imgur.com/M5z5UoD.jpg",
+      "posterShape": "square",
+      "description": "Video Nola - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-regione-sicilia",
+      "type": "tv",
+      "name": "Video Regione Sicilia",
+      "poster": "https://i.imgur.com/0szwnR3.png",
+      "posterShape": "square",
+      "description": "Video Regione Sicilia - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-star-tv-sicilia",
+      "type": "tv",
+      "name": "Video Star Tv Sicilia",
+      "poster": "https://i.imgur.com/1ddJVZ7.jpg",
+      "posterShape": "square",
+      "description": "Video Star Tv Sicilia - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-video-touring-tv",
+      "type": "tv",
+      "name": "Video Touring Tv",
+      "poster": "https://i.imgur.com/E2Feao5.jpg",
+      "posterShape": "square",
+      "description": "Video Touring Tv - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-videonovara",
+      "type": "tv",
+      "name": "Videonovara",
+      "poster": "https://i.imgur.com/NnO7E5I.png",
+      "posterShape": "square",
+      "description": "Videonovara - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-trm-h24",
+      "type": "tv",
+      "name": "TRM h24 \u24ce",
+      "poster": "https://i.imgur.com/d47CdYU.png",
+      "posterShape": "square",
+      "description": "TRM h24 \u24ce - Italy",
+      "genres": [
+        "Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-tbs",
+      "type": "tv",
+      "name": "TBS\u30c6\u30ec\u30d3",
+      "poster": "https://i.imgur.com/jIZ9TlO.png",
+      "posterShape": "square",
+      "description": "TBS\u30c6\u30ec\u30d3 - \u65e5\u672c / Japan",
+      "genres": [
+        "\u65e5\u672c / Japan",
+        "other"
+      ]
+    },
+    {
+      "id": "other-bs-tbs",
+      "type": "tv",
+      "name": "BS-TBS",
+      "poster": "https://i.imgur.com/BSt9UG2.png",
+      "posterShape": "square",
+      "description": "BS-TBS - \u65e5\u672c / Japan",
+      "genres": [
+        "\u65e5\u672c / Japan",
+        "other"
+      ]
+    },
+    {
+      "id": "other-telemadrid",
+      "type": "tv",
+      "name": "Telemadrid",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png",
+      "posterShape": "square",
+      "description": "Telemadrid - Spain",
+      "genres": [
+        "Spain",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ideal-world",
+      "type": "tv",
+      "name": "Ideal World",
+      "poster": "https://i.imgur.com/su6GH7i.png",
+      "posterShape": "square",
+      "description": "Ideal World - UK",
+      "genres": [
+        "UK",
+        "other"
+      ]
+    },
+    {
+      "id": "other-pimp-my-ride-pluto-tv",
+      "type": "tv",
+      "name": "Pimp My Ride \u2013 Pluto TV",
+      "poster": "https://i.imgur.com/GC2wj2K.png",
+      "posterShape": "square",
+      "description": "Pimp My Ride \u2013 Pluto TV - VOD Italy",
+      "genres": [
+        "VOD Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ridiculousness-pluto-tv",
+      "type": "tv",
+      "name": "Ridiculousness \u2013 Pluto TV",
+      "poster": "https://i.imgur.com/Yyj3Dm6.png",
+      "posterShape": "square",
+      "description": "Ridiculousness \u2013 Pluto TV - VOD Italy",
+      "genres": [
+        "VOD Italy",
+        "other"
+      ]
+    },
+    {
+      "id": "other-rbol-de-vida-tv-240p-not-24-7",
+      "type": "tv",
+      "name": "\u00c1rbol de Vida TV (240p) [Not 24/7]",
+      "poster": "https://i.imgur.com/4sGDc4X.jpg",
+      "posterShape": "square",
+      "description": "\u00c1rbol de Vida TV (240p) [Not 24/7] - Religious",
+      "genres": [
+        "Religious",
+        "other"
+      ]
+    },
+    {
+      "id": "other-musayof-israel-240p-not-24-7",
+      "type": "tv",
+      "name": "Musayof (Israel) (240p) [Not 24/7]",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Musayof (Israel) (240p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-videolina-sardegna-404p-not-24-7",
+      "type": "tv",
+      "name": "Videolina (Sardegna) (404p) [Not 24/7]",
+      "poster": "https://i.imgur.com/nQwXaef.png",
+      "posterShape": "square",
+      "description": "Videolina (Sardegna) (404p) [Not 24/7] - Undefined",
+      "genres": [
+        "Undefined",
+        "other"
+      ]
+    },
+    {
+      "id": "other-ideas-en-5-minutos-spanish",
+      "type": "tv",
+      "name": "Ideas En 5 Minutos Spanish",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Ideas En 5 Minutos Spanish - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-brightside-english",
+      "type": "tv",
+      "name": "Brightside English",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Brightside English - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-brightside-spanish-geo",
+      "type": "tv",
+      "name": "Brightside Spanish Geo",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Brightside Spanish Geo - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    },
+    {
+      "id": "other-latido-music-geo",
+      "type": "tv",
+      "name": "Latido Music Geo",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Latido Music Geo - Live TV",
+      "genres": [
+        "Live TV",
+        "other"
+      ]
+    }
+  ]
+}

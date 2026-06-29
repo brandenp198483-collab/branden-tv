@@ -1,0 +1,51 @@
+{
+  "id": "community.brandentv",
+  "version": "1.0.0",
+  "name": "BrandenTV",
+  "description": "Custom BrandenTV live TV channels",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "tv"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "news",
+      "name": "BrandenTV News"
+    },
+    {
+      "type": "tv",
+      "id": "kids",
+      "name": "BrandenTV Kids"
+    },
+    {
+      "type": "tv",
+      "id": "sports",
+      "name": "BrandenTV Sports"
+    },
+    {
+      "type": "tv",
+      "id": "movies",
+      "name": "BrandenTV Movies"
+    },
+    {
+      "type": "tv",
+      "id": "other",
+      "name": "BrandenTV Other"
+    }
+  ],
+  "idPrefixes": [
+    "news-",
+    "kids-",
+    "sports-",
+    "movies-",
+    "other-"
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

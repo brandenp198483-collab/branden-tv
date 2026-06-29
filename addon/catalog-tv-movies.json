@@ -1,0 +1,412 @@
+{
+  "metas": [
+    {
+      "id": "movies-hallmark-movies-more-1080p",
+      "type": "tv",
+      "name": "Hallmark Movies & More (1080p)",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png",
+      "posterShape": "square",
+      "description": "Hallmark Movies & More (1080p) - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-hallmark-movies-more",
+      "type": "tv",
+      "name": "Hallmark Movies & More",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20251209T013517SQUARE.png",
+      "posterShape": "square",
+      "description": "Hallmark Movies & More - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-forensic-files",
+      "type": "tv",
+      "name": "Forensic Files",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/3f79b58a-d938-4555-bed6-f64107110e63/FilmRise_ForensicFiles_Color_Logo.png",
+      "posterShape": "square",
+      "description": "Forensic Files - United States",
+      "genres": [
+        "United States",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-the-fbi-files",
+      "type": "tv",
+      "name": "The FBI Files",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/7c8f08bd-78d1-45e6-a447-ad9c0142963d/FilmRise_FBIFilesThe_Logo_Color.png",
+      "posterShape": "square",
+      "description": "The FBI Files - United States",
+      "genres": [
+        "United States",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-the-fbi-files",
+      "type": "tv",
+      "name": "The FBI Files",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/7c8f08bd-78d1-45e6-a447-ad9c0142963d/FilmRise_FBIFilesThe_Logo_Color.png",
+      "posterShape": "square",
+      "description": "The FBI Files - Canada",
+      "genres": [
+        "Canada",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-filmrise-forensic-files",
+      "type": "tv",
+      "name": "FilmRise Forensic Files",
+      "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/62945e18ab825bfd8b4995d9bd14917b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451317145_FilmRise-ForensicFiles_260x147_copy.png",
+      "posterShape": "square",
+      "description": "FilmRise Forensic Files - Crime",
+      "genres": [
+        "Crime",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-236-hallmark-movies-and-more",
+      "type": "tv",
+      "name": "236 Hallmark Movies And More",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/crownmedia/HMMore_LG_Launch_Assets_Logo_White.png",
+      "posterShape": "square",
+      "description": "236 Hallmark Movies And More - Live TV",
+      "genres": [
+        "Live TV",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-381-forensic-files",
+      "type": "tv",
+      "name": "381 Forensic Files",
+      "poster": "https://image.xumo.com/v1/channels/channel/99992255/600x200.png?type=white_cropped",
+      "posterShape": "square",
+      "description": "381 Forensic Files - Live TV",
+      "genres": [
+        "Live TV",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-girlfriends",
+      "type": "tv",
+      "name": "Girlfriends",
+      "poster": "https://i.imgur.com/hCcdrOv.png",
+      "posterShape": "square",
+      "description": "Girlfriends - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movie-favorites",
+      "type": "tv",
+      "name": "Lifetime Movie Favorites",
+      "poster": "https://images.vizio.com/v4/btv/1/1736242160/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Lifetime Movie Favorites - MOVIES",
+      "genres": [
+        "MOVIES",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movie-favorites",
+      "type": "tv",
+      "name": "Lifetime Movie Favorites",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/64ce3127-c379-4c7f-b576-7a4c167c8311/LTMF_channel_logo_4c_1500x1000rdx.png",
+      "posterShape": "square",
+      "description": "Lifetime Movie Favorites - United States",
+      "genres": [
+        "United States",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movie-favorites-720p",
+      "type": "tv",
+      "name": "Lifetime Movie Favorites (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Lifetime Movie Favorites (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-amc-720p",
+      "type": "tv",
+      "name": "AMC (720p)",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+      "posterShape": "square",
+      "description": "AMC (720p) - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movies-1080p",
+      "type": "tv",
+      "name": "Lifetime Movies (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Lifetime Movies (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movies-1080p",
+      "type": "tv",
+      "name": "Lifetime Movies (1080p)",
+      "poster": "https://i.imgur.com/BWmqYTO.png",
+      "posterShape": "square",
+      "description": "Lifetime Movies (1080p) - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movies",
+      "type": "tv",
+      "name": "Lifetime Movies",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/18bab13d-afa7-4df6-8149-c8ddef9dd212/Lifetime_Movies_channel_logo_white_1500x1000.png",
+      "posterShape": "square",
+      "description": "Lifetime Movies - United Kingdom",
+      "genres": [
+        "United Kingdom",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movies-love-drama-1080p",
+      "type": "tv",
+      "name": "Lifetime Movies Love & Drama (1080p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Lifetime Movies Love & Drama (1080p) - Undefined",
+      "genres": [
+        "Undefined",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movies-love-drama",
+      "type": "tv",
+      "name": "Lifetime Movies Love & Drama",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20250812T003506SQUARE.png",
+      "posterShape": "square",
+      "description": "Lifetime Movies Love & Drama - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movies-love-drama",
+      "type": "tv",
+      "name": "Lifetime Movies: Love & Drama",
+      "poster": "https://images.vizio.com/v4/btv/1/1736207556/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "Lifetime Movies: Love & Drama - MOVIES",
+      "genres": [
+        "MOVIES",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-brividy-cinema-720p",
+      "type": "tv",
+      "name": "Brividy Cinema (720p)",
+      "poster": "",
+      "posterShape": "square",
+      "description": "Brividy Cinema (720p) - Undefined",
+      "genres": [
+        "Undefined",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-cinema-hausa-720p",
+      "type": "tv",
+      "name": "Cinema Hausa (720p)",
+      "poster": "https://i.imgur.com/uV5cHDW.png",
+      "posterShape": "square",
+      "description": "Cinema Hausa (720p) - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-b4u-movies-usa-576p",
+      "type": "tv",
+      "name": "B4U Movies USA (576p)",
+      "poster": "https://i.imgur.com/M9kMFJl.png",
+      "posterShape": "square",
+      "description": "B4U Movies USA (576p) - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-tv-land-drama",
+      "type": "tv",
+      "name": "TV Land Drama",
+      "poster": "https://i.imgur.com/y1rXIAS.png",
+      "posterShape": "square",
+      "description": "TV Land Drama - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-holiday-movie-favorites-by-lifetime",
+      "type": "tv",
+      "name": "Holiday Movie Favorites by Lifetime",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20251209T013523SQUARE.png",
+      "posterShape": "square",
+      "description": "Holiday Movie Favorites by Lifetime - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-movie-hub-holiday",
+      "type": "tv",
+      "name": "Movie Hub Holiday",
+      "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400006RQ_20251209T013507SQUARE.png",
+      "posterShape": "square",
+      "description": "Movie Hub Holiday - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-amc-thrillers",
+      "type": "tv",
+      "name": "AMC Thrillers",
+      "poster": "https://images.vizio.com/v4/btv/1/1646279455/1/267/150/0.jpg",
+      "posterShape": "square",
+      "description": "AMC Thrillers - MOVIES",
+      "genres": [
+        "MOVIES",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-lifetime-movies-black-stories",
+      "type": "tv",
+      "name": "Lifetime Movies: Black Stories",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/fc50e93b-e71e-43e4-b971-a761d54f942e/Black_Stories_channel_logo_4c_1500x1000.png",
+      "posterShape": "square",
+      "description": "Lifetime Movies: Black Stories - United States",
+      "genres": [
+        "United States",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-los-asesinatos-de-midsomer",
+      "type": "tv",
+      "name": "Los Asesinatos de Midsomer",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/62edc9bb-327b-4492-aeae-0e354fa07bdd/FilmRise_LosAsesinatoesDeMidsomer_Channel_Logo_WhiteRDX.png",
+      "posterShape": "square",
+      "description": "Los Asesinatos de Midsomer - United States",
+      "genres": [
+        "United States",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-los-asesinatos-de-midsomer",
+      "type": "tv",
+      "name": "Los asesinatos de Midsomer",
+      "poster": "https://provider-static.plex.tv/epg/cms/production/09eae207-0184-4fc6-b1f7-65f5568b9b11/FilmRise_LosAsesinatoesDeMidsomer_Channel_Logo_WhiteRDX.png",
+      "posterShape": "square",
+      "description": "Los asesinatos de Midsomer - Mexico",
+      "genres": [
+        "Mexico",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-world-s-wildest-police-videos",
+      "type": "tv",
+      "name": "World's Wildest Police Videos",
+      "poster": "https://image.xumo.com/v1/channels/channel/99951315/300x300.webp?type=color_onBlack",
+      "posterShape": "square",
+      "description": "World's Wildest Police Videos - XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Crime TV",
+      "genres": [
+        "XUMO\u00f0\u0178\u2021\u00ba\u00f0\u0178\u2021\u00b8: Crime TV",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-237-lifetime-movie-favorites",
+      "type": "tv",
+      "name": "237 Lifetime Movie Favorites",
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/999-LG-Logo-PNG-100x100_v11.png",
+      "posterShape": "square",
+      "description": "237 Lifetime Movie Favorites - Live TV",
+      "genres": [
+        "Live TV",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-238-lifetime-movies-black-stories",
+      "type": "tv",
+      "name": "238 Lifetime Movies: Black Stories",
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/LifetimeLoveDrama/LMLDBlackStories_LG-Logo-PNG-100x100.png",
+      "posterShape": "square",
+      "description": "238 Lifetime Movies: Black Stories - Live TV",
+      "genres": [
+        "Live TV",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-kinosvidanie",
+      "type": "tv",
+      "name": "Kinosvidanie",
+      "poster": "https://i.imgur.com/ZRaWqxj.png",
+      "posterShape": "square",
+      "description": "Kinosvidanie - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    },
+    {
+      "id": "movies-wild-side-tv",
+      "type": "tv",
+      "name": "Wild Side TV",
+      "poster": "https://i.imgur.com/cQkfRhH.png",
+      "posterShape": "square",
+      "description": "Wild Side TV - Movies",
+      "genres": [
+        "Movies",
+        "movies"
+      ]
+    }
+  ]
+}
