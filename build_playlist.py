@@ -30,6 +30,7 @@ def clean_key(name):
 
 sources = json.load(open("sources.json"))
 favorites = [x.strip().lower() for x in open("favorites.txt") if x.strip()]
+watchlist = [x.strip().lower() for x in open("premium_watchlist.txt") if x.strip()]
 
 all_channels = []
 
@@ -74,9 +75,22 @@ with OUT.open("w", encoding="utf-8") as f:
     f.write("\n# ===== ALL CHANNELS =====\n")
     for ch in other:
         f.write(ch["info"] + "\n" + ch["url"] + "\n")
+watch_matches = []
+for ch in channels:
+    n = ch["name"].lower()
+    if any(w in n for w in watchlist):
+        watch_matches.append(ch)
+
+watch_file = Path("output/premium_watchlist_matches.txt")
+with watch_file.open("w", encoding="utf-8") as f:
+    for ch in watch_matches:
+        f.write(f'{ch["name"]} | source={ch["source"]} | {ch["url"]}\n')
 
 print("\nDONE")
 print(f"Total raw channels: {len(all_channels)}")
 print(f"After dedupe: {len(channels)}")
 print(f"Favorites: {len(fav)}")
 print(f"Created: {OUT}")
+
+print(f"Premium/watchlist matches: {len(watch_matches)}")
+print(f"Watchlist report: {watch_file}")
