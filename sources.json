@@ -1,0 +1,15 @@
+{
+  "iptv_org": "https://iptv-org.github.io/iptv/index.m3u",
+  "pluto": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-live-US.m3u",
+  "samsung": "https://apsattv.com/ssungusa.m3u",
+  "roku_online": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/roku_all.m3u",
+  "tubi": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
+  "plex": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_all.m3u",
+  "lg": "https://www.apsattv.com/uslg.m3u",
+  "xumo": "https://www.apsattv.com/xumo.m3u",
+  "vizio": "https://www.apsattv.com/vizio.m3u",
+  "xiaomi": "https://www.apsattv.com/xiaomi.m3u",
+  "distro": "https://www.apsattv.com/distro.m3u",
+  "localnow": "https://www.apsattv.com/localnow.m3u",
+  "free_tv": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+}
