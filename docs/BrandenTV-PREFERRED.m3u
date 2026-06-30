@@ -1,24 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
-http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="AMC.af@SD" tvg-logo="https://i.imgur.com/yj8RNnG.png" group-title="Entertainment",AMC
+https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="Entertainment",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",E!
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="FX.us@East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="Entertainment",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Entertainment",Lifetime
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-id="TBSTV.kr@SD" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Entertainment",TBS
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Entertainment",TNT
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
+http://rezofoot.tv/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" tvg-country="JP" group-title="Entertainment",TBS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",TNT
+http://94.230.129.31:8080/THT/index.m3u8
 #EXTINF:-1 tvg-id="TVLand.us@East" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Entertainment",TV Land
 http://185.246.209.113/TVLandHD/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
@@ -51,14 +49,10 @@ https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",History 365
 https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",History Channel
-https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Channel
+http://84.17.50.102/history/index.m3u8
 #EXTINF:-1 tvg-name="TLC Finland" tvg-logo="https://i.imgur.com/0d5hP3A.png" tvg-id="TLCFinland.fi" tvg-chno="11" tvg-country="FI" group-title="Documentary",TLC
 https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
-#EXTINF:-1 group-title="Movies" -1,HBO
-https://amg00136-wbd-amg00136c41-tablo-us-7200.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarzKidsFamily.us@East" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="Movies",Starz
-http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr.
 https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon

@@ -29,21 +29,20 @@ BAD = [
     "latino","spanish","espanol","español",
     "adult","xxx","porn","test","backup","vip","ppv","vod","24/7","24-7",
     "intervention","bravo kids","arryadia","テレビ","geo-blocked","warfare now",
-    "idaho","boise"
+    "idaho","boise" ,"latin america","tbsテレビ", "seoul","テレビ","kids tv","boxing","warfare","untold","time","movies","arryadia","geo-blocked"
 ]
 QUALITY = [("4k",80),("uhd",75),("fhd",70),("1080",65),("hd",55),("720",45),("sd",20)]
 GOOD = ["usa","us","u.s.","united states","english","en","east","west"]
 
 ALIASES = {
-    "A&E":[r"\ba\s*&\s*e\b",r"\ba&e\b"],
-    "USA Network":[r"\busa network\b",r"\busa\b"],
-    "FS1":[r"\bfs1\b",r"\bfox sports 1\b"],
-    "FS2":[r"\bfs2\b",r"\bfox sports 2\b"],
-    "LMN":[r"\blmn\b",r"\blifetime movie network\b"],
-    "Lifetime Movie Network":[r"\blifetime movie network\b",r"\blmn\b"],
-    "Investigation Discovery":[r"\binvestigation discovery\b",r"\bid\b"],
-    "History Channel":[r"\bhistory channel\b",r"\bhistory\b"],
-    "The Weather Channel":[r"\bthe weather channel\b",r"\bweather channel\b"],
+    "A&E":[r"^a\s*&\s*e(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "E!":[r"^e!(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "TBS":[r"^tbs(\s*\(?\d+p\)?|\s*hd|\s*fhd|\s*east|\s*west)?$"],
+    "TNT":[r"^tnt(\s*\(?\d+p\)?|\s*hd|\s*fhd|\s*east|\s*west)?$"],
+    "Lifetime":[r"^lifetime(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "History Channel":[r"^history(\s*channel)?(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "HBO":[r"^hbo(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "Starz":[r"^starz(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
 }
 
 def norm(s):

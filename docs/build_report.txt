@@ -1,10 +1,10 @@
-Created BrandenTV-PREFERRED.m3u with 201 channels
+Created BrandenTV-PREFERRED.m3u with 198 channels
 
-Entertainment: 13
+Entertainment: 12
 News: 9
 Sports: 0
 Documentary: 6
-Movies: 2
+Movies: 0
 Kids: 3
 Music: 0
 Spanish / Latino: 3
@@ -12,17 +12,16 @@ FAST Live: 165
 
 Picked streams:
 Entertainment    A&E                              IPTV    score= 350 raw=A&E (720p)
-Entertainment    AMC                              IPTV    score= 365 raw=AMC (720p)
+Entertainment    AMC                              IPTV    score= 310 raw=AMC (1080p)
 Entertainment    Comedy Central                   IPTV    score= 410 raw=Comedy Central (1080p)
-Entertainment    E!                               IPTV    score= 350 raw=A&E (720p)
 Entertainment    FX                               IPTV    score= 410 raw=FX (1080p)
 Entertainment    FXX                              IPTV    score= 410 raw=FXX (1080p)
 Entertainment    Hallmark Channel                 IPTV    score= 410 raw=Hallmark Channel (1080p)
-Entertainment    Lifetime                         IPTV    score= 410 raw=Lifetime Movies (1080p)
-Entertainment    TBS                              IPTV    score= 290 raw=TBS Seoul (720p)
-Entertainment    TNT                              IPTV    score= 245 raw=TNT Kids (288p)
+Entertainment    Lifetime                         IPTV    score= 350 raw=Lifetime (720p)
+Entertainment    TBS                              IPTV    score=-225 raw=TBSテレビ
+Entertainment    TNT                              IPTV    score= 245 raw=TNT (576p)
 Entertainment    TV Land                          IPTV    score= 405 raw=TV Land (720p)
-Entertainment    USA Network                      IPTV    score= 445 raw=USA Network (720p)
+Entertainment    USA Network                      IPTV    score=-255 raw=USA Network (720p)
 Entertainment    WE tv                            Tablo   score= 205 raw=All Weddings WE Tv
 News             ABC                              IPTV    score= 370 raw=WZZM ABC 13 On Your Side Grand Rapids MI
 News             Bloomberg TV                     IPTV    score= 370 raw=Bloomberg TV (1080p)
@@ -37,10 +36,8 @@ Documentary      Discovery Channel                IPTV    score= 430 raw=Discove
 Documentary      Food Network                     IPTV    score= 350 raw=Food Network
 Documentary      HGTV                             IPTV    score= 350 raw=HGTV (1080p)
 Documentary      History 365                      IPTV    score= 290 raw=History 365 (1080p) [Geo-blocked]
-Documentary      History Channel                  IPTV    score= 270 raw=True History Channel (720p)
+Documentary      History Channel                  IPTV    score= 180 raw=History (576p)
 Documentary      TLC                              IPTV    score= 225 raw=TLC Finland
-Movies           HBO                              Tablo   score= 250 raw=HBO Boxing
-Movies           Starz                            IPTV    score= 410 raw=Starz Kids & Family (1080p)
 Kids             Nick Jr.                         IPTV    score= 365 raw=Nick Jr. (1080p)
 Kids             Nickelodeon                      IPTV    score= 410 raw=Nickelodeon (1080p)
 Kids             PBS Kids                         IPTV    score= 385 raw=WBRA PBS Kids (1080p)
