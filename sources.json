@@ -11,5 +11,10 @@
   "xiaomi": "https://www.apsattv.com/xiaomi.m3u",
   "distro": "https://www.apsattv.com/distro.m3u",
   "localnow": "https://www.apsattv.com/localnow.m3u",
-  "free_tv": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+  "free_tv": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+  "tablo": "https://www.apsattv.com/tablo.m3u",
+  "fire_tv": "https://www.apsattv.com/firetv.m3u",
+  "cineverse": "https://www.apsattv.com/cineverse.m3u",
+  "vidaa": "https://www.apsattv.com/vidaa.m3u",
+  "whaletvplus": "https://www.apsattv.com/whaletvplus_all.m3u"
 }
