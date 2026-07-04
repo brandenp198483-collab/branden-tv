@@ -65,6 +65,12 @@ https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
 http://84.17.50.102/history/index.m3u8
 #EXTINF:-1 tvg-name="TLC Finland" tvg-logo="https://i.imgur.com/0d5hP3A.png" tvg-id="TLCFinland.fi" tvg-chno="11" tvg-country="FI" group-title="Documentary",TLC
 https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d" tvg-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d" tvg-chno="" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Movies",AMC Thrillers
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d/?X-Plex-Token=8ybF8fuKnUFLefgPvPTb
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Brividy Cinema
+https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2" tvg-id="6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2" tvg-chno="" tvg-name="Lifetime Movie Favorites" tvg-logo="https://provider-static.plex.tv/epg/cms/production/64ce3127-c379-4c7f-b576-7a4c167c8311/LTMF_channel_logo_4c_1500x1000rdx.png" group-title="Movies",Lifetime Movie Favorites
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2/?X-Plex-Token=8ybF8fuKnUFLefgPvPTb
 #EXTINF:-1 tvg-id="NickJr.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr.
 https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
