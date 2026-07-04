@@ -123,7 +123,7 @@ for source_name, path, bonus in SOURCE_FILES:
 
 groups = list(CHANNELS.keys()) + ["FAST Live"]
 ordered = sorted(
-    [x for x in picked.values() if x["score"] >= -300],
+    [x for x in picked.values() if x["score"] >= 0],
     key=lambda x: (groups.index(x["group"]) if x["group"] in groups else 99, x["name"].lower())
 )
 

@@ -13,14 +13,10 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" tvg-country="JP" group-title="Entertainment",TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",TNT
 http://94.230.129.31:8080/THT/index.m3u8
 #EXTINF:-1 tvg-id="TVLand.us@East" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Entertainment",TV Land
 http://185.246.209.113/TVLandHD/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
-http://185.246.209.113/DISCOVERYHD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" -1,WE tv
 https://amc-allweddings-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E32EB143-84E0-4174-BE06-A3A076F0AF2E/3-1x1.png" tvg-id="LN_E32EB143-84E0-4174-BE06-A3A076F0AF2E" group-title="News",ABC
