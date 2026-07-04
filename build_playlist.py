@@ -1,48 +1,40 @@
-import json
-import re
-import glob
+import json, re, glob
 from pathlib import Path
 import requests
 
 OUTPUT_DIR = Path("output")
 DOCS_DIR = Path("docs")
-
 FULL_OUT = OUTPUT_DIR / "BrandenTV-Full.m3u"
 STREMIO_OUT = OUTPUT_DIR / "BrandenTV-Stremio.m3u"
-FAV_OUT = OUTPUT_DIR / "BrandenTV-Favorites.m3u"
-WATCH_OUT = OUTPUT_DIR / "premium_watchlist_matches.txt"
+REPORT_OUT = DOCS_DIR / "whitelist_report.txt"
 
-def load_lines(path):
-    p = Path(path)
-    if not p.exists():
-        return []
-    return [x.strip() for x in p.read_text(errors="ignore").splitlines() if x.strip()]
+def clean(s):
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
-def parse_resolution(name, info):
-    text = f"{name} {info}".lower()
-    if "4k" in text or "2160" in text:
-        return 2160
-    if "1080" in text:
-        return 1080
-    if "720" in text:
-        return 720
-    if "576" in text:
-        return 576
-    if "540" in text:
-        return 540
-    if "480" in text:
-        return 480
-    if "360" in text:
-        return 360
-    return 0
+def load_sources():
+    sources = json.load(open("sources.json"))
+    channels = []
+    for source, url in sources.items():
+        print(f"Downloading {source}...")
+        try:
+            r = requests.get(url, timeout=35)
+            r.raise_for_status()
+            channels += parse_m3u(r.text, source)
+        except Exception as e:
+            print(f"FAILED {source}: {e}")
+
+    for file in glob.glob("playlists/*.m3u*"):
+        print(f"Loading local {file}...")
+        channels += parse_m3u(Path(file).read_text(errors="ignore"), Path(file).stem)
+
+    return channels
 
 def parse_m3u(text, source):
     lines = text.splitlines()
-    channels = []
+    out = []
     i = 0
-
     while i < len(lines):
-        if lines[i].startswith("#EXTINF"):
+        if lines[i].strip().startswith("#EXTINF"):
             info = lines[i].strip()
             j = i + 1
             url = ""
@@ -54,39 +46,29 @@ def parse_m3u(text, source):
                 if candidate.startswith("#EXTINF"):
                     break
                 j += 1
-
             name = info.split(",")[-1].strip()
-
-            if url.startswith("http"):
-                channels.append({
-                    "name": name,
-                    "info": info,
-                    "url": url,
-                    "source": source,
-                    "resolution": parse_resolution(name, info)
-                })
-            i += 2
+            if url:
+                out.append({"name": name, "info": info, "url": url, "source": source})
+            i = j + 1
         else:
             i += 1
+    return out
 
-    return channels
-
-def base_key(name):
-    n = name.lower()
-    n = re.sub(r"\[[^\]]*\]", " ", n)
-    n = re.sub(r"\([^)]*\)", " ", n)
-    n = re.sub(r"\b(4k|uhd|fhd|hd|sd|1080p|720p|576p|540p|480p|360p)\b", " ", n)
-    n = re.sub(r"\b(us|usa|live|channel|tv)\b", " ", n)
-    n = re.sub(r"\b\d+\b$", " ", n)
-    n = re.sub(r"[^a-z0-9]+", " ", n)
-    return n.strip()
-
-def is_match(name, terms):
-    n = name.lower()
-    return any(term.lower() in n for term in terms)
+def resolution_score(text):
+    t = text.lower()
+    if "4k" in t or "2160" in t: return 220
+    if "1080" in t: return 180
+    if "720" in t: return 120
+    if "576" in t: return 50
+    if "480" in t: return 35
+    if "360" in t: return 10
+    return 0
 
 def source_score(source):
-    preferred = {
+    return {
+        "iptv_org": 140,
+        "tablo": 135,
+        "ota_diginets": 130,
         "pluto": 100,
         "samsung": 95,
         "plex": 90,
@@ -95,116 +77,139 @@ def source_score(source):
         "xumo": 75,
         "lg": 70,
         "vizio": 65,
-        "iptv_org": 50,
-        "free_tv": 40
-    }
-    return preferred.get(source, 30)
+        "localnow": 60,
+        "free_tv": 45
+    }.get(source, 50)
 
-def channel_score(ch):
-    score = 0
-    score += source_score(ch["source"])
-    score += ch["resolution"] // 10
+def is_rejected(ch, wanted, db):
+    text = clean(ch["name"] + " " + ch["info"] + " " + ch["url"])
+    wanted_clean = clean(wanted)
 
-    name = ch["name"].lower()
-    if "geo-blocked" in name:
-        score -= 40
-    if "not 24/7" in name:
-        score -= 20
-    if "backup" in name:
-        score -= 5
+    allowed_spanish = [clean(x) for x in db.get("spanish_allowed", [])]
+
+    for bad in db.get("global_reject", []):
+        b = clean(bad)
+        if not b:
+            continue
+        if b in text and wanted_clean not in allowed_spanish:
+            return True
+
+    for bad in db.get("specific_reject", {}).get(wanted, []):
+        if clean(bad) in text:
+            return True
+
+    return False
+
+def aliases_for(wanted, db):
+    aliases = [wanted]
+    aliases += db.get("aliases", {}).get(wanted, [])
+    return list(dict.fromkeys(aliases))
+
+def match_channel(ch, wanted, db):
+    cname = clean(ch["name"])
+
+    for alias in aliases_for(wanted, db):
+        a = clean(alias)
+
+        if cname == a:
+            return True
+
+        if cname in (a + " hd", a + " fhd", a + " 1080p", a + " 720p"):
+            return True
+
+        if cname.startswith(a + " ") and any(x in cname for x in ["1080p", "720p", "hd", "east", "west"]):
+            return True
+
+    return False
+
+def score_channel(ch, wanted, db):
+    text = ch["name"] + " " + ch["info"] + " " + ch["url"]
+    cname = clean(ch["name"])
+    wanted_clean = clean(wanted)
+
+    score = source_score(ch["source"]) + resolution_score(text)
+
+    if cname == wanted_clean:
+        score += 400
+    elif any(cname == clean(a) for a in aliases_for(wanted, db)):
+        score += 350
+    elif wanted_clean in cname:
+        score += 80
+
+    if any(x in clean(text) for x in ["usa", "united states", " east", " west"]):
+        score += 80
+
+    if "not 24 7" in clean(text):
+        score -= 120
 
     return score
 
+def rewrite(info, group, wanted):
+    if 'group-title="' in info:
+        info = re.sub(r'group-title="[^"]*"', f'group-title="{group}"', info)
+    else:
+        info = info.replace("#EXTINF:", f'#EXTINF:-1 group-title="{group}" ', 1)
+    return re.sub(r",(.*)$", f",{wanted}", info)
+
+db = json.load(open("channel_whitelist.json"))
+all_channels = load_sources()
+
+seen_urls = set()
+full = []
+for ch in all_channels:
+    if ch["url"] not in seen_urls:
+        seen_urls.add(ch["url"])
+        full.append(ch)
+
+picked = []
+report = []
+total_wanted = 0
+
+for group, names in db["categories"].items():
+    for wanted in names:
+        total_wanted += 1
+        candidates = []
+        for ch in full:
+            if match_channel(ch, wanted, db) and not is_rejected(ch, wanted, db):
+                candidates.append((score_channel(ch, wanted, db), ch))
+
+        if candidates:
+            candidates.sort(key=lambda x: x[0], reverse=True)
+            score, ch = candidates[0]
+            picked.append({
+                "group": group,
+                "name": wanted,
+                "info": rewrite(ch["info"], group, wanted),
+                "url": ch["url"],
+                "raw": ch["name"],
+                "source": ch["source"],
+                "score": score
+            })
+            report.append(f"FOUND | {group} | {wanted} | {ch['source']} | score={score} | raw={ch['name']}")
+        else:
+            report.append(f"MISS  | {group} | {wanted}")
+
+OUTPUT_DIR.mkdir(exist_ok=True)
+DOCS_DIR.mkdir(exist_ok=True)
+
 def write_m3u(path, channels):
-    path.parent.mkdir(exist_ok=True)
     with path.open("w", encoding="utf-8") as f:
         f.write("#EXTM3U\n\n")
         for ch in channels:
             f.write(ch["info"] + "\n")
             f.write(ch["url"] + "\n")
 
-sources = json.load(open("sources.json"))
-favorites = load_lines("favorites.txt")
-watchlist = load_lines("premium_watchlist.txt")
-stremio_keywords = load_lines("stremio_keywords.txt")
+write_m3u(FULL_OUT, full)
+write_m3u(STREMIO_OUT, picked)
+write_m3u(DOCS_DIR / "BrandenTV-Stremio.m3u", picked)
+write_m3u(DOCS_DIR / "BrandenTV.m3u", picked)
 
-all_channels = []
-
-for name, url in sources.items():
-    print(f"Downloading {name}...")
-    try:
-        r = requests.get(url, timeout=35)
-        r.raise_for_status()
-        all_channels.extend(parse_m3u(r.text, name))
-    except Exception as e:
-        print(f"FAILED {name}: {e}")
-
-for file in glob.glob("playlists/*.m3u*"):
-    print(f"Loading local {file}...")
-    text = Path(file).read_text(errors="ignore")
-    all_channels.extend(parse_m3u(text, Path(file).stem))
-
-# Full playlist: light URL dedupe only
-seen_urls = set()
-full_channels = []
-for ch in all_channels:
-    if ch["url"] not in seen_urls:
-        seen_urls.add(ch["url"])
-        full_channels.append(ch)
-
-full_channels.sort(key=channel_score, reverse=True)
-
-# Favorites
-favorite_channels = [ch for ch in full_channels if is_match(ch["name"], favorites)]
-favorite_channels.sort(key=channel_score, reverse=True)
-
-# Stremio playlist:
-# Keep up to 3 versions per base channel, so 1080p / 720p / backup can coexist.
-stremio_candidates = [
-    ch for ch in full_channels
-    if is_match(ch["name"], stremio_keywords) or is_match(ch["name"], favorites)
-]
-
-groups = {}
-for ch in stremio_candidates:
-    key = base_key(ch["name"])
-    if key:
-        groups.setdefault(key, []).append(ch)
-
-stremio_channels = []
-for key, group in groups.items():
-    group.sort(key=channel_score, reverse=True)
-    stremio_channels.extend(group[:1])
-
-# Favorites first in Stremio
-stremio_favs = [ch for ch in stremio_channels if is_match(ch["name"], favorites)]
-stremio_other = [ch for ch in stremio_channels if ch not in stremio_favs]
-stremio_final = stremio_favs + stremio_other
-
-# Premium/watchlist report
-watch_matches = [ch for ch in full_channels if is_match(ch["name"], watchlist)]
-with WATCH_OUT.open("w", encoding="utf-8") as f:
-    for ch in watch_matches:
-        f.write(f'{ch["name"]} | source={ch["source"]} | res={ch["resolution"]} | {ch["url"]}\n')
-
-write_m3u(FULL_OUT, full_channels)
-write_m3u(FAV_OUT, favorite_channels)
-write_m3u(STREMIO_OUT, stremio_final)
-
-# Backward-compatible old name
-write_m3u(OUTPUT_DIR / "BrandenTV.m3u", stremio_final)
-
-DOCS_DIR.mkdir(exist_ok=True)
-write_m3u(DOCS_DIR / "BrandenTV.m3u", stremio_final)
-write_m3u(DOCS_DIR / "BrandenTV-Stremio.m3u", stremio_final)
-write_m3u(DOCS_DIR / "BrandenTV-Full.m3u", full_channels)
-write_m3u(DOCS_DIR / "BrandenTV-Favorites.m3u", favorite_channels)
-Path(DOCS_DIR / "premium_watchlist_matches.txt").write_text(WATCH_OUT.read_text(errors="ignore"), encoding="utf-8")
+REPORT_OUT.write_text("\n".join(report) + "\n", encoding="utf-8")
 
 print("\nDONE")
 print(f"Raw channels: {len(all_channels)}")
-print(f"Full channels: {len(full_channels)}")
-print(f"Favorites: {len(favorite_channels)}")
-print(f"Stremio channels: {len(stremio_final)}")
-print(f"Watchlist matches: {len(watch_matches)}")
+print(f"Full unique channels: {len(full)}")
+print(f"Whitelist channels wanted: {total_wanted}")
+print(f"Whitelist channels found: {len(picked)}")
 print(f"Created: {STREMIO_OUT}")
+print(f"Report: {REPORT_OUT}")
