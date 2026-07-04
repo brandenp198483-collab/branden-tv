@@ -174,7 +174,7 @@ for ch in stremio_candidates:
 stremio_channels = []
 for key, group in groups.items():
     group.sort(key=channel_score, reverse=True)
-    stremio_channels.extend(group[:3])
+    stremio_channels.extend(group[:1])
 
 # Favorites first in Stremio
 stremio_favs = [ch for ch in stremio_channels if is_match(ch["name"], favorites)]
