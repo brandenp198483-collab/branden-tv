@@ -11,7 +11,7 @@ SOURCE_FILES = [
 ]
 
 CHANNELS = {
-    "Entertainment": ["A&E","AMC","BBC America","BET","Bravo","Comedy Central","E!","Freeform","FX","FXX","Hallmark Channel","Lifetime","Lifetime Movie Network","LMN","Paramount Network","Syfy","TBS","TNT","TruTV","TV Land","USA Network","WE tv"],
+    "Entertainment": ["A&E","AMC","BBC America","BET","Bravo","Comedy Central","E!","Freeform","FX","FXX","Hallmark Channel","Lifetime","Lifetime Movie Network","LMN","Paramount Network","Syfy","TBS","TNT","TruTV","TV Land","USA Network","WE tv","MeTV","MeTV Toons","Catchy Comedy","Antenna TV","Cozi TV","Movies!","Story Television","Start TV","Heroes & Icons","Comet","Charge!","Dabl","Retro TV","ION","ION Mystery"],
     "News": ["ABC","CBS","NBC","FOX","Bloomberg TV","CNBC","CNN","Fox Business","Fox News","HLN","Newsmax","NewsNation","The Weather Channel","WeatherNation"],
     "Sports": ["ACC Network","Big Ten Network","CBS Sports Network","ESPN","ESPN2","ESPNews","ESPNU","FS1","FS2","Golf Channel","NBA TV","NFL Network","NHL Network","SEC Network","Tennis Channel","Pac 12 Insider","Pac-12 Insider","Team USA TV","beIN Sports USA","PBR RidePass","PBR: Ride Pass","SportsGrid","Outside TV","Real Madrid TV"],
     "Documentary": ["Animal Planet","Discovery Channel","Discovery Family","Discovery Life","Food Network","HGTV","History Channel","H2","History 365","Investigation Discovery","Magnolia Network","MotorTrend","Nat Geo Wild","National Geographic","Science Channel","Smithsonian Channel","TLC","Travel Channel"],
@@ -43,6 +43,8 @@ ALIASES = {
     "History Channel":[r"^history(\s*channel)?(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
     "HBO":[r"^hbo(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
     "Starz":[r"^starz(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "ION":[r"^ion(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "ION Mystery":[r"^ion\s*mystery(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
 }
 
 def norm(s):

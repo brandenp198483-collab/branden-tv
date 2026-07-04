@@ -11,6 +11,10 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="Entertainment",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 group-title="Entertainment" -1,ION
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",ION Mystery
+https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",TNT
