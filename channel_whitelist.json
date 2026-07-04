@@ -1,0 +1,106 @@
+{
+  "global_reject": [
+    "seoul", "korea", "japan", "japanese", "テレビ", "brazil", "brasil",
+    "portugal", "portuguese", "turkey", "arabic", "india", "telugu",
+    "finland", "australia", "canada", "latin america", "latino", "latina",
+    "backup", "test", "geo-blocked", "xxx", "adult"
+  ],
+  "spanish_allowed": [
+    "Telemundo", "Univision", "UniMas", "CNN en Espanol", "ESPN Deportes", "TUDN"
+  ],
+  "categories": {
+    "OTA Major Networks": [
+      "ABC", "CBS", "NBC", "FOX", "The CW", "PBS", "MyNetworkTV",
+      "Telemundo", "Univision", "UniMas"
+    ],
+    "OTA Digital Multicast": [
+      "Antenna TV", "Bounce TV", "Catchy Comedy", "Cozi TV", "Comet",
+      "Charge!", "Dabl", "Defy TV", "Grit", "Heroes & Icons",
+      "Ion Television", "Ion Mystery", "Ion Plus", "Laff", "MeTV",
+      "MeTV+", "Movies!", "Rewind TV", "Start TV", "Story Television",
+      "TBD", "This TV"
+    ],
+    "Entertainment": [
+      "A&E", "AMC", "AXS TV", "BBC America", "BET", "Bravo", "CMT",
+      "Comedy Central", "E!", "Freeform", "Fuse", "FX", "FXX",
+      "FX Movie Channel", "FYI", "GSN", "Hallmark Channel",
+      "Hallmark Mystery", "Hallmark Family", "IFC", "INSP", "Lifetime",
+      "LMN", "Logo", "Magnolia Network", "MTV", "MTV2", "MTV Classic",
+      "National Geographic", "Nat Geo Wild", "Ovation", "Oxygen",
+      "Paramount Network", "Pop", "Reelz", "Sundance TV", "Syfy",
+      "TBS", "TLC", "TNT", "Travel Channel", "TruTV", "TV Land",
+      "USA Network", "VH1", "Vice TV", "We TV"
+    ],
+    "Premium Cable": [
+      "HBO", "HBO2", "HBO Comedy", "HBO Family", "HBO Latino",
+      "HBO Signature", "HBO Zone", "Cinemax", "MoreMax", "ActionMax",
+      "5StarMax", "OuterMax", "Showtime", "Showtime 2",
+      "Showtime Showcase", "The Movie Channel", "The Movie Channel Xtra",
+      "Flix", "Starz", "Starz Encore", "Starz Cinema", "Starz InBlack",
+      "Starz Kids & Family", "Starz Edge", "MGM+", "MGM+ Hits",
+      "MGM+ Marquee", "MGM+ Drive-In", "Movieplex", "IndiePlex",
+      "RetroPlex"
+    ],
+    "News & Weather": [
+      "AccuWeather Network", "Bloomberg Television", "C-SPAN", "C-SPAN2",
+      "C-SPAN3", "CNBC", "CNBC World", "CNN", "CNN International",
+      "CNN en Espanol", "Fox Business Network", "Fox News Channel", "HLN",
+      "MSNBC", "Newsmax TV", "NewsNation", "Scripps News",
+      "The Weather Channel"
+    ],
+    "Sports": [
+      "ACC Network", "Bally Sports", "Big Ten Network", "CBS Sports Network",
+      "ESPN", "ESPN2", "ESPNews", "ESPNU", "ESPN Deportes",
+      "Fox Sports 1", "Fox Sports 2", "Fox Soccer Plus", "Golf Channel",
+      "Marquee Sports Network", "MASN", "MAV TV", "MLB Network",
+      "MLB Network Strike Zone", "MSG Network", "NBA TV", "NFL Network",
+      "NHL Network", "SEC Network", "Tennis Channel", "TUDN"
+    ],
+    "Children & Family": [
+      "Boomerang", "Cartoon Network", "Adult Swim", "Disney Channel",
+      "Disney Junior", "Disney XD", "Nick at Nite", "Nick Jr.",
+      "Nickelodeon", "Nicktoons", "TeenNick", "PBS Kids",
+      "Universal Kids", "BabyFirst"
+    ],
+    "Lifestyle & Documentary": [
+      "American Heroes Channel", "Animal Planet", "Cooking Channel",
+      "Destination America", "Discovery Channel", "Discovery Family",
+      "Discovery Life", "Food Network", "HGTV", "History Channel",
+      "Investigation Discovery", "Military History", "Science Channel",
+      "Smithsonian Channel", "The Cowboy Channel", "Outdoor Channel",
+      "Sportsman Channel", "Pursuit Channel"
+    ],
+    "Public / Educational": [
+      "Classic Arts Showcase", "Create", "DW-TV", "First Nations Experience",
+      "France 24", "NHK World-Japan", "World Channel", "NASA TV",
+      "Link TV", "BYU TV"
+    ]
+  },
+  "aliases": {
+    "USA Network": ["USA", "USA Network", "USA HD", "USA 1080P"],
+    "AMC": ["AMC", "AMC HD", "AMC East", "AMC West"],
+    "A&E": ["A&E", "A and E"],
+    "TBS": ["TBS", "TBS East", "TBS West"],
+    "TNT": ["TNT", "TNT East", "TNT West"],
+    "LMN": ["LMN", "Lifetime Movie Network"],
+    "Ion Television": ["ION", "Ion Television"],
+    "Heroes & Icons": ["H&I", "Heroes & Icons"],
+    "FX Movie Channel": ["FXM", "FX Movie Channel"],
+    "Investigation Discovery": ["ID", "Investigation Discovery"],
+    "Big Ten Network": ["BTN", "Big Ten Network"],
+    "Fox Sports 1": ["FS1", "Fox Sports 1"],
+    "Fox Sports 2": ["FS2", "Fox Sports 2"],
+    "The CW": ["CW", "The CW"],
+    "UniMas": ["UniMás", "UniMas"],
+    "CNN en Espanol": ["CNN en Español", "CNN en Espanol"]
+  },
+  "specific_reject": {
+    "AMC": ["Asian Music Channel", "AMC Asia", "AMC Latin America"],
+    "TBS": ["TBS Seoul", "TBS Japan", "TBSテレビ"],
+    "TNT": ["TNTV"],
+    "USA Network": ["Team USA", "TV9 Telugu USA", "USA Latin America"],
+    "ABC": ["ABC Australia"],
+    "TLC": ["TLC Finland"],
+    "ION": ["ION Mystery", "ION Plus"]
+  }
+}
