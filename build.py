@@ -7,6 +7,7 @@ SOURCE_FILES = [
     ("IPTV", "BrandenTV-sports.m3u", 100),
     ("IPTV", "BrandenTV-movies.m3u", 100),
     ("IPTV", "BrandenTV-other.m3u", 100),
+    ("IPTV", "output/BrandenTV-Stremio.m3u", 120),
     ("Tablo", "sources/tablo.m3u", 40),
 ]
 
@@ -45,6 +46,15 @@ ALIASES = {
     "Starz":[r"^starz(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
     "ION":[r"^ion(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
     "ION Mystery":[r"^ion\s*mystery(\s*\(?\d+p\)?|\s*hd|\s*fhd)?$"],
+    "Antenna TV":[r"^antenna\s*tv$"],
+    "Dabl":[r"^dabl$"],
+    "Charge!":[r"^charge!?$"],
+    "Comet":[r"^comet$"],
+    "Court TV":[r"^court\s*tv$"],
+    "The Weather Channel":[r"^the\s*weather\s*channel$"],
+    "Stadium":[r"^stadium$"],
+    "Tennis Channel":[r"^tennis\s*channel$"],
+
 }
 
 def norm(s):

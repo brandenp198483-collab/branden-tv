@@ -44,7 +44,17 @@ def parse_m3u(text, source):
     while i < len(lines):
         if lines[i].startswith("#EXTINF"):
             info = lines[i].strip()
-            url = lines[i + 1].strip() if i + 1 < len(lines) else ""
+            j = i + 1
+            url = ""
+            while j < len(lines):
+                candidate = lines[j].strip()
+                if candidate.startswith("http"):
+                    url = candidate
+                    break
+                if candidate.startswith("#EXTINF"):
+                    break
+                j += 1
+
             name = info.split(",")[-1].strip()
 
             if url.startswith("http"):
