@@ -13,7 +13,7 @@ SOURCE_FILES = [
 CHANNELS = {
     "Entertainment": ["A&E","AMC","BBC America","BET","Bravo","Comedy Central","E!","Freeform","FX","FXX","Hallmark Channel","Lifetime","Lifetime Movie Network","LMN","Paramount Network","Syfy","TBS","TNT","TruTV","TV Land","USA Network","WE tv"],
     "News": ["ABC","CBS","NBC","FOX","Bloomberg TV","CNBC","CNN","Fox Business","Fox News","HLN","Newsmax","NewsNation","The Weather Channel","WeatherNation"],
-    "Sports": ["ACC Network","Big Ten Network","CBS Sports Network","ESPN","ESPN2","ESPNews","ESPNU","FS1","FS2","Golf Channel","NBA TV","NFL Network","NHL Network","SEC Network","Tennis Channel"],
+    "Sports": ["ACC Network","Big Ten Network","CBS Sports Network","ESPN","ESPN2","ESPNews","ESPNU","FS1","FS2","Golf Channel","NBA TV","NFL Network","NHL Network","SEC Network","Tennis Channel","Pac 12 Insider","Pac-12 Insider","Team USA TV","beIN Sports USA","PBR RidePass","PBR: Ride Pass","SportsGrid","Outside TV","Real Madrid TV"],
     "Documentary": ["Animal Planet","Discovery Channel","Discovery Family","Discovery Life","Food Network","HGTV","History Channel","H2","History 365","Investigation Discovery","Magnolia Network","MotorTrend","Nat Geo Wild","National Geographic","Science Channel","Smithsonian Channel","TLC","Travel Channel"],
     "Movies": ["ActionMAX","Cinemax","HBO","HBO 2","HBO Comedy","HBO Family","HBO Latino","HBO Signature","HBO Zone","Showtime","Showtime 2","Showtime Extreme","Starz","Starz Encore","TCM"],
     "Kids": ["Boomerang","Cartoon Network","Disney Channel","Disney Junior","Disney XD","Nick Jr.","Nickelodeon","Nicktoons","PBS Kids"],

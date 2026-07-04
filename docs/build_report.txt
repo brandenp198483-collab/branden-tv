@@ -1,8 +1,8 @@
-Created BrandenTV-PREFERRED.m3u with 196 channels
+Created BrandenTV-PREFERRED.m3u with 204 channels
 
 Entertainment: 10
 News: 9
-Sports: 0
+Sports: 8
 Documentary: 6
 Movies: 0
 Kids: 3
@@ -30,6 +30,14 @@ News             FOX                              IPTV    score= 410 raw=KIDY FO
 News             Fox News                         IPTV    score= 370 raw=WFXT (FOX) News 25 Boston MA
 News             NBC                              IPTV    score= 415 raw=NBC News NOW
 News             Newsmax                          Tablo   score= 205 raw=Newsmax 2
+Sports           beIN Sports USA                  IPTV    score= 370 raw=beIN Sports USA (720p)
+Sports           Outside TV                       Tablo   score= 290 raw=Outside TV
+Sports           Pac 12 Insider                   IPTV    score= 390 raw=Pac-12 Insider
+Sports           Pac-12 Insider                   IPTV    score= 390 raw=Pac-12 Insider
+Sports           PBR RidePass                     IPTV    score= 425 raw=PBR RidePass
+Sports           Real Madrid TV                   IPTV    score= 455 raw=Real Madrid TV
+Sports           SportsGrid                       IPTV    score= 390 raw=SportsGrid
+Sports           Team USA TV                      IPTV    score= 330 raw=Team USA TV (1080p)
 Documentary      Discovery Channel                IPTV    score= 430 raw=Discovery Channel
 Documentary      Food Network                     IPTV    score= 350 raw=Food Network
 Documentary      HGTV                             IPTV    score= 350 raw=HGTV (1080p)
