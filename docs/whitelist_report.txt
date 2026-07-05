@@ -1,12 +1,12 @@
 FOUND | OTA Major Networks | ABC | iptv_org | score=420 | raw=ABC (720p)
 FOUND | OTA Major Networks | CBS | iptv_org | score=480 | raw=CBS 12 West Palm Beach FL (WPEC) (1080p)
-FOUND | OTA Major Networks | NBC | iptv_org | score=420 | raw=NBC Universo West (720p)
+FOUND | OTA Major Networks | NBC | iptv_org | score=420 | raw=NBC Universo (720p)
 FOUND | OTA Major Networks | FOX | iptv_org | score=400 | raw=Fox (1080p)
 FOUND | OTA Major Networks | The CW | iptv_org | score=320 | raw=CW FOREVER (1080p)
 FOUND | OTA Major Networks | PBS | iptv_org | score=420 | raw=PBS Kids Eastern/Central (720p)
 MISS  | OTA Major Networks | MyNetworkTV
-FOUND | OTA Major Networks | Telemundo | iptv_org | score=400 | raw=Telemundo Accion (1080p)
-FOUND | OTA Major Networks | Univision | iptv_org | score=400 | raw=Univision Latin America (1080p)
+FOUND | OTA Major Networks | Telemundo | iptv_org | score=480 | raw=Telemundo (1080p)
+FOUND | OTA Major Networks | Univision | iptv_org | score=480 | raw=Univision (1080p)
 MISS  | OTA Major Networks | UniMas
 FOUND | OTA Digital Multicast | Antenna TV | ota_diginets | score=530 | raw=Antenna TV
 MISS  | OTA Digital Multicast | Bounce TV
@@ -47,7 +47,7 @@ MISS  | Entertainment | FX Movie Channel
 FOUND | Entertainment | FYI | iptv_org | score=420 | raw=FYI (720p)
 MISS  | Entertainment | GSN
 FOUND | Entertainment | Hallmark Channel | iptv_org | score=480 | raw=Hallmark Channel (1080p)
-MISS  | Entertainment | Hallmark Mystery
+FOUND | Entertainment | Hallmark Mystery | iptv_org | score=480 | raw=Hallmark Mystery (1080p)
 FOUND | Entertainment | Hallmark Family | iptv_org | score=340 | raw=Hallmark Family (720p)
 FOUND | Entertainment | IFC | iptv_org | score=480 | raw=IFC (1080p)
 FOUND | Entertainment | INSP | iptv_org | score=340 | raw=INSP (720p)
@@ -113,7 +113,7 @@ FOUND | News & Weather | Bloomberg Television | distro | score=450 | raw=Bloombe
 MISS  | News & Weather | C-SPAN
 MISS  | News & Weather | C-SPAN2
 MISS  | News & Weather | C-SPAN3
-FOUND | News & Weather | CNBC | free_tv | score=525 | raw=CNBC Ⓨ
+FOUND | News & Weather | CNBC | manual_overrides | score=450 | raw=CNBC
 MISS  | News & Weather | CNBC World
 FOUND | News & Weather | CNN | free_tv | score=525 | raw=CNN
 FOUND | News & Weather | CNN International | free_tv | score=525 | raw=CNN International
@@ -135,7 +135,7 @@ MISS  | Sports | ESPN2
 FOUND | Sports | ESPNews | iptv_org | score=340 | raw=ESPNews (720p)
 FOUND | Sports | ESPNU | iptv_org | score=420 | raw=ESPNU (720p)
 MISS  | Sports | ESPN Deportes
-FOUND | Sports | Fox Sports 1 | iptv_org | score=140 | raw=FS1 Salzburg (720p) [Not 24/7]
+FOUND | Sports | Fox Sports 1 | iptv_org | score=540 | raw=Fox Sports 1
 MISS  | Sports | Fox Sports 2
 MISS  | Sports | Fox Soccer Plus
 MISS  | Sports | Golf Channel
@@ -158,7 +158,7 @@ FOUND | Children & Family | Disney Channel | iptv_org | score=540 | raw=Disney C
 FOUND | Children & Family | Disney Junior | iptv_org | score=420 | raw=Disney Junior West (720p)
 FOUND | Children & Family | Disney XD | iptv_org | score=420 | raw=Disney XD (720p)
 MISS  | Children & Family | Nick at Nite
-FOUND | Children & Family | Nick Jr. | iptv_org | score=480 | raw=Nick Jr. (1080p)
+FOUND | Children & Family | Nick Jr. | iptv_org | score=540 | raw=Nick Jr.
 FOUND | Children & Family | Nickelodeon | iptv_org | score=540 | raw=Nickelodeon
 FOUND | Children & Family | Nicktoons | iptv_org | score=590 | raw=NickToons
 FOUND | Children & Family | TeenNick | iptv_org | score=420 | raw=TeenNick (720p)
@@ -178,7 +178,7 @@ MISS  | Lifestyle & Documentary | History Channel
 MISS  | Lifestyle & Documentary | Investigation Discovery
 MISS  | Lifestyle & Documentary | Military History
 MISS  | Lifestyle & Documentary | Science Channel
-FOUND | Lifestyle & Documentary | Smithsonian Channel | iptv_org | score=420 | raw=Smithsonian Channel (720p)
+FOUND | Lifestyle & Documentary | Smithsonian Channel | iptv_org | score=480 | raw=Smithsonian Channel (1080p)
 FOUND | Lifestyle & Documentary | The Cowboy Channel | iptv_org | score=340 | raw=The Cowboy Channel (720p)
 FOUND | Lifestyle & Documentary | Outdoor Channel | distro | score=450 | raw=Outdoor Channel
 MISS  | Lifestyle & Documentary | Sportsman Channel
