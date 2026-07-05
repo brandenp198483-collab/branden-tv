@@ -15,23 +15,23 @@ FOUND | OTA Digital Multicast | Cozi TV | iptv_org | score=340 | raw=Cozi TV (72
 FOUND | OTA Digital Multicast | Comet | ota_diginets | score=530 | raw=Comet
 FOUND | OTA Digital Multicast | Charge! | ota_diginets | score=530 | raw=Charge!
 FOUND | OTA Digital Multicast | Dabl | ota_diginets | score=530 | raw=Dabl
-MISS  | OTA Digital Multicast | Defy TV
+FOUND | OTA Digital Multicast | Defy TV | usa_hanssettings | score=530 | raw=Defy TV
 FOUND | OTA Digital Multicast | Grit | iptv_org | score=400 | raw=Grit Xtra (1080p)
-FOUND | OTA Digital Multicast | Heroes & Icons | iptv_org | score=340 | raw=Heroes & Icons (720p)
+FOUND | OTA Digital Multicast | Heroes & Icons | usa_hanssettings | score=530 | raw=Heroes & Icons
 FOUND | OTA Digital Multicast | Ion Television | localnow | score=640 | raw=ION Television
 FOUND | OTA Digital Multicast | Ion Mystery | localnow | score=640 | raw=ION Mystery
 FOUND | OTA Digital Multicast | Ion Plus | localnow | score=640 | raw=ION Plus
 FOUND | OTA Digital Multicast | Laff | iptv_org | score=340 | raw=Laff (720p)
 FOUND | OTA Digital Multicast | MeTV | iptv_org | score=420 | raw=MeTV (720p)
 FOUND | OTA Digital Multicast | MeTV+ | iptv_org | score=420 | raw=MeTV (720p)
-FOUND | OTA Digital Multicast | Movies! | iptv_org | score=400 | raw=Movies Action (1080p)
+FOUND | OTA Digital Multicast | Movies! | usa_hanssettings | score=530 | raw=Movies!
 FOUND | OTA Digital Multicast | Rewind TV | iptv_org | score=400 | raw=Rewind TV (1080p)
 FOUND | OTA Digital Multicast | Start TV | iptv_org | score=340 | raw=Start TV (720p)
 FOUND | OTA Digital Multicast | Story Television | iptv_org | score=540 | raw=Story Television
-MISS  | OTA Digital Multicast | TBD
+FOUND | OTA Digital Multicast | TBD | usa_hanssettings | score=530 | raw=TBD
 MISS  | OTA Digital Multicast | This TV
 FOUND | Entertainment | A&E | iptv_org | score=420 | raw=A&E (720p)
-FOUND | Entertainment | AMC | iptv_org | score=420 | raw=AMC (720p)
+FOUND | Entertainment | AMC | usa_hanssettings | score=530 | raw=AMC+
 FOUND | Entertainment | AXS TV | iptv_org | score=340 | raw=AXS TV (720p)
 FOUND | Entertainment | BBC America | iptv_org | score=420 | raw=BBC America (720p)
 FOUND | Entertainment | BET | iptv_org | score=540 | raw=BET
@@ -57,23 +57,23 @@ MISS  | Entertainment | Logo
 MISS  | Entertainment | Magnolia Network
 FOUND | Entertainment | MTV | iptv_org | score=420 | raw=MTV (720p)
 FOUND | Entertainment | MTV2 | iptv_org | score=420 | raw=MTV2 (720p)
-FOUND | Entertainment | MTV Classic | iptv_org | score=420 | raw=MTV Classic (720p)
+FOUND | Entertainment | MTV Classic | usa_hanssettings | score=530 | raw=MTV Classic
 FOUND | Entertainment | National Geographic | iptv_org | score=540 | raw=National Geographic
 MISS  | Entertainment | Nat Geo Wild
 FOUND | Entertainment | Ovation | iptv_org | score=400 | raw=Ovation (1080p)
 FOUND | Entertainment | Oxygen | iptv_org | score=420 | raw=Oxygen (720p)
 FOUND | Entertainment | Paramount Network | free_tv | score=445 | raw=Paramount Network
-FOUND | Entertainment | Pop | plex | score=490 | raw=POP
-FOUND | Entertainment | Reelz | iptv_org | score=400 | raw=Reelz Famous & Infamous (1080p)
+FOUND | Entertainment | Pop | usa_hanssettings | score=530 | raw=Pop
+FOUND | Entertainment | Reelz | usa_hanssettings | score=530 | raw=REELZ
 FOUND | Entertainment | Sundance TV | iptv_org | score=420 | raw=Sundance TV (720p)
 FOUND | Entertainment | Syfy | iptv_org | score=540 | raw=Syfy
 MISS  | Entertainment | TBS
 MISS  | Entertainment | TLC
-MISS  | Entertainment | TNT
+FOUND | Entertainment | TNT | usa_hanssettings | score=480 | raw=TNT East
 MISS  | Entertainment | Travel Channel
 MISS  | Entertainment | TruTV
 FOUND | Entertainment | TV Land | iptv_org | score=420 | raw=TV Land (720p)
-FOUND | Entertainment | USA Network | iptv_org | score=480 | raw=USA Network (1080p)
+FOUND | Entertainment | USA Network | usa_hanssettings | score=530 | raw=USA Network
 FOUND | Entertainment | VH1 | iptv_org | score=420 | raw=VH1 (720p)
 FOUND | Entertainment | Vice TV | iptv_org | score=480 | raw=VICE TV (1080p)
 FOUND | Entertainment | We TV | iptv_org | score=420 | raw=We TV (720p)
@@ -96,7 +96,7 @@ MISS  | Premium Cable | The Movie Channel
 MISS  | Premium Cable | The Movie Channel Xtra
 FOUND | Premium Cable | Flix | iptv_org | score=400 | raw=&flix HD (1080p)
 FOUND | Premium Cable | Starz | iptv_org | score=480 | raw=Starz (1080p)
-MISS  | Premium Cable | Starz Encore
+FOUND | Premium Cable | Starz Encore | usa_hanssettings | score=210 | raw=Starz Encore Classic East
 FOUND | Premium Cable | Starz Cinema | iptv_org | score=420 | raw=Starz Cinema (720p)
 MISS  | Premium Cable | Starz InBlack
 FOUND | Premium Cable | Starz Kids & Family | iptv_org | score=480 | raw=Starz Kids & Family (1080p)
@@ -113,20 +113,20 @@ FOUND | News & Weather | Bloomberg Television | distro | score=450 | raw=Bloombe
 MISS  | News & Weather | C-SPAN
 MISS  | News & Weather | C-SPAN2
 MISS  | News & Weather | C-SPAN3
-FOUND | News & Weather | CNBC | manual_overrides | score=450 | raw=CNBC
+FOUND | News & Weather | CNBC | usa_hanssettings | score=530 | raw=CNBC
 MISS  | News & Weather | CNBC World
 FOUND | News & Weather | CNN | free_tv | score=525 | raw=CNN
-FOUND | News & Weather | CNN International | free_tv | score=525 | raw=CNN International
+FOUND | News & Weather | CNN International | usa_hanssettings | score=530 | raw=CNN International
 MISS  | News & Weather | CNN en Espanol
-FOUND | News & Weather | Fox Business Network | iptv_org | score=340 | raw=Fox Business Network (720p)
-FOUND | News & Weather | Fox News Channel | iptv_org | score=340 | raw=Fox News Channel (720p)
+FOUND | News & Weather | Fox Business Network | usa_hanssettings | score=530 | raw=Fox Business Network
+FOUND | News & Weather | Fox News Channel | usa_hanssettings | score=530 | raw=Fox News Channel
 FOUND | News & Weather | HLN | iptv_org | score=340 | raw=HLN Live (720p)
 FOUND | News & Weather | MSNBC | ota_diginets | score=530 | raw=MSNBC
 FOUND | News & Weather | Newsmax TV | distro | score=450 | raw=Newsmax TV
 FOUND | News & Weather | NewsNation | iptv_org | score=340 | raw=NewsNation (720p)
 FOUND | News & Weather | Scripps News | localnow | score=640 | raw=Scripps News
 FOUND | News & Weather | The Weather Channel | ota_diginets | score=530 | raw=The Weather Channel
-FOUND | Sports | ACC Network | iptv_org | score=340 | raw=ACC Network (720p)
+FOUND | Sports | ACC Network | usa_hanssettings | score=530 | raw=ACC Network
 MISS  | Sports | Bally Sports
 FOUND | Sports | Big Ten Network | iptv_org | score=420 | raw=Big Ten Network (720p)
 MISS  | Sports | CBS Sports Network
@@ -141,13 +141,13 @@ MISS  | Sports | Fox Soccer Plus
 MISS  | Sports | Golf Channel
 MISS  | Sports | Marquee Sports Network
 MISS  | Sports | MASN
-MISS  | Sports | MAV TV
+FOUND | Sports | MAV TV | usa_hanssettings | score=530 | raw=Mav TV (#)
 MISS  | Sports | MLB Network
 MISS  | Sports | MLB Network Strike Zone
 MISS  | Sports | MSG Network
-MISS  | Sports | NBA TV
+FOUND | Sports | NBA TV | usa_hanssettings | score=530 | raw=NBA TV
 FOUND | Sports | NFL Network | iptv_org | score=340 | raw=NFL Network (720p)
-FOUND | Sports | NHL Network | iptv_org | score=400 | raw=NHL Network (1080p)
+FOUND | Sports | NHL Network | usa_hanssettings | score=530 | raw=NHL Network
 FOUND | Sports | SEC Network | iptv_org | score=340 | raw=SEC Network (720p)
 FOUND | Sports | Tennis Channel | ota_diginets | score=530 | raw=Tennis Channel
 FOUND | Sports | TUDN | iptv_org | score=400 | raw=TUDN (1080p)
@@ -156,13 +156,13 @@ MISS  | Children & Family | Cartoon Network
 MISS  | Children & Family | Adult Swim
 FOUND | Children & Family | Disney Channel | iptv_org | score=540 | raw=Disney Channel
 FOUND | Children & Family | Disney Junior | iptv_org | score=420 | raw=Disney Junior West (720p)
-FOUND | Children & Family | Disney XD | iptv_org | score=420 | raw=Disney XD (720p)
+FOUND | Children & Family | Disney XD | usa_hanssettings | score=530 | raw=Disney XD
 MISS  | Children & Family | Nick at Nite
 FOUND | Children & Family | Nick Jr. | iptv_org | score=540 | raw=Nick Jr.
 FOUND | Children & Family | Nickelodeon | iptv_org | score=540 | raw=Nickelodeon
 FOUND | Children & Family | Nicktoons | iptv_org | score=590 | raw=NickToons
 FOUND | Children & Family | TeenNick | iptv_org | score=420 | raw=TeenNick (720p)
-FOUND | Children & Family | PBS Kids | samsung | score=505 | raw=PBS Kids
+FOUND | Children & Family | PBS Kids | usa_hanssettings | score=530 | raw=PBS Kids
 MISS  | Children & Family | Universal Kids
 FOUND | Children & Family | BabyFirst | iptv_org | score=340 | raw=BabyFirst (720p)
 MISS  | Lifestyle & Documentary | American Heroes Channel
@@ -179,11 +179,11 @@ MISS  | Lifestyle & Documentary | Investigation Discovery
 MISS  | Lifestyle & Documentary | Military History
 MISS  | Lifestyle & Documentary | Science Channel
 FOUND | Lifestyle & Documentary | Smithsonian Channel | iptv_org | score=480 | raw=Smithsonian Channel (1080p)
-FOUND | Lifestyle & Documentary | The Cowboy Channel | iptv_org | score=340 | raw=The Cowboy Channel (720p)
-FOUND | Lifestyle & Documentary | Outdoor Channel | distro | score=450 | raw=Outdoor Channel
-MISS  | Lifestyle & Documentary | Sportsman Channel
-FOUND | Lifestyle & Documentary | Pursuit Channel | iptv_org | score=340 | raw=Pursuit Channel (720p)
-FOUND | Public / Educational | Classic Arts Showcase | iptv_org | score=340 | raw=Classic Arts Showcase (720p)
+FOUND | Lifestyle & Documentary | The Cowboy Channel | usa_hanssettings | score=530 | raw=The Cowboy Channel
+FOUND | Lifestyle & Documentary | Outdoor Channel | usa_hanssettings | score=530 | raw=Outdoor Channel
+FOUND | Lifestyle & Documentary | Sportsman Channel | usa_hanssettings | score=530 | raw=Sportsman Channel
+FOUND | Lifestyle & Documentary | Pursuit Channel | usa_hanssettings | score=530 | raw=Pursuit Channel
+FOUND | Public / Educational | Classic Arts Showcase | usa_hanssettings | score=530 | raw=Classic Arts Showcase
 FOUND | Public / Educational | Create | iptv_org | score=400 | raw=Create (1080p)
 MISS  | Public / Educational | DW-TV
 MISS  | Public / Educational | First Nations Experience
@@ -192,4 +192,4 @@ MISS  | Public / Educational | NHK World-Japan
 FOUND | Public / Educational | World Channel | iptv_org | score=400 | raw=World Channel (1080p)
 MISS  | Public / Educational | NASA TV
 FOUND | Public / Educational | Link TV | iptv_org | score=540 | raw=Link TV
-MISS  | Public / Educational | BYU TV
+FOUND | Public / Educational | BYU TV | usa_hanssettings | score=530 | raw=BYU TV
