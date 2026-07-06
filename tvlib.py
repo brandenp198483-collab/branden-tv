@@ -43,9 +43,10 @@ def load_all_sources():
         except Exception as e:
             print(f"FAILED {source}: {e}")
 
-    for file in glob.glob("playlists/*.m3u*"):
-        print(f"Loading local {file}...")
-        channels += parse_m3u_text(Path(file).read_text(errors="ignore"), Path(file).stem)
+    for pattern in ["playlists/*.m3u*", "playlists/incoming/*.m3u*", "playlists/accepted/*.m3u*"]:
+        for file in glob.glob(pattern):
+            print(f"Loading local {file}...")
+            channels += parse_m3u_text(Path(file).read_text(errors="ignore"), Path(file).stem)
 
     return channels
 
