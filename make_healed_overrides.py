@@ -1,6 +1,7 @@
 import json, time
 from pathlib import Path
 import tvlib
+import ranking
 
 CACHE = Path("candidate_health.json")
 OUT = Path("healed_overrides.json")
@@ -10,40 +11,25 @@ db = json.load(open("channel_whitelist.json"))
 health = json.load(open(CACHE)) if CACHE.exists() else {}
 channels = tvlib.load_all_sources()
 
-def resolution(name, info):
-    text = (name + " " + info).lower()
-    if "4k" in text or "2160" in text: return 2160
-    if "1080" in text: return 1080
-    if "720" in text: return 720
-    if "576" in text: return 576
-    if "480" in text: return 480
-    return 0
-
 healed = {}
+
 report = []
 
 for group, wanted_list in db["categories"].items():
     for wanted in wanted_list:
         matches = []
+        db_entry = json.load(open("channel_database.json")).get(wanted, {"candidates": {}})
         for ch in channels:
             if not tvlib.match_channel(ch, wanted, db):
                 continue
             if tvlib.is_rejected(ch, wanted, db):
                 continue
 
-            h = health.get(ch["url"], {})
-            ok = bool(h.get("ok"))
-            sec = float(h.get("seconds", 99))
-            res = resolution(ch["name"], ch["info"])
-
-            score = 0
-            if ok:
-                score += 100000
-                score += max(0, 10000 - int(sec * 1000))
-            score += res
-
-            if ch["source"] == "manual_overrides":
-                score += 5000
+            c = db_entry["candidates"].get(ch["url"], {})
+            ok = bool(c.get("last_ok"))
+            sec = float(c.get("last_seconds", 99) or 99)
+            res = c.get("resolution", 0)
+            score = ranking.score_candidate(c)
 
             matches.append((score, ok, sec, res, ch))
 

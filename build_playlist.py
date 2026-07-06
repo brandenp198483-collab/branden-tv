@@ -181,7 +181,7 @@ for group, names in db["categories"].items():
         total_wanted += 1
 
         healed = HEALED.get(wanted)
-        if healed and healed.get("ok"):
+        if healed and healed.get("ok") and healed.get("score", 0) > 0:
             ch = {
                 "name": healed["raw"],
                 "info": healed["info"],
@@ -201,6 +201,10 @@ for group, names in db["categories"].items():
 
             candidates.sort(key=lambda x: x[0], reverse=True)
             score, ch = candidates[0]
+
+        if score <= 0:
+            report.append(f"MISS  | {group} | {wanted} | best_bad_score={score} | raw={ch['name']}")
+            continue
 
         picked.append({
             "group": group,

@@ -3,14 +3,14 @@
 =============================================
 Whitelist channels:       195
 Channels with candidates: 118
-Final healthy streams:    100
-Final bad streams:        14
+Final healthy streams:    92
+Final bad streams:        1
 
 SOURCE GRADES:
 - distro: candidates=3 health=33.3%
 - fire_tv: candidates=1 health=100.0%
 - free_tv: candidates=10 health=57.1%
-- iptv_org: candidates=415 health=84.6%
+- iptv_org: candidates=415 health=84.0%
 - localnow: candidates=5 health=100.0%
 - manual_overrides: candidates=1 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
@@ -104,17 +104,4 @@ MISSING / NO CANDIDATES:
 - NASA TV
 
 BROKEN FINAL LINEUP:
-- NBC (0.335s)
-- Defy TV (0.022s)
-- FYI (0.269s)
-- TNT (0.028s)
-- TV Land (0.256s)
-- Flix (8.043s)
-- Starz Encore (0.027s)
-- Bloomberg Television (0.275s)
-- MSNBC (0.038s)
-- Newsmax TV (0.2s)
-- MAV TV (0.034s)
-- NBA TV (0.024s)
-- Sportsman Channel (0.035s)
-- BYU TV (0.028s)
+- NBC (0.213s)
