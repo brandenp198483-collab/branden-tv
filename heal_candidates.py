@@ -65,6 +65,7 @@ for group, wanted_list in whitelist["categories"].items():
                 "info": ch["info"],
                 "last_checked": now,
                 "last_seconds": seconds,
+                "last_status": ok,
             })
 
             c["checks"] = c.get("checks", 0) + 1

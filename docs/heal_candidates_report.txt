@@ -1,62 +1,62 @@
 
 === ABC [OTA Major Networks] ===
-OK  0.259s | iptv_org | ABC 6 Austin TX (KAAL) (1080p) | https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
-OK  0.274s | iptv_org | ABC 5 St. Paul MN (KSTP) (1080p) | https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
-OK  0.309s | iptv_org | ABC 5 Boston MA (WCVB) (720p) | https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-OK  0.359s | iptv_org | ABC 7 Albuquerque NM (KOAT) (720p) | https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
-OK  0.369s | iptv_org | ABC 6 Columbus OH (WSYX) (1080p) | https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
+OK   0.29s | iptv_org | ABC 5 St. Paul MN (KSTP) (1080p) | https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
+OK  0.334s | iptv_org | ABC 7 Albuquerque NM (KOAT) (720p) | https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
+OK  0.347s | iptv_org | ABC 5 Boston MA (WCVB) (720p) | https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+OK  0.374s | iptv_org | ABC 6 Austin TX (KAAL) (1080p) | https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
+OK  0.384s | iptv_org | ABC 6 Columbus OH (WSYX) (1080p) | https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
 
 === CBS [OTA Major Networks] ===
-OK  0.273s | iptv_org | CBS 3 Omaha NE (KMTV) (720p) | https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
-OK  0.321s | iptv_org | CBS 8 Des Moines IA (KCCI) (720p) | https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
-OK  0.339s | iptv_org | CBS 3 Kalamazoo MI (WWMT) (1080p) | https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
-OK  0.346s | iptv_org | CBS 21 Harrisburg PA (WHP) (1080p) | https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
-OK  0.374s | iptv_org | CBS 2 Salt Lake City UT (KUTV) (1080p) | https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
+OK   0.32s | iptv_org | CBS 6 Richmond VA (WTVR) (720p) | https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
+OK  0.332s | iptv_org | CBS 8 Des Moines IA (KCCI) (720p) | https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
+OK  0.394s | iptv_org | CBS 2 Salt Lake City UT (KUTV) (1080p) | https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
+OK   0.41s | iptv_org | CBS 3 Kalamazoo MI (WWMT) (1080p) | https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
+OK  0.418s | iptv_org | CBS 3 Omaha NE (KMTV) (720p) | https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 
 === NBC [OTA Major Networks] ===
-OK  0.221s | iptv_org | NBC 5 Chicago Live News (1080p) | https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
-OK  0.271s | iptv_org | NBC 8 Lancaster PA (WGAL) (720p) | https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-OK  0.295s | iptv_org | NBC 4 Albuquerque NM (KOB) (1080p) | https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
-OK  0.295s | iptv_org | NBC 4 Milwaukee WI (WTMJ) (720p) | https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
-OK  0.304s | iptv_org | NBC 3 Sacramento CA (KCRA) (720p) | https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+OK  0.339s | iptv_org | NBC 8 Lancaster PA (WGAL) (720p) | https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
+OK  0.388s | iptv_org | NBC 3 Sacramento CA (KCRA) (720p) | https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+OK   0.39s | iptv_org | NBC 4 Albuquerque NM (KOB) (1080p) | https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
+OK  0.403s | iptv_org | NBC 5 Chicago Live News (1080p) | https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+OK  0.446s | iptv_org | NBC 6 Johnstown PA (WJAC) (1080p) | https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
 
 === FOX [OTA Major Networks] ===
-OK  0.168s | iptv_org | Fox Business Network (720p) | http://206.212.244.63/66/index.m3u8
-OK  0.247s | iptv_org | FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7] | https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-OK  0.254s | iptv_org | Fox News Channel (720p) | http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-OK  0.337s | iptv_org | FOX 13 Seattle WA (KCPQ) (720p) | https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
-OK   0.35s | iptv_org | FOX 2 San Francisco CA (KTVU) (720p) | https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
+OK  0.124s | iptv_org | Fox Business Network (720p) | http://206.212.244.63/66/index.m3u8
+OK  0.226s | iptv_org | Fox News Channel (720p) | http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+OK  0.248s | iptv_org | FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7] | https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+OK  0.367s | iptv_org | FOX 13 Seattle WA (KCPQ) (720p) | https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
+OK  0.413s | iptv_org | FOX 11 Green Bay WI (WLUK) (1080p) | https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 
 === The CW [OTA Major Networks] ===
-OK  0.318s | iptv_org | CW FOREVER (1080p) | https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
-OK  0.842s | iptv_org | CW Gold (1080p) | https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+OK  0.315s | iptv_org | CW FOREVER (1080p) | https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+OK  1.382s | iptv_org | CW Gold (1080p) | https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 
 === PBS [OTA Major Networks] ===
-OK  0.299s | iptv_org | PBS Antiques Road Trip (1080p) | https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
-OK  0.318s | iptv_org | PBS Digital Studios (1080p) | https://d1l4qxz5lz9v2h.cloudfront.net/10501/88886029/hls/master.m3u8?ads.xumo_channelId=88886029
-OK  0.322s | iptv_org | PBS Kids (720p) | https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-OK  0.327s | iptv_org | PBS History (1080p) | https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
-OK  0.334s | iptv_org | PBS History (1080p) | https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+OK  0.284s | iptv_org | PBS Kids (720p) | https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+OK  0.302s | iptv_org | PBS History (1080p) | https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+OK  0.325s | iptv_org | PBS Genealogy (1080p) | https://d21xx25clbv3i1.cloudfront.net/PBS_Genealogy.m3u8
+OK  0.326s | iptv_org | PBS History (1080p) | https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+OK   0.34s | iptv_org | PBS KET Louisville KY (WKMJ-TV) (720p) | https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 
 === MyNetworkTV [OTA Major Networks] ===
 NO CANDIDATES
 
 === Telemundo [OTA Major Networks] ===
-OK  0.251s | iptv_org | Telemundo Accion (1080p) | https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-OK  0.324s | iptv_org | Telemundo Romance (1080p) | https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-OK  0.336s | iptv_org | Telemundo Al Día (720p) | https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
-OK  0.386s | iptv_org | Telemundo Noticias Noreste (1080p) | https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
-OK  0.432s | iptv_org | Telemundo Corpus Christi (720p) | https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+OK  0.237s | iptv_org | Telemundo Internacional (1080p) | http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+OK  0.296s | iptv_org | Telemundo Noticias Noreste (1080p) | https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
+OK  0.319s | iptv_org | Telemundo Romance (1080p) | https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+OK  0.338s | iptv_org | Telemundo Corpus Christi (720p) | https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+OK  0.349s | iptv_org | Telemundo Accion (1080p) | https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
 === Univision [OTA Major Networks] ===
-OK  0.239s | iptv_org | Univision Latin America (1080p) | http://138.121.15.230:9002/UNIVISION/index.m3u8
-OK  0.396s | iptv_org | Univision (1080p) | http://200.115.120.1:8000/play/ca106/index.m3u8
+OK  0.211s | iptv_org | Univision (1080p) | http://200.115.120.1:8000/play/ca106/index.m3u8
+OK  0.334s | iptv_org | Univision Latin America (1080p) | http://138.121.15.230:9002/UNIVISION/index.m3u8
 
 === UniMas [OTA Major Networks] ===
 NO CANDIDATES
 
 === Antenna TV [OTA Digital Multicast] ===
-OK  0.427s | ota_diginets | Antenna TV | https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+OK  0.519s | ota_diginets | Antenna TV | https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 
 === Bounce TV [OTA Digital Multicast] ===
 NO CANDIDATES
@@ -65,183 +65,183 @@ NO CANDIDATES
 NO CANDIDATES
 
 === Cozi TV [OTA Digital Multicast] ===
-OK  0.125s | iptv_org | Cozi TV (720p) | http://206.212.244.63/49/index.m3u8
+OK  0.119s | iptv_org | Cozi TV (720p) | http://206.212.244.63/49/index.m3u8
 
 === Comet [OTA Digital Multicast] ===
-OK  0.384s | iptv_org | Comet (1080p) | https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-BAD 0.201s | usa_hanssettings | Comet | https://fast-channels.sinclairstoryline.com/COMET/index.m3u8:Comet
-BAD 0.608s | ota_diginets | Comet | https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+OK  0.554s | iptv_org | Comet (1080p) | https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+BAD 0.219s | usa_hanssettings | Comet | https://fast-channels.sinclairstoryline.com/COMET/index.m3u8:Comet
+BAD 0.607s | ota_diginets | Comet | https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
 === Charge! [OTA Digital Multicast] ===
 OK  0.249s | iptv_org | Charge! (1080p) | https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-BAD 0.208s | usa_hanssettings | Charge! | https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8:Charge!
-BAD 0.319s | ota_diginets | Charge! | https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+BAD 0.244s | usa_hanssettings | Charge! | https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8:Charge!
+BAD 0.247s | ota_diginets | Charge! | https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 === Dabl [OTA Digital Multicast] ===
-BAD 0.416s | ota_diginets | Dabl | https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+BAD 0.377s | ota_diginets | Dabl | https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
 
 === Defy TV [OTA Digital Multicast] ===
 BAD 0.018s | usa_hanssettings | Defy TV | https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8:Defy TV
 
 === Grit [OTA Digital Multicast] ===
-OK  0.188s | iptv_org | Grit (720p) | http://206.212.244.63/83/index.m3u8
-OK  0.661s | iptv_org | Grit Xtra (1080p) | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+OK  0.129s | iptv_org | Grit (720p) | http://206.212.244.63/83/index.m3u8
+OK  0.776s | iptv_org | Grit Xtra (1080p) | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 === Heroes & Icons [OTA Digital Multicast] ===
-OK  0.259s | iptv_org | Heroes & Icons (720p) | http://206.212.244.63/88/index.m3u8
-BAD 0.024s | usa_hanssettings | Heroes & Icons | https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8:Heroes & Icons
+OK  0.121s | iptv_org | Heroes & Icons (720p) | http://206.212.244.63/88/index.m3u8
+BAD 0.021s | usa_hanssettings | Heroes & Icons | https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8:Heroes & Icons
 
 === Ion Television [OTA Digital Multicast] ===
-OK  0.253s | pluto | ION | https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YzE1N2IxMC03OTUyLTExZjEtOTc0MC0zNjMwYjkyM2M0ZWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJmd1ZjSUQyQ29wcGEiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjgyN2ZjNDVhLTM0OWEtNDFjZS1hNjUzLWUwZTVjYzYwYmFlZSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzNTMwMzMyODIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpPREkzWm1NME5XRXRNelE1WVMwME1XTmxMV0UyTlRNdFpUQmxOV05qTmpCaVlXVmwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDM5NDMzLCJpYXQiOjE3ODMzNTMwMzMsImp0aSI6IjdlYzQ4ZTUzLWJiMGQtNGUxNS04MTAwLTcwNTMwMmI4ZWUzMCJ9.3h94KeNR98nnRLWg_rCJ_Nn3lMnTPx7rwM_wkK7C3ts&masterJWTPassthrough=true
-OK  0.333s | iptv_org | ION Mystery (1080p) | https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
-OK  0.606s | iptv_org | ION Plus (1080p) | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-OK  0.686s | samsung | ION | https://jmp2.uk/stvp-USBD300002TU
-OK  0.763s | localnow | ION Television | https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n4=content_name&ads.v4=ION%20Television&ads.n21=channel_company_id&ads.v21=AMDP500574&ads.n22=channel_name&ads.v22=ION%20Television&ads.n23=device_model&ads.v23=&ads.n24=app_version&ads.v24=0.0.0&ads.n25=channel_corp&ads.v25=ION%20Media%20Networks&ads.n26=us_privacy&ads.v26=1YNY&ads.n27=content_custom_2_param&ads.v27=AMDB013702&ads.n28=channel_id&ads.v28=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n29=content_provider&ads.v29=ion-television&ads.n30=content_type&ads.v30=channel&ads.n31=content_livestream&ads.v31=1&ads.n32=channel_ext_id&ads.v32=&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=content_custom_1_param&ads.v34=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n35=channel_title&ads.v35=ION%20Television&ads.n36=content_producer_name&ads.v36=ION%20Media%20Networks&ads.n37=channel_brand_id&ads.v37=AMDB013702&ads.n38=network_name&ads.v38=ion-television&ads.n39=device_type&ads.v39=&ads.n40=app_name&ads.v40=&ads.n41=app_store_url&ads.v41=&ads.n42=h&ads.v42=1080&ads.n43=channel_genre&ads.v43=Entertainment&ads.n44=app_bundle&ads.v44=&ads.n45=gpp_sid&ads.v45=&ads.n46=device_make&ads.v46=&ads.n47=channel_language&ads.v47=en&ads.n48=w&ads.v48=1920&ads.n49=url&ads.v49=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n50=did&ads.v50=&ads.n51=pos&ads.v51=midroll&ads.n52=ifa_type&ads.v52=&ads.n53=cust_devicename&ads.v53=desktop_web&ads.n54=dnt&ads.v54=&ads.n55=gpp&ads.v55=&ads.n56=ip&ads.v56=185.217.168.164&ads.n57=ua&ads.v57=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n58=channel_rating&ads.v58=TV-PG
+OK  0.509s | iptv_org | ION Mystery (1080p) | https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
+OK  0.765s | iptv_org | ION Plus (1080p) | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+OK  0.863s | localnow | ION Television | https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n4=content_name&ads.v4=ION%20Television&ads.n21=channel_company_id&ads.v21=AMDP500574&ads.n22=channel_name&ads.v22=ION%20Television&ads.n23=device_model&ads.v23=&ads.n24=app_version&ads.v24=0.0.0&ads.n25=channel_corp&ads.v25=ION%20Media%20Networks&ads.n26=us_privacy&ads.v26=1YNY&ads.n27=content_custom_2_param&ads.v27=AMDB013702&ads.n28=channel_id&ads.v28=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n29=content_provider&ads.v29=ion-television&ads.n30=content_type&ads.v30=channel&ads.n31=content_livestream&ads.v31=1&ads.n32=channel_ext_id&ads.v32=&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=content_custom_1_param&ads.v34=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n35=channel_title&ads.v35=ION%20Television&ads.n36=content_producer_name&ads.v36=ION%20Media%20Networks&ads.n37=channel_brand_id&ads.v37=AMDB013702&ads.n38=network_name&ads.v38=ion-television&ads.n39=device_type&ads.v39=&ads.n40=app_name&ads.v40=&ads.n41=app_store_url&ads.v41=&ads.n42=h&ads.v42=1080&ads.n43=channel_genre&ads.v43=Entertainment&ads.n44=app_bundle&ads.v44=&ads.n45=gpp_sid&ads.v45=&ads.n46=device_make&ads.v46=&ads.n47=channel_language&ads.v47=en&ads.n48=w&ads.v48=1920&ads.n49=url&ads.v49=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n50=did&ads.v50=&ads.n51=pos&ads.v51=midroll&ads.n52=ifa_type&ads.v52=&ads.n53=cust_devicename&ads.v53=desktop_web&ads.n54=dnt&ads.v54=&ads.n55=gpp&ads.v55=&ads.n56=ip&ads.v56=185.217.168.164&ads.n57=ua&ads.v57=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n58=channel_rating&ads.v58=TV-PG
+OK  0.952s | localnow | ION Television | https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n4=content_name&ads.v4=ION%20Television&ads.n21=h&ads.v21=1080&ads.n22=w&ads.v22=1920&ads.n23=content_custom_1_param&ads.v23=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n24=content_producer_name&ads.v24=ION%20Media%20Networks&ads.n25=gpp&ads.v25=&ads.n26=content_livestream&ads.v26=1&ads.n27=device_make&ads.v27=&ads.n28=network_name&ads.v28=ion-television&ads.n29=channel_id&ads.v29=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=app_store_url&ads.v31=&ads.n32=app_name&ads.v32=&ads.n33=device_type&ads.v33=&ads.n34=channel_ext_id&ads.v34=&ads.n35=channel_brand_id&ads.v35=AMDB013702&ads.n36=channel_genre&ads.v36=Entertainment&ads.n37=ua&ads.v37=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n38=content_type&ads.v38=channel&ads.n39=channel_title&ads.v39=ION%20Television&ads.n40=ifa_type&ads.v40=&ads.n41=channel_rating&ads.v41=TV-PG&ads.n42=channel_name&ads.v42=ION%20Television&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=gpp_sid&ads.v44=&ads.n45=channel_language&ads.v45=en&ads.n46=channel_corp&ads.v46=ION%20Media%20Networks&ads.n47=ip&ads.v47=185.217.168.164&ads.n48=app_version&ads.v48=0.0.0&ads.n49=app_bundle&ads.v49=&ads.n50=channel_company_id&ads.v50=AMDP500574&ads.n51=content_custom_2_param&ads.v51=AMDB013702&ads.n52=device_model&ads.v52=&ads.n53=content_provider&ads.v53=ion-television&ads.n54=dnt&ads.v54=&ads.n55=cust_devicename&ads.v55=desktop_web&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=pos&ads.v57=midroll&ads.n58=did&ads.v58=
+OK  0.995s | pluto | ION | https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YzE1N2IxMC03OTUyLTExZjEtOTc0MC0zNjMwYjkyM2M0ZWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJmd1ZjSUQyQ29wcGEiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjgyN2ZjNDVhLTM0OWEtNDFjZS1hNjUzLWUwZTVjYzYwYmFlZSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzNTMwMzMyODIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpPREkzWm1NME5XRXRNelE1WVMwME1XTmxMV0UyTlRNdFpUQmxOV05qTmpCaVlXVmwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDM5NDMzLCJpYXQiOjE3ODMzNTMwMzMsImp0aSI6IjdlYzQ4ZTUzLWJiMGQtNGUxNS04MTAwLTcwNTMwMmI4ZWUzMCJ9.3h94KeNR98nnRLWg_rCJ_Nn3lMnTPx7rwM_wkK7C3ts&masterJWTPassthrough=true
 
 === Ion Mystery [OTA Digital Multicast] ===
-OK  0.281s | vizio | ION Mystery | https://bdd9b4ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSU9OTXlzdGVyeV9ITFM/playlist.m3u8?ads.wurl_channel=1206&ads.wurl_name=IONMystery&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc4ODM2ODI3MX0
-OK  0.476s | iptv_org | ION Mystery (1080p) | https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
-OK  0.561s | tablo | ION Mystery | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
-OK  0.674s | localnow | ION Mystery | https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n4=content_name&ads.v4=ION%20Mystery&ads.n21=content_custom_2_param&ads.v21=AMDB013703&ads.n22=channel_company_id&ads.v22=AMDP500574&ads.n23=did&ads.v23=&ads.n24=content_livestream&ads.v24=1&ads.n25=channel_ext_id&ads.v25=&ads.n26=channel_id&ads.v26=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=dnt&ads.v28=&ads.n29=channel_genre&ads.v29=Drama&ads.n30=content_type&ads.v30=channel&ads.n31=gpp&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=ifa_type&ads.v33=&ads.n34=pos&ads.v34=midroll&ads.n35=channel_brand_id&ads.v35=AMDB013703&ads.n36=app_version&ads.v36=0.0.0&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=content_producer_name&ads.v39=ION%20Media%20Networks&ads.n40=device_make&ads.v40=&ads.n41=channel_title&ads.v41=ION%20Mystery&ads.n42=device_model&ads.v42=&ads.n43=app_bundle&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=network_name&ads.v45=ion-mystery&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=h&ads.v47=1080&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=ip&ads.v50=185.217.168.164&ads.n51=w&ads.v51=1920&ads.n52=channel_name&ads.v52=ION%20Mystery&ads.n53=channel_language&ads.v53=en&ads.n54=channel_corp&ads.v54=ION%20Media%20Networks&ads.n55=app_name&ads.v55=&ads.n56=content_custom_1_param&ads.v56=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n57=content_provider&ads.v57=ion-mystery&ads.n58=gpp_sid&ads.v58=
-OK  1.002s | plex | Ion Mystery | https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26/?X-Plex-Token=G7SENtiiVUi53th7eyw3
+OK  0.442s | vizio | ION Mystery | https://bdd9b4ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSU9OTXlzdGVyeV9ITFM/playlist.m3u8?ads.wurl_channel=1206&ads.wurl_name=IONMystery&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc4ODM2ODI3MX0
+OK  0.456s | iptv_org | ION Mystery (1080p) | https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
+OK  0.776s | tablo | ION Mystery | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+OK  0.951s | plex | Ion Mystery | https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26/?X-Plex-Token=G7SENtiiVUi53th7eyw3
+OK  0.975s | localnow | ION Mystery | https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n4=content_name&ads.v4=ION%20Mystery&ads.n21=content_custom_2_param&ads.v21=AMDB013703&ads.n22=channel_company_id&ads.v22=AMDP500574&ads.n23=did&ads.v23=&ads.n24=content_livestream&ads.v24=1&ads.n25=channel_ext_id&ads.v25=&ads.n26=channel_id&ads.v26=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=dnt&ads.v28=&ads.n29=channel_genre&ads.v29=Drama&ads.n30=content_type&ads.v30=channel&ads.n31=gpp&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=ifa_type&ads.v33=&ads.n34=pos&ads.v34=midroll&ads.n35=channel_brand_id&ads.v35=AMDB013703&ads.n36=app_version&ads.v36=0.0.0&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=content_producer_name&ads.v39=ION%20Media%20Networks&ads.n40=device_make&ads.v40=&ads.n41=channel_title&ads.v41=ION%20Mystery&ads.n42=device_model&ads.v42=&ads.n43=app_bundle&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=network_name&ads.v45=ion-mystery&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=h&ads.v47=1080&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=ip&ads.v50=185.217.168.164&ads.n51=w&ads.v51=1920&ads.n52=channel_name&ads.v52=ION%20Mystery&ads.n53=channel_language&ads.v53=en&ads.n54=channel_corp&ads.v54=ION%20Media%20Networks&ads.n55=app_name&ads.v55=&ads.n56=content_custom_1_param&ads.v56=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n57=content_provider&ads.v57=ion-mystery&ads.n58=gpp_sid&ads.v58=
 
 === Ion Plus [OTA Digital Multicast] ===
-OK  0.366s | vizio | ION Plus | https://6358c493.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSW9uUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=378&ads.wurl_name=IonPlus&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mjk2ODYwMjQ2Nn0
-OK  0.503s | iptv_org | ION Plus (1080p) | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-OK   0.52s | tablo | ION Plus | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-OK  0.589s | plex | ION Plus | https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-627e347795b0f50af26d78f9/?X-Plex-Token=G7SENtiiVUi53th7eyw3
-OK  0.806s | localnow | ION Plus | https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n4=content_name&ads.v4=ION%20Plus&ads.n21=h&ads.v21=1080&ads.n22=channel_ext_id&ads.v22=&ads.n23=channel_genre&ads.v23=Drama&ads.n24=channel_name&ads.v24=ION%20Plus&ads.n25=channel_language&ads.v25=en&ads.n26=ua&ads.v26=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n27=app_store_url&ads.v27=&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=channel_corp&ads.v29=ION%20Media%20Networks&ads.n30=device_model&ads.v30=&ads.n31=channel_company_id&ads.v31=AMDP500574&ads.n32=pos&ads.v32=midroll&ads.n33=did&ads.v33=&ads.n34=channel_id&ads.v34=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n35=channel_title&ads.v35=ION%20Plus&ads.n36=content_livestream&ads.v36=1&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=channel_brand_id&ads.v39=AMDB013704&ads.n40=content_provider&ads.v40=ion-plus&ads.n41=dnt&ads.v41=&ads.n42=w&ads.v42=1920&ads.n43=device_make&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=content_type&ads.v46=channel&ads.n47=app_name&ads.v47=&ads.n48=gpp&ads.v48=&ads.n49=app_bundle&ads.v49=&ads.n50=content_producer_name&ads.v50=ION%20Media%20Networks&ads.n51=content_custom_1_param&ads.v51=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n52=ip&ads.v52=185.217.168.164&ads.n53=gpp_sid&ads.v53=&ads.n54=ifa_type&ads.v54=&ads.n55=network_name&ads.v55=ion-plus&ads.n56=content_custom_2_param&ads.v56=AMDB013704&ads.n57=app_version&ads.v57=0.0.0&ads.n58=cust_devicename&ads.v58=desktop_web
+OK  0.495s | vizio | ION Plus | https://6358c493.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSW9uUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=378&ads.wurl_name=IonPlus&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mjk2ODYwMjQ2Nn0
+OK  0.709s | iptv_org | ION Plus (1080p) | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+OK  0.888s | localnow | ION Plus | https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n4=content_name&ads.v4=ION%20Plus&ads.n21=h&ads.v21=1080&ads.n22=channel_ext_id&ads.v22=&ads.n23=channel_genre&ads.v23=Drama&ads.n24=channel_name&ads.v24=ION%20Plus&ads.n25=channel_language&ads.v25=en&ads.n26=ua&ads.v26=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n27=app_store_url&ads.v27=&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=channel_corp&ads.v29=ION%20Media%20Networks&ads.n30=device_model&ads.v30=&ads.n31=channel_company_id&ads.v31=AMDP500574&ads.n32=pos&ads.v32=midroll&ads.n33=did&ads.v33=&ads.n34=channel_id&ads.v34=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n35=channel_title&ads.v35=ION%20Plus&ads.n36=content_livestream&ads.v36=1&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=channel_brand_id&ads.v39=AMDB013704&ads.n40=content_provider&ads.v40=ion-plus&ads.n41=dnt&ads.v41=&ads.n42=w&ads.v42=1920&ads.n43=device_make&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=content_type&ads.v46=channel&ads.n47=app_name&ads.v47=&ads.n48=gpp&ads.v48=&ads.n49=app_bundle&ads.v49=&ads.n50=content_producer_name&ads.v50=ION%20Media%20Networks&ads.n51=content_custom_1_param&ads.v51=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n52=ip&ads.v52=185.217.168.164&ads.n53=gpp_sid&ads.v53=&ads.n54=ifa_type&ads.v54=&ads.n55=network_name&ads.v55=ion-plus&ads.n56=content_custom_2_param&ads.v56=AMDB013704&ads.n57=app_version&ads.v57=0.0.0&ads.n58=cust_devicename&ads.v58=desktop_web
+OK  0.961s | tablo | ION Plus | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+OK  1.476s | samsung | ION Plus | https://jmp2.uk/stvp-USBD300003LK
 
 === Laff [OTA Digital Multicast] ===
-OK   0.11s | iptv_org | Laff (720p) | http://206.212.244.63/101/index.m3u8
+OK  0.118s | iptv_org | Laff (720p) | http://206.212.244.63/101/index.m3u8
 
 === MeTV [OTA Digital Multicast] ===
-OK    0.1s | iptv_org | MeTV Toons (720p) | http://206.212.244.63/112/index.m3u8
-OK  0.105s | iptv_org | MeTV+ (720p) | http://206.212.244.63/111/index.m3u8
-OK  0.301s | iptv_org | MeTV (720p) | https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-BAD 0.766s | iptv_org | METV HD (1080p) | http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
+OK  0.133s | iptv_org | MeTV Toons (720p) | http://206.212.244.63/112/index.m3u8
+OK  0.141s | iptv_org | MeTV+ (720p) | http://206.212.244.63/111/index.m3u8
+OK  0.458s | iptv_org | MeTV (720p) | https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+BAD 0.995s | iptv_org | METV HD (1080p) | http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
 
 === MeTV+ [OTA Digital Multicast] ===
-OK  0.096s | iptv_org | MeTV+ (720p) | http://206.212.244.63/111/index.m3u8
-OK  0.114s | iptv_org | MeTV Toons (720p) | http://206.212.244.63/112/index.m3u8
-OK  0.265s | iptv_org | MeTV (720p) | https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-BAD 0.955s | iptv_org | METV HD (1080p) | http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
+OK  0.138s | iptv_org | MeTV+ (720p) | http://206.212.244.63/111/index.m3u8
+OK  0.178s | iptv_org | MeTV Toons (720p) | http://206.212.244.63/112/index.m3u8
+OK  0.269s | iptv_org | MeTV (720p) | https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+BAD 0.899s | iptv_org | METV HD (1080p) | http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
 
 === Movies! [OTA Digital Multicast] ===
-OK  0.227s | iptv_org | Movies Action (1080p) | https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-OK  0.396s | iptv_org | Movies Thriller (1080p) | https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-BAD 0.447s | iptv_org | Movies Now HD (1080p) | http://103.161.153.165:8000/play/mnh/index.m3u8
-BAD 0.604s | usa_hanssettings | Movies! | https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8:Movies!
-BAD 5.029s | iptv_org | Movies Now + (1080p) | http://149.71.34.166:8000/play/a05t/index.m3u8
+OK  0.358s | iptv_org | Movies Action (1080p) | https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+OK   0.56s | iptv_org | Movies Thriller (1080p) | https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+BAD 0.351s | iptv_org | Movies Now HD (1080p) | http://103.161.153.165:8000/play/mnh/index.m3u8
+BAD 0.609s | usa_hanssettings | Movies! | https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8:Movies!
+BAD 5.036s | iptv_org | Movies Now + (1080p) | http://149.71.34.166:8000/play/a05t/index.m3u8
 
 === Rewind TV [OTA Digital Multicast] ===
-OK  1.257s | iptv_org | Rewind TV (1080p) | https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+OK  0.871s | iptv_org | Rewind TV (1080p) | https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 === Start TV [OTA Digital Multicast] ===
-OK  0.247s | iptv_org | Start TV (720p) | http://206.212.244.63/150/index.m3u8
+OK   0.14s | iptv_org | Start TV (720p) | http://206.212.244.63/150/index.m3u8
 
 === Story Television [OTA Digital Multicast] ===
-OK  1.053s | iptv_org | Story Television | https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
-BAD 0.012s | usa_hanssettings | Story Television | https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8:Story Television
+OK  0.271s | iptv_org | Story Television | https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+BAD 0.023s | usa_hanssettings | Story Television | https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8:Story Television
 
 === TBD [OTA Digital Multicast] ===
-BAD 0.021s | usa_hanssettings | TBD (#) | https://fast-channels.sinclairstoryline.com/TBD/index.m3u8:TBD (#)
-BAD 0.329s | usa_hanssettings | TBD | http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a:TBD
+BAD 0.026s | usa_hanssettings | TBD (#) | https://fast-channels.sinclairstoryline.com/TBD/index.m3u8:TBD (#)
+BAD 0.191s | usa_hanssettings | TBD | http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a:TBD
 
 === This TV [OTA Digital Multicast] ===
 NO CANDIDATES
 
 === A&E [Entertainment] ===
-OK  1.529s | iptv_org | A&E Crime 360 (720p) | https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
-BAD 0.252s | iptv_org | A&E (720p) | http://23.239.31.26:8989/aande/index.m3u8
+OK  0.727s | iptv_org | A&E Crime 360 (720p) | https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
+BAD 0.191s | iptv_org | A&E (720p) | http://23.239.31.26:8989/aande/index.m3u8
 
 === AMC [Entertainment] ===
-OK  0.412s | iptv_org | AMC Reality (1080p) | https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
-OK  0.482s | iptv_org | AMC Cupid (1080p) | https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8
-OK  0.689s | iptv_org | AMC East (720p) | http://41.223.30.230/AMC/index.m3u8
-BAD 0.209s | iptv_org | AMC (720p) | http://23.239.31.26:8989/amc/index.m3u8
-BAD 0.386s | usa_hanssettings | AMC+ | https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8:AMC+
+OK  0.434s | iptv_org | AMC Cupid (1080p) | https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8
+OK  0.582s | iptv_org | AMC East (720p) | http://41.223.30.230/AMC/index.m3u8
+OK  0.797s | iptv_org | AMC Reality (1080p) | https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
+BAD 0.171s | iptv_org | AMC (720p) | http://23.239.31.26:8989/amc/index.m3u8
+BAD 0.381s | iptv_org | AMC (1080p) | https://amchls.wns.live/hls/stream.m3u8
 
 === AXS TV [Entertainment] ===
-BAD 0.182s | iptv_org | AXS TV (720p) | http://23.239.31.26:8989/axstv/index.m3u8
+BAD 0.185s | iptv_org | AXS TV (720p) | http://23.239.31.26:8989/axstv/index.m3u8
 
 === BBC America [Entertainment] ===
-BAD 0.026s | usa_hanssettings | BBC America East | https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8:BBC America East
-BAD 0.195s | iptv_org | BBC America (720p) | http://23.239.31.26:8989/bbcamerica/index.m3u8
+BAD 0.021s | usa_hanssettings | BBC America East | https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8:BBC America East
+BAD  0.17s | iptv_org | BBC America (720p) | http://23.239.31.26:8989/bbcamerica/index.m3u8
 
 === BET [Entertainment] ===
-OK  0.115s | iptv_org | BET West (720p) | http://206.212.244.63/16/index.m3u8
-OK  0.153s | iptv_org | BET Her West (720p) | http://206.212.244.63/19/index.m3u8
-OK  0.354s | iptv_org | BET x Tyler Perry Comedy (1080p) | https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
-OK  0.418s | iptv_org | BET x Tyler Perry Drama (1080p) | https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
-OK  0.515s | iptv_org | BET | https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
+OK  0.137s | iptv_org | BET West (720p) | http://206.212.244.63/16/index.m3u8
+OK   0.14s | iptv_org | BET Her West (720p) | http://206.212.244.63/19/index.m3u8
+OK  0.444s | iptv_org | BET x Tyler Perry Comedy (1080p) | https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
+OK  0.449s | iptv_org | BET x Tyler Perry Drama (1080p) | https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
+OK  0.646s | iptv_org | BET | https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
 
 === Bravo [Entertainment] ===
-OK  0.112s | iptv_org | Bravo West (720p) | http://206.212.244.63/26/index.m3u8
-OK    0.4s | iptv_org | Bravo Vault (1080p) | https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
-OK   0.69s | iptv_org | Bravo (720p) | http://41.205.93.154/BRAVO/index.m3u8
-OK  0.937s | iptv_org | Bravo TV (1080p) | https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
-OK   1.47s | iptv_org | Bravo Vault (720p) | https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
+OK  0.156s | iptv_org | Bravo West (720p) | http://206.212.244.63/26/index.m3u8
+OK  0.254s | iptv_org | Bravo Vault (1080p) | https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+OK  0.584s | iptv_org | Bravo Vault (720p) | https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
+OK  0.588s | iptv_org | Bravo (720p) | http://41.205.93.154/BRAVO/index.m3u8
+OK  0.632s | iptv_org | Bravo TV (1080p) | https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 
 === CMT [Entertainment] ===
-OK  0.289s | iptv_org | CMT (720p) | http://23.237.104.106:8080/USA_CMT/index.m3u8
-OK  1.755s | iptv_org | CMT Equal Play (720p) | https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+OK  0.195s | iptv_org | CMT (720p) | http://23.237.104.106:8080/USA_CMT/index.m3u8
+OK  1.383s | iptv_org | CMT Equal Play (720p) | https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 
 === Comedy Central [Entertainment] ===
-OK  0.199s | iptv_org | Comedy Central (1080p) | http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-OK  0.415s | iptv_org | Comedy Central | http://82.78.243.219:45739/play/a00f/index.m3u8
-OK  0.509s | iptv_org | Comedy Central | http://86.87.15.10:8002/play/a02k/index.m3u8
-OK   1.18s | iptv_org | Comedy Central | https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
-OK  1.348s | iptv_org | Comedy Central | https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+OK  0.196s | iptv_org | Comedy Central (1080p) | http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+OK  0.387s | iptv_org | Comedy Central | http://82.78.243.219:45739/play/a00f/index.m3u8
+OK  0.427s | iptv_org | Comedy Central | http://86.87.15.10:8002/play/a02k/index.m3u8
+OK  1.237s | iptv_org | Comedy Central | https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+OK  1.406s | iptv_org | Comedy Central | https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 
 === E! [Entertainment] ===
-OK  0.164s | iptv_org | E! (1080p) | http://23.237.104.106:8080/USA_E/index.m3u8
-OK  0.362s | iptv_org | E! Keeping Up (1080p) | https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+OK   0.15s | iptv_org | E! (1080p) | http://23.237.104.106:8080/USA_E/index.m3u8
+OK  0.401s | iptv_org | E! Keeping Up (1080p) | https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 
 === Freeform [Entertainment] ===
-OK  0.115s | iptv_org | Freeform West (720p) | http://206.212.244.63/70/index.m3u8
-OK  0.216s | iptv_org | Freeform (720p) | http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+OK  0.099s | iptv_org | Freeform West (720p) | http://206.212.244.63/70/index.m3u8
+OK  0.287s | iptv_org | Freeform (720p) | http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
 === Fuse [Entertainment] ===
-OK  0.218s | iptv_org | Fuse (1080p) | http://23.237.104.106:8080/USA_FUSE/index.m3u8
-BAD 0.024s | usa_hanssettings | Fuse East | https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8:Fuse East
+OK  0.224s | iptv_org | Fuse (1080p) | http://23.237.104.106:8080/USA_FUSE/index.m3u8
+BAD 0.022s | usa_hanssettings | Fuse East | https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8:Fuse East
 
 === FX [Entertainment] ===
-OK  0.186s | iptv_org | FX (1080p) | http://23.237.104.106:8080/USA_FX/index.m3u8
+OK  0.195s | iptv_org | FX (1080p) | http://23.237.104.106:8080/USA_FX/index.m3u8
 
 === FXX [Entertainment] ===
-OK    0.2s | iptv_org | FXX (1080p) | http://23.237.104.106:8080/USA_FXX/index.m3u8
+OK  0.167s | iptv_org | FXX (1080p) | http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 === FX Movie Channel [Entertainment] ===
 NO CANDIDATES
 
 === FYI [Entertainment] ===
-BAD 0.321s | iptv_org | FYI (720p) | http://185.246.209.113/FYIHD/index.m3u8
+BAD 0.276s | iptv_org | FYI (720p) | http://185.246.209.113/FYIHD/index.m3u8
 
 === GSN [Entertainment] ===
 NO CANDIDATES
 
 === Hallmark Channel [Entertainment] ===
-OK  0.311s | iptv_org | Hallmark Channel (1080p) | http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+OK  0.174s | iptv_org | Hallmark Channel (1080p) | http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
 === Hallmark Mystery [Entertainment] ===
-OK   0.14s | iptv_org | Hallmark Mystery (1080p) | http://206.212.244.63/86/index.m3u8
+OK  0.114s | iptv_org | Hallmark Mystery (1080p) | http://206.212.244.63/86/index.m3u8
 
 === Hallmark Family [Entertainment] ===
-OK  0.147s | iptv_org | Hallmark Family (720p) | http://206.212.244.63/85/index.m3u8
+OK  0.116s | iptv_org | Hallmark Family (720p) | http://206.212.244.63/85/index.m3u8
 
 === IFC [Entertainment] ===
-OK   0.18s | iptv_org | IFC (1080p) | http://23.237.104.106:8080/USA_IFC/index.m3u8
+OK  0.193s | iptv_org | IFC (1080p) | http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 === INSP [Entertainment] ===
-OK  0.122s | iptv_org | INSP (720p) | http://206.212.244.63/95/index.m3u8
+OK  0.125s | iptv_org | INSP (720p) | http://206.212.244.63/95/index.m3u8
 
 === Lifetime [Entertainment] ===
-OK  0.211s | iptv_org | Lifetime Movies (1080p) | http://23.237.104.106:8080/USA_LMN/index.m3u8
-OK  0.367s | iptv_org | Lifetime Movies (1080p) | https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8
-OK  0.449s | iptv_org | Lifetime Movies Love & Drama (1080p) | https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+OK  0.192s | iptv_org | Lifetime Movies (1080p) | http://23.237.104.106:8080/USA_LMN/index.m3u8
+OK  0.412s | iptv_org | Lifetime Movies (1080p) | https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8
+OK  0.435s | iptv_org | Lifetime Movies Love & Drama (1080p) | https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
 OK  0.619s | iptv_org | Lifetime (720p) | http://rezofoot.tv/LIFETIME/index.m3u8
-OK    1.3s | iptv_org | Lifetime Movie Favorites (720p) | https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
+OK  1.275s | iptv_org | Lifetime Movie Favorites (720p) | https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 
 === LMN [Entertainment] ===
 NO CANDIDATES
@@ -253,62 +253,62 @@ NO CANDIDATES
 NO CANDIDATES
 
 === MTV [Entertainment] ===
-OK  1.828s | iptv_org | MTV Catfish (720p) | https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
-OK  1.832s | iptv_org | MTV Catfish (720p) | https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
-OK  2.132s | iptv_org | MTV Ava (720p) | https://live-fi.tvkaista.net/ava/live.m3u8
-OK  2.482s | iptv_org | MTV Biggest Pop (1080p) | https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
-OK  2.857s | iptv_org | MTV Biggest Pop (1080p) | https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
+OK  1.139s | iptv_org | MTV Biggest Pop (1080p) | https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+OK   1.22s | iptv_org | MTV Biggest Pop (1080p) | https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+OK  1.645s | iptv_org | MTV Catfish (720p) | https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
+OK  1.738s | iptv_org | MTV Catfish (720p) | https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
+OK  1.976s | iptv_org | MTV Biggest Pop (1080p) | https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 
 === MTV2 [Entertainment] ===
-BAD 0.194s | iptv_org | MTV2 (720p) | http://198.58.104.90:8989/mtv2/index.m3u8
+BAD 0.204s | iptv_org | MTV2 (720p) | http://198.58.104.90:8989/mtv2/index.m3u8
 
 === MTV Classic [Entertainment] ===
-BAD 0.019s | usa_hanssettings | MTV Classic | https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8:MTV Classic
-BAD 0.724s | iptv_org | MTV Classic (720p) | http://206.212.244.63/117/index.m3u8
+OK  0.164s | iptv_org | MTV Classic (720p) | http://206.212.244.63/117/index.m3u8
+BAD 0.055s | usa_hanssettings | MTV Classic | https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8:MTV Classic
 
 === National Geographic [Entertainment] ===
-OK  0.136s | iptv_org | National Geographic West (720p) | http://206.212.244.63/122/index.m3u8
-OK  0.293s | iptv_org | National Geographic Wild (720p) | http://185.102.171.218/NatGeoWild/index.m3u8
-OK  0.367s | iptv_org | National Geographic Wild (1080p) | http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-OK   0.88s | iptv_org | National Geographic Wild (720p) | http://41.205.77.102/NATGEO-WILD/index.m3u8
-BAD 0.208s | iptv_org | National Geographic HD East (720p) | http://198.58.104.90:8989/natgeo/index.m3u8
+OK  0.192s | iptv_org | National Geographic West (720p) | http://206.212.244.63/122/index.m3u8
+OK   0.33s | iptv_org | National Geographic Wild (720p) | http://185.102.171.218/NatGeoWild/index.m3u8
+OK  0.575s | iptv_org | National Geographic (720p) | http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+OK  0.619s | iptv_org | National Geographic Wild (1080p) | http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+OK  0.827s | iptv_org | National Geographic Wild (720p) | http://41.205.77.102/NATGEO-WILD/index.m3u8
 
 === Nat Geo Wild [Entertainment] ===
 NO CANDIDATES
 
 === Ovation [Entertainment] ===
-OK  0.129s | iptv_org | Ovation (1080p) | http://40.160.24.55/OVATION/index.m3u8
+OK  0.171s | iptv_org | Ovation (1080p) | http://40.160.24.55/OVATION/index.m3u8
 
 === Oxygen [Entertainment] ===
-OK  0.174s | iptv_org | Oxygen (720p) | http://198.58.104.90:8989/oxygen/index.m3u8
-OK  0.689s | iptv_org | Oxygen Music (1080p) | https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-OK  1.422s | iptv_org | Oxygen True Crime Archives (720p) | https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
+OK  0.227s | iptv_org | Oxygen (720p) | http://198.58.104.90:8989/oxygen/index.m3u8
+OK  1.014s | iptv_org | Oxygen Music (1080p) | https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+OK  1.708s | iptv_org | Oxygen True Crime Archives (720p) | https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 
 === Paramount Network [Entertainment] ===
-OK  0.542s | iptv_org | Paramount Network (720p) | http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
-BAD  5.03s | free_tv | Paramount Network | http://185.189.225.150:85/Paramount/index.m3u8
+OK  0.562s | iptv_org | Paramount Network (720p) | http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
+BAD 5.054s | free_tv | Paramount Network | http://185.189.225.150:85/Paramount/index.m3u8
 
 === Pop [Entertainment] ===
-OK   0.11s | iptv_org | Pop TV (720p) | http://206.212.244.63/139/index.m3u8
-OK  0.442s | iptv_org | Pop (1080p) | https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-OK  0.463s | iptv_org | POP World TV (720p) | https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-BAD 0.031s | usa_hanssettings | Pop (#) | https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop (#)
-BAD 0.346s | usa_hanssettings | Pop | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop
+OK  0.169s | iptv_org | Pop TV (720p) | http://206.212.244.63/139/index.m3u8
+OK  1.187s | iptv_org | Pop (1080p) | https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+OK  1.196s | iptv_org | POP World TV (720p) | https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+BAD 0.038s | usa_hanssettings | Pop (#) | https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop (#)
+BAD 0.577s | usa_hanssettings | Pop | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop
 
 === Reelz [Entertainment] ===
-OK  0.351s | iptv_org | Reelz Famous & Infamous (1080p) | https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
-OK  0.389s | iptv_org | Reelz Famous & Infamous (1080p) | https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
-BAD 0.015s | usa_hanssettings | Reelz (#) | http://fl2.moveonjoy.com/REELZ/index.m3u8:Reelz (#)
-BAD 0.024s | usa_hanssettings | Reelz (#) | https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8:Reelz (#)
-BAD 0.083s | usa_hanssettings | Reelz | https://lnc-reelz.tubi.video/playlist.m3u8:Reelz
+OK   1.14s | iptv_org | Reelz Famous & Infamous (1080p) | https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+OK  1.551s | iptv_org | Reelz Famous & Infamous (1080p) | https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
+BAD 0.035s | usa_hanssettings | Reelz (#) | http://fl2.moveonjoy.com/REELZ/index.m3u8:Reelz (#)
+BAD 0.038s | usa_hanssettings | Reelz (#) | https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8:Reelz (#)
+BAD 0.122s | usa_hanssettings | Reelz | https://lnc-reelz.tubi.video/playlist.m3u8:Reelz
 
 === Sundance TV [Entertainment] ===
-OK  0.117s | iptv_org | Sundance TV (720p) | http://206.212.244.63/151/index.m3u8
+OK   0.15s | iptv_org | Sundance TV (720p) | http://206.212.244.63/151/index.m3u8
 
 === Syfy [Entertainment] ===
-OK  0.163s | iptv_org | Syfy | http://99.27.51.147:8080/SYFY/index.m3u8
-OK   0.19s | iptv_org | SYFY (720p) | http://23.237.104.106:8080/USA_SYFY/index.m3u8
-OK  0.546s | iptv_org | SYFY HD (720p) | http://rezofoot.tv/SYFY-HD/index.m3u8
+OK  0.234s | iptv_org | SYFY (720p) | http://23.237.104.106:8080/USA_SYFY/index.m3u8
+OK  0.253s | iptv_org | Syfy | http://99.27.51.147:8080/SYFY/index.m3u8
+OK  0.572s | iptv_org | SYFY HD (720p) | http://rezofoot.tv/SYFY-HD/index.m3u8
 
 === TBS [Entertainment] ===
 NO CANDIDATES
@@ -317,7 +317,7 @@ NO CANDIDATES
 NO CANDIDATES
 
 === TNT [Entertainment] ===
-BAD 0.019s | usa_hanssettings | TNT East | http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts:TNT East
+BAD 0.038s | usa_hanssettings | TNT East | http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts:TNT East
 
 === Travel Channel [Entertainment] ===
 NO CANDIDATES
@@ -326,20 +326,20 @@ NO CANDIDATES
 NO CANDIDATES
 
 === TV Land [Entertainment] ===
-BAD 0.292s | iptv_org | TV Land (720p) | http://185.246.209.113/TVLandHD/index.m3u8
+BAD 0.407s | iptv_org | TV Land (720p) | http://185.246.209.113/TVLandHD/index.m3u8
 
 === USA Network [Entertainment] ===
 NO CANDIDATES
 
 === VH1 [Entertainment] ===
-OK  0.559s | iptv_org | VH1 (720p) | http://rezofoot.tv/VH1/index.m3u8
+OK  0.557s | iptv_org | VH1 (720p) | http://rezofoot.tv/VH1/index.m3u8
 
 === Vice TV [Entertainment] ===
-OK   0.19s | iptv_org | VICE TV (1080p) | http://23.237.104.106:8080/USA_VICETV/index.m3u8
-OK  0.308s | fire_tv | Vice TV | https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+OK  0.232s | iptv_org | VICE TV (1080p) | http://23.237.104.106:8080/USA_VICETV/index.m3u8
+OK  0.399s | fire_tv | Vice TV | https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 
 === We TV [Entertainment] ===
-OK  0.391s | iptv_org | We TV (720p) | https://streamer1.nexgen.bz/WE_TV/index.m3u8
+OK  0.497s | iptv_org | We TV (720p) | https://streamer1.nexgen.bz/WE_TV/index.m3u8
 
 === HBO [Premium Cable] ===
 NO CANDIDATES
@@ -378,9 +378,9 @@ NO CANDIDATES
 NO CANDIDATES
 
 === Showtime [Premium Cable] ===
-OK  0.211s | iptv_org | Showtime (1080p) | http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-OK  0.232s | iptv_org | Showtime Family Zone (720p) | http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-BAD 0.026s | usa_hanssettings | Showtime East | http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8:Showtime East
+OK  0.246s | iptv_org | Showtime (1080p) | http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+OK  0.251s | iptv_org | Showtime Family Zone (720p) | http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+BAD  0.06s | usa_hanssettings | Showtime East | http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8:Showtime East
 
 === Showtime 2 [Premium Cable] ===
 NO CANDIDATES
@@ -395,32 +395,32 @@ NO CANDIDATES
 NO CANDIDATES
 
 === Flix [Premium Cable] ===
-BAD 5.031s | iptv_org | &flix HD (1080p) | http://103.72.101.252:8080/live/1322.m3u8
+BAD 5.058s | iptv_org | &flix HD (1080p) | http://103.72.101.252:8080/live/1322.m3u8
 
 === Starz [Premium Cable] ===
-OK  0.195s | iptv_org | Starz Kids & Family (1080p) | http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-OK   0.21s | iptv_org | Starz Comedy (1080p) | http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-OK  0.216s | iptv_org | Starz Cinema (720p) | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-OK  0.234s | iptv_org | Starz (1080p) | http://23.237.104.106:8080/USA_STARZ/index.m3u8
-BAD 0.008s | usa_hanssettings | Starz West | http://212.102.60.231/STARZ_WEST/index.m3u8:Starz West
+OK  0.216s | iptv_org | Starz Kids & Family (1080p) | http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+OK  0.217s | iptv_org | Starz Cinema (720p) | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+OK  0.249s | iptv_org | Starz (1080p) | http://23.237.104.106:8080/USA_STARZ/index.m3u8
+OK  0.323s | iptv_org | Starz Comedy (1080p) | http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+BAD 0.035s | usa_hanssettings | Starz East (#) | http://23.237.104.106:8080/USA_STARZ/index.m3u8:Starz East (#)
 
 === Starz Encore [Premium Cable] ===
-BAD 0.017s | usa_hanssettings | Starz Encore Classic East | http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8:Starz Encore Classic East
+BAD 0.041s | usa_hanssettings | Starz Encore Classic East | http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8:Starz Encore Classic East
 
 === Starz Cinema [Premium Cable] ===
-OK  0.206s | iptv_org | Starz Cinema (720p) | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+OK  0.243s | iptv_org | Starz Cinema (720p) | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 === Starz InBlack [Premium Cable] ===
 NO CANDIDATES
 
 === Starz Kids & Family [Premium Cable] ===
-OK  0.194s | iptv_org | Starz Kids & Family (1080p) | http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+OK   0.31s | iptv_org | Starz Kids & Family (1080p) | http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 
 === Starz Edge [Premium Cable] ===
 NO CANDIDATES
 
 === MGM+ [Premium Cable] ===
-OK  0.841s | plex | MGM Presents: Westerns | https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=G7SENtiiVUi53th7eyw3
+OK  1.443s | plex | MGM Presents: Westerns | https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=G7SENtiiVUi53th7eyw3
 
 === MGM+ Hits [Premium Cable] ===
 NO CANDIDATES
@@ -441,10 +441,10 @@ NO CANDIDATES
 NO CANDIDATES
 
 === AccuWeather Network [News & Weather] ===
-OK  0.122s | iptv_org | AccuWeather Network (720p) | http://206.212.244.63/674/index.m3u8
+OK  0.178s | iptv_org | AccuWeather Network (720p) | http://206.212.244.63/674/index.m3u8
 
 === Bloomberg Television [News & Weather] ===
-BAD 0.258s | distro | Bloomberg Television | https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=oBu8xSeABVK
+BAD  0.42s | distro | Bloomberg Television | https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=oBu8xSeABVK
 
 === C-SPAN [News & Weather] ===
 NO CANDIDATES
@@ -456,68 +456,68 @@ NO CANDIDATES
 NO CANDIDATES
 
 === CNBC [News & Weather] ===
-OK  0.482s | iptv_org | CNBC (1080p) | https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-OK   0.56s | iptv_org | CNBC (720p) | http://rezofoot.tv/CNBC/index.m3u8
-OK  0.637s | iptv_org | CNBC Bajar (1080p) | https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
-OK  1.125s | iptv_org | CNBC Awaaz (1080p) | https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
-BAD 0.032s | usa_hanssettings | CNBC (#) | https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8:CNBC (#)
+OK  0.573s | iptv_org | CNBC (720p) | http://rezofoot.tv/CNBC/index.m3u8
+OK  0.667s | iptv_org | CNBC (1080p) | https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+OK   0.98s | iptv_org | CNBC Awaaz (1080p) | https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+OK  1.328s | iptv_org | CNBC Bajar (1080p) | https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+BAD 0.047s | usa_hanssettings | CNBC (#) | https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8:CNBC (#)
 
 === CNBC World [News & Weather] ===
 NO CANDIDATES
 
 === CNN [News & Weather] ===
-BAD  0.23s | free_tv | CNN | https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-BAD 0.242s | free_tv | CNN | https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BAD 0.388s | free_tv | CNN | https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BAD 2.873s | free_tv | CNN | https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 
 === CNN International [News & Weather] ===
-OK  0.267s | free_tv | CNN International | https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-BAD 0.023s | usa_hanssettings | CNN International | https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8:CNN International
+OK  0.692s | free_tv | CNN International | https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BAD 0.044s | usa_hanssettings | CNN International | https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8:CNN International
 
 === CNN en Espanol [News & Weather] ===
 NO CANDIDATES
 
 === Fox Business Network [News & Weather] ===
-OK  0.112s | iptv_org | Fox Business Network (720p) | http://206.212.244.63/66/index.m3u8
-BAD 0.022s | usa_hanssettings | Fox Business Network | http://41.205.93.154/FOXBUSINESS/index.m3u8:Fox Business Network
+OK  0.161s | iptv_org | Fox Business Network (720p) | http://206.212.244.63/66/index.m3u8
+BAD 0.049s | usa_hanssettings | Fox Business Network | http://41.205.93.154/FOXBUSINESS/index.m3u8:Fox Business Network
 
 === Fox News Channel [News & Weather] ===
-OK  0.228s | iptv_org | Fox News Channel (720p) | http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-BAD 0.023s | usa_hanssettings | Fox News Channel | https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8:Fox News Channel
+OK  0.297s | iptv_org | Fox News Channel (720p) | http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+BAD 0.039s | usa_hanssettings | Fox News Channel | https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8:Fox News Channel
 
 === HLN [News & Weather] ===
-BAD 0.243s | iptv_org | HLN Live (720p) | https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+BAD 0.346s | iptv_org | HLN Live (720p) | https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 
 === MSNBC [News & Weather] ===
-BAD 0.092s | ota_diginets | MSNBC | https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
-BAD 0.782s | usa_hanssettings | MSNBC | http://41.205.93.154/MSNBC/index.m3u8:MSNBC
+BAD 0.194s | ota_diginets | MSNBC | https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
+BAD 0.703s | usa_hanssettings | MSNBC | http://41.205.93.154/MSNBC/index.m3u8:MSNBC
 
 === Newsmax TV [News & Weather] ===
-BAD 0.196s | distro | Newsmax TV | https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=wnWTUQM_9re
-BAD 0.199s | iptv_org | Newsmax TV (1080p) | https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=Td2nCUXB4ha
+BAD 0.254s | distro | Newsmax TV | https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=wnWTUQM_9re
+BAD 0.309s | iptv_org | Newsmax TV (1080p) | https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=Td2nCUXB4ha
 
 === NewsNation [News & Weather] ===
-OK   0.12s | iptv_org | NewsNation (720p) | http://206.212.244.63/712/index.m3u8
+OK  0.165s | iptv_org | NewsNation (720p) | http://206.212.244.63/712/index.m3u8
 
 === Scripps News [News & Weather] ===
-OK  0.304s | pluto | Scripps News | https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YzE1N2IxMC03OTUyLTExZjEtOTc0MC0zNjMwYjkyM2M0ZWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJmd1ZjSUQyQ29wcGEiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjgyN2ZjNDVhLTM0OWEtNDFjZS1hNjUzLWUwZTVjYzYwYmFlZSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzNTMwMzMyODIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpPREkzWm1NME5XRXRNelE1WVMwME1XTmxMV0UyTlRNdFpUQmxOV05qTmpCaVlXVmwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDM5NDMzLCJpYXQiOjE3ODMzNTMwMzMsImp0aSI6IjdlYzQ4ZTUzLWJiMGQtNGUxNS04MTAwLTcwNTMwMmI4ZWUzMCJ9.3h94KeNR98nnRLWg_rCJ_Nn3lMnTPx7rwM_wkK7C3ts&masterJWTPassthrough=true
-OK   0.31s | vizio | Scripps News | https://c58daada.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2NyaXBwc05ld3NfSExT/playlist.m3u8?ads.wurl_channel=1146&ads.wurl_name=ScrippsNews&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc2ODg0NzM4OX0
-OK  0.316s | iptv_org | Scripps News (1080p) | https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
-OK  0.414s | free_tv | Scripps News | https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-OK  0.793s | plex | Scripps News | https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705dda2236e002d69f211/?X-Plex-Token=G7SENtiiVUi53th7eyw3
+OK  0.372s | pluto | Scripps News | https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YzE1N2IxMC03OTUyLTExZjEtOTc0MC0zNjMwYjkyM2M0ZWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJmd1ZjSUQyQ29wcGEiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjgyN2ZjNDVhLTM0OWEtNDFjZS1hNjUzLWUwZTVjYzYwYmFlZSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzNTMwMzMyODIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpPREkzWm1NME5XRXRNelE1WVMwME1XTmxMV0UyTlRNdFpUQmxOV05qTmpCaVlXVmwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDM5NDMzLCJpYXQiOjE3ODMzNTMwMzMsImp0aSI6IjdlYzQ4ZTUzLWJiMGQtNGUxNS04MTAwLTcwNTMwMmI4ZWUzMCJ9.3h94KeNR98nnRLWg_rCJ_Nn3lMnTPx7rwM_wkK7C3ts&masterJWTPassthrough=true
+OK   0.41s | iptv_org | Scripps News (1080p) | https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+OK  0.724s | free_tv | Scripps News | https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+OK  1.061s | vizio | Scripps News | https://c58daada.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2NyaXBwc05ld3NfSExT/playlist.m3u8?ads.wurl_channel=1146&ads.wurl_name=ScrippsNews&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc2ODg0NzM4OX0
+OK  1.312s | localnow | Scripps News | https://s1host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config1/playlist.m3u8?ads.cdnhost=s1host4.localnow.api.cms.amdvids.com&ads.playbackid=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n4=content_name&ads.v4=EPG%20%7C%20Scripps%20News&ads.n21=did&ads.v21=&ads.n22=channel_name&ads.v22=EPG%20%20Scripps%20News&ads.n23=pos&ads.v23=midroll&ads.n24=app_store_url&ads.v24=&ads.n25=cust_devicename&ads.v25=desktop_web&ads.n26=h&ads.v26=1080&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=app_version&ads.v28=0.0.0&ads.n29=channel_corp&ads.v29=Media%20Convergence%20Group%20INC&ads.n30=gpp&ads.v30=&ads.n31=channel_ext_id&ads.v31=5f8495060fb0504aa2496f03&ads.n32=url&ads.v32=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n33=content_type&ads.v33=channel&ads.n34=dnt&ads.v34=&ads.n35=device_make&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=content_custom_1_param&ads.v37=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=network_name&ads.v39=newsy&ads.n40=channel_genre&ads.v40=News&ads.n41=content_livestream&ads.v41=1&ads.n42=app_bundle&ads.v42=&ads.n43=channel_title&ads.v43=EPG%20%20Scripps%20News&ads.n44=ifa_type&ads.v44=&ads.n45=channel_id&ads.v45=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=gpp_sid&ads.v47=&ads.n48=channel_company_id&ads.v48=AMDP500143&ads.n49=content_provider&ads.v49=newsy&ads.n50=content_producer_name&ads.v50=Media%20Convergence%20Group%20INC&ads.n51=app_name&ads.v51=&ads.n52=ip&ads.v52=185.217.168.164&ads.n53=channel_brand_id&ads.v53=AMDB012083&ads.n54=device_model&ads.v54=&ads.n55=content_custom_2_param&ads.v55=AMDB012083&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=device_type&ads.v57=&ads.n58=channel_language&ads.v58=en
 
 === The Weather Channel [News & Weather] ===
-BAD 1.672s | ota_diginets | The Weather Channel | https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+BAD 1.638s | ota_diginets | The Weather Channel | https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 === ACC Network [Sports] ===
-OK  0.133s | iptv_org | ACC Network (720p) | http://206.212.244.63/2486/index.m3u8
-BAD 0.018s | usa_hanssettings | ACC Network | https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8:ACC Network
+OK  0.221s | iptv_org | ACC Network (720p) | http://206.212.244.63/2486/index.m3u8
+BAD 0.046s | usa_hanssettings | ACC Network | https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8:ACC Network
 
 === Bally Sports [Sports] ===
 NO CANDIDATES
 
 === Big Ten Network [Sports] ===
-OK  0.194s | iptv_org | Big Ten Network (720p) | http://23.237.104.106:8080/USA_BTN/index.m3u8
-OK  3.105s | iptv_org | BTN TV (1080p) | https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+OK   0.23s | iptv_org | Big Ten Network (720p) | http://23.237.104.106:8080/USA_BTN/index.m3u8
+BAD 5.061s | iptv_org | BTN TV (1080p) | https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 === CBS Sports Network [Sports] ===
 NO CANDIDATES
@@ -529,18 +529,18 @@ NO CANDIDATES
 NO CANDIDATES
 
 === ESPNews [Sports] ===
-OK  0.787s | iptv_org | ESPNews (720p) | http://41.223.30.230/ESPNNEWS/index.m3u8
+OK  0.796s | iptv_org | ESPNews (720p) | http://41.223.30.230/ESPNNEWS/index.m3u8
 
 === ESPNU [Sports] ===
-OK  0.174s | iptv_org | ESPNU (720p) | http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+OK  0.244s | iptv_org | ESPNU (720p) | http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 === ESPN Deportes [Sports] ===
 NO CANDIDATES
 
 === Fox Sports 1 [Sports] ===
-OK  0.331s | iptv_org | FS1 Salzburg (720p) [Not 24/7] | http://stream.fs1.tv:8080/hls/webstream.m3u8
-BAD 0.019s | usa_hanssettings | FOX Sports 1 | https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8:FOX Sports 1
-BAD 0.615s | iptv_org | Fox Sports 1 | http://cdn.haititivi.com/Fox_Sports_1/index.m3u8
+OK  0.763s | iptv_org | FS1 Salzburg (720p) [Not 24/7] | http://stream.fs1.tv:8080/hls/webstream.m3u8
+BAD 0.051s | usa_hanssettings | FOX Sports 1 | https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8:FOX Sports 1
+BAD 0.684s | iptv_org | Fox Sports 1 | http://cdn.haititivi.com/Fox_Sports_1/index.m3u8
 
 === Fox Sports 2 [Sports] ===
 NO CANDIDATES
@@ -558,7 +558,7 @@ NO CANDIDATES
 NO CANDIDATES
 
 === MAV TV [Sports] ===
-BAD 0.021s | usa_hanssettings | Mav TV (#) | http://fl2.moveonjoy.com/MAV_TV/index.m3u8:Mav TV (#)
+BAD 0.043s | usa_hanssettings | Mav TV (#) | http://fl2.moveonjoy.com/MAV_TV/index.m3u8:Mav TV (#)
 
 === MLB Network [Sports] ===
 NO CANDIDATES
@@ -570,28 +570,28 @@ NO CANDIDATES
 NO CANDIDATES
 
 === NBA TV [Sports] ===
-BAD  0.02s | usa_hanssettings | NBA TV | http://212.102.60.231/NBA_TV/index.m3u8:NBA TV
+BAD 0.039s | usa_hanssettings | NBA TV | http://212.102.60.231/NBA_TV/index.m3u8:NBA TV
 
 === NFL Network [Sports] ===
-OK  0.134s | iptv_org | NFL Network (720p) | http://206.212.244.63/196/index.m3u8
+OK  0.179s | iptv_org | NFL Network (720p) | http://206.212.244.63/196/index.m3u8
 
 === NHL Network [Sports] ===
-OK  0.329s | iptv_org | NHL Network (1080p) | https://nhl-firetv.amagi.tv/playlist.m3u8
-BAD 0.018s | usa_hanssettings | NHL Network | https://nhl-firetv.amagi.tv/playlist.m3u8:NHL Network
+OK  0.484s | iptv_org | NHL Network (1080p) | https://nhl-firetv.amagi.tv/playlist.m3u8
+BAD 0.041s | usa_hanssettings | NHL Network | https://nhl-firetv.amagi.tv/playlist.m3u8:NHL Network
 
 === SEC Network [Sports] ===
-OK  0.107s | iptv_org | SEC Network (720p) | http://206.212.244.63/2511/index.m3u8
+OK  0.164s | iptv_org | SEC Network (720p) | http://206.212.244.63/2511/index.m3u8
 
 === Tennis Channel [Sports] ===
-OK  0.243s | iptv_org | Tennis Channel Germany (720p) | https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-OK  0.579s | iptv_org | Tennis Channel (1080p) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-OK  0.584s | ota_diginets | Tennis Channel | https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-BAD  0.01s | usa_hanssettings | Tennis Channel (#) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8:Tennis Channel (#)
-BAD 0.016s | usa_hanssettings | Tennis Channel | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8:Tennis Channel
+OK  0.367s | iptv_org | Tennis Channel Germany (720p) | https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+OK  0.654s | iptv_org | Tennis Channel (1080p) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+OK  0.891s | ota_diginets | Tennis Channel | https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+BAD 0.043s | usa_hanssettings | Tennis Channel (#) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8:Tennis Channel (#)
+BAD 0.044s | usa_hanssettings | Tennis Channel | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8:Tennis Channel
 
 === TUDN [Sports] ===
-OK  0.251s | iptv_org | TUDN (1080p) [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-OK  1.012s | iptv_org | TUDN (1080p) | https://streaming.alwaysdata.net/tudn.php
+OK  0.304s | iptv_org | TUDN (1080p) [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+OK  1.676s | iptv_org | TUDN (1080p) | https://streaming.alwaysdata.net/tudn.php
 
 === Boomerang [Children & Family] ===
 NO CANDIDATES
@@ -603,58 +603,58 @@ NO CANDIDATES
 NO CANDIDATES
 
 === Disney Channel [Children & Family] ===
-OK  0.293s | iptv_org | Disney Channel (1080p) | http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-OK  0.328s | iptv_org | Disney Channel | http://86.87.15.10:8004/play/a02g/index.m3u8
-OK  0.388s | iptv_org | Disney Channel | http://82.78.243.219:45739/play/a00y/index.m3u8
-BAD 0.095s | iptv_org | Disney Channel (720p) | https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
+OK  0.356s | iptv_org | Disney Channel (1080p) | http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+OK  0.383s | iptv_org | Disney Channel | http://86.87.15.10:8004/play/a02g/index.m3u8
+OK  0.415s | iptv_org | Disney Channel | http://82.78.243.219:45739/play/a00y/index.m3u8
+BAD  0.67s | iptv_org | Disney Channel (720p) | https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
 
 === Disney Junior [Children & Family] ===
-OK  0.125s | iptv_org | Disney Junior West (720p) | http://206.212.244.63/655/index.m3u8
-BAD 0.009s | usa_hanssettings | Disney Junior East (#) | http://149.71.34.166:8000/play/a00l/index.m3u8:Disney Junior East (#)
-BAD 0.025s | usa_hanssettings | Disney Junior East | http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8:Disney Junior East
+OK  0.184s | iptv_org | Disney Junior West (720p) | http://206.212.244.63/655/index.m3u8
+BAD 0.036s | usa_hanssettings | Disney Junior East (#) | http://149.71.34.166:8000/play/a00l/index.m3u8:Disney Junior East (#)
+BAD 0.055s | usa_hanssettings | Disney Junior East | http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8:Disney Junior East
 
 === Disney XD [Children & Family] ===
-OK  0.218s | iptv_org | Disney XD (720p) | http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-BAD 0.021s | usa_hanssettings | Disney XD | http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8:Disney XD
+OK  0.233s | iptv_org | Disney XD (720p) | http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+BAD 0.047s | usa_hanssettings | Disney XD | http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8:Disney XD
 
 === Nick at Nite [Children & Family] ===
 NO CANDIDATES
 
 === Nick Jr. [Children & Family] ===
-OK  0.131s | iptv_org | Nick Jr. (1080p) | http://40.160.24.55/NICK_JR/index.m3u8
-OK  0.416s | iptv_org | Nick Jr. Club (720p) | https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
-OK  0.463s | iptv_org | Nick Jr. Pluto TV (720p) | https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-OK  0.616s | iptv_org | Nick Jr. Club (720p) | https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
-OK   1.09s | iptv_org | Nick Jr. Club (720p) | https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+OK  0.223s | iptv_org | Nick Jr. (1080p) | http://40.160.24.55/NICK_JR/index.m3u8
+OK  0.594s | iptv_org | Nick Jr. Club (720p) | https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+OK  0.595s | iptv_org | Nick Jr. Club (720p) | https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+OK   1.53s | iptv_org | Nick Jr. Pluto TV (720p) | https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+OK  1.722s | iptv_org | Nick Jr. Club (720p) | https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 
 === Nickelodeon [Children & Family] ===
-OK  0.205s | iptv_org | Nickelodeon (1080p) | http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-OK  0.277s | iptv_org | Nickelodeon Junior (1080p) | http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-OK  0.362s | iptv_org | Nickelodeon | http://82.78.243.219:45739/play/a00o/index.m3u8
-OK  0.397s | iptv_org | Nickelodeon Clássico (720p) | https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
-OK  0.401s | iptv_org | Nickelodeon (1080p) | http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+OK  0.238s | iptv_org | Nickelodeon (1080p) | http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+OK  0.356s | iptv_org | Nickelodeon (1080p) | http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+OK  0.385s | iptv_org | Nickelodeon | http://82.78.243.219:45739/play/a00o/index.m3u8
+OK  0.423s | iptv_org | Nickelodeon Junior (1080p) | http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+OK  0.911s | iptv_org | Nickelodeon Clásico (720p) | https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 
 === Nicktoons [Children & Family] ===
-OK  0.495s | iptv_org | NickToons | https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
-OK  0.635s | iptv_org | Nicktoons (720p) | http://41.205.93.154/NICKTOONS/index.m3u8
-BAD 0.029s | usa_hanssettings | Nicktoons East | http://212.102.60.231/NICKTOONS/index.m3u8:Nicktoons East
+OK  0.713s | iptv_org | Nicktoons (720p) | http://41.205.93.154/NICKTOONS/index.m3u8
+OK  1.305s | iptv_org | NickToons | https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+BAD 0.053s | usa_hanssettings | Nicktoons East | http://212.102.60.231/NICKTOONS/index.m3u8:Nicktoons East
 
 === TeenNick [Children & Family] ===
-OK   0.11s | iptv_org | TeenNick (720p) | http://206.212.244.63/670/index.m3u8
-BAD 5.047s | iptv_org | TeenNick (1080p) | http://91.146.94.234:10001/play/a08o
+OK  0.165s | iptv_org | TeenNick (720p) | http://206.212.244.63/670/index.m3u8
+BAD 5.065s | iptv_org | TeenNick (1080p) | http://91.146.94.234:10001/play/a08o
 
 === PBS Kids [Children & Family] ===
-OK  0.195s | iptv_org | PBS Kids Alaska (1080p) | https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-OK  0.204s | iptv_org | PBS Kids Hawaii (720p) | https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-OK   0.21s | iptv_org | PBS Kids Mountain (1080p) | https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-OK  0.217s | iptv_org | PBS Kids Pacific (1080p) | https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-OK  0.246s | iptv_org | PBS Kids (720p) | https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+OK  0.153s | iptv_org | PBS Kids 24/7 (1080p) | http://206.212.244.63/672/index.m3u8
+OK  0.257s | iptv_org | PBS Kids Alaska (1080p) | https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+OK  0.265s | iptv_org | PBS Kids Mountain (1080p) | https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+OK  0.273s | iptv_org | PBS Kids Hawaii (720p) | https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+OK  0.279s | iptv_org | PBS Kids Pacific (1080p) | https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 
 === Universal Kids [Children & Family] ===
 NO CANDIDATES
 
 === BabyFirst [Children & Family] ===
-OK  0.122s | iptv_org | BabyFirst (720p) | http://206.212.244.63/639/index.m3u8
+OK  0.146s | iptv_org | BabyFirst (720p) | http://206.212.244.63/639/index.m3u8
 
 === American Heroes Channel [Lifestyle & Documentary] ===
 NO CANDIDATES
@@ -669,7 +669,7 @@ NO CANDIDATES
 NO CANDIDATES
 
 === Discovery Channel [Lifestyle & Documentary] ===
-OK   2.87s | free_tv | Discovery Channel | https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+OK  0.577s | free_tv | Discovery Channel | https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 
 === Discovery Family [Lifestyle & Documentary] ===
 NO CANDIDATES
@@ -678,10 +678,10 @@ NO CANDIDATES
 NO CANDIDATES
 
 === Food Network [Lifestyle & Documentary] ===
-OK  0.614s | free_tv | Food Network | https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+OK  0.486s | free_tv | Food Network | https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
 === HGTV [Lifestyle & Documentary] ===
-OK  1.298s | iptv_org | HGTV (1080p) | https://i.mjh.nz/.r/sky-hgtv.m3u8
+OK  2.193s | iptv_org | HGTV (1080p) | https://i.mjh.nz/.r/sky-hgtv.m3u8
 
 === History Channel [Lifestyle & Documentary] ===
 NO CANDIDATES
@@ -696,31 +696,31 @@ NO CANDIDATES
 NO CANDIDATES
 
 === Smithsonian Channel [Lifestyle & Documentary] ===
-OK   0.24s | iptv_org | Smithsonian Channel (1080p) | http://40.160.24.55/SMITHSONIAN/index.m3u8
+OK  0.178s | iptv_org | Smithsonian Channel (1080p) | http://40.160.24.55/SMITHSONIAN/index.m3u8
 
 === The Cowboy Channel [Lifestyle & Documentary] ===
-OK  0.146s | iptv_org | The Cowboy Channel (720p) | http://206.212.244.63/155/index.m3u8
-BAD  0.02s | usa_hanssettings | The Cowboy Channel | https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8:The Cowboy Channel
+OK  0.176s | iptv_org | The Cowboy Channel (720p) | http://206.212.244.63/155/index.m3u8
+BAD  0.04s | usa_hanssettings | The Cowboy Channel | https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8:The Cowboy Channel
 
 === Outdoor Channel [Lifestyle & Documentary] ===
-OK  0.205s | iptv_org | Outdoor Channel HD (720p) | http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-OK  0.399s | iptv_org | Outdoor Channel (1080p) | https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
-OK  0.666s | distro | Outdoor Channel | https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=4m-g_yI88ae
-BAD 0.028s | usa_hanssettings | Outdoor Channel | https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor Channel
+OK  0.255s | iptv_org | Outdoor Channel HD (720p) | http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+OK  0.466s | iptv_org | Outdoor Channel (1080p) | https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+OK   0.57s | distro | Outdoor Channel | https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=4m-g_yI88ae
+BAD 0.045s | usa_hanssettings | Outdoor Channel | https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor Channel
 
 === Sportsman Channel [Lifestyle & Documentary] ===
-BAD 0.018s | usa_hanssettings | Sportsman Channel | http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8:Sportsman Channel
+BAD 0.041s | usa_hanssettings | Sportsman Channel | http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8:Sportsman Channel
 
 === Pursuit Channel [Lifestyle & Documentary] ===
-OK  0.185s | iptv_org | Pursuit Channel (720p) | http://206.212.244.63/140/index.m3u8
-BAD 0.022s | usa_hanssettings | Pursuit Channel | https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8:Pursuit Channel
+OK  0.182s | iptv_org | Pursuit Channel (720p) | http://206.212.244.63/140/index.m3u8
+BAD 0.051s | usa_hanssettings | Pursuit Channel | https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8:Pursuit Channel
 
 === Classic Arts Showcase [Public / Educational] ===
-OK  0.601s | iptv_org | Classic Arts Showcase (720p) | https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-BAD 0.025s | usa_hanssettings | Classic Arts Showcase | https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8:Classic Arts Showcase
+OK   0.45s | iptv_org | Classic Arts Showcase (720p) | https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+BAD 0.035s | usa_hanssettings | Classic Arts Showcase | https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8:Classic Arts Showcase
 
 === Create [Public / Educational] ===
-BAD 0.452s | iptv_org | Create (1080p) | https://create.lls.pbs.org/index.m3u8
+BAD  0.45s | iptv_org | Create (1080p) | https://create.lls.pbs.org/index.m3u8
 
 === DW-TV [Public / Educational] ===
 NO CANDIDATES
@@ -729,23 +729,23 @@ NO CANDIDATES
 NO CANDIDATES
 
 === France 24 [Public / Educational] ===
-OK  0.299s | iptv_org | France 24 French (1080p) | https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-OK  0.347s | iptv_org | France 24 English (1080p) | https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-OK  0.416s | iptv_org | France 24 FAST English (1080p) | https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-OK  0.421s | iptv_org | France 24 Español (1080p) | https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-OK  0.623s | plex | FRANCE 24 | https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3
+OK   0.36s | iptv_org | France 24 French (1080p) | https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+OK  0.378s | iptv_org | France 24 Español (1080p) | https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+OK    0.4s | iptv_org | France 24 FAST English (1080p) | https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+OK  0.426s | iptv_org | France 24 English (1080p) | https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+OK  0.626s | plex | FRANCE 24 | https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3
 
 === NHK World-Japan [Public / Educational] ===
 NO CANDIDATES
 
 === World Channel [Public / Educational] ===
-BAD 0.308s | iptv_org | World Channel (1080p) | https://world.lls.pbs.org/index.m3u8
+BAD 0.404s | iptv_org | World Channel (1080p) | https://world.lls.pbs.org/index.m3u8
 
 === NASA TV [Public / Educational] ===
 NO CANDIDATES
 
 === Link TV [Public / Educational] ===
-OK  0.425s | iptv_org | Link TV | https://linktv.b-cdn.net/linktv.m3u8
+OK  0.459s | iptv_org | Link TV | https://linktv.b-cdn.net/linktv.m3u8
 
 === BYU TV [Public / Educational] ===
-BAD 0.018s | usa_hanssettings | BYU TV | https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8:BYU TV
+BAD 0.051s | usa_hanssettings | BYU TV | https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8:BYU TV

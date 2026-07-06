@@ -3,14 +3,14 @@
 =============================================
 Whitelist channels:       195
 Channels with candidates: 118
-Final healthy streams:    92
-Final bad streams:        1
+Final healthy streams:    93
+Final bad streams:        0
 
 SOURCE GRADES:
 - distro: candidates=3 health=33.3%
 - fire_tv: candidates=1 health=100.0%
 - free_tv: candidates=10 health=57.1%
-- iptv_org: candidates=415 health=84.0%
+- iptv_org: candidates=415 health=84.1%
 - localnow: candidates=5 health=100.0%
 - manual_overrides: candidates=1 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
@@ -104,4 +104,3 @@ MISSING / NO CANDIDATES:
 - NASA TV
 
 BROKEN FINAL LINEUP:
-- NBC (0.213s)
