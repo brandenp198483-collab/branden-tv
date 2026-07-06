@@ -1,807 +1,800 @@
 {
-  "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8": {
+  "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8": {
     "channel": "ABC",
     "ok": true,
-    "seconds": 0.354,
-    "checked": 1783344859,
+    "seconds": 0.444,
+    "checked": 1783354497,
     "error": ""
   },
   "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8": {
     "channel": "CBS",
     "ok": true,
-    "seconds": 0.387,
-    "checked": 1783344860,
+    "seconds": 0.514,
+    "checked": 1783354497,
     "error": ""
   },
-  "https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8": {
+  "https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI": {
     "channel": "NBC",
-    "ok": true,
-    "seconds": 0.266,
-    "checked": 1783344860,
-    "error": ""
+    "ok": false,
+    "seconds": 0.335,
+    "checked": 1783354497,
+    "error": "d  upload   total   spent    left  speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0    29    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
   },
-  "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8": {
+  "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8": {
     "channel": "FOX",
     "ok": true,
-    "seconds": 0.38,
-    "checked": 1783344861,
+    "seconds": 0.82,
+    "checked": 1783354498,
     "error": ""
   },
-  "https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8": {
+  "https://d1d726ny1vain2.cloudfront.net/playlist.m3u8": {
     "channel": "The CW",
     "ok": true,
-    "seconds": 0.347,
-    "checked": 1783344861,
+    "seconds": 0.6,
+    "checked": 1783354499,
     "error": ""
   },
   "http://206.212.244.63/672/index.m3u8": {
     "channel": "PBS Kids",
     "ok": true,
-    "seconds": 0.128,
-    "checked": 1783344893,
+    "seconds": 0.111,
+    "checked": 1783354535,
     "error": ""
   },
-  "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8": {
+  "http://138.121.15.230:9002/TELEMUNDO/index.m3u8": {
     "channel": "Telemundo",
     "ok": true,
-    "seconds": 0.268,
-    "checked": 1783344861,
+    "seconds": 0.248,
+    "checked": 1783354499,
     "error": ""
   },
-  "http://138.121.15.230:9002/UNIVISION/index.m3u8": {
+  "http://200.115.120.1:8000/play/ca106/index.m3u8": {
     "channel": "Univision",
     "ok": true,
-    "seconds": 0.247,
-    "checked": 1783344861,
+    "seconds": 0.232,
+    "checked": 1783354499,
     "error": ""
   },
   "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8": {
     "channel": "Antenna TV",
     "ok": true,
-    "seconds": 0.473,
-    "checked": 1783344862,
+    "seconds": 0.444,
+    "checked": 1783354500,
     "error": ""
   },
   "http://206.212.244.63/49/index.m3u8": {
     "channel": "Cozi TV",
     "ok": true,
-    "seconds": 0.14,
-    "checked": 1783344862,
+    "seconds": 0.121,
+    "checked": 1783354500,
     "error": ""
   },
   "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8": {
     "channel": "Comet",
     "ok": true,
-    "seconds": 0.321,
-    "checked": 1783344862,
+    "seconds": 0.296,
+    "checked": 1783354500,
     "error": ""
   },
   "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8": {
     "channel": "Charge!",
     "ok": true,
-    "seconds": 0.22,
-    "checked": 1783344863,
+    "seconds": 0.266,
+    "checked": 1783354501,
     "error": ""
   },
   "https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8": {
     "channel": "Dabl",
     "ok": true,
-    "seconds": 0.42,
-    "checked": 1783344863,
+    "seconds": 0.377,
+    "checked": 1783354501,
     "error": ""
   },
   "https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8:Defy TV": {
     "channel": "Defy TV",
     "ok": false,
-    "seconds": 0.019,
-    "checked": 1783344863,
+    "seconds": 0.022,
+    "checked": 1783354501,
     "error": "curl: (3) url rejected: malformed input to a url function\n"
   },
   "http://206.212.244.63/83/index.m3u8": {
     "channel": "Grit",
     "ok": true,
-    "seconds": 0.111,
-    "checked": 1783344863,
+    "seconds": 0.128,
+    "checked": 1783354501,
     "error": ""
   },
   "http://206.212.244.63/88/index.m3u8": {
     "channel": "Heroes & Icons",
     "ok": true,
-    "seconds": 0.122,
-    "checked": 1783344863,
+    "seconds": 0.155,
+    "checked": 1783354501,
     "error": ""
   },
   "https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8": {
     "channel": "Ion Mystery",
     "ok": true,
-    "seconds": 0.221,
-    "checked": 1783344864,
+    "seconds": 0.211,
+    "checked": 1783354502,
     "error": ""
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8": {
     "channel": "Ion Plus",
     "ok": true,
-    "seconds": 0.593,
-    "checked": 1783344865,
+    "seconds": 0.814,
+    "checked": 1783354503,
     "error": ""
   },
   "http://206.212.244.63/101/index.m3u8": {
     "channel": "Laff",
     "ok": true,
-    "seconds": 0.119,
-    "checked": 1783344865,
+    "seconds": 0.104,
+    "checked": 1783354503,
     "error": ""
   },
-  "http://206.212.244.63/111/index.m3u8": {
+  "http://206.212.244.63/112/index.m3u8": {
     "channel": "MeTV+",
     "ok": true,
-    "seconds": 0.118,
-    "checked": 1783344865,
+    "seconds": 0.132,
+    "checked": 1783354503,
     "error": ""
   },
   "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8": {
     "channel": "Movies!",
     "ok": true,
-    "seconds": 0.348,
-    "checked": 1783344865,
+    "seconds": 0.341,
+    "checked": 1783354504,
     "error": ""
   },
   "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8": {
     "channel": "Rewind TV",
     "ok": true,
-    "seconds": 0.72,
-    "checked": 1783344866,
+    "seconds": 2.911,
+    "checked": 1783354506,
     "error": ""
   },
   "http://206.212.244.63/150/index.m3u8": {
     "channel": "Start TV",
     "ok": true,
-    "seconds": 0.113,
-    "checked": 1783344866,
+    "seconds": 0.95,
+    "checked": 1783354507,
     "error": ""
   },
   "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8": {
     "channel": "Story Television",
     "ok": true,
-    "seconds": 0.275,
-    "checked": 1783344866,
+    "seconds": 0.245,
+    "checked": 1783354508,
     "error": ""
   },
   "http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a:TBD": {
     "channel": "TBD",
     "ok": true,
-    "seconds": 0.29,
-    "checked": 1783344867,
+    "seconds": 0.253,
+    "checked": 1783354508,
     "error": ""
   },
-  "http://23.239.31.26:8989/aande/index.m3u8": {
+  "https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8": {
     "channel": "A&E",
     "ok": true,
-    "seconds": 0.183,
-    "checked": 1783344867,
+    "seconds": 0.496,
+    "checked": 1783354508,
     "error": ""
   },
-  "https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8": {
+  "https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8": {
     "channel": "AMC",
     "ok": true,
-    "seconds": 0.306,
-    "checked": 1783344867,
+    "seconds": 0.282,
+    "checked": 1783354509,
     "error": ""
   },
   "http://23.239.31.26:8989/axstv/index.m3u8": {
     "channel": "AXS TV",
     "ok": true,
-    "seconds": 0.174,
-    "checked": 1783344867,
+    "seconds": 0.201,
+    "checked": 1783354509,
     "error": ""
   },
   "http://23.239.31.26:8989/bbcamerica/index.m3u8": {
     "channel": "BBC America",
     "ok": true,
-    "seconds": 0.186,
-    "checked": 1783344868,
+    "seconds": 0.187,
+    "checked": 1783354509,
     "error": ""
   },
-  "https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8": {
+  "https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8": {
     "channel": "BET",
     "ok": true,
-    "seconds": 0.374,
-    "checked": 1783344868,
+    "seconds": 0.348,
+    "checked": 1783354509,
     "error": ""
   },
   "https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8": {
     "channel": "Bravo",
     "ok": true,
-    "seconds": 0.259,
-    "checked": 1783344868,
+    "seconds": 0.329,
+    "checked": 1783354510,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_CMT/index.m3u8": {
     "channel": "CMT",
     "ok": true,
-    "seconds": 0.214,
-    "checked": 1783344868,
+    "seconds": 0.204,
+    "checked": 1783354510,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8": {
     "channel": "Comedy Central",
     "ok": true,
-    "seconds": 0.166,
-    "checked": 1783344869,
+    "seconds": 0.218,
+    "checked": 1783354510,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_E/index.m3u8": {
     "channel": "E!",
     "ok": true,
-    "seconds": 0.158,
-    "checked": 1783344869,
+    "seconds": 0.181,
+    "checked": 1783354510,
     "error": ""
   },
   "http://206.212.244.63/70/index.m3u8": {
     "channel": "Freeform",
     "ok": true,
-    "seconds": 0.119,
-    "checked": 1783344869,
+    "seconds": 0.122,
+    "checked": 1783354510,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_FUSE/index.m3u8": {
     "channel": "Fuse",
     "ok": true,
-    "seconds": 0.163,
-    "checked": 1783344869,
+    "seconds": 0.227,
+    "checked": 1783354511,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_FX/index.m3u8": {
     "channel": "FX",
     "ok": true,
     "seconds": 0.177,
-    "checked": 1783344869,
+    "checked": 1783354511,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_FXX/index.m3u8": {
     "channel": "FXX",
     "ok": true,
-    "seconds": 0.161,
-    "checked": 1783344869,
+    "seconds": 0.164,
+    "checked": 1783354511,
     "error": ""
   },
   "http://185.246.209.113/FYIHD/index.m3u8": {
     "channel": "FYI",
     "ok": false,
-    "seconds": 0.259,
-    "checked": 1783344870,
+    "seconds": 0.269,
+    "checked": 1783354511,
     "error": "d  upload   total   spent    left  speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0  1147    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
   },
   "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8": {
     "channel": "Hallmark Channel",
     "ok": true,
-    "seconds": 0.181,
-    "checked": 1783344870,
+    "seconds": 0.184,
+    "checked": 1783354511,
     "error": ""
   },
   "http://206.212.244.63/86/index.m3u8": {
     "channel": "Hallmark Mystery",
     "ok": true,
-    "seconds": 0.129,
-    "checked": 1783344870,
+    "seconds": 0.128,
+    "checked": 1783354512,
     "error": ""
   },
   "http://206.212.244.63/85/index.m3u8": {
     "channel": "Hallmark Family",
     "ok": true,
-    "seconds": 0.127,
-    "checked": 1783344870,
+    "seconds": 0.118,
+    "checked": 1783354512,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_IFC/index.m3u8": {
     "channel": "IFC",
     "ok": true,
-    "seconds": 0.228,
-    "checked": 1783344870,
+    "seconds": 0.191,
+    "checked": 1783354512,
     "error": ""
   },
   "http://206.212.244.63/95/index.m3u8": {
     "channel": "INSP",
     "ok": true,
-    "seconds": 0.131,
-    "checked": 1783344870,
+    "seconds": 0.125,
+    "checked": 1783354512,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_LMN/index.m3u8": {
     "channel": "Lifetime",
     "ok": true,
-    "seconds": 0.178,
-    "checked": 1783344871,
+    "seconds": 0.206,
+    "checked": 1783354512,
     "error": ""
   },
-  "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8": {
+  "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8": {
     "channel": "MTV",
     "ok": true,
-    "seconds": 0.827,
-    "checked": 1783344871,
+    "seconds": 1.355,
+    "checked": 1783354514,
     "error": ""
   },
   "http://198.58.104.90:8989/mtv2/index.m3u8": {
     "channel": "MTV2",
     "ok": true,
-    "seconds": 0.195,
-    "checked": 1783344872,
+    "seconds": 0.192,
+    "checked": 1783354514,
     "error": ""
   },
   "http://206.212.244.63/117/index.m3u8": {
     "channel": "MTV Classic",
     "ok": true,
-    "seconds": 0.125,
-    "checked": 1783344872,
+    "seconds": 0.141,
+    "checked": 1783354514,
     "error": ""
   },
   "http://206.212.244.63/122/index.m3u8": {
     "channel": "National Geographic",
     "ok": true,
-    "seconds": 0.121,
-    "checked": 1783344872,
+    "seconds": 0.155,
+    "checked": 1783354514,
     "error": ""
   },
   "http://40.160.24.55/OVATION/index.m3u8": {
     "channel": "Ovation",
     "ok": true,
-    "seconds": 0.12,
-    "checked": 1783344872,
+    "seconds": 0.107,
+    "checked": 1783354514,
     "error": ""
   },
   "http://198.58.104.90:8989/oxygen/index.m3u8": {
     "channel": "Oxygen",
     "ok": true,
-    "seconds": 0.182,
-    "checked": 1783344872,
+    "seconds": 0.246,
+    "checked": 1783354514,
     "error": ""
   },
   "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8": {
     "channel": "Paramount Network",
     "ok": true,
-    "seconds": 0.64,
-    "checked": 1783344873,
+    "seconds": 0.636,
+    "checked": 1783354515,
     "error": ""
   },
   "http://206.212.244.63/139/index.m3u8": {
     "channel": "Pop",
     "ok": true,
-    "seconds": 0.129,
-    "checked": 1783344873,
+    "seconds": 0.105,
+    "checked": 1783354515,
     "error": ""
   },
   "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8": {
     "channel": "Reelz",
     "ok": true,
-    "seconds": 0.365,
-    "checked": 1783344873,
+    "seconds": 0.356,
+    "checked": 1783354516,
     "error": ""
   },
   "http://206.212.244.63/151/index.m3u8": {
     "channel": "Sundance TV",
     "ok": true,
-    "seconds": 0.129,
-    "checked": 1783344873,
+    "seconds": 0.113,
+    "checked": 1783354516,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_SYFY/index.m3u8": {
     "channel": "Syfy",
     "ok": true,
-    "seconds": 0.179,
-    "checked": 1783344874,
+    "seconds": 0.187,
+    "checked": 1783354516,
     "error": ""
   },
   "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts:TNT East": {
     "channel": "TNT",
     "ok": false,
-    "seconds": 0.026,
-    "checked": 1783344874,
+    "seconds": 0.028,
+    "checked": 1783354516,
     "error": "curl: (3) url rejected: malformed input to a url function\n"
   },
   "http://185.246.209.113/TVLandHD/index.m3u8": {
     "channel": "TV Land",
     "ok": false,
-    "seconds": 0.248,
-    "checked": 1783344874,
-    "error": "0      0 --:--:-- --:--:-- --:--:--     0\n  0  1147    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0  1147    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
-  },
-  "http://40.160.24.55/USA_NETWORK/tracks-v1a1/mono.ts.m3u8": {
-    "channel": "USA Network",
-    "ok": true,
-    "seconds": 0.147,
-    "checked": 1783344874,
-    "error": ""
+    "seconds": 0.256,
+    "checked": 1783354516,
+    "error": "d  upload   total   spent    left  speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0  1147    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
   },
   "http://rezofoot.tv/VH1/index.m3u8": {
     "channel": "VH1",
     "ok": true,
-    "seconds": 0.582,
-    "checked": 1783344875,
+    "seconds": 0.524,
+    "checked": 1783354517,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_VICETV/index.m3u8": {
     "channel": "Vice TV",
     "ok": true,
-    "seconds": 0.177,
-    "checked": 1783344875,
+    "seconds": 0.2,
+    "checked": 1783354517,
     "error": ""
   },
   "https://streamer1.nexgen.bz/WE_TV/index.m3u8": {
     "channel": "We TV",
     "ok": true,
-    "seconds": 0.441,
-    "checked": 1783344875,
+    "seconds": 0.408,
+    "checked": 1783354517,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8": {
     "channel": "Showtime",
     "ok": true,
-    "seconds": 0.176,
-    "checked": 1783344875,
+    "seconds": 0.188,
+    "checked": 1783354517,
     "error": ""
   },
   "http://103.72.101.252:8080/live/1322.m3u8": {
     "channel": "Flix",
     "ok": false,
-    "seconds": 8.042,
-    "checked": 1783344883,
-    "error": "     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0\ncurl: (28) connection timed out after 8003 milliseconds\n"
+    "seconds": 8.043,
+    "checked": 1783354525,
+    "error": "     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0\ncurl: (28) connection timed out after 8002 milliseconds\n"
   },
   "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8": {
     "channel": "Starz Kids & Family",
     "ok": true,
-    "seconds": 0.156,
-    "checked": 1783344884,
+    "seconds": 0.184,
+    "checked": 1783354526,
     "error": ""
   },
   "http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8:Starz Encore Classic East": {
     "channel": "Starz Encore",
     "ok": false,
-    "seconds": 0.031,
-    "checked": 1783344884,
+    "seconds": 0.027,
+    "checked": 1783354526,
     "error": "curl: (3) url rejected: malformed input to a url function\n"
   },
   "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8": {
     "channel": "Starz Cinema",
     "ok": true,
-    "seconds": 0.163,
-    "checked": 1783344884,
+    "seconds": 0.178,
+    "checked": 1783354526,
     "error": ""
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
     "channel": "MGM+",
     "ok": true,
-    "seconds": 1.247,
-    "checked": 1783344885,
+    "seconds": 0.997,
+    "checked": 1783354527,
     "error": ""
   },
   "http://206.212.244.63/674/index.m3u8": {
     "channel": "AccuWeather Network",
     "ok": true,
-    "seconds": 0.135,
-    "checked": 1783344885,
+    "seconds": 0.109,
+    "checked": 1783354527,
     "error": ""
   },
   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=oBu8xSeABVK": {
     "channel": "Bloomberg Television",
     "ok": false,
-    "seconds": 0.27,
-    "checked": 1783344886,
-    "error": "d  upload   total   spent    left  speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
+    "seconds": 0.275,
+    "checked": 1783354527,
+    "error": "0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
   },
-  "http://fl2.moveonjoy.com/CNBC/index.m3u8": {
+  "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8": {
     "channel": "CNBC",
     "ok": true,
-    "seconds": 0.256,
-    "checked": 1783344886,
+    "seconds": 0.369,
+    "checked": 1783354528,
     "error": ""
   },
-  "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8": {
+  "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8": {
     "channel": "CNN",
     "ok": true,
-    "seconds": 0.205,
-    "checked": 1783344886,
+    "seconds": 0.287,
+    "checked": 1783354528,
     "error": ""
   },
   "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8": {
     "channel": "CNN International",
     "ok": true,
-    "seconds": 0.366,
-    "checked": 1783344887,
+    "seconds": 0.277,
+    "checked": 1783354528,
     "error": ""
   },
   "http://206.212.244.63/66/index.m3u8": {
     "channel": "Fox Business Network",
     "ok": true,
-    "seconds": 0.131,
-    "checked": 1783344887,
+    "seconds": 0.137,
+    "checked": 1783354529,
     "error": ""
   },
   "http://138.121.15.230:9002/FOX-NEWS/index.m3u8": {
     "channel": "Fox News Channel",
     "ok": true,
-    "seconds": 0.262,
-    "checked": 1783344887,
+    "seconds": 0.226,
+    "checked": 1783354529,
     "error": ""
   },
   "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8": {
     "channel": "HLN",
     "ok": true,
-    "seconds": 0.285,
-    "checked": 1783344887,
+    "seconds": 0.277,
+    "checked": 1783354529,
     "error": ""
   },
   "https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8": {
     "channel": "MSNBC",
     "ok": false,
-    "seconds": 0.035,
-    "checked": 1783344887,
+    "seconds": 0.038,
+    "checked": 1783354529,
     "error": "                    dload  upload   total   spent    left  speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) could not resolve host: llnw.stream.msnbc.com\n"
   },
   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=wnWTUQM_9re": {
     "channel": "Newsmax TV",
     "ok": false,
-    "seconds": 0.165,
-    "checked": 1783344887,
+    "seconds": 0.2,
+    "checked": 1783354529,
     "error": "d  upload   total   spent    left  speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
   },
   "http://206.212.244.63/712/index.m3u8": {
     "channel": "NewsNation",
     "ok": true,
-    "seconds": 0.133,
-    "checked": 1783344888,
+    "seconds": 0.118,
+    "checked": 1783354529,
     "error": ""
   },
   "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8": {
     "channel": "Scripps News",
     "ok": true,
-    "seconds": 0.354,
-    "checked": 1783344888,
+    "seconds": 0.483,
+    "checked": 1783354530,
     "error": ""
   },
   "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8": {
     "channel": "The Weather Channel",
     "ok": true,
-    "seconds": 0.299,
-    "checked": 1783344888,
+    "seconds": 0.255,
+    "checked": 1783354530,
     "error": ""
   },
   "http://206.212.244.63/2486/index.m3u8": {
     "channel": "ACC Network",
     "ok": true,
-    "seconds": 0.129,
-    "checked": 1783344888,
+    "seconds": 0.107,
+    "checked": 1783354530,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_BTN/index.m3u8": {
     "channel": "Big Ten Network",
     "ok": true,
-    "seconds": 0.181,
-    "checked": 1783344888,
+    "seconds": 0.163,
+    "checked": 1783354530,
     "error": ""
   },
   "http://41.223.30.230/ESPNNEWS/index.m3u8": {
     "channel": "ESPNews",
     "ok": true,
-    "seconds": 0.518,
-    "checked": 1783344889,
+    "seconds": 0.8,
+    "checked": 1783354531,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_ESPNU/index.m3u8": {
     "channel": "ESPNU",
     "ok": true,
-    "seconds": 0.212,
-    "checked": 1783344889,
+    "seconds": 0.195,
+    "checked": 1783354531,
     "error": ""
   },
   "http://stream.fs1.tv:8080/hls/webstream.m3u8": {
     "channel": "Fox Sports 1",
     "ok": true,
-    "seconds": 0.32,
-    "checked": 1783344890,
+    "seconds": 0.344,
+    "checked": 1783354532,
     "error": ""
   },
   "http://fl2.moveonjoy.com/MAV_TV/index.m3u8:Mav TV (#)": {
     "channel": "MAV TV",
     "ok": false,
-    "seconds": 0.029,
-    "checked": 1783344890,
+    "seconds": 0.034,
+    "checked": 1783354532,
     "error": "curl: (3) url rejected: malformed input to a url function\n"
   },
   "http://212.102.60.231/NBA_TV/index.m3u8:NBA TV": {
     "channel": "NBA TV",
     "ok": false,
-    "seconds": 0.016,
-    "checked": 1783344890,
+    "seconds": 0.024,
+    "checked": 1783354532,
     "error": "curl: (3) url rejected: malformed input to a url function\n"
   },
   "http://206.212.244.63/196/index.m3u8": {
     "channel": "NFL Network",
     "ok": true,
-    "seconds": 0.105,
-    "checked": 1783344890,
+    "seconds": 0.099,
+    "checked": 1783354532,
     "error": ""
   },
   "https://nhl-firetv.amagi.tv/playlist.m3u8": {
     "channel": "NHL Network",
     "ok": true,
-    "seconds": 0.324,
-    "checked": 1783344890,
+    "seconds": 0.264,
+    "checked": 1783354532,
     "error": ""
   },
   "http://206.212.244.63/2511/index.m3u8": {
     "channel": "SEC Network",
     "ok": true,
-    "seconds": 0.126,
-    "checked": 1783344890,
+    "seconds": 0.094,
+    "checked": 1783354532,
     "error": ""
   },
   "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8": {
     "channel": "Tennis Channel",
     "ok": true,
-    "seconds": 0.639,
-    "checked": 1783344891,
+    "seconds": 0.543,
+    "checked": 1783354533,
     "error": ""
   },
   "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8": {
     "channel": "TUDN",
     "ok": true,
-    "seconds": 0.29,
-    "checked": 1783344891,
+    "seconds": 0.215,
+    "checked": 1783354533,
     "error": ""
   },
   "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8": {
     "channel": "Disney Channel",
     "ok": true,
-    "seconds": 0.31,
-    "checked": 1783344891,
+    "seconds": 0.274,
+    "checked": 1783354533,
     "error": ""
   },
   "http://206.212.244.63/655/index.m3u8": {
     "channel": "Disney Junior",
     "ok": true,
-    "seconds": 0.125,
-    "checked": 1783344892,
+    "seconds": 0.116,
+    "checked": 1783354533,
     "error": ""
   },
   "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8": {
     "channel": "Disney XD",
     "ok": true,
-    "seconds": 0.179,
-    "checked": 1783344892,
+    "seconds": 0.213,
+    "checked": 1783354534,
     "error": ""
   },
-  "http://40.160.24.55/NICK_JR/index.m3u8": {
+  "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8": {
     "channel": "Nick Jr.",
     "ok": true,
-    "seconds": 0.135,
-    "checked": 1783344892,
+    "seconds": 0.403,
+    "checked": 1783354534,
     "error": ""
   },
-  "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8": {
+  "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8": {
     "channel": "Nickelodeon",
     "ok": true,
-    "seconds": 0.215,
-    "checked": 1783344892,
+    "seconds": 0.28,
+    "checked": 1783354534,
     "error": ""
   },
-  "http://41.205.93.154/NICKTOONS/index.m3u8": {
+  "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8": {
     "channel": "Nicktoons",
     "ok": true,
-    "seconds": 0.556,
-    "checked": 1783344893,
+    "seconds": 0.377,
+    "checked": 1783354535,
     "error": ""
   },
   "http://206.212.244.63/670/index.m3u8": {
     "channel": "TeenNick",
     "ok": true,
-    "seconds": 0.144,
-    "checked": 1783344893,
+    "seconds": 0.105,
+    "checked": 1783354535,
     "error": ""
   },
   "http://206.212.244.63/639/index.m3u8": {
     "channel": "BabyFirst",
     "ok": true,
-    "seconds": 0.143,
-    "checked": 1783344893,
+    "seconds": 0.112,
+    "checked": 1783354535,
     "error": ""
   },
   "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8": {
     "channel": "Discovery Channel",
     "ok": true,
-    "seconds": 0.516,
-    "checked": 1783344894,
+    "seconds": 0.503,
+    "checked": 1783354536,
     "error": ""
   },
   "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8": {
     "channel": "Food Network",
     "ok": true,
-    "seconds": 0.404,
-    "checked": 1783344894,
+    "seconds": 0.255,
+    "checked": 1783354536,
     "error": ""
   },
   "https://i.mjh.nz/.r/sky-hgtv.m3u8": {
     "channel": "HGTV",
     "ok": true,
-    "seconds": 1.896,
-    "checked": 1783344896,
+    "seconds": 1.214,
+    "checked": 1783354537,
     "error": ""
   },
   "http://40.160.24.55/SMITHSONIAN/index.m3u8": {
     "channel": "Smithsonian Channel",
     "ok": true,
-    "seconds": 0.13,
-    "checked": 1783344896,
+    "seconds": 0.124,
+    "checked": 1783354537,
     "error": ""
   },
   "http://206.212.244.63/155/index.m3u8": {
     "channel": "The Cowboy Channel",
     "ok": true,
-    "seconds": 0.127,
-    "checked": 1783344896,
+    "seconds": 0.106,
+    "checked": 1783354537,
     "error": ""
   },
-  "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8": {
+  "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8": {
     "channel": "Outdoor Channel",
     "ok": true,
-    "seconds": 0.174,
-    "checked": 1783344896,
+    "seconds": 0.325,
+    "checked": 1783354538,
     "error": ""
   },
   "http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8:Sportsman Channel": {
     "channel": "Sportsman Channel",
     "ok": false,
-    "seconds": 0.021,
-    "checked": 1783344896,
+    "seconds": 0.035,
+    "checked": 1783354538,
     "error": "curl: (3) url rejected: malformed input to a url function\n"
   },
   "http://206.212.244.63/140/index.m3u8": {
     "channel": "Pursuit Channel",
     "ok": true,
-    "seconds": 0.119,
-    "checked": 1783344896,
+    "seconds": 0.109,
+    "checked": 1783354538,
     "error": ""
   },
   "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8": {
     "channel": "Classic Arts Showcase",
     "ok": true,
-    "seconds": 0.492,
-    "checked": 1783344897,
+    "seconds": 0.34,
+    "checked": 1783354538,
     "error": ""
   },
   "https://create.lls.pbs.org/index.m3u8": {
     "channel": "Create",
     "ok": true,
-    "seconds": 0.344,
-    "checked": 1783344897,
+    "seconds": 0.303,
+    "checked": 1783354538,
     "error": ""
   },
   "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8": {
     "channel": "France 24",
     "ok": true,
-    "seconds": 0.325,
-    "checked": 1783344898,
+    "seconds": 0.348,
+    "checked": 1783354539,
     "error": ""
   },
   "https://world.lls.pbs.org/index.m3u8": {
     "channel": "World Channel",
     "ok": true,
-    "seconds": 0.336,
-    "checked": 1783344898,
+    "seconds": 0.347,
+    "checked": 1783354539,
     "error": ""
   },
   "https://linktv.b-cdn.net/linktv.m3u8": {
     "channel": "Link TV",
     "ok": true,
-    "seconds": 0.456,
-    "checked": 1783344898,
+    "seconds": 0.822,
+    "checked": 1783354540,
     "error": ""
   },
   "https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8:BYU TV": {
     "channel": "BYU TV",
     "ok": false,
-    "seconds": 0.029,
-    "checked": 1783344898,
+    "seconds": 0.028,
+    "checked": 1783354540,
     "error": "curl: (3) url rejected: malformed input to a url function\n"
   }
 }

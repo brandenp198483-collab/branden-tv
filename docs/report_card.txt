@@ -1,0 +1,120 @@
+=============================================
+        BrandenTV REPORT CARD
+=============================================
+Whitelist channels:       195
+Channels with candidates: 118
+Final healthy streams:    100
+Final bad streams:        14
+
+SOURCE GRADES:
+- distro: candidates=3 health=33.3%
+- fire_tv: candidates=1 health=100.0%
+- free_tv: candidates=10 health=57.1%
+- iptv_org: candidates=415 health=84.6%
+- localnow: candidates=5 health=100.0%
+- manual_overrides: candidates=1 health=0.0%
+- ota_diginets: candidates=7 health=28.6%
+- plex: candidates=12 health=91.7%
+- pluto: candidates=4 health=100.0%
+- roku_online: candidates=1 health=100.0%
+- samsung: candidates=5 health=100.0%
+- tablo: candidates=4 health=100.0%
+- tubi: candidates=4 health=100.0%
+- usa_hanssettings: candidates=67 health=0.0%
+- vizio: candidates=3 health=100.0%
+- xumo: candidates=4 health=0.0%
+
+MISSING / NO CANDIDATES:
+- MyNetworkTV
+- UniMas
+- Bounce TV
+- Catchy Comedy
+- This TV
+- FX Movie Channel
+- GSN
+- LMN
+- Logo
+- Magnolia Network
+- Nat Geo Wild
+- TBS
+- TLC
+- Travel Channel
+- TruTV
+- USA Network
+- HBO
+- HBO2
+- HBO Comedy
+- HBO Family
+- HBO Latino
+- HBO Signature
+- HBO Zone
+- Cinemax
+- MoreMax
+- ActionMax
+- 5StarMax
+- OuterMax
+- Showtime 2
+- Showtime Showcase
+- The Movie Channel
+- The Movie Channel Xtra
+- Starz InBlack
+- Starz Edge
+- MGM+ Hits
+- MGM+ Marquee
+- MGM+ Drive-In
+- Movieplex
+- IndiePlex
+- RetroPlex
+- C-SPAN
+- C-SPAN2
+- C-SPAN3
+- CNBC World
+- CNN en Espanol
+- Bally Sports
+- CBS Sports Network
+- ESPN
+- ESPN2
+- ESPN Deportes
+- Fox Sports 2
+- Fox Soccer Plus
+- Golf Channel
+- Marquee Sports Network
+- MASN
+- MLB Network
+- MLB Network Strike Zone
+- MSG Network
+- Boomerang
+- Cartoon Network
+- Adult Swim
+- Nick at Nite
+- Universal Kids
+- American Heroes Channel
+- Animal Planet
+- Cooking Channel
+- Destination America
+- Discovery Family
+- Discovery Life
+- History Channel
+- Investigation Discovery
+- Military History
+- Science Channel
+- DW-TV
+- First Nations Experience
+- NHK World-Japan
+- NASA TV
+
+BROKEN FINAL LINEUP:
+- NBC (0.335s)
+- Defy TV (0.022s)
+- FYI (0.269s)
+- TNT (0.028s)
+- TV Land (0.256s)
+- Flix (8.043s)
+- Starz Encore (0.027s)
+- Bloomberg Television (0.275s)
+- MSNBC (0.038s)
+- Newsmax TV (0.2s)
+- MAV TV (0.034s)
+- NBA TV (0.024s)
+- Sportsman Channel (0.035s)
+- BYU TV (0.028s)
