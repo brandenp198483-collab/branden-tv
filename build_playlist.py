@@ -3,6 +3,7 @@ from pathlib import Path
 import requests
 
 HEALTH = json.load(open("candidate_health.json")) if Path("candidate_health.json").exists() else {}
+HEALED = json.load(open("healed_overrides.json")) if Path("healed_overrides.json").exists() else {}
 
 OUTPUT_DIR = Path("output")
 DOCS_DIR = Path("docs")
@@ -178,26 +179,39 @@ total_wanted = 0
 for group, names in db["categories"].items():
     for wanted in names:
         total_wanted += 1
-        candidates = []
-        for ch in full:
-            if match_channel(ch, wanted, db) and not is_rejected(ch, wanted, db):
-                candidates.append((score_channel(ch, wanted, db), ch))
 
-        if candidates:
+        healed = HEALED.get(wanted)
+        if healed and healed.get("ok"):
+            ch = {
+                "name": healed["raw"],
+                "info": healed["info"],
+                "url": healed["url"],
+                "source": healed["source"]
+            }
+            score = healed.get("score", 999999)
+        else:
+            candidates = []
+            for ch in full:
+                if match_channel(ch, wanted, db) and not is_rejected(ch, wanted, db):
+                    candidates.append((score_channel(ch, wanted, db), ch))
+
+            if not candidates:
+                report.append(f"MISS  | {group} | {wanted}")
+                continue
+
             candidates.sort(key=lambda x: x[0], reverse=True)
             score, ch = candidates[0]
-            picked.append({
-                "group": group,
-                "name": wanted,
-                "info": rewrite(ch["info"], group, wanted),
-                "url": ch["url"],
-                "raw": ch["name"],
-                "source": ch["source"],
-                "score": score
-            })
-            report.append(f"FOUND | {group} | {wanted} | {ch['source']} | score={score} | raw={ch['name']}")
-        else:
-            report.append(f"MISS  | {group} | {wanted}")
+
+        picked.append({
+            "group": group,
+            "name": wanted,
+            "info": rewrite(ch["info"], group, wanted),
+            "url": ch["url"],
+            "raw": ch["name"],
+            "source": ch["source"],
+            "score": score
+        })
+        report.append(f"FOUND | {group} | {wanted} | {ch['source']} | score={score} | raw={ch['name']}")
 
 OUTPUT_DIR.mkdir(exist_ok=True)
 DOCS_DIR.mkdir(exist_ok=True)
