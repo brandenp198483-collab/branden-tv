@@ -2,6 +2,8 @@ import json, re, glob
 from pathlib import Path
 import requests
 
+HEALTH = json.load(open("candidate_health.json")) if Path("candidate_health.json").exists() else {}
+
 OUTPUT_DIR = Path("output")
 DOCS_DIR = Path("docs")
 FULL_OUT = OUTPUT_DIR / "BrandenTV-Full.m3u"
@@ -127,7 +129,15 @@ def score_channel(ch, wanted, db):
     cname = clean(ch["name"])
     wanted_clean = clean(wanted)
 
+    health = HEALTH.get(ch["url"], {})
     score = source_score(ch["source"]) + resolution_score(text)
+
+    if health:
+        if health.get("ok"):
+            score += 1000
+            score += max(0, 500 - int(float(health.get("seconds", 5)) * 100))
+        else:
+            score -= 2000
 
     if cname == wanted_clean:
         score += 400
