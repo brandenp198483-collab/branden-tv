@@ -68,7 +68,8 @@
       "Start TV",
       "Story Television",
       "TBD",
-      "This TV"
+      "This TV",
+      "MeTV Toons"
     ],
     "Entertainment": [
       "A&E",
@@ -117,7 +118,8 @@
       "USA Network",
       "VH1",
       "Vice TV",
-      "We TV"
+      "We TV",
+      "A&E Crime 360"
     ],
     "Premium Cable": [
       "HBO",
@@ -197,7 +199,8 @@
       "NHL Network",
       "SEC Network",
       "Tennis Channel",
-      "TUDN"
+      "TUDN",
+      "NESN"
     ],
     "Children & Family": [
       "Boomerang",
@@ -323,6 +326,23 @@
       "CNBC",
       "CNBC US",
       "CNBC USA"
+    ],
+    "A&E Crime 360": [
+      "A&E Crime 360",
+      "Crime 360",
+      "A&E Crime"
+    ],
+    "MeTV Toons": [
+      "MeTV Toons",
+      "MeTVToons",
+      "MeTV Toon",
+      "MeTV Toons HD"
+    ],
+    "NESN": [
+      "NESN",
+      "New England Sports Network",
+      "NESN HD",
+      "NESN 360"
     ]
   },
   "specific_reject": {
@@ -368,6 +388,45 @@
       "CNBC TV18",
       "CNBC Mongolia",
       "Times Brasil"
+    ],
+    "CMT": [
+      "CMT Music"
+    ],
+    "Discovery Channel": [
+      "Spanish",
+      "Espanol",
+      "Espa\u00f1ol",
+      "Discovery en Espanol",
+      "Discovery en Espa\u00f1ol"
+    ],
+    "Link TV": [
+      "Spanish",
+      "Espanol",
+      "Espa\u00f1ol"
+    ],
+    "Bravo": [
+      "Spanish",
+      "Espanol",
+      "Espa\u00f1ol",
+      "BRAVO TV Spain"
+    ],
+    "AccuWeather Network": [
+      "Arabic",
+      "Arabia",
+      "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    ],
+    "Oxygen": [
+      "audio only",
+      "radio"
+    ],
+    "MeTV+": [
+      "MeTV Toons",
+      "MeTVToons"
+    ],
+    "MeTV": [
+      "MeTV+",
+      "MeTV Toons",
+      "MeTVToons"
     ]
   }
 }
