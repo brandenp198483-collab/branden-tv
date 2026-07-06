@@ -73,7 +73,7 @@ FOUND | Entertainment | TNT | usa_hanssettings | score=-1520 | raw=TNT East
 MISS  | Entertainment | Travel Channel
 MISS  | Entertainment | TruTV
 FOUND | Entertainment | TV Land | iptv_org | score=-1580 | raw=TV Land (720p)
-FOUND | Entertainment | USA Network | iptv_org | score=111008 | raw=USA Network (1080p)
+FOUND | Entertainment | USA Network | manual_overrides | score=114855 | raw=USA Network
 FOUND | Entertainment | VH1 | iptv_org | score=110220 | raw=VH1 (720p)
 FOUND | Entertainment | Vice TV | iptv_org | score=110880 | raw=VICE TV (1080p)
 FOUND | Entertainment | We TV | iptv_org | score=110283 | raw=We TV (720p)
@@ -101,7 +101,7 @@ FOUND | Premium Cable | Starz Cinema | iptv_org | score=110557 | raw=Starz Cinem
 MISS  | Premium Cable | Starz InBlack
 FOUND | Premium Cable | Starz Kids & Family | iptv_org | score=110945 | raw=Starz Kids & Family (1080p)
 MISS  | Premium Cable | Starz Edge
-FOUND | Premium Cable | MGM+ | plex | score=250 | raw=MGM Presents: Westerns
+FOUND | Premium Cable | MGM+ | plex | score=108712 | raw=MGM Presents: Westerns
 MISS  | Premium Cable | MGM+ Hits
 MISS  | Premium Cable | MGM+ Marquee
 MISS  | Premium Cable | MGM+ Drive-In

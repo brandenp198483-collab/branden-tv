@@ -2942,5 +2942,125 @@
     "raw": "FRANCE 24",
     "source": "plex",
     "checked": 1783307820
+  },
+  "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMDVmZDZkMi03OTI4LTExZjEtYTAwMS0xZTNjMDcwMmYzY2QiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2NTg2N2JjMy00ZjM4LTQ4NzktYTQzMy0yZjgyYzU1Y2ExNDIiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2NTg2N2JjMy00ZjM4LTQ4NzktYTQzMy0yZjgyYzU1Y2ExNDIiLCJmd1ZjSUQyQ29wcGEiOiI2NTg2N2JjMy00ZjM4LTQ4NzktYTQzMy0yZjgyYzU1Y2ExNDIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY1ODY3YmMzLTRmMzgtNDg3OS1hNDMzLTJmODJjNTVjYTE0MiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzMzUyMTYzNjYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOalU0TmpkaVl6TXROR1l6T0MwME9EYzVMV0UwTXpNdE1tWTRNbU0xTldOaE1UUXkiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDIxNjE2LCJpYXQiOjE3ODMzMzUyMTYsImp0aSI6ImE0MTM5MzI0LWZjOWItNGIyOS04YzNmLTg4ZjlhNDhiOWUwNSJ9.LLre3Q-ss9MxtD9ZdV8DALbIviBLeEtnJrl_XJiAS3U&masterJWTPassthrough=true": {
+    "ok": true,
+    "seconds": 0.287,
+    "channel": "Ion Television",
+    "raw": "ION",
+    "source": "pluto",
+    "checked": 1783344703
+  },
+  "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-624c37af6281708eabbbe26b/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.143,
+    "channel": "Ion Television",
+    "raw": "ION",
+    "source": "plex",
+    "checked": 1783344704
+  },
+  "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.111,
+    "channel": "Ion Mystery",
+    "raw": "Ion Mystery",
+    "source": "plex",
+    "checked": 1783344705
+  },
+  "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-627e347795b0f50af26d78f9/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.003,
+    "channel": "Ion Plus",
+    "raw": "ION Plus",
+    "source": "plex",
+    "checked": 1783344707
+  },
+  "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-664e9f11e8824b0c34762789/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 0.748,
+    "channel": "Pop",
+    "raw": "POP",
+    "source": "plex",
+    "checked": 1783344712
+  },
+  "http://40.160.24.55/USA_NETWORK/tracks-v1a1/mono.ts.m3u8": {
+    "ok": true,
+    "seconds": 0.145,
+    "channel": "USA Network",
+    "raw": "USA Network",
+    "source": "manual_overrides",
+    "checked": 1783344714
+  },
+  "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.288,
+    "channel": "MGM+",
+    "raw": "MGM Presents: Westerns",
+    "source": "plex",
+    "checked": 1783344718
+  },
+  "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMDVmZDZkMi03OTI4LTExZjEtYTAwMS0xZTNjMDcwMmYzY2QiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2NTg2N2JjMy00ZjM4LTQ4NzktYTQzMy0yZjgyYzU1Y2ExNDIiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2NTg2N2JjMy00ZjM4LTQ4NzktYTQzMy0yZjgyYzU1Y2ExNDIiLCJmd1ZjSUQyQ29wcGEiOiI2NTg2N2JjMy00ZjM4LTQ4NzktYTQzMy0yZjgyYzU1Y2ExNDIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY1ODY3YmMzLTRmMzgtNDg3OS1hNDMzLTJmODJjNTVjYTE0MiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzMzUyMTYzNjYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOalU0TmpkaVl6TXROR1l6T0MwME9EYzVMV0UwTXpNdE1tWTRNbU0xTldOaE1UUXkiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDIxNjE2LCJpYXQiOjE3ODMzMzUyMTYsImp0aSI6ImE0MTM5MzI0LWZjOWItNGIyOS04YzNmLTg4ZjlhNDhiOWUwNSJ9.LLre3Q-ss9MxtD9ZdV8DALbIviBLeEtnJrl_XJiAS3U&masterJWTPassthrough=true": {
+    "ok": true,
+    "seconds": 0.406,
+    "channel": "Scripps News",
+    "raw": "Scripps News",
+    "source": "pluto",
+    "checked": 1783344721
+  },
+  "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705dda2236e002d69f211/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 0.967,
+    "channel": "Scripps News",
+    "raw": "Scripps News",
+    "source": "plex",
+    "checked": 1783344722
+  },
+  "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.124,
+    "channel": "France 24",
+    "raw": "FRANCE 24",
+    "source": "plex",
+    "checked": 1783344730
+  },
+  "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 0.96,
+    "channel": "France 24",
+    "raw": "FRANCE 24",
+    "source": "plex",
+    "checked": 1783344731
+  },
+  "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.292,
+    "channel": "France 24",
+    "raw": "FRANCE 24",
+    "source": "plex",
+    "checked": 1783344732
+  },
+  "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.201,
+    "channel": "France 24",
+    "raw": "FRANCE 24",
+    "source": "plex",
+    "checked": 1783344733
+  },
+  "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 0.703,
+    "channel": "France 24",
+    "raw": "FRANCE 24",
+    "source": "plex",
+    "checked": 1783344734
+  },
+  "https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-678fe7959407a53556d3e8eb/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
+    "ok": true,
+    "seconds": 1.12,
+    "channel": "France 24",
+    "raw": "FRANCE 24",
+    "source": "plex",
+    "checked": 1783344735
   }
 }
