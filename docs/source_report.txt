@@ -4,7 +4,7 @@
 
 iptv-org-category
   candidates: 226
-  healthy:    99 (43.8%)
+  healthy:    98 (43.4%)
   used:       70
   winning channels:
     - A&E
@@ -35,7 +35,7 @@ iptv-org-category
 
 iptv_org
   candidates: 141
-  healthy:    121 (85.8%)
+  healthy:    122 (86.5%)
   used:       17
   winning channels:
     - ABC
@@ -152,14 +152,14 @@ samsung
   healthy:    5 (100.0%)
   used:       0
 
-localnow
+tubi
   candidates: 5
   healthy:    5 (100.0%)
   used:       0
 
-tubi
+localnow
   candidates: 5
-  healthy:    4 (80.0%)
+  healthy:    5 (100.0%)
   used:       0
 
 vizio
