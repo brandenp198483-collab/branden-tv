@@ -268,7 +268,8 @@
       "CMT Music"
     ],
     "News Variants": [
-      "CNBC World"
+      "CNBC World",
+      "CNBC Europe"
     ]
   },
   "aliases": {
@@ -443,6 +444,19 @@
     ],
     "CNBC World": [
       "CNBC World"
+    ],
+    "CNBC Europe": [
+      "CNBC Europe",
+      "CNBC EU",
+      "CNBC International",
+      "CNBC Frankfurt"
+    ],
+    "MyNetworkTV": [
+      "MyTV",
+      "My TV",
+      "MYTV",
+      "My Network TV",
+      "MyNetwork"
     ]
   },
   "specific_reject": {
@@ -492,7 +506,12 @@
       "CNBC Awaaz",
       "CNBC Bajar",
       "CNBC Bazaar",
-      "CNBC Arabia"
+      "CNBC Arabia",
+      "CNBC Europe",
+      "CNBC EU",
+      "CNBC International",
+      "CNBC Frankfurt",
+      "CNBC (1080p)"
     ],
     "CMT": [
       "CMT Music",

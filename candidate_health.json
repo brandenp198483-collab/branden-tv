@@ -1,195 +1,195 @@
 {
   "http://41.205.93.154/ABC/index.m3u8": {
     "ok": false,
-    "seconds": 1.617,
+    "seconds": 1.612,
     "channel": "ABC",
     "raw": "ABC (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.803,
+    "seconds": 0.348,
     "channel": "ABC",
     "raw": "ABC 2 Baltimore MD (WMAR) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.541,
+    "seconds": 0.371,
     "channel": "ABC",
     "raw": "ABC 2 Portland OR (KATU) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.472,
+    "seconds": 0.38,
     "channel": "ABC",
     "raw": "ABC 4 Charleston SC (WCIV) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.629,
+    "seconds": 0.377,
     "channel": "ABC",
     "raw": "ABC 4 Seattle WA (KOMO) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.635,
+    "seconds": 0.336,
     "channel": "ABC",
     "raw": "ABC 5 Boston MA (WCVB) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 1.055,
+    "seconds": 0.342,
     "channel": "ABC",
     "raw": "ABC 5 St. Paul MN (KSTP) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.921,
+    "seconds": 0.292,
     "channel": "ABC",
     "raw": "ABC 6 Austin TX (KAAL) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.44,
+    "seconds": 0.39,
     "channel": "CBS",
     "raw": "CBS 2 Salt Lake City UT (KUTV) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.434,
+    "seconds": 0.381,
     "channel": "CBS",
     "raw": "CBS 3 Kalamazoo MI (WWMT) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.632,
+    "seconds": 0.676,
     "channel": "CBS",
     "raw": "CBS 3 Omaha NE (KMTV) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.442,
+    "seconds": 0.375,
     "channel": "CBS",
     "raw": "CBS 4 El Paso TX (KDBC) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.444,
+    "seconds": 0.389,
     "channel": "CBS",
     "raw": "CBS 6 Richmond VA (WTVR) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.406,
+    "seconds": 0.302,
     "channel": "CBS",
     "raw": "CBS 8 Des Moines IA (KCCI) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8": {
     "ok": true,
-    "seconds": 1.979,
+    "seconds": 0.438,
     "channel": "CBS",
     "raw": "CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.513,
+    "seconds": 0.396,
     "channel": "CBS",
     "raw": "CBS 12 Cincinnati OH (WKRC) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.467,
+    "seconds": 0.337,
     "channel": "NBC",
     "raw": "NBC 3 Las Vegas NV (KSNV) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.396,
+    "seconds": 0.379,
     "channel": "NBC",
     "raw": "NBC 3 Sacramento CA (KCRA) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.488,
+    "seconds": 0.344,
     "channel": "NBC",
     "raw": "NBC 4 Albuquerque NM (KOB) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.325,
+    "seconds": 0.489,
     "channel": "NBC",
     "raw": "NBC 4 Milwaukee WI (WTMJ) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.515,
+    "seconds": 0.388,
     "channel": "NBC",
     "raw": "NBC 4 San Antonio TX (WOAI) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI": {
     "ok": true,
-    "seconds": 0.403,
+    "seconds": 0.358,
     "channel": "NBC",
     "raw": "NBC 5 Chicago Live News (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.525,
+    "seconds": 0.403,
     "channel": "NBC",
     "raw": "NBC 6 Johnstown PA (WJAC) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.646,
+    "seconds": 0.478,
     "channel": "NBC",
     "raw": "NBC 6 Santa Barbara CA (KSBY) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://91.146.94.234:10001/play/a084": {
     "ok": false,
@@ -197,239 +197,239 @@
     "channel": "FOX",
     "raw": "Fox (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8": {
     "ok": true,
-    "seconds": 0.487,
+    "seconds": 0.336,
     "channel": "FOX",
     "raw": "FOX 2 San Francisco CA (KTVU) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.612,
+    "seconds": 0.413,
     "channel": "FOX",
     "raw": "FOX 11 Green Bay WI (WLUK) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8": {
     "ok": true,
-    "seconds": 0.421,
+    "seconds": 0.356,
     "channel": "FOX",
     "raw": "FOX 13 Seattle WA (KCPQ) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live.field59.com/kbsi/kbsi1/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.511,
+    "seconds": 0.285,
     "channel": "FOX",
     "raw": "FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.504,
+    "seconds": 0.417,
     "channel": "FOX",
     "raw": "FOX 25 Oklahoma City OK (KOKH) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.52,
+    "seconds": 0.583,
     "channel": "FOX",
     "raw": "FOX 26 Visalia CA (KMPH) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.476,
+    "seconds": 0.441,
     "channel": "FOX",
     "raw": "FOX 45 Baltimore MD (WBFF) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.209,
+    "seconds": 0.18,
     "channel": "The CW",
     "raw": "CW FOREVER (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d1d726ny1vain2.cloudfront.net/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.217,
+    "seconds": 0.195,
     "channel": "The CW",
     "raw": "CW Gold (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.375,
+    "seconds": 0.295,
     "channel": "PBS",
     "raw": "PBS Antiques Road Trip (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d1l4qxz5lz9v2h.cloudfront.net/10501/88886029/hls/master.m3u8?ads.xumo_channelId=88886029": {
     "ok": true,
-    "seconds": 0.378,
+    "seconds": 0.286,
     "channel": "PBS",
     "raw": "PBS Digital Studios (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d3w43rc3ob044a.cloudfront.net/PBS_Food.m3u8": {
     "ok": true,
-    "seconds": 0.352,
+    "seconds": 0.325,
     "channel": "PBS",
     "raw": "PBS Food (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d21xx25clbv3i1.cloudfront.net/PBS_Genealogy.m3u8": {
     "ok": true,
-    "seconds": 0.345,
+    "seconds": 0.314,
     "channel": "PBS",
     "raw": "PBS Genealogy (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.43,
+    "seconds": 0.35,
     "channel": "PBS",
     "raw": "PBS History (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.377,
+    "seconds": 0.373,
     "channel": "PBS",
     "raw": "PBS History (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8": {
     "ok": false,
-    "seconds": 0.336,
+    "seconds": 0.25,
     "channel": "PBS",
     "raw": "PBS Honolulu HI (KHET) (1080p) [Not 24/7]",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.438,
+    "seconds": 0.34,
     "channel": "PBS",
     "raw": "PBS KET2 (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streamvidex.qzz.io/videx/telemundo/index.m3u8": {
-    "ok": true,
-    "seconds": 4.471,
+    "ok": false,
+    "seconds": 5.046,
     "channel": "Telemundo",
     "raw": "Telemundo (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8": {
     "ok": true,
-    "seconds": 0.396,
+    "seconds": 0.442,
     "channel": "Telemundo",
     "raw": "Telemundo Accion (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d1kq7q3vteqjb.cloudfront.net/master.m3u8": {
     "ok": true,
-    "seconds": 0.404,
+    "seconds": 1.119,
     "channel": "Telemundo",
     "raw": "Telemundo Al D\u00eda (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8": {
     "ok": true,
-    "seconds": 0.574,
+    "seconds": 0.873,
     "channel": "Telemundo",
     "raw": "Telemundo Corpus Christi (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://138.121.15.230:9002/TELEMUNDO/index.m3u8": {
     "ok": true,
-    "seconds": 0.254,
+    "seconds": 0.265,
     "channel": "Telemundo",
     "raw": "Telemundo Internacional (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8": {
     "ok": true,
-    "seconds": 0.377,
+    "seconds": 0.773,
     "channel": "Telemundo",
     "raw": "Telemundo Noticias Ahora (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8": {
     "ok": true,
-    "seconds": 1.533,
+    "seconds": 1.981,
     "channel": "Telemundo",
     "raw": "Telemundo Noticias California (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.394,
+    "seconds": 0.572,
     "channel": "Telemundo",
     "raw": "Telemundo Noticias Florida (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://200.115.120.1:8000/play/ca106/index.m3u8": {
     "ok": true,
-    "seconds": 0.232,
+    "seconds": 0.229,
     "channel": "Univision",
     "raw": "Univision (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://138.121.15.230:9002/UNIVISION/index.m3u8": {
     "ok": true,
-    "seconds": 0.683,
+    "seconds": 0.203,
     "channel": "Univision",
     "raw": "Univision Latin America (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8": {
     "ok": true,
-    "seconds": 0.493,
+    "seconds": 0.464,
     "channel": "Antenna TV",
     "raw": "Antenna TV",
     "source": "ota_diginets",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/49/index.m3u8": {
     "ok": true,
-    "seconds": 0.172,
+    "seconds": 0.142,
     "channel": "Cozi TV",
     "raw": "Cozi TV (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8": {
     "ok": true,
@@ -437,119 +437,119 @@
     "channel": "Comet",
     "raw": "Comet (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b": {
     "ok": false,
-    "seconds": 0.601,
+    "seconds": 0.658,
     "channel": "Comet",
     "raw": "Comet",
     "source": "ota_diginets",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8:Comet": {
     "ok": false,
-    "seconds": 0.26,
+    "seconds": 0.24,
     "channel": "Comet",
     "raw": "Comet",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8": {
     "ok": true,
-    "seconds": 0.235,
+    "seconds": 0.196,
     "channel": "Charge!",
     "raw": "Charge! (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8": {
     "ok": false,
-    "seconds": 0.419,
+    "seconds": 0.321,
     "channel": "Charge!",
     "raw": "Charge!",
     "source": "ota_diginets",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8:Charge!": {
     "ok": false,
-    "seconds": 0.264,
+    "seconds": 0.21,
     "channel": "Charge!",
     "raw": "Charge!",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8": {
     "ok": false,
-    "seconds": 0.488,
+    "seconds": 0.405,
     "channel": "Dabl",
     "raw": "Dabl",
     "source": "ota_diginets",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8:Defy TV": {
     "ok": false,
-    "seconds": 0.014,
+    "seconds": 0.017,
     "channel": "Defy TV",
     "raw": "Defy TV",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/83/index.m3u8": {
     "ok": true,
-    "seconds": 0.187,
+    "seconds": 0.134,
     "channel": "Grit",
     "raw": "Grit (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.698,
+    "seconds": 0.48,
     "channel": "Grit",
     "raw": "Grit Xtra (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/88/index.m3u8": {
     "ok": true,
-    "seconds": 0.167,
+    "seconds": 0.126,
     "channel": "Heroes & Icons",
     "raw": "Heroes & Icons (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8:Heroes & Icons": {
     "ok": false,
-    "seconds": 0.023,
+    "seconds": 0.011,
     "channel": "Heroes & Icons",
     "raw": "Heroes & Icons",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-65453f30085df200085883d8.m3u8": {
     "ok": true,
-    "seconds": 1.444,
+    "seconds": 1.265,
     "channel": "Ion Television",
     "raw": "ION (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.558,
+    "seconds": 0.53,
     "channel": "Ion Mystery",
     "raw": "ION Mystery (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.594,
+    "seconds": 0.537,
     "channel": "Ion Plus",
     "raw": "ION Plus (1080p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiYmUxMWZiMS03OGE4LTExZjEtYTc4ZS02NjRkNjJkOTRlMTEiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJmd1ZjSUQyQ29wcGEiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjQ0NjY2NmVkLTYyYWMtNGQxMy1hYjZlLWJkY2RlMTVjMzJmZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDksMTAwMDAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMyODAxNTI3MTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpORFEyTmpZMlpXUXROakpoWXkwMFpERXpMV0ZpTm1VdFltUmpaR1V4TldNek1tWmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzMzY2NTUyLCJpYXQiOjE3ODMyODAxNTIsImp0aSI6IjhkMTZmZTZlLWNlMGEtNDk3Zi04Mjk1LWJhZjNlYWVhZGRiOCJ9.3uk6mRndVjq-BNidgxqij7lKksqNPwr-jPbDPkjCBoQ&masterJWTPassthrough=true": {
     "ok": true,
@@ -561,19 +561,19 @@
   },
   "https://jmp2.uk/stvp-USBD300002TU": {
     "ok": true,
-    "seconds": 1.834,
+    "seconds": 0.717,
     "channel": "Ion Television",
     "raw": "ION",
     "source": "samsung",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8": {
     "ok": true,
-    "seconds": 1.58,
+    "seconds": 1.409,
     "channel": "Ion Television",
     "raw": "ION",
     "source": "tubi",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-624c37af6281708eabbbe26b/?X-Plex-Token=qJKEv8w_z88rvpe5Go_X": {
     "ok": true,
@@ -585,27 +585,27 @@
   },
   "https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsION&ads.csid=xumo_[PLATFORM]_ScrippsION_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951158&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]": {
     "ok": false,
-    "seconds": 0.026,
+    "seconds": 0.033,
     "channel": "Ion Television",
     "raw": "ION",
     "source": "xumo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/stvp-USBC24000223S": {
     "ok": true,
-    "seconds": 3.678,
+    "seconds": 1.383,
     "channel": "Ion Mystery",
     "raw": "ION Mystery",
     "source": "samsung",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8": {
     "ok": true,
-    "seconds": 1.833,
+    "seconds": 1.304,
     "channel": "Ion Mystery",
     "raw": "ION Mystery",
     "source": "tubi",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26/?X-Plex-Token=qJKEv8w_z88rvpe5Go_X": {
     "ok": true,
@@ -617,51 +617,51 @@
   },
   "https://dbrb49pjoymg4.cloudfront.net/10001/99951157/hls/playlist.m3u8?ads.xumo_channelId=99951157&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsIONMystery&ads.csid=xumo_[PLATFORM]_ScrippsIONMystery_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3803&ads.xumo_contentName=ScrippsIONMystery&ads.xumo_providerId=3803&ads.xumo_providerName=ScrippsIONMystery&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951157&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]": {
     "ok": false,
-    "seconds": 0.026,
+    "seconds": 0.034,
     "channel": "Ion Mystery",
     "raw": "ION Mystery",
     "source": "xumo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://bdd9b4ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSU9OTXlzdGVyeV9ITFM/playlist.m3u8?ads.wurl_channel=1206&ads.wurl_name=IONMystery&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc4ODM2ODI3MX0": {
     "ok": true,
-    "seconds": 0.73,
+    "seconds": 0.314,
     "channel": "Ion Mystery",
     "raw": "ION Mystery",
     "source": "vizio",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n4=content_name&ads.v4=ION%20Mystery&ads.n21=content_custom_2_param&ads.v21=AMDB013703&ads.n22=channel_company_id&ads.v22=AMDP500574&ads.n23=did&ads.v23=&ads.n24=content_livestream&ads.v24=1&ads.n25=channel_ext_id&ads.v25=&ads.n26=channel_id&ads.v26=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=dnt&ads.v28=&ads.n29=channel_genre&ads.v29=Drama&ads.n30=content_type&ads.v30=channel&ads.n31=gpp&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=ifa_type&ads.v33=&ads.n34=pos&ads.v34=midroll&ads.n35=channel_brand_id&ads.v35=AMDB013703&ads.n36=app_version&ads.v36=0.0.0&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=content_producer_name&ads.v39=ION%20Media%20Networks&ads.n40=device_make&ads.v40=&ads.n41=channel_title&ads.v41=ION%20Mystery&ads.n42=device_model&ads.v42=&ads.n43=app_bundle&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=network_name&ads.v45=ion-mystery&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=h&ads.v47=1080&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=ip&ads.v50=185.217.168.164&ads.n51=w&ads.v51=1920&ads.n52=channel_name&ads.v52=ION%20Mystery&ads.n53=channel_language&ads.v53=en&ads.n54=channel_corp&ads.v54=ION%20Media%20Networks&ads.n55=app_name&ads.v55=&ads.n56=content_custom_1_param&ads.v56=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n57=content_provider&ads.v57=ion-mystery&ads.n58=gpp_sid&ads.v58=": {
     "ok": true,
-    "seconds": 0.973,
+    "seconds": 0.797,
     "channel": "Ion Mystery",
     "raw": "ION Mystery",
     "source": "localnow",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.588,
+    "seconds": 0.637,
     "channel": "FOX Boston",
     "raw": "WFXT-DT2 (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/stvp-USBD300003LK": {
     "ok": true,
-    "seconds": 1.688,
+    "seconds": 1.323,
     "channel": "Ion Plus",
     "raw": "ION Plus",
     "source": "samsung",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8": {
     "ok": true,
-    "seconds": 1.381,
+    "seconds": 1.46,
     "channel": "Ion Plus",
     "raw": "ION Plus",
     "source": "tubi",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-627e347795b0f50af26d78f9/?X-Plex-Token=qJKEv8w_z88rvpe5Go_X": {
     "ok": true,
@@ -673,35 +673,35 @@
   },
   "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]": {
     "ok": false,
-    "seconds": 0.013,
+    "seconds": 0.032,
     "channel": "Ion Plus",
     "raw": "ION Plus",
     "source": "xumo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://6358c493.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSW9uUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=378&ads.wurl_name=IonPlus&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mjk2ODYwMjQ2Nn0": {
     "ok": true,
-    "seconds": 0.364,
+    "seconds": 0.253,
     "channel": "Ion Plus",
     "raw": "ION Plus",
     "source": "vizio",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n4=content_name&ads.v4=ION%20Plus&ads.n21=h&ads.v21=1080&ads.n22=channel_ext_id&ads.v22=&ads.n23=channel_genre&ads.v23=Drama&ads.n24=channel_name&ads.v24=ION%20Plus&ads.n25=channel_language&ads.v25=en&ads.n26=ua&ads.v26=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n27=app_store_url&ads.v27=&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=channel_corp&ads.v29=ION%20Media%20Networks&ads.n30=device_model&ads.v30=&ads.n31=channel_company_id&ads.v31=AMDP500574&ads.n32=pos&ads.v32=midroll&ads.n33=did&ads.v33=&ads.n34=channel_id&ads.v34=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n35=channel_title&ads.v35=ION%20Plus&ads.n36=content_livestream&ads.v36=1&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=channel_brand_id&ads.v39=AMDB013704&ads.n40=content_provider&ads.v40=ion-plus&ads.n41=dnt&ads.v41=&ads.n42=w&ads.v42=1920&ads.n43=device_make&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=content_type&ads.v46=channel&ads.n47=app_name&ads.v47=&ads.n48=gpp&ads.v48=&ads.n49=app_bundle&ads.v49=&ads.n50=content_producer_name&ads.v50=ION%20Media%20Networks&ads.n51=content_custom_1_param&ads.v51=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n52=ip&ads.v52=185.217.168.164&ads.n53=gpp_sid&ads.v53=&ads.n54=ifa_type&ads.v54=&ads.n55=network_name&ads.v55=ion-plus&ads.n56=content_custom_2_param&ads.v56=AMDB013704&ads.n57=app_version&ads.v57=0.0.0&ads.n58=cust_devicename&ads.v58=desktop_web": {
     "ok": true,
-    "seconds": 0.995,
+    "seconds": 0.765,
     "channel": "Ion Plus",
     "raw": "ION Plus",
     "source": "localnow",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/101/index.m3u8": {
     "ok": true,
-    "seconds": 0.165,
+    "seconds": 0.13,
     "channel": "Laff",
     "raw": "Laff (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8": {
     "ok": true,
@@ -721,11 +721,11 @@
   },
   "http://206.212.244.63/112/index.m3u8": {
     "ok": true,
-    "seconds": 0.169,
+    "seconds": 0.174,
     "channel": "MeTV Toons",
     "raw": "MeTV Toons (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/111/index.m3u8": {
     "ok": true,
@@ -737,315 +737,315 @@
   },
   "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.256,
+    "seconds": 0.233,
     "channel": "Movies!",
     "raw": "Movies Action (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://149.71.34.166:8000/play/a05t/index.m3u8": {
     "ok": false,
-    "seconds": 5.038,
+    "seconds": 5.039,
     "channel": "Movies!",
     "raw": "Movies Now + (1080p)",
     "source": "popular-movies-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://103.161.153.165:8000/play/mnh/index.m3u8": {
     "ok": false,
-    "seconds": 0.469,
+    "seconds": 0.333,
     "channel": "Movies!",
     "raw": "Movies Now HD (1080p)",
     "source": "popular-movies-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.273,
+    "seconds": 0.224,
     "channel": "Movies!",
     "raw": "Movies Thriller (1080p)",
     "source": "popular-movies-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8:Movies!": {
     "ok": false,
-    "seconds": 0.303,
+    "seconds": 0.259,
     "channel": "Movies!",
     "raw": "Movies!",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.675,
+    "seconds": 0.571,
     "channel": "Rewind TV",
     "raw": "Rewind TV (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/150/index.m3u8": {
     "ok": true,
-    "seconds": 0.168,
+    "seconds": 0.155,
     "channel": "Start TV",
     "raw": "Start TV (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8": {
     "ok": true,
-    "seconds": 0.209,
+    "seconds": 0.163,
     "channel": "Story Television",
     "raw": "Story Television",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8:Story Television": {
     "ok": false,
-    "seconds": 0.02,
+    "seconds": 0.018,
     "channel": "Story Television",
     "raw": "Story Television",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a:TBD": {
     "ok": false,
-    "seconds": 0.281,
+    "seconds": 0.253,
     "channel": "TBD",
     "raw": "TBD",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8:TBD (#)": {
     "ok": false,
-    "seconds": 0.023,
+    "seconds": 0.025,
     "channel": "TBD",
     "raw": "TBD (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.239.31.26:8989/aande/index.m3u8": {
     "ok": true,
-    "seconds": 0.179,
+    "seconds": 0.155,
     "channel": "A&E",
     "raw": "A&E (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8": {
     "ok": true,
-    "seconds": 0.621,
+    "seconds": 0.552,
     "channel": "A&E Crime 360",
     "raw": "A&E Crime 360 (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amchls.wns.live/hls/stream.m3u8": {
     "ok": false,
-    "seconds": 0.469,
+    "seconds": 0.421,
     "channel": "AMC",
     "raw": "AMC (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.239.31.26:8989/amc/index.m3u8": {
     "ok": true,
-    "seconds": 0.184,
+    "seconds": 0.148,
     "channel": "AMC",
     "raw": "AMC (720p)",
     "source": "popular-movies-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.339,
+    "seconds": 0.376,
     "channel": "AMC",
     "raw": "AMC Cupid (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.223.30.230/AMC/index.m3u8": {
     "ok": true,
-    "seconds": 0.547,
+    "seconds": 0.645,
     "channel": "AMC",
     "raw": "AMC East (720p)",
     "source": "popular-movies-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.335,
+    "seconds": 0.309,
     "channel": "AMC",
     "raw": "AMC Reality (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8:AMC+": {
     "ok": false,
-    "seconds": 0.418,
+    "seconds": 0.653,
     "channel": "AMC",
     "raw": "AMC+",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.239.31.26:8989/axstv/index.m3u8": {
     "ok": true,
-    "seconds": 0.177,
+    "seconds": 0.136,
     "channel": "AXS TV",
     "raw": "AXS TV (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.239.31.26:8989/bbcamerica/index.m3u8": {
     "ok": true,
-    "seconds": 0.164,
+    "seconds": 0.135,
     "channel": "BBC America",
     "raw": "BBC America (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8:BBC America East": {
     "ok": false,
-    "seconds": 0.024,
+    "seconds": 0.02,
     "channel": "BBC America",
     "raw": "BBC America East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8": {
     "ok": true,
-    "seconds": 1.215,
+    "seconds": 1.161,
     "channel": "BET",
     "raw": "BET",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8": {
     "ok": true,
-    "seconds": 1.306,
+    "seconds": 1.118,
     "channel": "BET",
     "raw": "BET",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8": {
     "ok": true,
-    "seconds": 1.253,
+    "seconds": 1.41,
     "channel": "BET",
     "raw": "BET",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.93.154/BET-EN/index.m3u8": {
     "ok": false,
-    "seconds": 1.673,
+    "seconds": 1.715,
     "channel": "BET",
     "raw": "BET (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.93.154/BETHER/index.m3u8": {
     "ok": false,
-    "seconds": 1.59,
+    "seconds": 1.597,
     "channel": "BET",
     "raw": "BET Her (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/19/index.m3u8": {
     "ok": false,
-    "seconds": 0.167,
+    "seconds": 0.131,
     "channel": "BET",
     "raw": "BET Her West (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/16/index.m3u8": {
     "ok": true,
-    "seconds": 0.158,
+    "seconds": 0.124,
     "channel": "BET",
     "raw": "BET West (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.49,
+    "seconds": 0.342,
     "channel": "BET",
     "raw": "BET x Tyler Perry Comedy (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.93.154/BRAVO/index.m3u8": {
     "ok": true,
-    "seconds": 0.563,
+    "seconds": 0.724,
     "channel": "Bravo",
     "raw": "Bravo (720p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef": {
     "ok": true,
-    "seconds": 0.917,
+    "seconds": 0.57,
     "channel": "Bravo",
     "raw": "Bravo TV (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8": {
     "ok": true,
-    "seconds": 0.372,
+    "seconds": 0.309,
     "channel": "Bravo",
     "raw": "Bravo Vault (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8": {
     "ok": true,
-    "seconds": 1.249,
+    "seconds": 1.375,
     "channel": "Bravo",
     "raw": "Bravo Vault (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/26/index.m3u8": {
     "ok": true,
-    "seconds": 0.177,
+    "seconds": 0.142,
     "channel": "Bravo",
     "raw": "Bravo West (720p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8": {
     "ok": false,
-    "seconds": 0.83,
+    "seconds": 1.126,
     "channel": "Bravo",
     "raw": "Bravo! Kids TV (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8": {
     "ok": false,
-    "seconds": 0.623,
+    "seconds": 0.704,
     "channel": "Bravo",
     "raw": "Bravo! TV (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://i.mjh.nz/.r/bravo-plus1.m3u8:Bravo East": {
     "ok": false,
-    "seconds": 0.032,
+    "seconds": 0.023,
     "channel": "Bravo",
     "raw": "Bravo East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_CMT/index.m3u8": {
     "ok": true,
-    "seconds": 0.24,
+    "seconds": 0.177,
     "channel": "CMT",
     "raw": "CMT (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8": {
     "ok": true,
@@ -1053,295 +1053,295 @@
     "channel": "CMT Music",
     "raw": "CMT Equal Play (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://86.87.15.10:8002/play/a02k/index.m3u8": {
     "ok": true,
-    "seconds": 0.375,
+    "seconds": 0.41,
     "channel": "Comedy Central",
     "raw": "Comedy Central",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://82.78.243.219:45739/play/a00f/index.m3u8": {
     "ok": true,
-    "seconds": 0.392,
+    "seconds": 0.635,
     "channel": "Comedy Central",
     "raw": "Comedy Central",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8": {
     "ok": true,
-    "seconds": 1.591,
+    "seconds": 1.017,
     "channel": "Comedy Central",
     "raw": "Comedy Central (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8": {
     "ok": true,
-    "seconds": 1.392,
+    "seconds": 1.194,
     "channel": "Comedy Central",
     "raw": "Comedy Central",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8": {
     "ok": true,
-    "seconds": 0.521,
+    "seconds": 0.54,
     "channel": "Comedy Central",
     "raw": "Comedy Central",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8": {
     "ok": true,
-    "seconds": 0.258,
+    "seconds": 0.205,
     "channel": "Comedy Central",
     "raw": "Comedy Central (1080p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8:Comedy Central East": {
     "ok": false,
-    "seconds": 0.025,
+    "seconds": 0.027,
     "channel": "Comedy Central",
     "raw": "Comedy Central East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_E/index.m3u8": {
     "ok": true,
-    "seconds": 0.236,
+    "seconds": 0.256,
     "channel": "E!",
     "raw": "E! (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8": {
     "ok": true,
-    "seconds": 0.232,
+    "seconds": 0.292,
     "channel": "E!",
     "raw": "E! Keeping Up (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.228,
+    "seconds": 0.282,
     "channel": "Freeform",
     "raw": "Freeform (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/70/index.m3u8": {
     "ok": true,
-    "seconds": 0.152,
+    "seconds": 0.179,
     "channel": "Freeform",
     "raw": "Freeform West (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_FUSE/index.m3u8": {
     "ok": true,
-    "seconds": 0.271,
+    "seconds": 0.261,
     "channel": "Fuse",
     "raw": "Fuse (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8:Fuse East": {
     "ok": false,
-    "seconds": 0.023,
+    "seconds": 0.024,
     "channel": "Fuse",
     "raw": "Fuse East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_FX/index.m3u8": {
     "ok": true,
-    "seconds": 0.236,
+    "seconds": 0.225,
     "channel": "FX",
     "raw": "FX (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_FXX/index.m3u8": {
     "ok": true,
-    "seconds": 0.242,
+    "seconds": 0.23,
     "channel": "FXX",
     "raw": "FXX (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://185.246.209.113/FYIHD/index.m3u8": {
     "ok": false,
-    "seconds": 0.18,
+    "seconds": 0.235,
     "channel": "FYI",
     "raw": "FYI (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8": {
     "ok": true,
-    "seconds": 0.226,
+    "seconds": 0.261,
     "channel": "Hallmark Channel",
     "raw": "Hallmark Channel (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/86/index.m3u8": {
     "ok": true,
-    "seconds": 0.173,
+    "seconds": 0.175,
     "channel": "Hallmark Mystery",
     "raw": "Hallmark Mystery (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/85/index.m3u8": {
     "ok": true,
-    "seconds": 0.161,
+    "seconds": 0.149,
     "channel": "Hallmark Family",
     "raw": "Hallmark Family (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_IFC/index.m3u8": {
     "ok": true,
-    "seconds": 0.25,
+    "seconds": 0.224,
     "channel": "IFC",
     "raw": "IFC (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/95/index.m3u8": {
     "ok": true,
-    "seconds": 0.179,
+    "seconds": 0.167,
     "channel": "INSP",
     "raw": "INSP (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://rezofoot.tv/LIFETIME/index.m3u8": {
     "ok": true,
-    "seconds": 0.594,
+    "seconds": 0.589,
     "channel": "Lifetime",
     "raw": "Lifetime (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://9fa8bd65.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ib2xpZGF5TW92aWVGYXZvcml0ZXNieUxpZmV0aW1lX0hMUw/playlist.m3u8": {
     "ok": false,
-    "seconds": 0.337,
+    "seconds": 0.305,
     "channel": "Lifetime",
     "raw": "Lifetime Holiday Favourites (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-63335b193583440007c859fb.m3u8": {
     "ok": true,
-    "seconds": 0.558,
+    "seconds": 0.638,
     "channel": "Lifetime",
     "raw": "Lifetime Movie Favorites (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.399,
+    "seconds": 0.354,
     "channel": "Lifetime",
     "raw": "Lifetime Movies (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_LMN/index.m3u8": {
     "ok": true,
-    "seconds": 0.231,
+    "seconds": 0.215,
     "channel": "Lifetime",
     "raw": "Lifetime Movies (1080p)",
     "source": "popular-movies-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8": {
     "ok": true,
-    "seconds": 0.343,
+    "seconds": 0.295,
     "channel": "Lifetime",
     "raw": "Lifetime Movies Love & Drama (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.70.146/MTVFRANCE/index.m3u8": {
     "ok": true,
-    "seconds": 0.576,
+    "seconds": 0.658,
     "channel": "MTV",
     "raw": "MTV (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://103.72.101.252:8080/live/248.m3u8": {
     "ok": false,
-    "seconds": 5.034,
+    "seconds": 5.04,
     "channel": "MTV",
     "raw": "MTV (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://198.58.104.90:8989/mtv/index.m3u8": {
     "ok": true,
-    "seconds": 0.227,
+    "seconds": 0.2,
     "channel": "MTV",
     "raw": "MTV (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live-fi.tvkaista.net/ava/live.m3u8": {
     "ok": true,
-    "seconds": 1.629,
+    "seconds": 1.674,
     "channel": "MTV",
     "raw": "MTV Ava (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8": {
     "ok": true,
-    "seconds": 1.672,
+    "seconds": 2.607,
     "channel": "MTV",
     "raw": "MTV Biggest Pop (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8": {
     "ok": true,
-    "seconds": 1.511,
+    "seconds": 1.191,
     "channel": "MTV",
     "raw": "MTV Biggest Pop (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8": {
     "ok": true,
-    "seconds": 1.7,
+    "seconds": 3.032,
     "channel": "MTV",
     "raw": "MTV Biggest Pop (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8": {
     "ok": true,
-    "seconds": 0.744,
+    "seconds": 1.447,
     "channel": "MTV",
     "raw": "MTV Biggest Pop (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://198.58.104.90:8989/mtv2/index.m3u8": {
     "ok": true,
-    "seconds": 0.18,
+    "seconds": 0.135,
     "channel": "MTV2",
     "raw": "MTV2 (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/117/index.m3u8": {
     "ok": true,
@@ -1349,151 +1349,151 @@
     "channel": "MTV Classic",
     "raw": "MTV Classic (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8:MTV Classic": {
     "ok": false,
-    "seconds": 0.023,
+    "seconds": 0.02,
     "channel": "MTV Classic",
     "raw": "MTV Classic",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://213.91.179.28:8000/play/a0ct": {
     "ok": false,
-    "seconds": 5.028,
+    "seconds": 5.031,
     "channel": "National Geographic",
     "raw": "National Geographic",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://185.102.171.218/NatGeo/index.m3u8": {
     "ok": true,
-    "seconds": 0.347,
+    "seconds": 0.417,
     "channel": "National Geographic",
     "raw": "National Geographic (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8": {
     "ok": true,
-    "seconds": 0.595,
+    "seconds": 0.585,
     "channel": "National Geographic",
     "raw": "National Geographic (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://149.71.34.166:8002/play/a013/index.m3u8": {
     "ok": false,
-    "seconds": 5.036,
+    "seconds": 5.03,
     "channel": "National Geographic",
     "raw": "National Geographic HD (576p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://46.32.176.50/NationalGeographicHD/index.m3u8": {
     "ok": false,
-    "seconds": 5.043,
+    "seconds": 5.039,
     "channel": "National Geographic",
     "raw": "National Geographic HD (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://198.58.104.90:8989/natgeo/index.m3u8": {
     "ok": true,
-    "seconds": 0.584,
+    "seconds": 0.201,
     "channel": "National Geographic",
     "raw": "National Geographic HD East (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/122/index.m3u8": {
     "ok": true,
-    "seconds": 0.174,
+    "seconds": 0.208,
     "channel": "National Geographic",
     "raw": "National Geographic West (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.77.102/NATGEO-WILD/index.m3u8": {
     "ok": true,
-    "seconds": 0.577,
+    "seconds": 0.754,
     "channel": "National Geographic",
     "raw": "National Geographic Wild (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://40.160.24.55/OVATION/index.m3u8": {
     "ok": true,
-    "seconds": 0.161,
+    "seconds": 0.16,
     "channel": "Ovation",
     "raw": "Ovation (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://198.58.104.90:8989/oxygen/index.m3u8": {
     "ok": true,
-    "seconds": 0.194,
+    "seconds": 0.186,
     "channel": "Oxygen",
     "raw": "Oxygen (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8": {
     "ok": true,
-    "seconds": 0.582,
+    "seconds": 0.617,
     "channel": "Oxygen",
     "raw": "Oxygen Music (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8": {
     "ok": true,
-    "seconds": 0.531,
+    "seconds": 0.497,
     "channel": "Oxygen",
     "raw": "Oxygen True Crime Archives (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8": {
     "ok": true,
-    "seconds": 0.594,
+    "seconds": 0.558,
     "channel": "Paramount Network",
     "raw": "Paramount Network (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://185.189.225.150:85/Paramount/index.m3u8": {
     "ok": false,
-    "seconds": 5.037,
+    "seconds": 5.034,
     "channel": "Paramount Network",
     "raw": "Paramount Network",
     "source": "free_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.328,
+    "seconds": 0.421,
     "channel": "Pop",
     "raw": "Pop (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/139/index.m3u8": {
     "ok": true,
-    "seconds": 0.15,
+    "seconds": 0.135,
     "channel": "Pop",
     "raw": "Pop TV (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8": {
     "ok": true,
-    "seconds": 0.513,
+    "seconds": 0.482,
     "channel": "Pop",
     "raw": "POP World TV (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-664e9f11e8824b0c34762789/?X-Plex-Token=qJKEv8w_z88rvpe5Go_X": {
     "ok": true,
@@ -1505,35 +1505,35 @@
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop": {
     "ok": false,
-    "seconds": 0.377,
+    "seconds": 0.332,
     "channel": "Pop",
     "raw": "Pop",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop (#)": {
     "ok": false,
-    "seconds": 0.026,
+    "seconds": 0.029,
     "channel": "Pop",
     "raw": "Pop (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.22,
+    "seconds": 0.183,
     "channel": "Reelz",
     "raw": "Reelz Famous & Infamous (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.384,
+    "seconds": 0.335,
     "channel": "Reelz",
     "raw": "Reelz Famous & Infamous (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d3serb1fmh623s.cloudfront.net/playlist.m3u8": {
     "ok": false,
@@ -1541,23 +1541,23 @@
     "channel": "Reelz",
     "raw": "REELZ Famous & Infamous (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://212.102.60.231/REELZ/index.m3u8:REELZ": {
     "ok": false,
-    "seconds": 0.153,
+    "seconds": 0.087,
     "channel": "Reelz",
     "raw": "REELZ",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://lnc-reelz.tubi.video/playlist.m3u8:Reelz": {
     "ok": false,
-    "seconds": 0.091,
+    "seconds": 0.067,
     "channel": "Reelz",
     "raw": "Reelz",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8:Reelz (#)": {
     "ok": false,
@@ -1565,7 +1565,7 @@
     "channel": "Reelz",
     "raw": "Reelz (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://fl2.moveonjoy.com/REELZ/index.m3u8:Reelz (#)": {
     "ok": false,
@@ -1573,39 +1573,39 @@
     "channel": "Reelz",
     "raw": "Reelz (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/151/index.m3u8": {
     "ok": true,
-    "seconds": 0.158,
+    "seconds": 0.134,
     "channel": "Sundance TV",
     "raw": "Sundance TV (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://99.27.51.147:8080/SYFY/index.m3u8": {
     "ok": true,
-    "seconds": 0.198,
+    "seconds": 0.145,
     "channel": "Syfy",
     "raw": "Syfy",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_SYFY/index.m3u8": {
     "ok": true,
-    "seconds": 0.229,
+    "seconds": 0.24,
     "channel": "Syfy",
     "raw": "SYFY (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://rezofoot.tv/SYFY-HD/index.m3u8": {
     "ok": true,
-    "seconds": 0.605,
+    "seconds": 0.577,
     "channel": "Syfy",
     "raw": "SYFY HD (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts:TNT East": {
     "ok": false,
@@ -1613,15 +1613,15 @@
     "channel": "TNT",
     "raw": "TNT East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://185.246.209.113/TVLandHD/index.m3u8": {
     "ok": false,
-    "seconds": 0.203,
+    "seconds": 0.177,
     "channel": "TV Land",
     "raw": "TV Land (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://40.160.24.55/USA_NETWORK/index.m3u8": {
     "ok": true,
@@ -1641,115 +1641,115 @@
   },
   "http://rezofoot.tv/VH1/index.m3u8": {
     "ok": true,
-    "seconds": 0.57,
+    "seconds": 0.573,
     "channel": "VH1",
     "raw": "VH1 (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_VICETV/index.m3u8": {
     "ok": true,
-    "seconds": 0.201,
+    "seconds": 0.217,
     "channel": "Vice TV",
     "raw": "VICE TV (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.417,
+    "seconds": 0.372,
     "channel": "Vice TV",
     "raw": "Vice TV",
     "source": "fire_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streamer1.nexgen.bz/WE_TV/index.m3u8": {
     "ok": true,
-    "seconds": 0.336,
+    "seconds": 0.482,
     "channel": "We TV",
     "raw": "We TV (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8": {
     "ok": false,
-    "seconds": 0.263,
+    "seconds": 0.178,
     "channel": "Showtime",
     "raw": "Showtime (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8": {
     "ok": true,
-    "seconds": 0.227,
+    "seconds": 0.183,
     "channel": "Showtime",
     "raw": "Showtime Family Zone (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8:Showtime East": {
     "ok": false,
-    "seconds": 0.028,
+    "seconds": 0.019,
     "channel": "Showtime",
     "raw": "Showtime East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://103.72.101.252:8080/live/1322.m3u8": {
     "ok": false,
-    "seconds": 5.045,
+    "seconds": 5.033,
     "channel": "Flix",
     "raw": "&flix HD (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_STARZ/index.m3u8": {
     "ok": true,
-    "seconds": 0.226,
+    "seconds": 0.225,
     "channel": "Starz",
     "raw": "Starz (1080p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8": {
     "ok": true,
-    "seconds": 0.23,
+    "seconds": 0.193,
     "channel": "Starz Cinema",
     "raw": "Starz Cinema (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8": {
     "ok": true,
-    "seconds": 0.249,
+    "seconds": 0.193,
     "channel": "Starz",
     "raw": "Starz Comedy (1080p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8": {
     "ok": true,
-    "seconds": 0.243,
+    "seconds": 0.278,
     "channel": "Starz Kids & Family",
     "raw": "Starz Kids & Family (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://212.102.60.231/STARZ/index.m3u8:Starz East": {
     "ok": false,
-    "seconds": 0.024,
+    "seconds": 0.025,
     "channel": "Starz",
     "raw": "Starz East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_STARZ/index.m3u8:Starz East (#)": {
     "ok": false,
-    "seconds": 0.011,
+    "seconds": 0.01,
     "channel": "Starz",
     "raw": "Starz East (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://212.102.60.231/STARZ_WEST/index.m3u8:Starz West": {
     "ok": false,
@@ -1761,11 +1761,11 @@
   },
   "http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8:Starz Encore Classic East": {
     "ok": false,
-    "seconds": 0.018,
+    "seconds": 0.019,
     "channel": "Starz Encore",
     "raw": "Starz Encore Classic East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=qJKEv8w_z88rvpe5Go_X": {
     "ok": true,
@@ -1777,35 +1777,35 @@
   },
   "http://206.212.244.63/674/index.m3u8": {
     "ok": true,
-    "seconds": 0.152,
+    "seconds": 0.15,
     "channel": "AccuWeather Network",
     "raw": "AccuWeather Network (720p)",
     "source": "iptv-org-weather",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=oBu8xSeABVK": {
     "ok": false,
-    "seconds": 0.293,
+    "seconds": 0.261,
     "channel": "Bloomberg Television",
     "raw": "Bloomberg Television",
     "source": "distro",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://rezofoot.tv/CNBC/index.m3u8": {
     "ok": true,
-    "seconds": 0.595,
+    "seconds": 0.699,
     "channel": "CNBC",
     "raw": "CNBC (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.245,
+    "seconds": 0.34,
     "channel": "CNBC",
     "raw": "CNBC (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783453443
   },
   "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8": {
     "ok": true,
@@ -1825,75 +1825,75 @@
   },
   "https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd": {
     "ok": false,
-    "seconds": 1.278,
+    "seconds": 0.955,
     "channel": "CNBC",
     "raw": "CNBC MGL (1080p)",
-    "source": "iptv_org",
-    "checked": 1783452103
+    "source": "iptv-org-category",
+    "checked": 1783459146
   },
   "http://fl2.moveonjoy.com/CNBC/index.m3u8": {
     "ok": false,
-    "seconds": 0.267,
+    "seconds": 0.28,
     "channel": "CNBC",
     "raw": "CNBC",
     "source": "manual_overrides",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8:CNBC": {
     "ok": false,
-    "seconds": 0.597,
+    "seconds": 0.932,
     "channel": "CNBC",
     "raw": "CNBC",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8:CNBC (#)": {
     "ok": false,
-    "seconds": 0.031,
+    "seconds": 0.028,
     "channel": "CNBC",
     "raw": "CNBC (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8": {
     "ok": false,
-    "seconds": 0.332,
+    "seconds": 0.271,
     "channel": "CNN",
     "raw": "CNN",
     "source": "free_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8": {
     "ok": false,
-    "seconds": 0.263,
+    "seconds": 0.296,
     "channel": "CNN",
     "raw": "CNN",
     "source": "free_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8": {
     "ok": true,
-    "seconds": 0.308,
+    "seconds": 0.208,
     "channel": "CNN International",
     "raw": "CNN International",
     "source": "free_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8:CNN International": {
     "ok": false,
-    "seconds": 0.024,
+    "seconds": 0.018,
     "channel": "CNN International",
     "raw": "CNN International",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/66/index.m3u8": {
     "ok": true,
-    "seconds": 0.149,
+    "seconds": 0.136,
     "channel": "Fox Business Network",
     "raw": "Fox Business Network (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.93.154/FOXBUSINESS/index.m3u8:Fox Business Network": {
     "ok": false,
@@ -1901,47 +1901,47 @@
     "channel": "Fox Business Network",
     "raw": "Fox Business Network",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://138.121.15.230:9002/FOX-NEWS/index.m3u8": {
     "ok": true,
-    "seconds": 0.249,
+    "seconds": 0.157,
     "channel": "Fox News Channel",
     "raw": "Fox News Channel (720p)",
     "source": "iptv-org-news",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8:Fox News Channel": {
     "ok": false,
-    "seconds": 0.024,
+    "seconds": 0.022,
     "channel": "Fox News Channel",
     "raw": "Fox News Channel",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8": {
     "ok": false,
-    "seconds": 0.245,
+    "seconds": 0.148,
     "channel": "HLN",
     "raw": "HLN Live (720p)",
     "source": "iptv-org-news",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8": {
     "ok": false,
-    "seconds": 0.098,
+    "seconds": 0.126,
     "channel": "MSNBC",
     "raw": "MSNBC",
     "source": "ota_diginets",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.93.154/MSNBC/index.m3u8:MSNBC": {
     "ok": false,
-    "seconds": 0.569,
+    "seconds": 0.67,
     "channel": "MSNBC",
     "raw": "MSNBC",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=Td2nCUXB4ha": {
     "ok": false,
@@ -1953,27 +1953,27 @@
   },
   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=wnWTUQM_9re": {
     "ok": false,
-    "seconds": 0.229,
+    "seconds": 0.206,
     "channel": "Newsmax TV",
     "raw": "Newsmax TV",
     "source": "distro",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/712/index.m3u8": {
     "ok": true,
-    "seconds": 0.152,
+    "seconds": 0.166,
     "channel": "NewsNation",
     "raw": "NewsNation (720p)",
     "source": "iptv-org-news",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.575,
+    "seconds": 0.371,
     "channel": "Scripps News",
     "raw": "Scripps News (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiYmUxMWZiMS03OGE4LTExZjEtYTc4ZS02NjRkNjJkOTRlMTEiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJmd1ZjSUQyQ29wcGEiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjQ0NjY2NmVkLTYyYWMtNGQxMy1hYjZlLWJkY2RlMTVjMzJmZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDksMTAwMDAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMyODAxNTI3MTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpORFEyTmpZMlpXUXROakpoWXkwMFpERXpMV0ZpTm1VdFltUmpaR1V4TldNek1tWmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzMzY2NTUyLCJpYXQiOjE3ODMyODAxNTIsImp0aSI6IjhkMTZmZTZlLWNlMGEtNDk3Zi04Mjk1LWJhZjNlYWVhZGRiOCJ9.3uk6mRndVjq-BNidgxqij7lKksqNPwr-jPbDPkjCBoQ&masterJWTPassthrough=true": {
     "ok": true,
@@ -1985,27 +1985,27 @@
   },
   "https://jmp2.uk/stvp-USBD3000073N": {
     "ok": true,
-    "seconds": 1.703,
+    "seconds": 1.539,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "samsung",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/rok-d3f36d4a35fa5f40a24b96a51556b9b5.m3u8": {
     "ok": true,
-    "seconds": 1.408,
+    "seconds": 2.669,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "roku_online",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a4981504aa/playlist.m3u8": {
-    "ok": true,
-    "seconds": 1.357,
+    "ok": false,
+    "seconds": 5.347,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "tubi",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705dda2236e002d69f211/?X-Plex-Token=qJKEv8w_z88rvpe5Go_X": {
     "ok": true,
@@ -2021,71 +2021,71 @@
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "xumo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://c58daada.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2NyaXBwc05ld3NfSExT/playlist.m3u8?ads.wurl_channel=1146&ads.wurl_name=ScrippsNews&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc2ODg0NzM4OX0": {
     "ok": true,
-    "seconds": 0.399,
+    "seconds": 0.58,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "vizio",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8": {
     "ok": false,
-    "seconds": 1.058,
+    "seconds": 0.439,
     "channel": "The Weather Channel",
     "raw": "The Weather Channel",
     "source": "ota_diginets",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/2486/index.m3u8": {
     "ok": true,
-    "seconds": 0.148,
+    "seconds": 0.16,
     "channel": "ACC Network",
     "raw": "ACC Network (720p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8:ACC Network": {
     "ok": false,
-    "seconds": 0.02,
+    "seconds": 0.024,
     "channel": "ACC Network",
     "raw": "ACC Network",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_BTN/index.m3u8": {
     "ok": true,
-    "seconds": 0.26,
+    "seconds": 0.198,
     "channel": "Big Ten Network",
     "raw": "Big Ten Network (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8": {
     "ok": true,
-    "seconds": 3.697,
+    "seconds": 2.974,
     "channel": "Big Ten Network",
     "raw": "BTN TV (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.223.30.230/ESPNNEWS/index.m3u8": {
     "ok": false,
-    "seconds": 0.609,
+    "seconds": 1.449,
     "channel": "ESPNews",
     "raw": "ESPNews (720p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_ESPNU/index.m3u8": {
     "ok": true,
-    "seconds": 0.264,
+    "seconds": 0.21,
     "channel": "ESPNU",
     "raw": "ESPNU (720p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8": {
     "ok": false,
@@ -2097,579 +2097,579 @@
   },
   "http://stream.fs1.tv:8080/hls/webstream.m3u8": {
     "ok": true,
-    "seconds": 0.386,
+    "seconds": 0.382,
     "channel": "Fox Sports 1",
     "raw": "FS1 Salzburg (720p) [Not 24/7]",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8:FOX Sports 1": {
     "ok": false,
-    "seconds": 0.026,
+    "seconds": 0.027,
     "channel": "Fox Sports 1",
     "raw": "FOX Sports 1",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://fl2.moveonjoy.com/MAV_TV/index.m3u8:Mav TV (#)": {
     "ok": false,
-    "seconds": 0.017,
+    "seconds": 0.043,
     "channel": "MAV TV",
     "raw": "Mav TV (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://212.102.60.231/NBA_TV/index.m3u8:NBA TV": {
     "ok": false,
-    "seconds": 0.018,
+    "seconds": 0.046,
     "channel": "NBA TV",
     "raw": "NBA TV",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/196/index.m3u8": {
     "ok": true,
-    "seconds": 0.165,
+    "seconds": 0.294,
     "channel": "NFL Network",
     "raw": "NFL Network (720p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://nhl-firetv.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.228,
+    "seconds": 0.292,
     "channel": "NHL Network",
     "raw": "NHL Network (1080p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://nhl-firetv.amagi.tv/playlist.m3u8:NHL Network": {
     "ok": false,
-    "seconds": 0.02,
+    "seconds": 0.037,
     "channel": "NHL Network",
     "raw": "NHL Network",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/2511/index.m3u8": {
     "ok": true,
-    "seconds": 0.15,
+    "seconds": 0.498,
     "channel": "SEC Network",
     "raw": "SEC Network (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.549,
+    "seconds": 0.679,
     "channel": "Tennis Channel",
     "raw": "Tennis Channel (1080p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.239,
+    "seconds": 0.394,
     "channel": "Tennis Channel",
     "raw": "Tennis Channel Germany (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8": {
     "ok": true,
-    "seconds": 0.619,
+    "seconds": 0.761,
     "channel": "Tennis Channel",
     "raw": "Tennis Channel",
     "source": "ota_diginets",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8:Tennis Channel": {
     "ok": false,
-    "seconds": 0.029,
+    "seconds": 0.036,
     "channel": "Tennis Channel",
     "raw": "Tennis Channel",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8:Tennis Channel (#)": {
     "ok": false,
-    "seconds": 0.012,
+    "seconds": 0.035,
     "channel": "Tennis Channel",
     "raw": "Tennis Channel (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streaming.alwaysdata.net/tudn.php": {
     "ok": true,
-    "seconds": 1.077,
+    "seconds": 1.265,
     "channel": "TUDN",
     "raw": "TUDN (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8": {
     "ok": true,
-    "seconds": 0.224,
+    "seconds": 0.456,
     "channel": "TUDN",
     "raw": "TUDN (1080p) [Geo-blocked]",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://86.87.15.10:8004/play/a02g/index.m3u8": {
     "ok": true,
-    "seconds": 0.382,
+    "seconds": 0.395,
     "channel": "Disney Channel",
     "raw": "Disney Channel",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8": {
     "ok": true,
-    "seconds": 0.368,
+    "seconds": 0.955,
     "channel": "Disney Channel",
     "raw": "Disney Channel (1080p)",
     "source": "popular-kids-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://82.78.243.219:45739/play/a00y/index.m3u8": {
     "ok": true,
-    "seconds": 0.418,
+    "seconds": 1.35,
     "channel": "Disney Channel",
     "raw": "Disney Channel",
     "source": "popular-kids-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8": {
     "ok": false,
-    "seconds": 0.03,
+    "seconds": 0.052,
     "channel": "Disney Channel",
     "raw": "Disney Channel (720p)",
     "source": "popular-kids-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/655/index.m3u8": {
     "ok": true,
-    "seconds": 0.16,
+    "seconds": 0.2,
     "channel": "Disney Junior",
     "raw": "Disney Junior West (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8:Disney Junior East": {
     "ok": false,
-    "seconds": 0.024,
+    "seconds": 0.038,
     "channel": "Disney Junior",
     "raw": "Disney Junior East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://149.71.34.166:8000/play/a00l/index.m3u8:Disney Junior East (#)": {
     "ok": false,
-    "seconds": 0.012,
+    "seconds": 0.033,
     "channel": "Disney Junior",
     "raw": "Disney Junior East (#)",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8": {
     "ok": true,
-    "seconds": 0.269,
+    "seconds": 0.265,
     "channel": "Disney XD",
     "raw": "Disney XD (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8:Disney XD": {
     "ok": false,
-    "seconds": 0.024,
+    "seconds": 0.043,
     "channel": "Disney XD",
     "raw": "Disney XD",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://stream8.cinerama.uz/1501/playlist.m3u8": {
     "ok": true,
-    "seconds": 1.883,
+    "seconds": 0.861,
     "channel": "Nick Jr.",
     "raw": "Nick Jr.",
     "source": "popular-kids-iptv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://40.160.24.55/NICK_JR/index.m3u8": {
     "ok": true,
-    "seconds": 0.16,
+    "seconds": 0.207,
     "channel": "Nick Jr.",
     "raw": "Nick Jr. (1080p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8": {
     "ok": true,
-    "seconds": 1.451,
+    "seconds": 1.297,
     "channel": "Nick Jr.",
     "raw": "Nick Jr. Club (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8": {
     "ok": true,
-    "seconds": 1.245,
+    "seconds": 1.299,
     "channel": "Nick Jr.",
     "raw": "Nick Jr. Club (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8": {
     "ok": true,
-    "seconds": 0.5,
+    "seconds": 0.497,
     "channel": "Nick Jr.",
     "raw": "Nick Jr. Club (720p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8": {
     "ok": true,
-    "seconds": 0.553,
+    "seconds": 0.481,
     "channel": "Nick Jr.",
     "raw": "Nick Jr. Pluto TV (720p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://213.91.179.28:8000/play/a056": {
     "ok": false,
-    "seconds": 5.034,
+    "seconds": 5.047,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8": {
     "ok": true,
-    "seconds": 0.39,
+    "seconds": 0.404,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://193.239.186.231/NICK/index.m3u8": {
     "ok": false,
-    "seconds": 0.368,
+    "seconds": 0.369,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://82.78.243.219:45739/play/a00o/index.m3u8": {
     "ok": true,
-    "seconds": 0.434,
+    "seconds": 0.453,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8": {
     "ok": true,
-    "seconds": 0.305,
+    "seconds": 0.221,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://202.169.224.202:8800/udp/239.9.1.17:1234": {
     "ok": false,
-    "seconds": 5.045,
+    "seconds": 5.069,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon Asia Indonesia (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8": {
     "ok": true,
-    "seconds": 1.282,
+    "seconds": 0.605,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon Cl\u00e1sico (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8": {
     "ok": true,
-    "seconds": 1.279,
+    "seconds": 1.733,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon Cl\u00e1ssico (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8": {
     "ok": true,
-    "seconds": 1.163,
+    "seconds": 0.509,
     "channel": "Nicktoons",
     "raw": "NickToons",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://41.205.93.154/NICKTOONS/index.m3u8": {
     "ok": true,
-    "seconds": 0.605,
+    "seconds": 0.586,
     "channel": "Nicktoons",
     "raw": "Nicktoons (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://212.102.60.231/NICKTOONS/index.m3u8:Nicktoons East": {
     "ok": false,
-    "seconds": 0.029,
+    "seconds": 0.048,
     "channel": "Nicktoons",
     "raw": "Nicktoons East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://91.146.94.234:10001/play/a08o": {
     "ok": false,
-    "seconds": 5.041,
+    "seconds": 5.049,
     "channel": "TeenNick",
     "raw": "TeenNick (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/670/index.m3u8": {
     "ok": true,
-    "seconds": 0.552,
+    "seconds": 0.188,
     "channel": "TeenNick",
     "raw": "TeenNick (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8": {
     "ok": true,
-    "seconds": 0.35,
+    "seconds": 0.218,
     "channel": "PBS Kids",
     "raw": "PBS Kids (720p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/672/index.m3u8": {
     "ok": true,
-    "seconds": 0.187,
+    "seconds": 0.158,
     "channel": "PBS Kids",
     "raw": "PBS Kids 24/7 (1080p)",
     "source": "iptv_org_noram",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8": {
     "ok": true,
-    "seconds": 0.296,
+    "seconds": 0.276,
     "channel": "PBS Kids",
     "raw": "PBS Kids Alaska (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.47,
+    "seconds": 0.276,
     "channel": "PBS Kids",
     "raw": "PBS Kids Eastern/Central (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8": {
     "ok": true,
-    "seconds": 0.802,
+    "seconds": 0.225,
     "channel": "PBS Kids",
     "raw": "PBS Kids Hawaii (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8": {
     "ok": true,
-    "seconds": 0.304,
+    "seconds": 0.229,
     "channel": "PBS Kids",
     "raw": "PBS Kids Mountain (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8": {
     "ok": true,
-    "seconds": 0.346,
+    "seconds": 0.218,
     "channel": "PBS Kids",
     "raw": "PBS Kids Pacific (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/stvp-USBC3600013PC": {
     "ok": true,
-    "seconds": 1.631,
+    "seconds": 1.417,
     "channel": "PBS Kids",
     "raw": "PBS Kids",
     "source": "samsung",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/639/index.m3u8": {
     "ok": true,
-    "seconds": 0.163,
+    "seconds": 0.126,
     "channel": "BabyFirst",
     "raw": "BabyFirst (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8": {
     "ok": true,
-    "seconds": 0.668,
+    "seconds": 0.49,
     "channel": "Discovery Channel",
     "raw": "Discovery Channel",
     "source": "free_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8": {
     "ok": true,
-    "seconds": 0.396,
+    "seconds": 0.419,
     "channel": "Food Network",
     "raw": "Food Network",
     "source": "free_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://i.mjh.nz/.r/sky-hgtv.m3u8": {
     "ok": true,
-    "seconds": 0.917,
+    "seconds": 0.344,
     "channel": "HGTV",
     "raw": "HGTV (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://40.160.24.55/SMITHSONIAN/index.m3u8": {
     "ok": true,
-    "seconds": 0.164,
+    "seconds": 0.129,
     "channel": "Smithsonian Channel",
     "raw": "Smithsonian Channel (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/155/index.m3u8": {
     "ok": true,
-    "seconds": 0.161,
+    "seconds": 0.136,
     "channel": "The Cowboy Channel",
     "raw": "The Cowboy Channel (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8:The Cowboy Channel": {
     "ok": false,
-    "seconds": 0.019,
+    "seconds": 0.021,
     "channel": "The Cowboy Channel",
     "raw": "The Cowboy Channel",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.32,
+    "seconds": 0.291,
     "channel": "Outdoor Channel",
     "raw": "Outdoor Channel (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8": {
     "ok": true,
-    "seconds": 0.222,
+    "seconds": 0.225,
     "channel": "Outdoor Channel",
     "raw": "Outdoor Channel HD (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=4m-g_yI88ae": {
     "ok": true,
-    "seconds": 0.444,
+    "seconds": 0.737,
     "channel": "Outdoor Channel",
     "raw": "Outdoor Channel",
     "source": "distro",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor Channel": {
     "ok": false,
-    "seconds": 0.027,
+    "seconds": 0.032,
     "channel": "Outdoor Channel",
     "raw": "Outdoor Channel",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8:Sportsman Channel": {
     "ok": false,
-    "seconds": 0.018,
+    "seconds": 0.017,
     "channel": "Sportsman Channel",
     "raw": "Sportsman Channel",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://206.212.244.63/140/index.m3u8": {
     "ok": true,
-    "seconds": 0.161,
+    "seconds": 0.142,
     "channel": "Pursuit Channel",
     "raw": "Pursuit Channel (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8:Pursuit Channel": {
     "ok": false,
-    "seconds": 0.023,
+    "seconds": 0.025,
     "channel": "Pursuit Channel",
     "raw": "Pursuit Channel",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8": {
     "ok": true,
-    "seconds": 0.25,
+    "seconds": 0.216,
     "channel": "Classic Arts Showcase",
     "raw": "Classic Arts Showcase (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8:Classic Arts Showcase": {
     "ok": false,
-    "seconds": 0.025,
+    "seconds": 0.02,
     "channel": "Classic Arts Showcase",
     "raw": "Classic Arts Showcase",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://create.lls.pbs.org/index.m3u8": {
     "ok": false,
-    "seconds": 0.307,
+    "seconds": 0.352,
     "channel": "Create",
     "raw": "Create (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8": {
     "ok": true,
-    "seconds": 0.431,
+    "seconds": 0.334,
     "channel": "France 24",
     "raw": "France 24 English (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8": {
     "ok": true,
-    "seconds": 0.348,
+    "seconds": 0.64,
     "channel": "France 24",
     "raw": "France 24 Espa\u00f1ol (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.534,
+    "seconds": 0.475,
     "channel": "France 24",
     "raw": "France 24 FAST English (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8": {
     "ok": true,
-    "seconds": 0.271,
+    "seconds": 0.662,
     "channel": "France 24",
     "raw": "France 24 French (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb/?X-Plex-Token=qJKEv8w_z88rvpe5Go_X": {
     "ok": true,
@@ -2705,51 +2705,51 @@
   },
   "https://world.lls.pbs.org/index.m3u8": {
     "ok": false,
-    "seconds": 0.317,
+    "seconds": 0.24,
     "channel": "World Channel",
     "raw": "World Channel (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linktv.b-cdn.net/linktv.m3u8": {
     "ok": true,
-    "seconds": 0.416,
+    "seconds": 0.319,
     "channel": "Link TV",
     "raw": "Link TV",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8:BYU TV": {
     "ok": false,
-    "seconds": 0.021,
+    "seconds": 0.019,
     "channel": "BYU TV",
     "raw": "BYU TV",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.502,
+    "seconds": 0.371,
     "channel": "ABC",
     "raw": "ABC 6 Columbus OH (WSYX) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.37,
+    "seconds": 0.373,
     "channel": "ABC",
     "raw": "ABC 7 Albuquerque NM (KOAT) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.462,
+    "seconds": 0.366,
     "channel": "CBS",
     "raw": "CBS 12 West Palm Beach FL (WPEC) (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8": {
     "ok": true,
@@ -2761,11 +2761,11 @@
   },
   "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.47,
+    "seconds": 0.34,
     "channel": "NBC",
     "raw": "NBC 8 Lancaster PA (WGAL) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://live.field59.com/wlio/wlio1/playlist.m3u8": {
     "ok": false,
@@ -2777,131 +2777,131 @@
   },
   "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.397,
+    "seconds": 0.347,
     "channel": "PBS",
     "raw": "PBS KET Louisville KY (WKMJ-TV) (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.352,
+    "seconds": 0.542,
     "channel": "Telemundo",
     "raw": "Telemundo Noticias Noreste (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8": {
     "ok": true,
-    "seconds": 0.333,
+    "seconds": 0.452,
     "channel": "Telemundo",
     "raw": "Telemundo Romance (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n4=content_name&ads.v4=ION%20Television&ads.n21=channel_company_id&ads.v21=AMDP500574&ads.n22=channel_name&ads.v22=ION%20Television&ads.n23=device_model&ads.v23=&ads.n24=app_version&ads.v24=0.0.0&ads.n25=channel_corp&ads.v25=ION%20Media%20Networks&ads.n26=us_privacy&ads.v26=1YNY&ads.n27=content_custom_2_param&ads.v27=AMDB013702&ads.n28=channel_id&ads.v28=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n29=content_provider&ads.v29=ion-television&ads.n30=content_type&ads.v30=channel&ads.n31=content_livestream&ads.v31=1&ads.n32=channel_ext_id&ads.v32=&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=content_custom_1_param&ads.v34=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n35=channel_title&ads.v35=ION%20Television&ads.n36=content_producer_name&ads.v36=ION%20Media%20Networks&ads.n37=channel_brand_id&ads.v37=AMDB013702&ads.n38=network_name&ads.v38=ion-television&ads.n39=device_type&ads.v39=&ads.n40=app_name&ads.v40=&ads.n41=app_store_url&ads.v41=&ads.n42=h&ads.v42=1080&ads.n43=channel_genre&ads.v43=Entertainment&ads.n44=app_bundle&ads.v44=&ads.n45=gpp_sid&ads.v45=&ads.n46=device_make&ads.v46=&ads.n47=channel_language&ads.v47=en&ads.n48=w&ads.v48=1920&ads.n49=url&ads.v49=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n50=did&ads.v50=&ads.n51=pos&ads.v51=midroll&ads.n52=ifa_type&ads.v52=&ads.n53=cust_devicename&ads.v53=desktop_web&ads.n54=dnt&ads.v54=&ads.n55=gpp&ads.v55=&ads.n56=ip&ads.v56=185.217.168.164&ads.n57=ua&ads.v57=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n58=channel_rating&ads.v58=TV-PG": {
     "ok": true,
-    "seconds": 1.178,
+    "seconds": 0.861,
     "channel": "Ion Television",
     "raw": "ION Television",
     "source": "localnow",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n4=content_name&ads.v4=ION%20Television&ads.n21=h&ads.v21=1080&ads.n22=w&ads.v22=1920&ads.n23=content_custom_1_param&ads.v23=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n24=content_producer_name&ads.v24=ION%20Media%20Networks&ads.n25=gpp&ads.v25=&ads.n26=content_livestream&ads.v26=1&ads.n27=device_make&ads.v27=&ads.n28=network_name&ads.v28=ion-television&ads.n29=channel_id&ads.v29=DFA77213-D191-4A0D-993A-54AB336FB0C3&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=app_store_url&ads.v31=&ads.n32=app_name&ads.v32=&ads.n33=device_type&ads.v33=&ads.n34=channel_ext_id&ads.v34=&ads.n35=channel_brand_id&ads.v35=AMDB013702&ads.n36=channel_genre&ads.v36=Entertainment&ads.n37=ua&ads.v37=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n38=content_type&ads.v38=channel&ads.n39=channel_title&ads.v39=ION%20Television&ads.n40=ifa_type&ads.v40=&ads.n41=channel_rating&ads.v41=TV-PG&ads.n42=channel_name&ads.v42=ION%20Television&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=gpp_sid&ads.v44=&ads.n45=channel_language&ads.v45=en&ads.n46=channel_corp&ads.v46=ION%20Media%20Networks&ads.n47=ip&ads.v47=185.217.168.164&ads.n48=app_version&ads.v48=0.0.0&ads.n49=app_bundle&ads.v49=&ads.n50=channel_company_id&ads.v50=AMDP500574&ads.n51=content_custom_2_param&ads.v51=AMDB013702&ads.n52=device_model&ads.v52=&ads.n53=content_provider&ads.v53=ion-television&ads.n54=dnt&ads.v54=&ads.n55=cust_devicename&ads.v55=desktop_web&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=pos&ads.v57=midroll&ads.n58=did&ads.v58=": {
     "ok": true,
-    "seconds": 0.963,
+    "seconds": 0.796,
     "channel": "Ion Television",
     "raw": "ION Television",
     "source": "localnow",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8:ION Mystery": {
     "ok": false,
-    "seconds": 0.026,
+    "seconds": 0.028,
     "channel": "Ion Mystery",
     "raw": "ION Mystery",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8:ION Plus East": {
     "ok": false,
-    "seconds": 0.031,
+    "seconds": 0.017,
     "channel": "Ion Plus",
     "raw": "ION Plus East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8": {
     "ok": true,
-    "seconds": 1.12,
+    "seconds": 1.656,
     "channel": "BET",
     "raw": "BET x Tyler Perry Comedy (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.446,
+    "seconds": 0.323,
     "channel": "BET",
     "raw": "BET x Tyler Perry Drama (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8": {
     "ok": true,
-    "seconds": 1.561,
+    "seconds": 1.333,
     "channel": "MTV",
     "raw": "MTV Catfish (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8": {
     "ok": true,
-    "seconds": 1.662,
+    "seconds": 1.268,
     "channel": "MTV",
     "raw": "MTV Catfish (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://185.102.171.218/NatGeoWild/index.m3u8": {
     "ok": true,
-    "seconds": 0.376,
+    "seconds": 0.505,
     "channel": "National Geographic",
     "raw": "National Geographic Wild (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8": {
     "ok": true,
-    "seconds": 0.522,
+    "seconds": 0.626,
     "channel": "National Geographic",
     "raw": "National Geographic Wild (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://s1host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config1/playlist.m3u8?ads.cdnhost=s1host4.localnow.api.cms.amdvids.com&ads.playbackid=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n4=content_name&ads.v4=EPG%20%7C%20Scripps%20News&ads.n21=did&ads.v21=&ads.n22=channel_name&ads.v22=EPG%20%20Scripps%20News&ads.n23=pos&ads.v23=midroll&ads.n24=app_store_url&ads.v24=&ads.n25=cust_devicename&ads.v25=desktop_web&ads.n26=h&ads.v26=1080&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=app_version&ads.v28=0.0.0&ads.n29=channel_corp&ads.v29=Media%20Convergence%20Group%20INC&ads.n30=gpp&ads.v30=&ads.n31=channel_ext_id&ads.v31=5f8495060fb0504aa2496f03&ads.n32=url&ads.v32=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n33=content_type&ads.v33=channel&ads.n34=dnt&ads.v34=&ads.n35=device_make&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=content_custom_1_param&ads.v37=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=network_name&ads.v39=newsy&ads.n40=channel_genre&ads.v40=News&ads.n41=content_livestream&ads.v41=1&ads.n42=app_bundle&ads.v42=&ads.n43=channel_title&ads.v43=EPG%20%20Scripps%20News&ads.n44=ifa_type&ads.v44=&ads.n45=channel_id&ads.v45=86E3E9D2-5FD4-483A-8B7A-BA82C8830CC4&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=gpp_sid&ads.v47=&ads.n48=channel_company_id&ads.v48=AMDP500143&ads.n49=content_provider&ads.v49=newsy&ads.n50=content_producer_name&ads.v50=Media%20Convergence%20Group%20INC&ads.n51=app_name&ads.v51=&ads.n52=ip&ads.v52=185.217.168.164&ads.n53=channel_brand_id&ads.v53=AMDB012083&ads.n54=device_model&ads.v54=&ads.n55=content_custom_2_param&ads.v55=AMDB012083&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=device_type&ads.v57=&ads.n58=channel_language&ads.v58=en": {
     "ok": true,
-    "seconds": 0.991,
+    "seconds": 0.811,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "localnow",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8": {
     "ok": true,
-    "seconds": 0.565,
+    "seconds": 0.528,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "free_tv",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8": {
     "ok": true,
-    "seconds": 1.631,
+    "seconds": 1.617,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon Classics (720p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8": {
     "ok": true,
@@ -3105,11 +3105,11 @@
   },
   "https://live-manifest.production-public.tubi.io/live/520220a7-f8c9-488b-b311-0654a1d3c1b8/playlist.m3u8": {
     "ok": true,
-    "seconds": 1.482,
+    "seconds": 1.575,
     "channel": "A&E Crime 360",
     "raw": "A&E Crime 360",
     "source": "tubi",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f41/?X-Plex-Token=G7SENtiiVUi53th7eyw3": {
     "ok": true,
@@ -3129,19 +3129,19 @@
   },
   "https://dbrb49pjoymg4.cloudfront.net/10001/99951471/hls/playlist.m3u8?ads.xumo_channelId=99951471&ads.xumo_streamId=99951471&ads.channelId=99951471&ads.channelName=AECrime360byAE_us&ads.caid=AECrime360byAE&ads.csid=xumo_[PLATFORM]_AECrime360byAE_ssai&ads._fw_coppa=0&ads.xumo_contentId=4317&ads.xumo_contentName=AECrime360byAE&ads.xumo_providerId=4317&ads.xumo_providerName=AECrime360byAE&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay": {
     "ok": false,
-    "seconds": 0.03,
+    "seconds": 0.026,
     "channel": "A&E Crime 360",
     "raw": "A&E Crime 360",
     "source": "xumo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzIzOTY3Mjg1M30": {
     "ok": true,
-    "seconds": 0.422,
+    "seconds": 0.348,
     "channel": "A&E Crime 360",
     "raw": "A&E Crime 360",
     "source": "vizio",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-scrippsnews-tablo/playlist.m3u8": {
     "ok": true,
@@ -3153,115 +3153,115 @@
   },
   "http://23.237.104.106:8080/USA_NESN/index.m3u8": {
     "ok": false,
-    "seconds": 0.254,
+    "seconds": 0.201,
     "channel": "NESN",
     "raw": "NESN (720p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8": {
     "ok": true,
-    "seconds": 0.296,
+    "seconds": 0.183,
     "channel": "NESN",
     "raw": "NESN Nation (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://stream.cammonitorplus.net/1783/index.m3u8": {
     "ok": true,
-    "seconds": 0.51,
+    "seconds": 0.563,
     "channel": "CBS",
     "raw": "CBS (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://stream.cammonitorplus.net/1785/index.m3u8": {
     "ok": true,
-    "seconds": 0.337,
+    "seconds": 0.402,
     "channel": "NBC",
     "raw": "NBC (1080p)",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8": {
     "ok": true,
-    "seconds": 0.365,
+    "seconds": 0.457,
     "channel": "Univision",
     "raw": "Univision West (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://168.228.44.241:9997/play/a09e/index.m3u8": {
     "ok": true,
-    "seconds": 0.303,
+    "seconds": 0.218,
     "channel": "UniMas",
     "raw": "UniMas Mountain (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8": {
     "ok": true,
-    "seconds": 0.237,
+    "seconds": 0.234,
     "channel": "Newsmax TV",
     "raw": "Newsmax TV (720p)",
     "source": "iptv-org-news",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://181.78.197.59:8000/play/a07z/index.m3u8": {
     "ok": true,
-    "seconds": 0.305,
+    "seconds": 0.298,
     "channel": "ESPN",
     "raw": "ESPN (1080p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://181.78.197.59:8000/play/a081/index.m3u8": {
     "ok": true,
-    "seconds": 0.321,
+    "seconds": 0.249,
     "channel": "ESPN",
     "raw": "ESPN 3 (720p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "http://181.78.197.59:8000/play/a07n/index.m3u8": {
     "ok": true,
-    "seconds": 0.311,
+    "seconds": 0.3,
     "channel": "ESPN",
     "raw": "ESPN 4 (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8": {
     "ok": false,
-    "seconds": 5.056,
+    "seconds": 5.041,
     "channel": "Fox Sports 1",
     "raw": "Fox Sports 1 (720p)",
     "source": "iptv-org-sports",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php": {
     "ok": true,
-    "seconds": 0.716,
+    "seconds": 1.115,
     "channel": "Nickelodeon",
     "raw": "Nickelodeon",
     "source": "iptv_org",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8": {
     "ok": true,
-    "seconds": 1.053,
+    "seconds": 0.618,
     "channel": "Ion Television",
     "raw": "ION",
     "source": "tablo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://jmp2.uk/plu-65453f30085df200085883d8.m3u8:ION TV East": {
     "ok": false,
-    "seconds": 0.026,
+    "seconds": 0.029,
     "channel": "Ion Television",
     "raw": "ION TV East",
     "source": "usa_hanssettings",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNDA3YzFjMy03OWVhLTExZjEtYWRmZC1hYTFiMjA5NmFkNmMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJmd1ZjSUQyQ29wcGEiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjExOWRjN2E5LTg2NzQtNGY4OS1hOGZkLWEzY2Q2YWQ2Y2U4OSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MTgxNDIyMTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVEU1WkdNM1lUa3RPRFkzTkMwMFpqZzVMV0U0Wm1RdFlUTmpaRFpoWkRaalpUZzUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTA0NTQyLCJpYXQiOjE3ODM0MTgxNDIsImp0aSI6IjM2MDgyYmI4LTM0OGEtNGJjOS05Y2E5LWE3MDViZDJjYjJkZCJ9.W8kEzGXP_oBFgGCowNeCpxa6P3BFiwR96IacDM0DKgk&masterJWTPassthrough=true": {
     "ok": true,
@@ -3273,35 +3273,35 @@
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-624c37af6281708eabbbe26b/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 1.24,
+    "seconds": 0.647,
     "channel": "Ion Television",
     "raw": "ION",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 0.903,
+    "seconds": 0.586,
     "channel": "Ion Mystery",
     "raw": "Ion Mystery",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-627e347795b0f50af26d78f9/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 1.06,
+    "seconds": 0.982,
     "channel": "Ion Plus",
     "raw": "ION Plus",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-664e9f11e8824b0c34762789/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": false,
-    "seconds": 0.799,
+    "seconds": 0.585,
     "channel": "Pop",
     "raw": "POP",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNDA3YzFjMy03OWVhLTExZjEtYWRmZC1hYTFiMjA5NmFkNmMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJmd1ZjSUQyQ29wcGEiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjExOWRjN2E5LTg2NzQtNGY4OS1hOGZkLWEzY2Q2YWQ2Y2U4OSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MTgxNDIyMTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVEU1WkdNM1lUa3RPRFkzTkMwMFpqZzVMV0U0Wm1RdFlUTmpaRFpoWkRaalpUZzUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTA0NTQyLCJpYXQiOjE3ODM0MTgxNDIsImp0aSI6IjM2MDgyYmI4LTM0OGEtNGJjOS05Y2E5LWE3MDViZDJjYjJkZCJ9.W8kEzGXP_oBFgGCowNeCpxa6P3BFiwR96IacDM0DKgk&masterJWTPassthrough=true": {
     "ok": true,
@@ -3313,27 +3313,27 @@
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f41/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 0.871,
+    "seconds": 0.956,
     "channel": "A&E Crime 360",
     "raw": "A&E Crime 360",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ebde0768abcd6b78052a9/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": false,
-    "seconds": 0.767,
+    "seconds": 0.722,
     "channel": "A&E Crime 360",
     "raw": "Crime 360",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 1.014,
+    "seconds": 0.846,
     "channel": "MGM+",
     "raw": "MGM Presents: Westerns",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNDA3YzFjMy03OWVhLTExZjEtYWRmZC1hYTFiMjA5NmFkNmMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJmd1ZjSUQyQ29wcGEiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjExOWRjN2E5LTg2NzQtNGY4OS1hOGZkLWEzY2Q2YWQ2Y2U4OSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MTgxNDIyMTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVEU1WkdNM1lUa3RPRFkzTkMwMFpqZzVMV0U0Wm1RdFlUTmpaRFpoWkRaalpUZzUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTA0NTQyLCJpYXQiOjE3ODM0MTgxNDIsImp0aSI6IjM2MDgyYmI4LTM0OGEtNGJjOS05Y2E5LWE3MDViZDJjYjJkZCJ9.W8kEzGXP_oBFgGCowNeCpxa6P3BFiwR96IacDM0DKgk&masterJWTPassthrough=true": {
     "ok": true,
@@ -3345,138 +3345,210 @@
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705dda2236e002d69f211/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 1.281,
+    "seconds": 1.053,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 1.312,
+    "seconds": 1.085,
     "channel": "France 24",
     "raw": "FRANCE 24",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-678fe7959407a53556d3e8eb/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 0.715,
+    "seconds": 0.9,
     "channel": "France 24",
     "raw": "FRANCE 24",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 0.914,
+    "seconds": 0.764,
     "channel": "France 24",
     "raw": "FRANCE 24",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-678fe7959407a53556d3e8eb/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 0.87,
+    "seconds": 0.656,
     "channel": "France 24",
     "raw": "FRANCE 24",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-678fe7959407a53556d3e8eb/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 0.836,
+    "seconds": 1.133,
     "channel": "France 24",
     "raw": "FRANCE 24",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-678fe7959407a53556d3e8eb/?X-Plex-Token=qTkF2KyYysMxxqJsfpdX": {
     "ok": true,
-    "seconds": 0.809,
+    "seconds": 0.621,
     "channel": "France 24",
     "raw": "FRANCE 24",
     "source": "plex",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhY2I0MWEzMi03YTEzLTExZjEtOTZjYi04NmM1YzRiMzMwNjkiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJmd1ZjSUQyQ29wcGEiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjE1NzEwOWNhLTM2OGItNGQzYi04ZWMwLTM0ZWRmNGRjNDkwZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MzYwMzQ1NjQsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVFUzTVRBNVkyRXRNelk0WWkwMFpETmlMVGhsWXpBdE16UmxaR1kwWkdNME9UQmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTIyNDM0LCJpYXQiOjE3ODM0MzYwMzQsImp0aSI6IjkyMjUxZmY2LWE3MmUtNGM5My05ZmRiLWQyOTcxOThiNGNlZCJ9.wUCu_SyRzQlMUJGrDEfYCXL3aFa-Kij9CpeZUWJNknM&masterJWTPassthrough=true": {
     "ok": true,
-    "seconds": 0.335,
+    "seconds": 0.435,
     "channel": "Ion Television",
     "raw": "ION",
     "source": "pluto",
-    "checked": 1783452103
+    "checked": 1783454440
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhY2I0MWEzMi03YTEzLTExZjEtOTZjYi04NmM1YzRiMzMwNjkiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJmd1ZjSUQyQ29wcGEiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjE1NzEwOWNhLTM2OGItNGQzYi04ZWMwLTM0ZWRmNGRjNDkwZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MzYwMzQ1NjQsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVFUzTVRBNVkyRXRNelk0WWkwMFpETmlMVGhsWXpBdE16UmxaR1kwWkdNME9UQmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTIyNDM0LCJpYXQiOjE3ODM0MzYwMzQsImp0aSI6IjkyMjUxZmY2LWE3MmUtNGM5My05ZmRiLWQyOTcxOThiNGNlZCJ9.wUCu_SyRzQlMUJGrDEfYCXL3aFa-Kij9CpeZUWJNknM&masterJWTPassthrough=true": {
     "ok": true,
-    "seconds": 0.5,
+    "seconds": 0.381,
     "channel": "A&E Crime 360",
     "raw": "A&E Crime 360",
     "source": "pluto",
-    "checked": 1783452103
+    "checked": 1783454440
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhY2I0MWEzMi03YTEzLTExZjEtOTZjYi04NmM1YzRiMzMwNjkiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJmd1ZjSUQyQ29wcGEiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjE1NzEwOWNhLTM2OGItNGQzYi04ZWMwLTM0ZWRmNGRjNDkwZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MzYwMzQ1NjQsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVFUzTVRBNVkyRXRNelk0WWkwMFpETmlMVGhsWXpBdE16UmxaR1kwWkdNME9UQmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTIyNDM0LCJpYXQiOjE3ODM0MzYwMzQsImp0aSI6IjkyMjUxZmY2LWE3MmUtNGM5My05ZmRiLWQyOTcxOThiNGNlZCJ9.wUCu_SyRzQlMUJGrDEfYCXL3aFa-Kij9CpeZUWJNknM&masterJWTPassthrough=true": {
     "ok": true,
-    "seconds": 0.424,
+    "seconds": 0.694,
     "channel": "Scripps News",
     "raw": "Scripps News",
     "source": "pluto",
-    "checked": 1783452103
+    "checked": 1783454440
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.698,
+    "seconds": 0.809,
     "channel": "ABC Tampa",
     "raw": "WFTS",
     "source": "tablo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.656,
+    "seconds": 0.581,
     "channel": "FOX Tampa",
     "raw": "WTVT-DT1 (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS": {
     "ok": true,
-    "seconds": 0.264,
+    "seconds": 0.219,
     "channel": "NBC Boston",
     "raw": "WBTS-CD1 (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://dbrb49pjoymg4.cloudfront.net/10001/9995108/hls/playlist.m3u8?ads.xumo_channelId=9995108&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CoxWFXT&ads.csid=xumo_[PLATFORM]_CoxWFXT_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3447&ads.xumo_contentName=CoxWFXT&ads.xumo_providerId=3447&ads.xumo_providerName=CoxWFXT&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9995108&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]": {
     "ok": false,
-    "seconds": 0.019,
+    "seconds": 0.018,
     "channel": "FOX Boston",
     "raw": "Boston 25",
     "source": "xumo",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI": {
     "ok": true,
-    "seconds": 0.282,
+    "seconds": 0.301,
     "channel": "NBC Philadelphia",
     "raw": "WCAU-DT1 (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8": {
     "ok": true,
-    "seconds": 0.68,
+    "seconds": 0.833,
     "channel": "FOX Philadelphia",
     "raw": "WTXF-DT1 (1080p)",
     "source": "iptv-org-category",
-    "checked": 1783452103
+    "checked": 1783459146
   },
   "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhY2I0MWEzMi03YTEzLTExZjEtOTZjYi04NmM1YzRiMzMwNjkiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJmd1ZjSUQyQ29wcGEiOiIxNTcxMDljYS0zNjhiLTRkM2ItOGVjMC0zNGVkZjRkYzQ5MGQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjE1NzEwOWNhLTM2OGItNGQzYi04ZWMwLTM0ZWRmNGRjNDkwZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MzYwMzQ1NjQsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVFUzTVRBNVkyRXRNelk0WWkwMFpETmlMVGhsWXpBdE16UmxaR1kwWkdNME9UQmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTIyNDM0LCJpYXQiOjE3ODM0MzYwMzQsImp0aSI6IjkyMjUxZmY2LWE3MmUtNGM5My05ZmRiLWQyOTcxOThiNGNlZCJ9.wUCu_SyRzQlMUJGrDEfYCXL3aFa-Kij9CpeZUWJNknM&masterJWTPassthrough=true": {
     "ok": true,
-    "seconds": 0.574,
+    "seconds": 0.665,
     "channel": "CMT Music",
     "raw": "CMT Equal Play",
     "source": "pluto",
-    "checked": 1783452103
+    "checked": 1783454440
+  },
+  "https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8": {
+    "ok": true,
+    "seconds": 0.621,
+    "channel": "CNBC Europe",
+    "raw": "CNBC Europe",
+    "source": "free_tv",
+    "checked": 1783459146
+  },
+  "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3M2U5ZTQyMy03YTNmLTExZjEtOGZjOS1jMmE1NjMyMjkwNDAiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJmd1ZjSUQyQ29wcGEiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjJiMTk1MmI5LTJkYjQtNGRiYy05YTdhLTAwNGQ2ZGVjMTk1NSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0NTQ4MzcxNDMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNbUl4T1RVeVlqa3RNbVJpTkMwMFpHSmpMVGxoTjJFdE1EQTBaRFprWldNeE9UVTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTQxMjM3LCJpYXQiOjE3ODM0NTQ4MzcsImp0aSI6ImYzMTg1NTEzLWI4MWYtNDA3NS1hZTg3LWY3YTRkZTJlNWI0OCJ9.aIPTekvy1nDdAkPGCx1seUJgDIvlplzjWyg5xqm9ChQ&masterJWTPassthrough=true": {
+    "ok": true,
+    "seconds": 1.478,
+    "channel": "Ion Television",
+    "raw": "ION",
+    "source": "pluto",
+    "checked": 1783459146
+  },
+  "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3M2U5ZTQyMy03YTNmLTExZjEtOGZjOS1jMmE1NjMyMjkwNDAiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJmd1ZjSUQyQ29wcGEiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjJiMTk1MmI5LTJkYjQtNGRiYy05YTdhLTAwNGQ2ZGVjMTk1NSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0NTQ4MzcxNDMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNbUl4T1RVeVlqa3RNbVJpTkMwMFpHSmpMVGxoTjJFdE1EQTBaRFprWldNeE9UVTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTQxMjM3LCJpYXQiOjE3ODM0NTQ4MzcsImp0aSI6ImYzMTg1NTEzLWI4MWYtNDA3NS1hZTg3LWY3YTRkZTJlNWI0OCJ9.aIPTekvy1nDdAkPGCx1seUJgDIvlplzjWyg5xqm9ChQ&masterJWTPassthrough=true": {
+    "ok": true,
+    "seconds": 0.321,
+    "channel": "A&E Crime 360",
+    "raw": "A&E Crime 360",
+    "source": "pluto",
+    "checked": 1783459146
+  },
+  "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3M2U5ZTQyMy03YTNmLTExZjEtOGZjOS1jMmE1NjMyMjkwNDAiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJmd1ZjSUQyQ29wcGEiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjJiMTk1MmI5LTJkYjQtNGRiYy05YTdhLTAwNGQ2ZGVjMTk1NSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0NTQ4MzcxNDMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNbUl4T1RVeVlqa3RNbVJpTkMwMFpHSmpMVGxoTjJFdE1EQTBaRFprWldNeE9UVTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTQxMjM3LCJpYXQiOjE3ODM0NTQ4MzcsImp0aSI6ImYzMTg1NTEzLWI4MWYtNDA3NS1hZTg3LWY3YTRkZTJlNWI0OCJ9.aIPTekvy1nDdAkPGCx1seUJgDIvlplzjWyg5xqm9ChQ&masterJWTPassthrough=true": {
+    "ok": true,
+    "seconds": 0.34,
+    "channel": "Scripps News",
+    "raw": "Scripps News",
+    "source": "pluto",
+    "checked": 1783459146
+  },
+  "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3M2U5ZTQyMy03YTNmLTExZjEtOGZjOS1jMmE1NjMyMjkwNDAiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJmd1ZjSUQyQ29wcGEiOiIyYjE5NTJiOS0yZGI0LTRkYmMtOWE3YS0wMDRkNmRlYzE5NTUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjJiMTk1MmI5LTJkYjQtNGRiYy05YTdhLTAwNGQ2ZGVjMTk1NSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0NTQ4MzcxNDMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNbUl4T1RVeVlqa3RNbVJpTkMwMFpHSmpMVGxoTjJFdE1EQTBaRFprWldNeE9UVTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTQxMjM3LCJpYXQiOjE3ODM0NTQ4MzcsImp0aSI6ImYzMTg1NTEzLWI4MWYtNDA3NS1hZTg3LWY3YTRkZTJlNWI0OCJ9.aIPTekvy1nDdAkPGCx1seUJgDIvlplzjWyg5xqm9ChQ&masterJWTPassthrough=true": {
+    "ok": true,
+    "seconds": 0.388,
+    "channel": "CMT Music",
+    "raw": "CMT Equal Play",
+    "source": "pluto",
+    "checked": 1783459146
+  },
+  "https://tvsen6.aynaott.com/mytv/index.m3u8": {
+    "ok": false,
+    "seconds": 5.045,
+    "channel": "MyNetworkTV",
+    "raw": "My TV (720p)",
+    "source": "iptv-org-category",
+    "checked": 1783459146
+  },
+  "http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8": {
+    "ok": false,
+    "seconds": 0.192,
+    "channel": "MyNetworkTV",
+    "raw": "My TV",
+    "source": "iptv-org-category",
+    "checked": 1783459146
+  },
+  "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8": {
+    "ok": true,
+    "seconds": 0.281,
+    "channel": "MyNetworkTV",
+    "raw": "My TV Channel (720p) [Not 24/7]",
+    "source": "iptv-org-category",
+    "checked": 1783459146
+  },
+  "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8": {
+    "ok": true,
+    "seconds": 0.276,
+    "channel": "MyNetworkTV",
+    "raw": "myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]",
+    "source": "iptv-org-category",
+    "checked": 1783459146
   }
 }

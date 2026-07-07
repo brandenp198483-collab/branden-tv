@@ -3,8 +3,8 @@
 =============================================
 
 iptv-org-category
-  candidates: 221
-  healthy:    97 (43.9%)
+  candidates: 226
+  healthy:    99 (43.8%)
   used:       70
   winning channels:
     - A&E
@@ -22,7 +22,6 @@ iptv-org-category
     - Disney Junior
     - Disney XD
     - E!
-    - ESPN
     - FOX Boston
     - FOX Philadelphia
     - FOX Tampa
@@ -32,10 +31,11 @@ iptv-org-category
     - Fox Sports 1
     - Freeform
     - Fuse
+    - Grit
 
 iptv_org
-  candidates: 142
-  healthy:    122 (85.9%)
+  candidates: 141
+  healthy:    121 (85.8%)
   used:       17
   winning channels:
     - ABC
@@ -59,9 +59,10 @@ iptv_org
 iptv-org-sports
   candidates: 13
   healthy:    6 (46.2%)
-  used:       5
+  used:       6
   winning channels:
     - ACC Network
+    - ESPN
     - ESPNU
     - NFL Network
     - NHL Network
@@ -78,10 +79,11 @@ iptv_org_noram
     - Starz
 
 free_tv
-  candidates: 10
-  healthy:    4 (40.0%)
-  used:       3
+  candidates: 11
+  healthy:    5 (45.5%)
+  used:       4
   winning channels:
+    - CNBC Europe
     - CNN International
     - Discovery Channel
     - Food Network
@@ -96,8 +98,8 @@ iptv-org-news
     - Newsmax TV
 
 pluto
-  candidates: 14
-  healthy:    12 (85.7%)
+  candidates: 18
+  healthy:    16 (88.9%)
   used:       2
   winning channels:
     - A&E Crime 360
@@ -150,14 +152,14 @@ samsung
   healthy:    5 (100.0%)
   used:       0
 
-tubi
+localnow
   candidates: 5
   healthy:    5 (100.0%)
   used:       0
 
-localnow
+tubi
   candidates: 5
-  healthy:    5 (100.0%)
+  healthy:    4 (80.0%)
   used:       0
 
 vizio

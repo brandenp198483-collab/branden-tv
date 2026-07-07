@@ -1,38 +1,37 @@
 =============================================
         BrandenTV REPORT CARD
 =============================================
-Whitelist channels:       212
-Channels with candidates: 130
-Final healthy streams:    107
-Final bad streams:        3
+Whitelist channels:       213
+Channels with candidates: 132
+Final healthy streams:    110
+Final bad streams:        2
 
 SOURCE GRADES:
 - distro: candidates=3 health=33.3%
 - fire_tv: candidates=1 health=100.0%
-- free_tv: candidates=10 health=56.6%
-- iptv-org-category: candidates=221 health=88.0%
-- iptv-org-news: candidates=36 health=77.6%
-- iptv-org-sports: candidates=13 health=81.8%
+- free_tv: candidates=11 health=57.5%
+- iptv-org-category: candidates=226 health=88.1%
+- iptv-org-news: candidates=36 health=77.9%
+- iptv-org-sports: candidates=13 health=78.2%
 - iptv-org-weather: candidates=3 health=100.0%
-- iptv_org: candidates=142 health=84.8%
-- iptv_org_noram: candidates=16 health=94.3%
-- localnow: candidates=5 health=99.3%
+- iptv_org: candidates=141 health=85.6%
+- iptv_org_noram: candidates=16 health=94.8%
+- localnow: candidates=5 health=99.4%
 - manual_overrides: candidates=1 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
-- plex: candidates=28 health=83.2%
-- pluto: candidates=14 health=98.7%
-- popular-kids-iptv: candidates=4 health=67.5%
-- popular-movies-iptv: candidates=6 health=54.7%
-- roku_online: candidates=1 health=92.3%
-- samsung: candidates=5 health=97.8%
+- plex: candidates=28 health=83.5%
+- pluto: candidates=18 health=98.9%
+- popular-kids-iptv: candidates=4 health=67.4%
+- popular-movies-iptv: candidates=6 health=57.7%
+- roku_online: candidates=1 health=93.3%
+- samsung: candidates=5 health=98.1%
 - tablo: candidates=4 health=100.0%
-- tubi: candidates=5 health=97.7%
+- tubi: candidates=5 health=97.3%
 - usa_hanssettings: candidates=67 health=0.0%
-- vizio: candidates=4 health=99.0%
+- vizio: candidates=4 health=99.2%
 - xumo: candidates=6 health=0.0%
 
 MISSING / NO CANDIDATES:
-- MyNetworkTV
 - Bounce TV
 - Catchy Comedy
 - This TV
@@ -115,6 +114,5 @@ MISSING / NO CANDIDATES:
 - CBS Philadelphia
 
 BROKEN FINAL LINEUP:
-- NBC (0.419s)
-- NBC Boston (0.215s)
-- NBC Philadelphia (0.206s)
+- NBC Boston (0.237s)
+- NBC Philadelphia (0.218s)

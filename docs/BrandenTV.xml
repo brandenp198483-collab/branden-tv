@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="BrandenTV">
-  <channel id="WCIV361.us@HD">
+  <channel id="KAAL61.us@HD">
     <display-name>ABC</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" />
   </channel>
-  <channel id="WWMT31.us@HD">
+  <channel id="WPEC121.us@HD">
     <display-name>CBS</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" />
   </channel>
-  <channel id="WMAQTV51.us@HD">
+  <channel id="KSNV31.us@HD">
     <display-name>NBC</display-name>
-    <icon src="https://i.imgur.com/wblxisu.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/KSNV_logo.svg/960px-KSNV_logo.svg.png" />
   </channel>
-  <channel id="WBFF451.us@HD">
+  <channel id="WLUKTV141.us@HD">
     <display-name>FOX</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" />
   </channel>
@@ -23,11 +23,15 @@
     <display-name>PBS</display-name>
     <icon src="https://i.imgur.com/kkm7VqV.png" />
   </channel>
+  <channel id="MyTVChannel.cm@SD">
+    <display-name>MyNetworkTV</display-name>
+    <icon src="https://i.imgur.com/vh2373L.png" />
+  </channel>
   <channel id="TelemundoInternacional.us@South">
     <display-name>Telemundo</display-name>
     <icon src="https://i.imgur.com/j2O4ndp.png" />
   </channel>
-  <channel id="Univision.us@East">
+  <channel id="UnivisionLatinAmerica.mx@Panregional">
     <display-name>Univision</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" />
   </channel>
@@ -51,9 +55,9 @@
     <display-name>Charge!</display-name>
     <icon src="https://i.imgur.com/1rxmu2u.png" />
   </channel>
-  <channel id="Grit.us@SD">
+  <channel id="GritXtra.us@SD">
     <display-name>Grit</display-name>
-    <icon src="https://i.imgur.com/6w1Wj3j.png" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" />
   </channel>
   <channel id="HeroesIcons.us@SD">
     <display-name>Heroes &amp; Icons</display-name>
@@ -176,7 +180,7 @@
     <display-name>Lifetime</display-name>
     <icon src="https://i.imgur.com/BWmqYTO.png" />
   </channel>
-  <channel id="MTVBiggestPop.us@US">
+  <channel id="MTVBiggestPop.us@CA">
     <display-name>MTV</display-name>
     <icon src="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" />
   </channel>
@@ -239,9 +243,9 @@
     <display-name>Showtime</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" />
   </channel>
-  <channel id="Starz.us@East">
+  <channel id="StarzComedy.us@East">
     <display-name>Starz</display-name>
-    <icon src="https://i.imgur.com/N7oSm4d.png" />
+    <icon src="https://i.imgur.com/JpKvjZe.png" />
   </channel>
   <channel id="StarzCinema.us@East">
     <display-name>Starz Cinema</display-name>
@@ -259,7 +263,7 @@
     <display-name>AccuWeather Network</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png" />
   </channel>
-  <channel id="CNBCUK.uk@SD">
+  <channel id="CNBC.us@SD">
     <display-name>CNBC</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" />
   </channel>
@@ -295,9 +299,9 @@
     <display-name>Big Ten Network</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" />
   </channel>
-  <channel id="ESPN4.br@SD">
+  <channel id="ESPN.br@SD">
     <display-name>ESPN</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" />
   </channel>
   <channel id="ESPNU.us@SD">
     <display-name>ESPNU</display-name>
@@ -342,9 +346,9 @@
     <display-name>Disney XD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" />
   </channel>
-  <channel id="NickJrClub.us@LatAm">
+  <channel id="NickJrPlutoTV.us@US">
     <display-name>Nick Jr.</display-name>
-    <icon src="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" />
+    <icon src="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" />
   </channel>
   <channel id="Nickelodeon.us@East">
     <display-name>Nickelodeon</display-name>
@@ -358,7 +362,7 @@
     <display-name>TeenNick</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" />
   </channel>
-  <channel id="PBSKidsAlaska.us@SD">
+  <channel id="PBSKidsPacific.us@SD">
     <display-name>PBS Kids</display-name>
     <icon src="https://i.imgur.com/ambc9le.png" />
   </channel>
@@ -398,9 +402,9 @@
     <display-name>Classic Arts Showcase</display-name>
     <icon src="https://i.imgur.com/M6FFkc3.png" />
   </channel>
-  <channel id="France24.fr@French">
+  <channel id="France24.fr@English">
     <display-name>France 24</display-name>
-    <icon src="https://i.imgur.com/u8N6uoj.png" />
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" />
   </channel>
   <channel id="LinkTV.ar@SD">
     <display-name>Link TV</display-name>
@@ -433,45 +437,10 @@
     <display-name>CMT Music</display-name>
     <icon src="https://i.imgur.com/9ysjkkL.png" />
   </channel>
-<programme channel="5459795fc9f133a519bc0bef" start="20260707160000 +0000" stop="20260707170000 +0000">
-    <title>Scripps News On The Scene</title>
-    <live />
-    <episode-num system="original-air-date">20260707160000 +0000</episode-num>
-    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
-    <icon src="https://images.pluto.tv/series/65f0d0899255690013ad6a81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65f0d0899255690013ad6a81</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
-    <category>Series</category>
-  </programme>
-  
-<programme channel="5459795fc9f133a519bc0bef" start="20260707170000 +0000" stop="20260707180000 +0000">
-    <title>Scripps News On The Scene</title>
-    <live />
-    <episode-num system="original-air-date">20260707170000 +0000</episode-num>
-    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
-    <icon src="https://images.pluto.tv/series/65f0d0899255690013ad6a81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65f0d0899255690013ad6a81</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
-    <category>Series</category>
-  </programme>
-  
-<programme channel="5459795fc9f133a519bc0bef" start="20260707180000 +0000" stop="20260707190000 +0000">
-    <title>Scripps News On The Scene</title>
-    <live />
-    <episode-num system="original-air-date">20260707180000 +0000</episode-num>
-    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
-    <icon src="https://images.pluto.tv/series/65f0d0899255690013ad6a81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65f0d0899255690013ad6a81</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
-    <category>Series</category>
-  </programme>
-  
+  <channel id="CNBCEurope.uk">
+    <display-name>CNBC Europe</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" />
+  </channel>
 <programme channel="5459795fc9f133a519bc0bef" start="20260707190000 +0000" stop="20260707200000 +0000">
     <title>Scripps News On The Scene</title>
     <live />
@@ -480,9 +449,9 @@
     <icon src="https://images.pluto.tv/series/65f0d0899255690013ad6a81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65f0d0899255690013ad6a81</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260707200000 +0000" stop="20260707210000 +0000">
@@ -493,9 +462,9 @@
     <icon src="https://images.pluto.tv/series/65f0d0899255690013ad6a81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65f0d0899255690013ad6a81</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260707210000 +0000" stop="20260707220000 +0000">
@@ -506,9 +475,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf72/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf72</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260707220000 +0000" stop="20260707230000 +0000">
@@ -519,9 +488,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf9b</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260707230000 +0000" stop="20260707233000 +0000">
@@ -532,9 +501,9 @@
     <icon src="https://images.pluto.tv/series/68f92338e75d6b4e6fd005a5/tile_1761157969607.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68f92338e75d6b4e6fd005a5</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260707233000 +0000" stop="20260708000000 +0000">
@@ -545,9 +514,9 @@
     <icon src="https://images.pluto.tv/series/68f92338e75d6b4e6fd005a5/tile_1761157969607.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68f92338e75d6b4e6fd005a5</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708000000 +0000" stop="20260708010000 +0000">
@@ -558,9 +527,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf9b</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708010000 +0000" stop="20260708020000 +0000">
@@ -571,9 +540,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf3e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf3e</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708020000 +0000" stop="20260708030000 +0000">
@@ -584,9 +553,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf9b</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708030000 +0000" stop="20260708040000 +0000">
@@ -597,9 +566,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf3e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf3e</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708040000 +0000" stop="20260708050000 +0000">
@@ -610,9 +579,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf9b</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708050000 +0000" stop="20260708060000 +0000">
@@ -623,9 +592,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf3e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf3e</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708060000 +0000" stop="20260708070000 +0000">
@@ -636,9 +605,9 @@
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf9b</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708070000 +0000" stop="20260708080000 +0000">
@@ -647,11 +616,11 @@
     <episode-num system="original-air-date">20260708070000 +0000</episode-num>
     <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf3e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf3e</series-id>
-    <category>News &amp; Information</category>
-    <category>News</category>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="5459795fc9f133a519bc0bef" start="20260708080000 +0000" stop="20260708090000 +0000">
@@ -660,53 +629,50 @@
     <episode-num system="original-air-date">20260708080000 +0000</episode-num>
     <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
     <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">673e3ff3c814a9001371bf9b</series-id>
-    <category>News &amp; Information</category>
+    <category>Series</category>
     <category>News</category>
-    <category>Series</category>
+    <category>News &amp; Information</category>
   </programme>
   
-<programme channel="6000a5a9e767980007b497ca" start="20260707160000 +0000" stop="20260707165900 +0000">
-    <title>The First 48</title>
+<programme channel="5459795fc9f133a519bc0bef" start="20260708090000 +0000" stop="20260708100000 +0000">
+    <title>The National Report</title>
     <live />
-    <episode-num system="original-air-date">20260707160000 +0000</episode-num>
-    <desc>After an Atlanta father of two is gunned down with an AK-47, rookie detective Scott Berhalter must sift through lies and alibis to put his killers behind bars.</desc>
-    <icon src="https://images.pluto.tv/series/65b1889570ac44001337b587/tile_1782932516059.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65b1889570ac44001337b587</series-id>
-    <sub-title>Chopper</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
+    <episode-num system="original-air-date">20260708090000 +0000</episode-num>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf3e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">673e3ff3c814a9001371bf3e</series-id>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
-<programme channel="6000a5a9e767980007b497ca" start="20260707165900 +0000" stop="20260707180000 +0000">
-    <title>The First 48</title>
+<programme channel="5459795fc9f133a519bc0bef" start="20260708100000 +0000" stop="20260708110000 +0000">
+    <title>The National Report</title>
     <live />
-    <episode-num system="original-air-date">20260707165900 +0000</episode-num>
-    <desc>Homicide of a man and his wife; blood is found in the trunk of a missing woman's car.</desc>
-    <icon src="https://images.pluto.tv/series/65b1889570ac44001337b587/tile_1782932516059.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65b1889570ac44001337b587</series-id>
-    <sub-title>The Witness; The Trunk</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
+    <episode-num system="original-air-date">20260708100000 +0000</episode-num>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <icon src="https://images.pluto.tv/series/673e3ff3c814a9001371bf3e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">673e3ff3c814a9001371bf3e</series-id>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
-<programme channel="6000a5a9e767980007b497ca" start="20260707180000 +0000" stop="20260707190000 +0000">
-    <title>The First 48</title>
+<programme channel="5459795fc9f133a519bc0bef" start="20260708110000 +0000" stop="20260708120000 +0000">
+    <title>Morning Rush</title>
     <live />
-    <episode-num system="original-air-date">20260707180000 +0000</episode-num>
-    <desc>A young man is shot to death in the middle of the street in broad daylight; a teenager's body is found in the passenger seat of his car.</desc>
-    <icon src="https://images.pluto.tv/series/65b1889570ac44001337b587/tile_1782932516059.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65b1889570ac44001337b587</series-id>
-    <sub-title>Eye for an Eye; Dead End</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
+    <episode-num system="original-air-date">20260708110000 +0000</episode-num>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <icon src="https://images.pluto.tv/series/61579a0a236ecd0013dc8aa8/tile_1777078805790.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">61579a0a236ecd0013dc8aa8</series-id>
     <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260707190000 +0000" stop="20260707200100 +0000">
@@ -718,9 +684,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Schoolyard Revenge</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260707200100 +0000" stop="20260707210100 +0000">
@@ -732,9 +698,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Fear Factor; Fall Guy</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260707210100 +0000" stop="20260707220000 +0000">
@@ -746,9 +712,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Bad Love</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260707220000 +0000" stop="20260707225900 +0000">
@@ -760,9 +726,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Chopper</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260707225900 +0000" stop="20260708000000 +0000">
@@ -774,9 +740,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>The Witness; The Trunk</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708000000 +0000" stop="20260708010000 +0000">
@@ -788,9 +754,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Eye for an Eye; Dead End</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708010000 +0000" stop="20260708020100 +0000">
@@ -802,9 +768,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Schoolyard Revenge</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708020100 +0000" stop="20260708030100 +0000">
@@ -816,9 +782,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Fear Factor; Fall Guy</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708030100 +0000" stop="20260708040000 +0000">
@@ -830,9 +796,9 @@
     <date>19700101</date>
     <series-id system="pluto">65b1889570ac44001337b587</series-id>
     <sub-title>Bad Love</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708040000 +0000" stop="20260708045900 +0000">
@@ -844,9 +810,9 @@
     <date>19700101</date>
     <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
     <sub-title>After the Verdict: Sakai</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708045900 +0000" stop="20260708055900 +0000">
@@ -858,9 +824,9 @@
     <date>19700101</date>
     <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
     <sub-title>Murderous Mother or Protective Parent?</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708055900 +0000" stop="20260708065900 +0000">
@@ -872,9 +838,9 @@
     <date>19700101</date>
     <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
     <sub-title>Neighbor Killer or Family Defender?</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708065900 +0000" stop="20260708075900 +0000">
@@ -883,12 +849,12 @@
     <episode-num system="original-air-date">20260708065900 +0000</episode-num>
     <desc>A former NFL player and his wife are shot dead in Houston while they sleep; with no signs of an intruder, suspicion falls on their 16-year-old son; charged with capital murder and facing life in prison, their son faces an intense legal battle.</desc>
     <icon src="https://images.pluto.tv/series/667af7b5a3d03f0013f38a8b/tile_1783375330312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
     <sub-title>Murdered My Parents or Innocent Son?</sub-title>
-    <category>Reality</category>
-    <category>True Crime</category>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="6000a5a9e767980007b497ca" start="20260708075900 +0000" stop="20260708085900 +0000">
@@ -897,51 +863,54 @@
     <episode-num system="original-air-date">20260708075900 +0000</episode-num>
     <desc>Two Houston parents are shot dead as they sleep, and their teenage son stands accused of murder; the legal battle deepens as new evidence is discovered.</desc>
     <icon src="https://images.pluto.tv/series/667af7b5a3d03f0013f38a8b/tile_1783375330312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
     <sub-title>Cold-Blooded Killer or Bereaved Teen?</sub-title>
-    <category>Reality</category>
+    <category>Series</category>
     <category>True Crime</category>
-    <category>Series</category>
+    <category>Reality</category>
   </programme>
   
-<programme channel="65453f30085df200085883d8" start="20260707160000 +0000" stop="20260707170000 +0000">
-    <title>Chicago Fire</title>
+<programme channel="6000a5a9e767980007b497ca" start="20260708085900 +0000" stop="20260708100000 +0000">
+    <title>Accused: Guilty or Innocent?</title>
     <live />
-    <episode-num system="original-air-date">20260707160000 +0000</episode-num>
-    <desc>Boden tries to keep the firehouse from closing; the romance between Dawson and Casey grows; Cruz worries about his brother's safety; Severide and Katie make up for lost time.</desc>
-    <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
-    <sub-title>You Will Hurt Him</sub-title>
-    <category>Entertainment</category>
+    <episode-num system="original-air-date">20260708085900 +0000</episode-num>
+    <desc>A man suffers a violent beating by his ex-wife's new partner; the brawl ends with the attacker's killing; did the accused kill in self-defense or murder a love rival?</desc>
+    <icon src="https://images.pluto.tv/series/667af7b5a3d03f0013f38a8b/tile_1783375330312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
+    <sub-title>Jealous Killer or Fearful Victim? Part 1</sub-title>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
-<programme channel="65453f30085df200085883d8" start="20260707170000 +0000" stop="20260707180000 +0000">
-    <title>Chicago Fire</title>
+<programme channel="6000a5a9e767980007b497ca" start="20260708100000 +0000" stop="20260708105900 +0000">
+    <title>Accused: Guilty or Innocent?</title>
     <live />
-    <episode-num system="original-air-date">20260707170000 +0000</episode-num>
-    <desc>Chief Boden leads the fight to keep the firehouse open; an emergency call to an apartment structure puts the squad in harm's way; Dawson receives life-changing news.</desc>
-    <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
-    <sub-title>Not Like This</sub-title>
-    <category>Entertainment</category>
+    <episode-num system="original-air-date">20260708100000 +0000</episode-num>
+    <desc>In 2018, 16-year-old Sakai French was charged with murdering an 18-year-old on school property; now, as he approaches a critical parole board hearing, Sakai's future hangs in the balance.</desc>
+    <icon src="https://images.pluto.tv/series/667af7b5a3d03f0013f38a8b/tile_1783375330312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
+    <sub-title>After the Verdict: Sakai</sub-title>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
-<programme channel="65453f30085df200085883d8" start="20260707180000 +0000" stop="20260707190000 +0000">
-    <title>Chicago Fire</title>
+<programme channel="6000a5a9e767980007b497ca" start="20260708105900 +0000" stop="20260708115900 +0000">
+    <title>Accused: Guilty or Innocent?</title>
     <live />
-    <episode-num system="original-air-date">20260707180000 +0000</episode-num>
-    <desc>Casey returns to work after a brush with death; Shay's new partner is friendly to everyone but her; Dawson begins training; Severide prepares for his instructor duties; Clarke refuses to talk to the police about the murder.</desc>
-    <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
-    <sub-title>Shoved in My Face</sub-title>
-    <category>Entertainment</category>
+    <episode-num system="original-air-date">20260708105900 +0000</episode-num>
+    <desc>A violent assault ends in a fatal stabbing when a young mother kills her boyfriend, in a bid to defend her child; considered innocent by police for four years, she was re-arrested and now faces up to 41 years in prison.</desc>
+    <icon src="https://images.pluto.tv/series/667af7b5a3d03f0013f38a8b/tile_1783375330312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">667af7b5a3d03f0013f38a8b</series-id>
+    <sub-title>Murderous Mother or Protective Parent?</sub-title>
     <category>Series</category>
+    <category>True Crime</category>
+    <category>Reality</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260707190000 +0000" stop="20260707200000 +0000">
@@ -953,8 +922,8 @@
     <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>Out With a Bang</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260707200000 +0000" stop="20260707210000 +0000">
@@ -966,8 +935,8 @@
     <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>Tonight's the Night</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260707210000 +0000" stop="20260707220000 +0000">
@@ -979,8 +948,8 @@
     <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>Virgin Skin</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260707220000 +0000" stop="20260707230000 +0000">
@@ -992,8 +961,8 @@
     <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>Keep Your Mouth Shut</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260707230000 +0000" stop="20260708000000 +0000">
@@ -1005,8 +974,8 @@
     <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>A Rocket Blasting Off</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708000000 +0000" stop="20260708010000 +0000">
@@ -1018,8 +987,8 @@
     <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>When Things Got Rough</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708010000 +0000" stop="20260708020000 +0000">
@@ -1028,11 +997,11 @@
     <episode-num system="original-air-date">20260708010000 +0000</episode-num>
     <desc>Lt. Severide tries to help a firefighter from Denver struggling with addiction; Shay and Dawson plan a girls' weekend at a cabin in the woods; Mills and the guys update Mouch's online dating profile.</desc>
     <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>Until Your Feet Leave the Ground</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708020000 +0000" stop="20260708030000 +0000">
@@ -1041,11 +1010,11 @@
     <episode-num system="original-air-date">20260708020000 +0000</episode-num>
     <desc>Surprised Dawson receives a suicide note; Severide looks into Bloom's dark past; Shay and Casey search for a life-changing item.</desc>
     <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>A Heavy Weight</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708030000 +0000" stop="20260708040000 +0000">
@@ -1054,11 +1023,11 @@
     <episode-num system="original-air-date">20260708030000 +0000</episode-num>
     <desc>A large explosion sends Chicago into chaos; the members of the firehouse are tested when one of their own goes missing in the blast.</desc>
     <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>A Dark Day</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708040000 +0000" stop="20260708050000 +0000">
@@ -1067,11 +1036,11 @@
     <episode-num system="original-air-date">20260708040000 +0000</episode-num>
     <desc>A call to the field may throw a wrench in Dawson's plan to retake the firefighter exam; the firehouse welcomes a new addition; Boden makes a bold move.</desc>
     <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>One More Shot</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708050000 +0000" stop="20260708060000 +0000">
@@ -1080,11 +1049,11 @@
     <episode-num system="original-air-date">20260708050000 +0000</episode-num>
     <desc>A fire at a boarding school shakes up Lt. Severide; Lt. Casey tries to help Dawson; Mills looks into his father's past.</desc>
     <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>Real Never Waits</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708060000 +0000" stop="20260708070000 +0000">
@@ -1093,11 +1062,11 @@
     <episode-num system="original-air-date">20260708060000 +0000</episode-num>
     <desc>Boden pushes his team to pull it together in the aftermath of the explosion; Casey works to track down a missing Severide; Newhouse brings news about one of Mills' relatives; Herrmann and Otis come up with new goals.</desc>
     <icon src="https://images.pluto.tv/series/6570ef262f9f5b0013a0d58f/tile_1761516814787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">6570ef262f9f5b0013a0d58f</series-id>
     <sub-title>Always</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708070000 +0000" stop="20260708080000 +0000">
@@ -1109,8 +1078,8 @@
     <date>00010101</date>
     <series-id system="pluto">693e3d98a48fba0b7e7a231c</series-id>
     <sub-title>Inner Circle</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="65453f30085df200085883d8" start="20260708080000 +0000" stop="20260708090000 +0000">
@@ -1122,28 +1091,47 @@
     <date>00010101</date>
     <series-id system="pluto">693e3d98a48fba0b7e7a231c</series-id>
     <sub-title>The Magician</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
-<programme channel="USBD3000073N" start="20260707180000 +0000" stop="20260707190000 +0000">
-    <title>Scripps News</title>
-    <sub-title>On The Scene</sub-title>
-    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550419496_0_20241106T182738777Z_101_imageprocessorclient-tvplus-linear-5dc4fd45f6-zzjmh.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+<programme channel="65453f30085df200085883d8" start="20260708090000 +0000" stop="20260708100000 +0000">
+    <title>The Listener</title>
+    <live />
+    <episode-num system="original-air-date">20260708090000 +0000</episode-num>
+    <desc>When Michelle and Dev investigate the suspicious death of a CSIS agent, the IIB uncovers a breach of classified intelligence.</desc>
+    <icon src="https://images.pluto.tv/series/693e3d98a48fba0b7e7a231c/tile_1765686682244.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">693e3d98a48fba0b7e7a231c</series-id>
+    <sub-title>Ace in the Hole</sub-title>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
-<programme channel="USBD3000073N" start="20260707190000 +0000" stop="20260707200000 +0000">
-    <title>Scripps News</title>
-    <sub-title>On The Scene</sub-title>
-    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550419496_0_20241106T182738777Z_101_imageprocessorclient-tvplus-linear-5dc4fd45f6-zzjmh.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+<programme channel="65453f30085df200085883d8" start="20260708100000 +0000" stop="20260708110000 +0000">
+    <title>Bones</title>
+    <live />
+    <episode-num system="original-air-date">20260708100000 +0000</episode-num>
+    <desc>The team investigates the death of a men's rights organization founder who may have been the victim of domestic abuse; Brennan loses her temper during an interrogation; Angela and the team struggle with Hodgins' bitterness.</desc>
+    <icon src="https://images.pluto.tv/series/6570ef232f9f5b0013a0d266/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">6570ef232f9f5b0013a0d266</series-id>
+    <sub-title>The Murder of the Meninist</sub-title>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  
+<programme channel="65453f30085df200085883d8" start="20260708110000 +0000" stop="20260708120000 +0000">
+    <title>Bones</title>
+    <live />
+    <episode-num system="original-air-date">20260708110000 +0000</episode-num>
+    <desc>The team hunts for a serial killer who appears to have sinister interactions with the victims' bodies before dumping them; Booth and Aubrey consult a behavioral analyst to help find clues to the killer's identity.</desc>
+    <icon src="https://images.pluto.tv/series/6570ef232f9f5b0013a0d266/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">6570ef232f9f5b0013a0d266</series-id>
+    <sub-title>The Monster in the Closet</sub-title>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   
 <programme channel="USBD3000073N" start="20260707200000 +0000" stop="20260707210000 +0000">
@@ -1201,23 +1189,21 @@
     </rating>
   </programme>
   
-<programme channel="USBD300003LK" start="20260707180000 +0000" stop="20260707190000 +0000">
-    <title>Murdoch Mysteries</title>
-    <sub-title>The Murdoch Identity</sub-title>
-    <desc>Murdoch is running for his life and seems to be suffering from amnesia when he finds himself in Bristol, England, and has no memory of who he is.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1997719674_5_20251002T192100249Z_93_imageprocessorclient-tvplus-linear-d7c8c765b-bzswf.jpeg" />
+<programme channel="USBD3000073N" start="20260708010000 +0000" stop="20260708020000 +0000">
+    <title>The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552647668_0_20241209T182811611Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-7wdfl.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
   
-<programme channel="USBD300003LK" start="20260707190000 +0000" stop="20260707200000 +0000">
-    <title>Murdoch Mysteries</title>
-    <sub-title>The Great Wall</sub-title>
-    <desc>A decorated constable is murdered  the local detective is ill.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1997719674_5_20251002T192100249Z_93_imageprocessorclient-tvplus-linear-d7c8c765b-bzswf.jpeg" />
+<programme channel="USBD3000073N" start="20260708020000 +0000" stop="20260708030000 +0000">
+    <title>Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551306932_1_20241121T120325017Z_38_imageprocessorclient-tvplus-linear-5dc4fd45f6-7zhsx.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
   
@@ -1271,21 +1257,21 @@
     </rating>
   </programme>
   
-<programme channel="USBC24000223S" start="20260707180000 +0000" stop="20260707190000 +0000">
-    <title>Hawaii Five-0</title>
-    <sub-title>Powa Maka Moana</sub-title>
-    <desc>An afternoon pleasure cruise turns into a nightmare when pirates attack and take hostages.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534217876_0_20231022T002003765Z_110.jpeg" />
+<programme channel="USBD300003LK" start="20260708010000 +0000" stop="20260708020000 +0000">
+    <title>Bull</title>
+    <sub-title>Forfeiture</sub-title>
+    <desc>Chunk represents his first legal client, a young man facing federal counterfeiting charges  Bull represents the young man's grandfather who may lose his business to the FBI for owning the barbershop where the fake goods were sold.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537240670_1_20240115T003106976Z_24.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
   
-<programme channel="USBC24000223S" start="20260707190000 +0000" stop="20260707200000 +0000">
-    <title>Hawaii Five-0</title>
-    <sub-title>Loa Aloha</sub-title>
-    <desc>The team must stop a vengeful bomber  Danny's fun-loving brother (Dane Cook) visits unexpectedly.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534217876_0_20231022T002003765Z_110.jpeg" />
+<programme channel="USBD300003LK" start="20260708020000 +0000" stop="20260708030000 +0000">
+    <title>Bull</title>
+    <sub-title>Parental Guidance</sub-title>
+    <desc>Bull and the TAC team represent a teenage boy raised in complete isolation who goes on trial for murder after engaging in a shootout.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537240670_1_20240115T003106976Z_24.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1341,39 +1327,23 @@
     </rating>
   </programme>
   
-<programme channel="USBC3600013PC" start="20260707180000 +0000" stop="20260707183000 +0000">
-    <title>Phoebe &amp; Jay: Tobsy Speaks  Perfect Potluck</title>
-    <desc>Phoebe and Jay learn how to sort items  Phoebe and Jay learn how to make food labels, so everyone can participate in the potluck.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2440186266_0_20260121T020059553Z_61_imageprocessorclient-tvplus-linear-584c967455-9zm4d.jpeg" />
+<programme channel="USBC24000223S" start="20260708010000 +0000" stop="20260708020000 +0000">
+    <title>Hawaii Five-0</title>
+    <sub-title>Ha'i'ole</sub-title>
+    <desc>While McGarrett awaits trial for the murder of the governor, he receives an unexpected visit  Kono is suspended.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533948563_1_20231015T002811101Z_100.jpeg" />
     <rating>
-      <value>TV-Y</value>
+      <value>TV-14</value>
     </rating>
   </programme>
   
-<programme channel="USBC3600013PC" start="20260707183000 +0000" stop="20260707190000 +0000">
-    <title>Xavier Riddle and the Secret Museum: I Am Leonardo da Vinci  I Am Amelia Earhart</title>
-    <desc>Leonardo da Vinci helps Xavier realize it's ok to try many different after-school activities  Amelia Earhart shows Brad that if there is something he wants to do, he should do it.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552192544_0_20241203T012713726Z_39_imageprocessorclient-tvplus-linear-5dc4fd45f6-hxr2g.jpeg" />
+<programme channel="USBC24000223S" start="20260708020000 +0000" stop="20260708030000 +0000">
+    <title>Hawaii Five-0</title>
+    <sub-title>Ua Lawe Wale</sub-title>
+    <desc>Lori Weston, an officer with excellent profiling skills, joins the Five-0 to ensure McGarrett and the team follow new rules set in place by Gov. Denning  a teenage paddleboard champion is abducted.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533948563_1_20231015T002811101Z_100.jpeg" />
     <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  
-<programme channel="USBC3600013PC" start="20260707190000 +0000" stop="20260707193000 +0000">
-    <title>Molly of Denali: The Off-Trail Tale  Star Eyes</title>
-    <desc>Molly and Tooey get lost in the wilderness while gathering firewood  Molly uses a constellation to find her way to Grandpa's friend's cabin.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533896204_1_20231013T002814680Z_107.jpeg" />
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  
-<programme channel="USBC3600013PC" start="20260707193000 +0000" stop="20260707200000 +0000">
-    <title>Alma's Way: All About Alma  Alma's Playdate</title>
-    <desc>Alma is consumed with her starring role in a musical  Alma and Harper have a playdate at the Rivera house.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543082970_2_20240610T224446112Z_65.jpeg" />
-    <rating>
-      <value>TV-Y</value>
+      <value>TV-14</value>
     </rating>
   </programme>
   
@@ -1457,6 +1427,42 @@
     <title>Nature Cat: Window Worries  The Pinecone Genie</title>
     <desc>Brooks the Baltimore oriole flies into Sadie's window  the crew wish there were no more wolves so they can enjoy a day at Mystic Pinecone Park.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550412785_0_20241106T142721465Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-j5l6t.jpeg" />
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  
+<programme channel="USBC3600013PC" start="20260708003000 +0000" stop="20260708010000 +0000">
+    <title>Hero Elementary: Hail Caesar  Picture Perfect</title>
+    <desc>Hail Caesar helps the crew understand more about hail after a hailstorm causes damage around Citytown  the crew tries to stay clean for Picture Day at school.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533896014_0_20231013T002823038Z_20.jpeg" />
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  
+<programme channel="USBC3600013PC" start="20260708010000 +0000" stop="20260708013000 +0000">
+    <title>Cyberchase: Digit's B-Day Surprise</title>
+    <desc>The children pretend to forget Digit's birthday in order to keep his surprise party a secret.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3139126498_1_20260703T121859047Z_112_imageprocessorclient-tvplus-linear-75df688c49-2stx6.jpeg" />
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  
+<programme channel="USBC3600013PC" start="20260708013000 +0000" stop="20260708020000 +0000">
+    <title>Let's Go Luna!: Didgeridoo and Carmen Too  Not Home on the Range</title>
+    <desc>Carmen misplaces her friend's didgeridoo and realizes that making a new one is not easy  Leo must overcome his fear of horses so he can ride with his uncle in Sydney.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533896103_0_20231013T002814385Z_58.jpeg" />
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  
+<programme channel="USBC3600013PC" start="20260708020000 +0000" stop="20260708023000 +0000">
+    <title>Phoebe &amp; Jay: Tobsy Speaks  Perfect Potluck</title>
+    <desc>Phoebe and Jay learn how to sort items  Phoebe and Jay learn how to make food labels, so everyone can participate in the potluck.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2440186266_0_20260121T020059553Z_61_imageprocessorclient-tvplus-linear-584c967455-9zm4d.jpeg" />
     <rating>
       <value>TV-Y</value>
     </rating>
@@ -2865,6 +2871,131 @@
 <programme channel="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41" start="20260709234845 +0000" stop="20260710001638 +0000">
     <title>Court Cam</title>
     <desc>The judge has harsh words for a man convicted of killing his mother.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707000000 +0000" stop="20260707010000 +0000">
+    <title>Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707010000 +0000" stop="20260707020000 +0000">
+    <title>The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707020000 +0000" stop="20260707030000 +0000">
+    <title>Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707030000 +0000" stop="20260707040000 +0000">
+    <title>The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707040000 +0000" stop="20260707050000 +0000">
+    <title>Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707050000 +0000" stop="20260707060000 +0000">
+    <title>The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707060000 +0000" stop="20260707070000 +0000">
+    <title>Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707070000 +0000" stop="20260707080000 +0000">
+    <title>The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707080000 +0000" stop="20260707090000 +0000">
+    <title>Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707090000 +0000" stop="20260707100000 +0000">
+    <title>The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707100000 +0000" stop="20260707110000 +0000">
+    <title>The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707110000 +0000" stop="20260707120000 +0000">
+    <title>Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707120000 +0000" stop="20260707130000 +0000">
+    <title>Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707130000 +0000" stop="20260707140000 +0000">
+    <title>Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707140000 +0000" stop="20260707150000 +0000">
+    <title>Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707150000 +0000" stop="20260707160000 +0000">
+    <title>Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707160000 +0000" stop="20260707170000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707170000 +0000" stop="20260707180000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707180000 +0000" stop="20260707190000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707190000 +0000" stop="20260707200000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707200000 +0000" stop="20260707210000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707210000 +0000" stop="20260707220000 +0000">
+    <title>Happening Now in America</title>
+    <desc>Follow what's happening across America with up-to-the-minute details on the major events driving the day's top stories.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707220000 +0000" stop="20260707230000 +0000">
+    <title>Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707230000 +0000" stop="20260707233000 +0000">
+    <title>Caught On... Clips</title>
+    <desc>The wildest, wackiest, and most jaw-dropping videos. From dangerous severe weather, to heart-stopping close calls and adorable animal antics - all caught on camera.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" start="20260707233000 +0000" stop="20260708000000 +0000">
+    <title>Caught On... Clips</title>
+    <desc>The wildest, wackiest, and most jaw-dropping videos. From dangerous severe weather, to heart-stopping close calls and adorable animal antics - all caught on camera.</desc>
   </programme>
   
 <programme channel="6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb" start="20260707000000 +0000" stop="20260707001500 +0000">
