@@ -222,7 +222,7 @@ DOCS_DIR.mkdir(exist_ok=True)
 
 def write_m3u(path, channels):
     with path.open("w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n\n")
+        f.write('#EXTM3U url-tvg="https://brandenp198483-collab.github.io/branden-tv/BrandenTV.xml"\n\n')
         for ch in channels:
             f.write(ch["info"] + "\n")
             f.write(ch["url"] + "\n")

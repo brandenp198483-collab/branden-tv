@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="BrandenTV">
+  <channel id="WSYX61.us@HD">
+    <display-name>ABC</display-name>
+    <icon src="https://i.imgur.com/Lv6HuCT.png" />
+  </channel>
+  <channel id="KUTV21.us@HD">
+    <display-name>CBS</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" />
+  </channel>
+  <channel id="WMAQTV51.us@HD">
+    <display-name>NBC</display-name>
+    <icon src="https://i.imgur.com/wblxisu.png" />
+  </channel>
+  <channel id="WBFF451.us@HD">
+    <display-name>FOX</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" />
+  </channel>
+  <channel id="The.CW.branden">
+    <display-name>The CW</display-name>
+  </channel>
+  <channel id="AntiquesRoadTrip.us@SD">
+    <display-name>PBS</display-name>
+    <icon src="https://i.imgur.com/kkm7VqV.png" />
+  </channel>
+  <channel id="TelemundoInternacional.us@South">
+    <display-name>Telemundo</display-name>
+    <icon src="https://i.imgur.com/j2O4ndp.png" />
+  </channel>
+  <channel id="Univision.us@East">
+    <display-name>Univision</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" />
+  </channel>
+  <channel id="UniMas.us@Mountain">
+    <display-name>UniMas</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" />
+  </channel>
+  <channel id="Antenna.TV.branden">
+    <display-name>Antenna TV</display-name>
+    <icon src="https://tmcb82.github.io/ota/logos/antennatv.png" />
+  </channel>
+  <channel id="CoziTV.us@SD">
+    <display-name>Cozi TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png" />
+  </channel>
+  <channel id="Comet.us@SD">
+    <display-name>Comet</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" />
+  </channel>
+  <channel id="Charge.us@SD">
+    <display-name>Charge!</display-name>
+    <icon src="https://i.imgur.com/1rxmu2u.png" />
+  </channel>
+  <channel id="GritXtra.us@SD">
+    <display-name>Grit</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" />
+  </channel>
+  <channel id="HeroesIcons.us@SD">
+    <display-name>Heroes &amp; Icons</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png" />
+  </channel>
+  <channel id="65453f30085df200085883d8">
+    <display-name>Ion Television</display-name>
+    <icon src="https://images.pluto.tv/channels/65453f30085df200085883d8/logo.png?fit=fill&amp;fm=png&amp;h=80&amp;w=280" />
+  </channel>
+  <channel id="Ion.Mystery.branden">
+    <display-name>Ion Mystery</display-name>
+  </channel>
+  <channel id="IONPlus.us@East">
+    <display-name>Ion Plus</display-name>
+    <icon src="https://i.imgur.com/1dgCvNE.png" />
+  </channel>
+  <channel id="Laff.us@SD">
+    <display-name>Laff</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" />
+  </channel>
+  <channel id="MeTV.us@SD">
+    <display-name>MeTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png" />
+  </channel>
+  <channel id="MeTVPlus.us@SD">
+    <display-name>MeTV+</display-name>
+    <icon src="https://i.imgur.com/ubCl0S9.png" />
+  </channel>
+  <channel id="MoviesAction.sa@SD">
+    <display-name>Movies!</display-name>
+    <icon src="https://i.imgur.com/NIVhISa.png" />
+  </channel>
+  <channel id="RewindTV.cl@SD">
+    <display-name>Rewind TV</display-name>
+    <icon src="https://i.imgur.com/OG0RC2e.png" />
+  </channel>
+  <channel id="StartTV.us@SD">
+    <display-name>Start TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/960px-Start_TV_logo.svg.png" />
+  </channel>
+  <channel id="WCIUTV265.us@SD">
+    <display-name>Story Television</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" />
+  </channel>
+  <channel id="MeTVToons.us@SD">
+    <display-name>MeTV Toons</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" />
+  </channel>
+  <channel id="A.E.branden">
+    <display-name>A&amp;E</display-name>
+  </channel>
+  <channel id="AMC.branden">
+    <display-name>AMC</display-name>
+  </channel>
+  <channel id="BET.us@West">
+    <display-name>BET</display-name>
+    <icon src="https://i.imgur.com/copIbc9.png" />
+  </channel>
+  <channel id="BravoTV.ar@SD">
+    <display-name>Bravo</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" />
+  </channel>
+  <channel id="CMTEqualPlay.us@SD">
+    <display-name>CMT</display-name>
+    <icon src="https://i.imgur.com/9ysjkkL.png" />
+  </channel>
+  <channel id="ComedyCentral.us@East">
+    <display-name>Comedy Central</display-name>
+    <icon src="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" />
+  </channel>
+  <channel id="EKeepingUp.us@SD">
+    <display-name>E!</display-name>
+    <icon src="https://i.imgur.com/9F7VYDM.png" />
+  </channel>
+  <channel id="Freeform.us@West">
+    <display-name>Freeform</display-name>
+    <icon src="https://i.imgur.com/BGAGeIf.png" />
+  </channel>
+  <channel id="Fuse.us@East">
+    <display-name>Fuse</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" />
+  </channel>
+  <channel id="FX.us@East">
+    <display-name>FX</display-name>
+    <icon src="https://i.imgur.com/ZScwrpi.png" />
+  </channel>
+  <channel id="FXX.us@East">
+    <display-name>FXX</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" />
+  </channel>
+  <channel id="HallmarkChannel.us@East">
+    <display-name>Hallmark Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" />
+  </channel>
+  <channel id="HallmarkMystery.us@East">
+    <display-name>Hallmark Mystery</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" />
+  </channel>
+  <channel id="HallmarkFamily.us@SD">
+    <display-name>Hallmark Family</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/960px-Hallmark_Family_2024.svg.png" />
+  </channel>
+  <channel id="IFC.us@East">
+    <display-name>IFC</display-name>
+    <icon src="https://i.imgur.com/bQdkyF9.png" />
+  </channel>
+  <channel id="INSP.us@SD">
+    <display-name>INSP</display-name>
+    <icon src="https://i.imgur.com/YgOC51j.png" />
+  </channel>
+  <channel id="LifetimeMovies.us@East">
+    <display-name>Lifetime</display-name>
+    <icon src="https://i.imgur.com/BWmqYTO.png" />
+  </channel>
+  <channel id="MTVBiggestPop.us@CA">
+    <display-name>MTV</display-name>
+    <icon src="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" />
+  </channel>
+  <channel id="MTV2.us@East">
+    <display-name>MTV2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" />
+  </channel>
+  <channel id="MTVClassic.us@East">
+    <display-name>MTV Classic</display-name>
+    <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" />
+  </channel>
+  <channel id="NationalGeographicWild.ru@SD">
+    <display-name>National Geographic</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" />
+  </channel>
+  <channel id="Ovation.us@SD">
+    <display-name>Ovation</display-name>
+    <icon src="https://i.imgur.com/A3o9gvc.png" />
+  </channel>
+  <channel id="Oxygen.us@East">
+    <display-name>Oxygen</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png" />
+  </channel>
+  <channel id="ParamountNetwork.us@East">
+    <display-name>Paramount Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" />
+  </channel>
+  <channel id="Pop.uk@SD">
+    <display-name>Pop</display-name>
+    <icon src="https://i.imgur.com/fGUlCY3.png" />
+  </channel>
+  <channel id="Reelz.branden">
+    <display-name>Reelz</display-name>
+  </channel>
+  <channel id="SundanceTV.us@East">
+    <display-name>Sundance TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" />
+  </channel>
+  <channel id="SYFY.us@East">
+    <display-name>Syfy</display-name>
+    <icon src="https://i.imgur.com/4fMWhUE.png" />
+  </channel>
+  <channel id="VH1.us@East">
+    <display-name>VH1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" />
+  </channel>
+  <channel id="VICETV.us@SD">
+    <display-name>Vice TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" />
+  </channel>
+  <channel id="WeTV.us@East">
+    <display-name>We TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" />
+  </channel>
+  <channel id="6000a5a9e767980007b497ca">
+    <display-name>A&amp;E Crime 360</display-name>
+    <icon src="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/logo.png?fit=fill&amp;fm=png&amp;h=80&amp;w=280" />
+  </channel>
+  <channel id="ShowtimeFamilyZone.us@East">
+    <display-name>Showtime</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" />
+  </channel>
+  <channel id="StarzKidsFamily.us@East">
+    <display-name>Starz</display-name>
+    <icon src="https://i.imgur.com/eE9FzEP.png" />
+  </channel>
+  <channel id="StarzCinema.us@East">
+    <display-name>Starz Cinema</display-name>
+    <icon src="https://i.imgur.com/ghzzKoT.png" />
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e">
+    <display-name>MGM+</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" />
+  </channel>
+  <channel id="AccuWeatherNetwork.us@SD">
+    <display-name>AccuWeather Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png" />
+  </channel>
+  <channel id="CNBCUK.uk@SD">
+    <display-name>CNBC</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" />
+  </channel>
+  <channel id="CNNInternationalEurope.us">
+    <display-name>CNN International</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" />
+  </channel>
+  <channel id="FoxBusinessNetwork.us@SD">
+    <display-name>Fox Business Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" />
+  </channel>
+  <channel id="FoxNewsChannel.us@SD">
+    <display-name>Fox News Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" />
+  </channel>
+  <channel id="NewsmaxTV.us@SD">
+    <display-name>Newsmax TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" />
+  </channel>
+  <channel id="NewsNation.us@SD">
+    <display-name>NewsNation</display-name>
+    <icon src="https://thehill.com/wp-content/uploads/sites/2/2025/08/NN-Stacked-Logo_Blue_1400x787.png" />
+  </channel>
+  <channel id="ScrippsNews.us@SD">
+    <display-name>Scripps News</display-name>
+    <icon src="https://i.imgur.com/W0Jvi5o.png" />
+  </channel>
+  <channel id="ACCNetwork.us@SD">
+    <display-name>ACC Network</display-name>
+    <icon src="https://i.imgur.com/TpCkbkT.png" />
+  </channel>
+  <channel id="BigTenNetwork.us@SD">
+    <display-name>Big Ten Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" />
+  </channel>
+  <channel id="ESPN4.br@SD">
+    <display-name>ESPN</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" />
+  </channel>
+  <channel id="ESPNews.us@SD">
+    <display-name>ESPNews</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" />
+  </channel>
+  <channel id="ESPNU.us@SD">
+    <display-name>ESPNU</display-name>
+    <icon src="https://i.imgur.com/HiBrysh.png" />
+  </channel>
+  <channel id="FS1Salzburg.at@SD">
+    <display-name>Fox Sports 1</display-name>
+    <icon src="https://i.imgur.com/74gMaPK.png" />
+  </channel>
+  <channel id="NFLNetwork.us@SD">
+    <display-name>NFL Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" />
+  </channel>
+  <channel id="NHLNetwork.us@SD">
+    <display-name>NHL Network</display-name>
+    <icon src="https://i.imgur.com/UNZ8bef.png" />
+  </channel>
+  <channel id="SECNetwork.us@SD">
+    <display-name>SEC Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png" />
+  </channel>
+  <channel id="TennisChannel.us@SD">
+    <display-name>Tennis Channel</display-name>
+    <icon src="https://i.imgur.com/tsljAnY.png" />
+  </channel>
+  <channel id="TUDN.us@SD">
+    <display-name>TUDN</display-name>
+    <icon src="https://i.imgur.com/oT5CAvd.png" />
+  </channel>
+  <channel id="NESN.branden">
+    <display-name>NESN</display-name>
+  </channel>
+  <channel id="DisneyChannel.pt@SD">
+    <display-name>Disney Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
+  </channel>
+  <channel id="DisneyJunior.us@West">
+    <display-name>Disney Junior</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" />
+  </channel>
+  <channel id="DisneyXD.us@East">
+    <display-name>Disney XD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" />
+  </channel>
+  <channel id="NickJrPlutoTV.us@US">
+    <display-name>Nick Jr.</display-name>
+    <icon src="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" />
+  </channel>
+  <channel id="Nickelodeon.us@East">
+    <display-name>Nickelodeon</display-name>
+    <icon src="https://i.imgur.com/E84jnP8.png" />
+  </channel>
+  <channel id="Nicktoons.us@CA">
+    <display-name>Nicktoons</display-name>
+    <icon src="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" />
+  </channel>
+  <channel id="TeenNick.us@East">
+    <display-name>TeenNick</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" />
+  </channel>
+  <channel id="PBSKidsAlaska.us@SD">
+    <display-name>PBS Kids</display-name>
+    <icon src="https://i.imgur.com/ambc9le.png" />
+  </channel>
+  <channel id="BabyFirst.us@US">
+    <display-name>BabyFirst</display-name>
+    <icon src="https://i.imgur.com/WxLHBwu.png" />
+  </channel>
+  <channel id="Discovery.Channel.it">
+    <display-name>Discovery Channel</display-name>
+    <icon src="https://i.imgur.com/5IxIFJ0.png" />
+  </channel>
+  <channel id="Food.Network.it">
+    <display-name>Food Network</display-name>
+    <icon src="https://i.imgur.com/i60OYr9.png" />
+  </channel>
+  <channel id="HGTV.nz@SD">
+    <display-name>HGTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" />
+  </channel>
+  <channel id="SmithsonianChannel.us@East">
+    <display-name>Smithsonian Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" />
+  </channel>
+  <channel id="TheCowboyChannel.us@SD">
+    <display-name>The Cowboy Channel</display-name>
+    <icon src="https://i.imgur.com/0F1c7x4.png" />
+  </channel>
+  <channel id="OutdoorChannel.us@SD">
+    <display-name>Outdoor Channel</display-name>
+    <icon src="https://i.imgur.com/Kh4MWaY.png" />
+  </channel>
+  <channel id="PursuitChannel.us@SD">
+    <display-name>Pursuit Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" />
+  </channel>
+  <channel id="ClassicArtsShowcase.us@SD">
+    <display-name>Classic Arts Showcase</display-name>
+    <icon src="https://i.imgur.com/M6FFkc3.png" />
+  </channel>
+  <channel id="France24.fr@French">
+    <display-name>France 24</display-name>
+    <icon src="https://i.imgur.com/u8N6uoj.png" />
+  </channel>
+  <channel id="LinkTV.ar@SD">
+    <display-name>Link TV</display-name>
+    <icon src="https://i.ibb.co/ncYZY6T/logo-3.png" />
+  </channel>
+</tv>
