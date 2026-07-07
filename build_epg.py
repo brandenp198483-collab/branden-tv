@@ -35,7 +35,8 @@ matched_ids = set()
 for source, url in json.load(open(SOURCES)).items():
     print("Downloading EPG", source)
     try:
-        data = urllib.request.urlopen(url, timeout=30).read()
+        req = urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+        data = urllib.request.urlopen(req, timeout=30).read()
         if url.endswith(".gz"):
             data = gzip.decompress(data)
         root = ET.fromstring(data)
