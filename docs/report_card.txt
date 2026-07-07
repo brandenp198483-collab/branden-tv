@@ -1,36 +1,35 @@
 =============================================
         BrandenTV REPORT CARD
 =============================================
-Whitelist channels:       198
-Channels with candidates: 123
-Final healthy streams:    101
-Final bad streams:        1
+Whitelist channels:       212
+Channels with candidates: 130
+Final healthy streams:    107
+Final bad streams:        3
 
 SOURCE GRADES:
 - distro: candidates=3 health=33.3%
 - fire_tv: candidates=1 health=100.0%
-- free_tv: candidates=10 health=57.1%
-- iptv-org-category: candidates=213 health=87.5%
-- iptv-org-news: candidates=36 health=77.2%
-- iptv-org-sports: candidates=13 health=83.5%
+- free_tv: candidates=10 health=56.6%
+- iptv-org-category: candidates=221 health=88.0%
+- iptv-org-news: candidates=36 health=77.6%
+- iptv-org-sports: candidates=13 health=81.8%
 - iptv-org-weather: candidates=3 health=100.0%
 - iptv_org: candidates=142 health=84.8%
-- iptv_org_noram: candidates=17 health=94.2%
-- localnow: candidates=5 health=100.0%
+- iptv_org_noram: candidates=16 health=94.3%
+- localnow: candidates=5 health=99.3%
 - manual_overrides: candidates=1 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
-- plex: candidates=28 health=83.0%
-- pluto: candidates=13 health=98.4%
-- popular-kids-iptv: candidates=4 health=67.7%
-- popular-movies-iptv: candidates=6 health=52.7%
-- popular-news-iptv: candidates=1 health=100.0%
-- roku_online: candidates=1 health=100.0%
-- samsung: candidates=5 health=98.3%
-- tablo: candidates=3 health=100.0%
-- tubi: candidates=5 health=98.2%
+- plex: candidates=28 health=83.2%
+- pluto: candidates=14 health=98.7%
+- popular-kids-iptv: candidates=4 health=67.5%
+- popular-movies-iptv: candidates=6 health=54.7%
+- roku_online: candidates=1 health=92.3%
+- samsung: candidates=5 health=97.8%
+- tablo: candidates=4 health=100.0%
+- tubi: candidates=5 health=97.7%
 - usa_hanssettings: candidates=67 health=0.0%
-- vizio: candidates=4 health=100.0%
-- xumo: candidates=5 health=0.0%
+- vizio: candidates=4 health=99.0%
+- xumo: candidates=6 health=0.0%
 
 MISSING / NO CANDIDATES:
 - MyNetworkTV
@@ -108,6 +107,14 @@ MISSING / NO CANDIDATES:
 - First Nations Experience
 - NHK World-Japan
 - NASA TV
+- CBS Tampa
+- NBC Tampa
+- ABC Boston
+- CBS Boston
+- ABC Philadelphia
+- CBS Philadelphia
 
 BROKEN FINAL LINEUP:
-- NBC (0.278s)
+- NBC (0.419s)
+- NBC Boston (0.215s)
+- NBC Philadelphia (0.206s)

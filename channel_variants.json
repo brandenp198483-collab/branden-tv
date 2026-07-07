@@ -1,0 +1,12 @@
+{
+  "CMT Music": {
+    "parent": "CMT",
+    "category": "Entertainment Variants",
+    "aliases": ["CMT Music", "CMT Equal Play"]
+  },
+  "CNBC World": {
+    "parent": "CNBC",
+    "category": "News Variants",
+    "aliases": ["CNBC World"]
+  }
+}

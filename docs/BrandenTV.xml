@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="BrandenTV">
-  <channel id="KAAL61.us@HD">
+  <channel id="WCIV361.us@HD">
     <display-name>ABC</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" />
   </channel>
-  <channel id="WKRCTV121.us@HD">
+  <channel id="WWMT31.us@HD">
     <display-name>CBS</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" />
   </channel>
@@ -120,17 +120,17 @@
     <display-name>BET</display-name>
     <icon src="https://i.imgur.com/copIbc9.png" />
   </channel>
-  <channel id="Bravo.us@West">
+  <channel id="BravoTV.ar@SD">
     <display-name>Bravo</display-name>
-    <icon src="https://i.imgur.com/JmTIRLF.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" />
   </channel>
   <channel id="CMT.us@East">
     <display-name>CMT</display-name>
     <icon src="https://i.imgur.com/S7DOpdY.png" />
   </channel>
-  <channel id="ComedyCentral.nl@SD">
+  <channel id="ComedyCentral.us@East">
     <display-name>Comedy Central</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
+    <icon src="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" />
   </channel>
   <channel id="EKeepingUp.us@SD">
     <display-name>E!</display-name>
@@ -200,9 +200,13 @@
     <display-name>Oxygen</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png" />
   </channel>
-  <channel id="PopTV.us@SD">
+  <channel id="ParamountNetwork.us@East">
+    <display-name>Paramount Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" />
+  </channel>
+  <channel id="Pop.uk@SD">
     <display-name>Pop</display-name>
-    <icon src="https://i.imgur.com/XySNnh0.png" />
+    <icon src="https://i.imgur.com/fGUlCY3.png" />
   </channel>
   <channel id="Reelz.branden">
     <display-name>Reelz</display-name>
@@ -235,9 +239,9 @@
     <display-name>Showtime</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" />
   </channel>
-  <channel id="StarzComedy.us@East">
+  <channel id="Starz.us@East">
     <display-name>Starz</display-name>
-    <icon src="https://i.imgur.com/JpKvjZe.png" />
+    <icon src="https://i.imgur.com/N7oSm4d.png" />
   </channel>
   <channel id="StarzCinema.us@East">
     <display-name>Starz Cinema</display-name>
@@ -295,10 +299,6 @@
     <display-name>ESPN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" />
   </channel>
-  <channel id="ESPNews.us@SD">
-    <display-name>ESPNews</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" />
-  </channel>
   <channel id="ESPNU.us@SD">
     <display-name>ESPNU</display-name>
     <icon src="https://i.imgur.com/HiBrysh.png" />
@@ -342,9 +342,9 @@
     <display-name>Disney XD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" />
   </channel>
-  <channel id="NickJrPlutoTV.us@US">
+  <channel id="NickJrClub.us@LatAm">
     <display-name>Nick Jr.</display-name>
-    <icon src="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" />
+    <icon src="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" />
   </channel>
   <channel id="Nickelodeon.us@East">
     <display-name>Nickelodeon</display-name>
@@ -398,9 +398,9 @@
     <display-name>Classic Arts Showcase</display-name>
     <icon src="https://i.imgur.com/M6FFkc3.png" />
   </channel>
-  <channel id="France24.fr@English">
+  <channel id="France24.fr@French">
     <display-name>France 24</display-name>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" />
+    <icon src="https://i.imgur.com/u8N6uoj.png" />
   </channel>
   <channel id="LinkTV.ar@SD">
     <display-name>Link TV</display-name>
@@ -428,6 +428,10 @@
   <channel id="WTXFTV291.us@HD">
     <display-name>FOX Philadelphia</display-name>
     <icon src="https://i.imgur.com/fRjmk5r.png" />
+  </channel>
+  <channel id="CMTEqualPlay.us@SD">
+    <display-name>CMT Music</display-name>
+    <icon src="https://i.imgur.com/9ysjkkL.png" />
   </channel>
 <programme channel="5459795fc9f133a519bc0bef" start="20260707160000 +0000" stop="20260707170000 +0000">
     <title>Scripps News On The Scene</title>

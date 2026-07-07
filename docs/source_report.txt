@@ -3,14 +3,18 @@
 =============================================
 
 iptv-org-category
-  candidates: 213
-  healthy:    85 (39.9%)
-  used:       61
+  candidates: 221
+  healthy:    97 (43.9%)
+  used:       70
   winning channels:
     - A&E
+    - AXS TV
+    - BBC America
     - BabyFirst
     - Big Ten Network
     - CMT
+    - CMT Music
+    - CNBC
     - Charge!
     - Classic Arts Showcase
     - Comet
@@ -19,19 +23,15 @@ iptv-org-category
     - Disney XD
     - E!
     - ESPN
+    - FOX Boston
+    - FOX Philadelphia
+    - FOX Tampa
     - FX
     - FXX
     - Fox Business Network
     - Fox Sports 1
     - Freeform
     - Fuse
-    - Grit
-    - HGTV
-    - Hallmark Channel
-    - Hallmark Family
-    - Hallmark Mystery
-    - Heroes & Icons
-    - IFC
 
 iptv_org
   candidates: 142
@@ -58,19 +58,18 @@ iptv_org
 
 iptv-org-sports
   candidates: 13
-  healthy:    7 (53.8%)
-  used:       6
+  healthy:    6 (46.2%)
+  used:       5
   winning channels:
     - ACC Network
     - ESPNU
-    - ESPNews
     - NFL Network
     - NHL Network
     - Tennis Channel
 
 iptv_org_noram
-  candidates: 17
-  healthy:    14 (82.4%)
+  candidates: 16
+  healthy:    14 (87.5%)
   used:       4
   winning channels:
     - Comedy Central
@@ -97,8 +96,8 @@ iptv-org-news
     - Newsmax TV
 
 pluto
-  candidates: 13
-  healthy:    10 (76.9%)
+  candidates: 14
+  healthy:    12 (85.7%)
   used:       2
   winning channels:
     - A&E Crime 360
@@ -111,9 +110,16 @@ plex
   winning channels:
     - MGM+
 
+tablo
+  candidates: 4
+  healthy:    4 (100.0%)
+  used:       1
+  winning channels:
+    - ABC Tampa
+
 popular-movies-iptv
   candidates: 6
-  healthy:    3 (50.0%)
+  healthy:    4 (66.7%)
   used:       1
   winning channels:
     - Lifetime
@@ -139,13 +145,6 @@ iptv-org-weather
   winning channels:
     - AccuWeather Network
 
-popular-news-iptv
-  candidates: 1
-  healthy:    1 (100.0%)
-  used:       1
-  winning channels:
-    - CNBC
-
 samsung
   candidates: 5
   healthy:    5 (100.0%)
@@ -164,11 +163,6 @@ localnow
 vizio
   candidates: 4
   healthy:    4 (100.0%)
-  used:       0
-
-tablo
-  candidates: 3
-  healthy:    3 (100.0%)
   used:       0
 
 fire_tv
@@ -192,7 +186,7 @@ usa_hanssettings
   used:       0
 
 xumo
-  candidates: 5
+  candidates: 6
   healthy:    0 (0.0%)
   used:       0
 

@@ -249,6 +249,26 @@
       "NASA TV",
       "Link TV",
       "BYU TV"
+    ],
+    "Local News": [
+      "ABC Tampa",
+      "CBS Tampa",
+      "NBC Tampa",
+      "FOX Tampa",
+      "ABC Boston",
+      "CBS Boston",
+      "NBC Boston",
+      "FOX Boston",
+      "ABC Philadelphia",
+      "CBS Philadelphia",
+      "NBC Philadelphia",
+      "FOX Philadelphia"
+    ],
+    "Entertainment Variants": [
+      "CMT Music"
+    ],
+    "News Variants": [
+      "CNBC World"
     ]
   },
   "aliases": {
@@ -283,8 +303,10 @@
       "Lifetime Movie Network"
     ],
     "Ion Television": [
+      "Ion Television",
+      "ION Television",
       "ION",
-      "Ion Television"
+      "ION TV"
     ],
     "Heroes & Icons": [
       "H&I",
@@ -343,6 +365,84 @@
       "New England Sports Network",
       "NESN HD",
       "NESN 360"
+    ],
+    "Ion Plus": [
+      "Ion Plus",
+      "ION Plus"
+    ],
+    "Ion Mystery": [
+      "Ion Mystery",
+      "ION Mystery",
+      "Ion Mystery Channel",
+      "ION Mystery Channel"
+    ],
+    "ABC Tampa": [
+      "WFTS",
+      "ABC Tampa",
+      "ABC Action News",
+      "WFTS Tampa"
+    ],
+    "CBS Tampa": [
+      "WTSP",
+      "CBS Tampa",
+      "10 Tampa Bay"
+    ],
+    "NBC Tampa": [
+      "WFLA",
+      "NBC Tampa",
+      "NewsChannel 8"
+    ],
+    "FOX Tampa": [
+      "WTVT",
+      "FOX Tampa",
+      "FOX 13 Tampa"
+    ],
+    "ABC Boston": [
+      "WCVB",
+      "ABC Boston",
+      "WCVB Boston"
+    ],
+    "CBS Boston": [
+      "WBZ",
+      "CBS Boston",
+      "WBZ Boston"
+    ],
+    "NBC Boston": [
+      "WBTS",
+      "NBC Boston",
+      "NBC10 Boston"
+    ],
+    "FOX Boston": [
+      "WFXT",
+      "FOX Boston",
+      "Boston 25"
+    ],
+    "ABC Philadelphia": [
+      "WPVI",
+      "ABC Philadelphia",
+      "6abc"
+    ],
+    "CBS Philadelphia": [
+      "KYW",
+      "CBS Philadelphia",
+      "CBS Philly"
+    ],
+    "NBC Philadelphia": [
+      "WCAU",
+      "NBC Philadelphia",
+      "NBC10 Philadelphia"
+    ],
+    "FOX Philadelphia": [
+      "WTXF",
+      "FOX Philadelphia",
+      "FOX 29"
+    ],
+    "CMT Music": [
+      "CMT Music",
+      "CMT Equal Play"
+    ],
+    "CNBC World": [
+      "CNBC World"
     ]
   },
   "specific_reject": {
@@ -387,10 +487,16 @@
       "CNBC Indonesia",
       "CNBC TV18",
       "CNBC Mongolia",
-      "Times Brasil"
+      "Times Brasil",
+      "CNBC World",
+      "CNBC Awaaz",
+      "CNBC Bajar",
+      "CNBC Bazaar",
+      "CNBC Arabia"
     ],
     "CMT": [
-      "CMT Music"
+      "CMT Music",
+      "CMT Equal Play"
     ],
     "Discovery Channel": [
       "Spanish",
@@ -430,6 +536,28 @@
       "MeTV+",
       "MeTV Toons",
       "MeTVToons"
+    ],
+    "Ion Television": [
+      "Ion Plus",
+      "ION Plus",
+      "Ion Mystery",
+      "ION Mystery",
+      "Ion Mystery Channel",
+      "ION Mystery Channel"
     ]
-  }
+  },
+  "channels": [
+    "ABC Tampa",
+    "CBS Tampa",
+    "NBC Tampa",
+    "FOX Tampa",
+    "ABC Boston",
+    "CBS Boston",
+    "NBC Boston",
+    "FOX Boston",
+    "ABC Philadelphia",
+    "CBS Philadelphia",
+    "NBC Philadelphia",
+    "FOX Philadelphia"
+  ]
 }
