@@ -2,37 +2,34 @@ import json
 from pathlib import Path
 
 wl_path = Path("channel_whitelist.json")
-var_path = Path("channel_variants.json")
+identity_path = Path("channel_identities.json")
 
 wl = json.load(open(wl_path))
-variants = json.load(open(var_path))
+ids = json.load(open(identity_path))
 
 cats = wl.setdefault("categories", {})
 aliases = wl.setdefault("aliases", {})
 specific_reject = wl.setdefault("specific_reject", {})
 
-for variant, info in variants.items():
+for channel, info in ids.items():
     parent = info.get("parent")
     category = info.get("category", "Approved Variants")
     names = info.get("aliases", [])
 
-    # Add variant as its own real channel
     cats.setdefault(category, [])
-    if variant not in cats[category]:
-        cats[category].append(variant)
+    if channel not in cats[category]:
+        cats[category].append(channel)
 
-    # Add aliases for variant
-    aliases.setdefault(variant, [])
+    aliases.setdefault(channel, [])
     for name in names:
-        if name not in aliases[variant]:
-            aliases[variant].append(name)
+        if name not in aliases[channel]:
+            aliases[channel].append(name)
 
-    # Stop variant from satisfying parent channel
-    if parent:
+    if parent and info.get("reject_from_parent", True):
         specific_reject.setdefault(parent, [])
-        for name in [variant] + names:
+        for name in [channel] + names:
             if name not in specific_reject[parent]:
                 specific_reject[parent].append(name)
 
 json.dump(wl, open(wl_path, "w"), indent=2)
-print("Synced approved channel variants")
+print("Synced channel identities")

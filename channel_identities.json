@@ -1,0 +1,20 @@
+{
+  "CMT Music": {
+    "parent": "CMT",
+    "category": "Entertainment Variants",
+    "aliases": ["CMT Music", "CMT Equal Play"],
+    "reject_from_parent": true
+  },
+  "CNBC Europe": {
+    "parent": "CNBC",
+    "category": "News Variants",
+    "aliases": ["CNBC Europe", "CNBC EU", "CNBC International", "CNBC Frankfurt"],
+    "reject_from_parent": true
+  },
+  "CNBC World": {
+    "parent": "CNBC",
+    "category": "News Variants",
+    "aliases": ["CNBC World"],
+    "reject_from_parent": true
+  }
+}

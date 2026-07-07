@@ -1,0 +1,20 @@
+{
+  "Tampa": {
+    "ABC Tampa": ["WFTS", "ABC Tampa", "ABC Action News", "WFTS Tampa"],
+    "CBS Tampa": ["WTSP", "CBS Tampa", "10 Tampa Bay"],
+    "NBC Tampa": ["WFLA", "NBC Tampa", "NewsChannel 8"],
+    "FOX Tampa": ["WTVT", "FOX Tampa", "FOX 13 Tampa"]
+  },
+  "Boston": {
+    "ABC Boston": ["WCVB", "ABC Boston", "WCVB Boston"],
+    "CBS Boston": ["WBZ", "CBS Boston", "WBZ Boston"],
+    "NBC Boston": ["WBTS", "NBC Boston", "NBC10 Boston"],
+    "FOX Boston": ["WFXT", "FOX Boston", "Boston 25"]
+  },
+  "Philadelphia": {
+    "ABC Philadelphia": ["WPVI", "ABC Philadelphia", "6abc"],
+    "CBS Philadelphia": ["KYW", "CBS Philadelphia", "CBS Philly"],
+    "NBC Philadelphia": ["WCAU", "NBC Philadelphia", "NBC10 Philadelphia"],
+    "FOX Philadelphia": ["WTXF", "FOX Philadelphia", "FOX 29"]
+  }
+}
