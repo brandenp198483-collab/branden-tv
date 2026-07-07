@@ -3,23 +3,23 @@
 =============================================
 Whitelist channels:       198
 Channels with candidates: 121
-Final healthy streams:    96
+Final healthy streams:    98
 Final bad streams:        0
 
 SOURCE GRADES:
 - distro: candidates=3 health=33.3%
 - fire_tv: candidates=1 health=100.0%
 - free_tv: candidates=10 health=57.1%
-- iptv_org: candidates=419 health=84.2%
+- iptv_org: candidates=419 health=84.3%
 - localnow: candidates=5 health=100.0%
 - manual_overrides: candidates=1 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
-- plex: candidates=14 health=89.8%
+- plex: candidates=14 health=86.2%
 - pluto: candidates=7 health=100.0%
 - roku_online: candidates=1 health=100.0%
-- samsung: candidates=5 health=97.1%
+- samsung: candidates=5 health=97.8%
 - tablo: candidates=4 health=100.0%
-- tubi: candidates=5 health=96.7%
+- tubi: candidates=5 health=97.5%
 - usa_hanssettings: candidates=67 health=0.0%
 - vizio: candidates=4 health=100.0%
 - xumo: candidates=5 health=0.0%

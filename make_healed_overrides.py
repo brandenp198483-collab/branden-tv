@@ -18,7 +18,21 @@ for group, names in whitelist["categories"].items():
     for wanted in names:
         entry = db.get(wanted, {"candidates": {}})
         candidates = entry.get("candidates", {})
-        ranked = ranking.best_candidate(candidates, source_grade_map)
+
+        # Apply channel-specific reject rules even to remembered database candidates
+        rejects = [x.lower() for x in whitelist.get("specific_reject", {}).get(wanted, [])]
+        filtered = {}
+        for url, c in candidates.items():
+            haystack = " ".join([
+                str(c.get("raw", "")),
+                str(c.get("info", "")),
+                str(c.get("url", "")),
+            ]).lower()
+            if any(bad in haystack for bad in rejects):
+                continue
+            filtered[url] = c
+
+        ranked = ranking.best_candidate(filtered, source_grade_map)
 
         report.append(f"\n=== {wanted} [{group}] ===")
 
