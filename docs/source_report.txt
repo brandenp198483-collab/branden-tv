@@ -1,0 +1,202 @@
+=============================================
+        BrandenTV SOURCE REPORT
+=============================================
+
+iptv-org-category
+  candidates: 213
+  healthy:    85 (39.9%)
+  used:       61
+  winning channels:
+    - A&E
+    - BabyFirst
+    - Big Ten Network
+    - CMT
+    - Charge!
+    - Classic Arts Showcase
+    - Comet
+    - Cozi TV
+    - Disney Junior
+    - Disney XD
+    - E!
+    - ESPN
+    - FX
+    - FXX
+    - Fox Business Network
+    - Fox Sports 1
+    - Freeform
+    - Fuse
+    - Grit
+    - HGTV
+    - Hallmark Channel
+    - Hallmark Family
+    - Hallmark Mystery
+    - Heroes & Icons
+    - IFC
+
+iptv_org
+  candidates: 142
+  healthy:    122 (85.9%)
+  used:       17
+  winning channels:
+    - ABC
+    - AMC
+    - BET
+    - Bravo
+    - CBS
+    - FOX
+    - France 24
+    - MTV
+    - MeTV
+    - MeTV+
+    - NBC
+    - National Geographic
+    - Nickelodeon
+    - PBS
+    - PBS Kids
+    - Scripps News
+    - Telemundo
+
+iptv-org-sports
+  candidates: 13
+  healthy:    7 (53.8%)
+  used:       6
+  winning channels:
+    - ACC Network
+    - ESPNU
+    - ESPNews
+    - NFL Network
+    - NHL Network
+    - Tennis Channel
+
+iptv_org_noram
+  candidates: 17
+  healthy:    14 (82.4%)
+  used:       4
+  winning channels:
+    - Comedy Central
+    - Ion Plus
+    - Nick Jr.
+    - Starz
+
+free_tv
+  candidates: 10
+  healthy:    4 (40.0%)
+  used:       3
+  winning channels:
+    - CNN International
+    - Discovery Channel
+    - Food Network
+
+iptv-org-news
+  candidates: 36
+  healthy:    3 (8.3%)
+  used:       3
+  winning channels:
+    - Fox News Channel
+    - NewsNation
+    - Newsmax TV
+
+pluto
+  candidates: 13
+  healthy:    10 (76.9%)
+  used:       2
+  winning channels:
+    - A&E Crime 360
+    - Ion Television
+
+plex
+  candidates: 28
+  healthy:    24 (85.7%)
+  used:       1
+  winning channels:
+    - MGM+
+
+popular-movies-iptv
+  candidates: 6
+  healthy:    3 (50.0%)
+  used:       1
+  winning channels:
+    - Lifetime
+
+popular-kids-iptv
+  candidates: 4
+  healthy:    3 (75.0%)
+  used:       1
+  winning channels:
+    - Disney Channel
+
+ota_diginets
+  candidates: 7
+  healthy:    2 (28.6%)
+  used:       1
+  winning channels:
+    - Antenna TV
+
+iptv-org-weather
+  candidates: 3
+  healthy:    1 (33.3%)
+  used:       1
+  winning channels:
+    - AccuWeather Network
+
+popular-news-iptv
+  candidates: 1
+  healthy:    1 (100.0%)
+  used:       1
+  winning channels:
+    - CNBC
+
+samsung
+  candidates: 5
+  healthy:    5 (100.0%)
+  used:       0
+
+tubi
+  candidates: 5
+  healthy:    5 (100.0%)
+  used:       0
+
+localnow
+  candidates: 5
+  healthy:    5 (100.0%)
+  used:       0
+
+vizio
+  candidates: 4
+  healthy:    4 (100.0%)
+  used:       0
+
+tablo
+  candidates: 3
+  healthy:    3 (100.0%)
+  used:       0
+
+fire_tv
+  candidates: 1
+  healthy:    1 (100.0%)
+  used:       0
+
+distro
+  candidates: 3
+  healthy:    1 (33.3%)
+  used:       0
+
+roku_online
+  candidates: 1
+  healthy:    1 (100.0%)
+  used:       0
+
+usa_hanssettings
+  candidates: 67
+  healthy:    0 (0.0%)
+  used:       0
+
+xumo
+  candidates: 5
+  healthy:    0 (0.0%)
+  used:       0
+
+manual_overrides
+  candidates: 1
+  healthy:    0 (0.0%)
+  used:       0

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="BrandenTV">
-  <channel id="WSYX61.us@HD">
+  <channel id="KAAL61.us@HD">
     <display-name>ABC</display-name>
-    <icon src="https://i.imgur.com/Lv6HuCT.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" />
   </channel>
-  <channel id="KUTV21.us@HD">
+  <channel id="WWMT31.us@HD">
     <display-name>CBS</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" />
   </channel>
@@ -12,7 +12,7 @@
     <display-name>NBC</display-name>
     <icon src="https://i.imgur.com/wblxisu.png" />
   </channel>
-  <channel id="WBFF451.us@HD">
+  <channel id="KOKHTV251.us@HD">
     <display-name>FOX</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" />
   </channel>
@@ -51,9 +51,9 @@
     <display-name>Charge!</display-name>
     <icon src="https://i.imgur.com/1rxmu2u.png" />
   </channel>
-  <channel id="GritXtra.us@SD">
+  <channel id="Grit.us@SD">
     <display-name>Grit</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" />
+    <icon src="https://i.imgur.com/6w1Wj3j.png" />
   </channel>
   <channel id="HeroesIcons.us@SD">
     <display-name>Heroes &amp; Icons</display-name>
@@ -168,7 +168,7 @@
     <display-name>Lifetime</display-name>
     <icon src="https://i.imgur.com/BWmqYTO.png" />
   </channel>
-  <channel id="MTVBiggestPop.us@CA">
+  <channel id="MTVBiggestPop.us@US">
     <display-name>MTV</display-name>
     <icon src="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" />
   </channel>
@@ -231,13 +231,17 @@
     <display-name>Showtime</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" />
   </channel>
-  <channel id="StarzKidsFamily.us@East">
+  <channel id="Starz.us@East">
     <display-name>Starz</display-name>
-    <icon src="https://i.imgur.com/eE9FzEP.png" />
+    <icon src="https://i.imgur.com/N7oSm4d.png" />
   </channel>
   <channel id="StarzCinema.us@East">
     <display-name>Starz Cinema</display-name>
     <icon src="https://i.imgur.com/ghzzKoT.png" />
+  </channel>
+  <channel id="StarzKidsFamily.us@East">
+    <display-name>Starz Kids &amp; Family</display-name>
+    <icon src="https://i.imgur.com/eE9FzEP.png" />
   </channel>
   <channel id="6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e">
     <display-name>MGM+</display-name>
@@ -334,15 +338,15 @@
     <display-name>Disney XD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" />
   </channel>
-  <channel id="NickJrPlutoTV.us@US">
+  <channel id="NickJrClub.us@LatAm">
     <display-name>Nick Jr.</display-name>
-    <icon src="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" />
+    <icon src="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" />
   </channel>
   <channel id="Nickelodeon.us@East">
     <display-name>Nickelodeon</display-name>
     <icon src="https://i.imgur.com/E84jnP8.png" />
   </channel>
-  <channel id="Nicktoons.us@CA">
+  <channel id="Nicktoons.us@East">
     <display-name>Nicktoons</display-name>
     <icon src="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" />
   </channel>
@@ -350,7 +354,7 @@
     <display-name>TeenNick</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" />
   </channel>
-  <channel id="PBSKidsAlaska.us@SD">
+  <channel id="PBSKidsPacific.us@SD">
     <display-name>PBS Kids</display-name>
     <icon src="https://i.imgur.com/ambc9le.png" />
   </channel>
@@ -390,9 +394,9 @@
     <display-name>Classic Arts Showcase</display-name>
     <icon src="https://i.imgur.com/M6FFkc3.png" />
   </channel>
-  <channel id="France24.fr@French">
+  <channel id="France24.fr@Spanish">
     <display-name>France 24</display-name>
-    <icon src="https://i.imgur.com/u8N6uoj.png" />
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" />
   </channel>
   <channel id="LinkTV.ar@SD">
     <display-name>Link TV</display-name>

@@ -4,30 +4,30 @@
 Whitelist channels:       198
 Channels with candidates: 123
 Final healthy streams:    101
-Final bad streams:        0
+Final bad streams:        1
 
 SOURCE GRADES:
 - distro: candidates=3 health=33.3%
 - fire_tv: candidates=1 health=100.0%
 - free_tv: candidates=10 health=57.1%
-- iptv-org-category: candidates=213 health=87.2%
-- iptv-org-news: candidates=36 health=76.1%
-- iptv-org-sports: candidates=13 health=83.3%
+- iptv-org-category: candidates=213 health=87.5%
+- iptv-org-news: candidates=36 health=77.2%
+- iptv-org-sports: candidates=13 health=83.5%
 - iptv-org-weather: candidates=3 health=100.0%
-- iptv_org: candidates=142 health=84.4%
-- iptv_org_noram: candidates=17 health=91.9%
+- iptv_org: candidates=142 health=84.8%
+- iptv_org_noram: candidates=17 health=94.2%
 - localnow: candidates=5 health=100.0%
 - manual_overrides: candidates=1 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
-- plex: candidates=14 health=85.5%
-- pluto: candidates=7 health=100.0%
-- popular-kids-iptv: candidates=4 health=70.1%
-- popular-movies-iptv: candidates=6 health=52.0%
+- plex: candidates=28 health=83.0%
+- pluto: candidates=13 health=98.4%
+- popular-kids-iptv: candidates=4 health=67.7%
+- popular-movies-iptv: candidates=6 health=52.7%
 - popular-news-iptv: candidates=1 health=100.0%
 - roku_online: candidates=1 health=100.0%
-- samsung: candidates=5 health=98.6%
+- samsung: candidates=5 health=98.3%
 - tablo: candidates=3 health=100.0%
-- tubi: candidates=5 health=98.5%
+- tubi: candidates=5 health=98.2%
 - usa_hanssettings: candidates=67 health=0.0%
 - vizio: candidates=4 health=100.0%
 - xumo: candidates=5 health=0.0%
@@ -110,3 +110,4 @@ MISSING / NO CANDIDATES:
 - NASA TV
 
 BROKEN FINAL LINEUP:
+- NBC (0.278s)
