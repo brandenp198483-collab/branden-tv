@@ -348,7 +348,8 @@
     "CNBC": [
       "CNBC",
       "CNBC US",
-      "CNBC USA"
+      "CNBC USA",
+      "CNBC HD"
     ],
     "A&E Crime 360": [
       "A&E Crime 360",
@@ -440,7 +441,8 @@
     ],
     "CMT Music": [
       "CMT Music",
-      "CMT Equal Play"
+      "CMT Equal Play",
+      "CMT Pure Country"
     ],
     "CNBC World": [
       "CNBC World"
@@ -457,6 +459,10 @@
       "MYTV",
       "My Network TV",
       "MyNetwork"
+    ],
+    "CMT": [
+      "CMT",
+      "Country Music Television"
     ]
   },
   "specific_reject": {

@@ -13,24 +13,29 @@ def attr(line, key):
 def norm(s):
     return re.sub(r"[^a-z0-9]+", "", (s or "").lower())
 
-wanted = {}
+# playlist channels
 channel_rows = []
+name_to_tvg = {}
+id_to_name = {}
 
 for line in PLAYLIST.read_text(errors="ignore").splitlines():
     if not line.startswith("#EXTINF"):
         continue
+
     tvg_id = attr(line, "tvg-id")
     logo = attr(line, "tvg-logo")
     name = line.split(",", 1)[-1].strip()
+
     if not tvg_id:
         tvg_id = re.sub(r"[^A-Za-z0-9]+", ".", name).strip(".") + ".branden"
-    wanted[tvg_id] = name
-    wanted[norm(name)] = name
+
     channel_rows.append((tvg_id, name, logo))
+    name_to_tvg[norm(name)] = tvg_id
+    id_to_name[tvg_id] = name
 
 out = ['<?xml version="1.0" encoding="UTF-8"?>', '<tv generator-info-name="BrandenTV">']
 programmes = []
-matched_ids = set()
+matched = {}
 
 for source, url in json.load(open(SOURCES)).items():
     print("Downloading EPG", source)
@@ -39,24 +44,32 @@ for source, url in json.load(open(SOURCES)).items():
         data = urllib.request.urlopen(req, timeout=30).read()
         if url.endswith(".gz"):
             data = gzip.decompress(data)
-        root = ET.fromstring(data)
 
-        source_channels = {}
+        root = ET.fromstring(data)
+        source_to_tvg = {}
+
         for ch in root.findall("channel"):
             cid = ch.attrib.get("id", "")
             names = [x.text or "" for x in ch.findall("display-name")]
-            keys = [cid] + [norm(n) for n in names]
-            for k in keys:
-                if k in wanted:
-                    source_channels[cid] = wanted[k]
-                    matched_ids.add(k)
+            possible = [cid] + names
 
+            for item in possible:
+                key = norm(item)
+                if key in name_to_tvg:
+                    source_to_tvg[cid] = name_to_tvg[key]
+                    matched[name_to_tvg[key]] = source
+                    break
+
+        added = 0
         for prog in root.findall("programme"):
             cid = prog.attrib.get("channel", "")
-            if cid in source_channels:
+            if cid in source_to_tvg:
+                prog.attrib["channel"] = source_to_tvg[cid]
                 programmes.append(ET.tostring(prog, encoding="unicode"))
+                added += 1
 
-        print("  matched channels:", len(source_channels), "programmes:", len(programmes))
+        print("  matched channels:", len(source_to_tvg), "programmes added:", added)
+
     except Exception as e:
         print("  FAILED", source, e)
 
@@ -78,3 +91,4 @@ OUT.write_text("\n".join(out) + "\n", encoding="utf-8")
 print("Wrote", OUT)
 print("Channels:", len(seen))
 print("Programmes:", len(programmes))
+print("Matched playlist channels:", len(matched))

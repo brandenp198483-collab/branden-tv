@@ -3,8 +3,8 @@
 =============================================
 
 iptv-org-category
-  candidates: 226
-  healthy:    98 (43.4%)
+  candidates: 227
+  healthy:    100 (44.1%)
   used:       70
   winning channels:
     - A&E
@@ -34,8 +34,8 @@ iptv-org-category
     - Grit
 
 iptv_org
-  candidates: 141
-  healthy:    122 (86.5%)
+  candidates: 145
+  healthy:    123 (84.8%)
   used:       17
   winning channels:
     - ABC
@@ -56,27 +56,31 @@ iptv_org
     - Scripps News
     - Telemundo
 
+iptv_org_noram
+  candidates: 22
+  healthy:    20 (90.9%)
+  used:       7
+  winning channels:
+    - Comedy Central
+    - FYI
+    - Golf Channel
+    - Ion Plus
+    - Nick Jr.
+    - Starz
+    - TNT
+
 iptv-org-sports
   candidates: 13
-  healthy:    6 (46.2%)
-  used:       6
+  healthy:    7 (53.8%)
+  used:       7
   winning channels:
     - ACC Network
     - ESPN
     - ESPNU
+    - ESPNews
     - NFL Network
     - NHL Network
     - Tennis Channel
-
-iptv_org_noram
-  candidates: 16
-  healthy:    14 (87.5%)
-  used:       4
-  winning channels:
-    - Comedy Central
-    - Ion Plus
-    - Nick Jr.
-    - Starz
 
 free_tv
   candidates: 11
@@ -98,16 +102,16 @@ iptv-org-news
     - Newsmax TV
 
 pluto
-  candidates: 18
-  healthy:    16 (88.9%)
+  candidates: 22
+  healthy:    20 (90.9%)
   used:       2
   winning channels:
     - A&E Crime 360
     - Ion Television
 
 plex
-  candidates: 28
-  healthy:    24 (85.7%)
+  candidates: 42
+  healthy:    36 (85.7%)
   used:       1
   winning channels:
     - MGM+
@@ -127,8 +131,8 @@ popular-movies-iptv
     - Lifetime
 
 popular-kids-iptv
-  candidates: 4
-  healthy:    3 (75.0%)
+  candidates: 5
+  healthy:    4 (80.0%)
   used:       1
   winning channels:
     - Disney Channel

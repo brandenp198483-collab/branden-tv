@@ -2,33 +2,33 @@
         BrandenTV REPORT CARD
 =============================================
 Whitelist channels:       213
-Channels with candidates: 132
-Final healthy streams:    109
+Channels with candidates: 133
+Final healthy streams:    112
 Final bad streams:        3
 
 SOURCE GRADES:
 - distro: candidates=3 health=33.3%
 - fire_tv: candidates=1 health=100.0%
-- free_tv: candidates=11 health=57.6%
-- iptv-org-category: candidates=226 health=88.2%
-- iptv-org-news: candidates=36 health=77.9%
-- iptv-org-sports: candidates=13 health=77.4%
+- free_tv: candidates=11 health=58.9%
+- iptv-org-category: candidates=227 health=88.7%
+- iptv-org-news: candidates=36 health=78.2%
+- iptv-org-sports: candidates=13 health=78.6%
 - iptv-org-weather: candidates=3 health=100.0%
-- iptv_org: candidates=141 health=85.6%
-- iptv_org_noram: candidates=16 health=95.0%
-- localnow: candidates=5 health=99.4%
+- iptv_org: candidates=145 health=85.4%
+- iptv_org_noram: candidates=22 health=96.7%
+- localnow: candidates=5 health=99.5%
 - manual_overrides: candidates=1 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
-- plex: candidates=28 health=83.6%
-- pluto: candidates=18 health=99.0%
-- popular-kids-iptv: candidates=4 health=67.4%
-- popular-movies-iptv: candidates=6 health=58.3%
-- roku_online: candidates=1 health=93.5%
-- samsung: candidates=5 health=98.1%
+- plex: candidates=42 health=84.1%
+- pluto: candidates=22 health=99.3%
+- popular-kids-iptv: candidates=5 health=74.3%
+- popular-movies-iptv: candidates=6 health=62.4%
+- roku_online: candidates=1 health=95.1%
+- samsung: candidates=5 health=98.6%
 - tablo: candidates=4 health=100.0%
-- tubi: candidates=5 health=97.4%
+- tubi: candidates=5 health=98.0%
 - usa_hanssettings: candidates=67 health=0.0%
-- vizio: candidates=4 health=99.2%
+- vizio: candidates=4 health=99.4%
 - xumo: candidates=6 health=0.0%
 
 MISSING / NO CANDIDATES:
@@ -81,7 +81,6 @@ MISSING / NO CANDIDATES:
 - ESPN Deportes
 - Fox Sports 2
 - Fox Soccer Plus
-- Golf Channel
 - Marquee Sports Network
 - MASN
 - MLB Network
@@ -114,6 +113,6 @@ MISSING / NO CANDIDATES:
 - CBS Philadelphia
 
 BROKEN FINAL LINEUP:
-- NBC (0.246s)
-- NBC Boston (0.358s)
-- NBC Philadelphia (0.228s)
+- NBC (0.167s)
+- NBC Boston (0.167s)
+- NBC Philadelphia (0.186s)
