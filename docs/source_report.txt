@@ -3,9 +3,9 @@
 =============================================
 
 iptv-org-category
-  candidates: 227
-  healthy:    99 (43.6%)
-  used:       70
+  candidates: 226
+  healthy:    98 (43.4%)
+  used:       69
   winning channels:
     - A&E
     - AXS TV
@@ -25,17 +25,17 @@ iptv-org-category
     - FOX Boston
     - FOX Philadelphia
     - FOX Tampa
+    - FX
     - FXX
     - Fox Business Network
     - Fox Sports 1
     - Freeform
     - Fuse
     - Grit
-    - HGTV
 
 iptv_org
-  candidates: 145
-  healthy:    123 (84.8%)
+  candidates: 146
+  healthy:    124 (84.9%)
   used:       18
   winning channels:
     - ABC
@@ -44,8 +44,8 @@ iptv_org
     - Bravo
     - CBS
     - FOX
-    - FX
     - France 24
+    - Ion Mystery
     - MTV
     - MeTV
     - MeTV+
@@ -56,19 +56,6 @@ iptv_org
     - PBS Kids
     - Scripps News
     - Telemundo
-
-iptv_org_noram
-  candidates: 22
-  healthy:    20 (90.9%)
-  used:       7
-  winning channels:
-    - Comedy Central
-    - FYI
-    - Golf Channel
-    - Ion Plus
-    - Nick Jr.
-    - Starz
-    - TNT
 
 iptv-org-sports
   candidates: 13
@@ -82,6 +69,18 @@ iptv-org-sports
     - NFL Network
     - NHL Network
     - Tennis Channel
+
+iptv_org_noram
+  candidates: 21
+  healthy:    19 (90.5%)
+  used:       6
+  winning channels:
+    - Comedy Central
+    - FYI
+    - Golf Channel
+    - Nick Jr.
+    - Starz
+    - TNT
 
 free_tv
   candidates: 11
@@ -110,19 +109,27 @@ pluto
     - A&E Crime 360
     - Ion Television
 
+apsat_tablo
+  candidates: 5
+  healthy:    5 (100.0%)
+  used:       2
+  winning channels:
+    - ABC Tampa
+    - Ion Plus
+
 plex
   candidates: 42
-  healthy:    33 (78.6%)
+  healthy:    36 (85.7%)
   used:       1
   winning channels:
     - MGM+
 
-tablo
-  candidates: 4
-  healthy:    4 (100.0%)
+popular-movies-iptv
+  candidates: 6
+  healthy:    4 (66.7%)
   used:       1
   winning channels:
-    - ABC Tampa
+    - Lifetime
 
 popular-kids-iptv
   candidates: 5
@@ -165,12 +172,7 @@ vizio
   healthy:    4 (100.0%)
   used:       0
 
-popular-movies-iptv
-  candidates: 6
-  healthy:    4 (66.7%)
-  used:       0
-
-fire_tv
+apsat_firetv
   candidates: 1
   healthy:    1 (100.0%)
   used:       0
@@ -195,7 +197,17 @@ xumo
   healthy:    0 (0.0%)
   used:       0
 
+manual_test_missing
+  candidates: 6
+  healthy:    0 (0.0%)
+  used:       0
+
 manual_overrides
+  candidates: 1
+  healthy:    0 (0.0%)
+  used:       0
+
+apsat_roku
   candidates: 1
   healthy:    0 (0.0%)
   used:       0

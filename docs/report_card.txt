@@ -2,31 +2,33 @@
         BrandenTV REPORT CARD
 =============================================
 Whitelist channels:       213
-Channels with candidates: 133
-Final healthy streams:    111
-Final bad streams:        4
+Channels with candidates: 137
+Final healthy streams:    113
+Final bad streams:        3
 
 SOURCE GRADES:
+- apsat_firetv: candidates=1 health=100.0%
+- apsat_roku: candidates=1 health=0.0%
+- apsat_tablo: candidates=5 health=100.0%
 - distro: candidates=3 health=33.3%
-- fire_tv: candidates=1 health=100.0%
-- free_tv: candidates=11 health=59.1%
-- iptv-org-category: candidates=227 health=88.8%
-- iptv-org-news: candidates=36 health=78.3%
-- iptv-org-sports: candidates=13 health=78.8%
+- free_tv: candidates=11 health=59.2%
+- iptv-org-category: candidates=226 health=88.8%
+- iptv-org-news: candidates=36 health=78.2%
+- iptv-org-sports: candidates=13 health=79.3%
 - iptv-org-weather: candidates=3 health=100.0%
-- iptv_org: candidates=145 health=85.4%
-- iptv_org_noram: candidates=22 health=96.9%
-- localnow: candidates=5 health=99.5%
+- iptv_org: candidates=146 health=85.6%
+- iptv_org_noram: candidates=21 health=96.6%
+- localnow: candidates=5 health=99.6%
 - manual_overrides: candidates=1 health=0.0%
+- manual_test_missing: candidates=6 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
-- plex: candidates=42 health=83.7%
+- plex: candidates=42 health=83.8%
 - pluto: candidates=22 health=99.3%
-- popular-kids-iptv: candidates=5 health=74.2%
-- popular-movies-iptv: candidates=6 health=63.0%
-- roku_online: candidates=1 health=95.3%
-- samsung: candidates=5 health=98.6%
-- tablo: candidates=4 health=100.0%
-- tubi: candidates=5 health=98.1%
+- popular-kids-iptv: candidates=5 health=74.1%
+- popular-movies-iptv: candidates=6 health=63.5%
+- roku_online: candidates=1 health=95.6%
+- samsung: candidates=5 health=98.7%
+- tubi: candidates=5 health=98.2%
 - usa_hanssettings: candidates=67 health=0.0%
 - vizio: candidates=4 health=99.4%
 - xumo: candidates=6 health=0.0%
@@ -42,7 +44,6 @@ MISSING / NO CANDIDATES:
 - Magnolia Network
 - Nat Geo Wild
 - TBS
-- TLC
 - Travel Channel
 - TruTV
 - USA Network
@@ -97,10 +98,7 @@ MISSING / NO CANDIDATES:
 - Destination America
 - Discovery Family
 - Discovery Life
-- History Channel
-- Investigation Discovery
 - Military History
-- Science Channel
 - DW-TV
 - First Nations Experience
 - NHK World-Japan
@@ -113,7 +111,6 @@ MISSING / NO CANDIDATES:
 - CBS Philadelphia
 
 BROKEN FINAL LINEUP:
-- Golf Channel (8.048s)
-- Disney XD (8.048s)
-- NBC Boston (0.279s)
-- NBC Philadelphia (0.139s)
+- NBC (0.13s)
+- NBC Boston (0.171s)
+- NBC Philadelphia (0.144s)

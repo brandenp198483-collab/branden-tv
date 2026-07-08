@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-id="ABC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="OTA Major Networks",ABC
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="OTA Major Networks",CBS
-https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/KSNV_logo.svg/960px-KSNV_logo.svg.png" group-title="OTA Major Networks",NBC
-https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
+https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.branden" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="OTA Major Networks",NBC
+https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="FOX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="OTA Major Networks",FOX
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="The.CW.branden" tvg-logo="" group-title="OTA Major Networks",The CW
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="OTA Major Networks",PBS
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
-#EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="OTA Major Networks",MyNetworkTV
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="" group-title="OTA Major Networks",MyNetworkTV
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo.branden" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="OTA Major Networks",Telemundo
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Univision.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="OTA Major Networks",Univision
@@ -36,7 +36,7 @@ http://206.212.244.63/88/index.m3u8
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzZjIyNzQ4LWVkMmItNGUzOS1iZDI0LWE5YjQxNDgyODQ3NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjN2ZhODFiNC03YWQ5LTExZjEtYWM4ZC01ZWM2NzI2ZDgwNGEiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJmd1ZjSUQyQ29wcGEiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImFiOTI3ZWQyLTU3ZWYtNDExNi1hNTU4LTY3YjMzZjRkNGFmYSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM1MjExMjA2NzcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpZV0k1TWpkbFpESXROVGRsWmkwME1URTJMV0UxTlRndE5qZGlNek5tTkdRMFlXWmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNjA3NTIwLCJpYXQiOjE3ODM1MjExMjAsImp0aSI6ImZmNTlhNTA0LTIwZGMtNDc1NC1hMDczLWNmNzc0ZDFkZmU5NyJ9.b78LcKa5YU-TBRCQjKs1O4mq2n6mkBFGksfk7PI2DHA&masterJWTPassthrough=true
 #EXTINF:-1 tvg-id="Ion.Mystery.branden" tvg-logo="" group-title="OTA Digital Multicast",Ion Mystery
 https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
-#EXTINF:-1 tvg-id="Ion.Plus.branden" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="OTA Digital Multicast",Ion Plus
+#EXTINF:-1 group-title="OTA Digital Multicast" -1 tvg-id="Ion.Plus.branden",Ion Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Laff.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="OTA Digital Multicast",Laff
 http://206.212.244.63/101/index.m3u8
@@ -57,7 +57,7 @@ http://206.212.244.63/112/index.m3u8
 #EXTINF:-1 tvg-id="A.And.E.branden" tvg-logo="" group-title="Entertainment",A&E
 https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 #EXTINF:-1 tvg-id="AMC.branden" tvg-logo="" group-title="Entertainment",AMC
-https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
+https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="AXS.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Entertainment",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.branden" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
@@ -73,11 +73,11 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="E.branden" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Entertainment",E!
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Freeform.branden" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Entertainment",Freeform
-http://206.212.244.63/70/index.m3u8
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Fuse.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="Entertainment",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entertainment",FX
-http://138.121.15.230:9002/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.branden" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="FYI.branden" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Entertainment",FYI
@@ -92,8 +92,8 @@ http://206.212.244.63/85/index.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-id="INSP.branden" tvg-logo="https://i.imgur.com/YgOC51j.png" group-title="Entertainment",INSP
 http://206.212.244.63/95/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
-http://rezofoot.tv/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.branden" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Entertainment",Lifetime
+http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="MTV.branden" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Entertainment",MTV
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 #EXTINF:-1 tvg-id="MTV2.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2
@@ -115,7 +115,7 @@ https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playl
 #EXTINF:-1 tvg-id="Sundance.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" group-title="Entertainment",Sundance TV
 http://206.212.244.63/151/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.branden" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Entertainment",Syfy
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
+http://rezofoot.tv/SYFY-HD/index.m3u8
 #EXTINF:-1 tvg-id="TNT.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Entertainment",TNT
 http://45.162.231.38:7779/TNT_Novelas/index.m3u8
 #EXTINF:-1 tvg-id="VH1.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="Entertainment",VH1
@@ -125,11 +125,11 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="We.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Entertainment",We TV
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="A.And.E.Crime.360.branden" group-title="Entertainment" tvg-name="A&E Crime 360" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/logo.png?fit=fill&fm=png&h=80&w=280",A&E Crime 360
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk5Yjg5ZTgxLWYwZDYtNGI2Ny04NzgyLTQwMzhiNDExZWQ5YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNDA3YzFjMy03OWVhLTExZjEtYWRmZC1hYTFiMjA5NmFkNmMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJmd1ZjSUQyQ29wcGEiOiIxMTlkYzdhOS04Njc0LTRmODktYThmZC1hM2NkNmFkNmNlODkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjExOWRjN2E5LTg2NzQtNGY4OS1hOGZkLWEzY2Q2YWQ2Y2U4OSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM0MTgxNDIyMTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNVEU1WkdNM1lUa3RPRFkzTkMwMFpqZzVMV0U0Wm1RdFlUTmpaRFpoWkRaalpUZzUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNTA0NTQyLCJpYXQiOjE3ODM0MTgxNDIsImp0aSI6IjM2MDgyYmI4LTM0OGEtNGJjOS05Y2E5LWE3MDViZDJjYjJkZCJ9.W8kEzGXP_oBFgGCowNeCpxa6P3BFiwR96IacDM0DKgk&masterJWTPassthrough=true
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzZjIyNzQ4LWVkMmItNGUzOS1iZDI0LWE5YjQxNDgyODQ3NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjN2ZhODFiNC03YWQ5LTExZjEtYWM4ZC01ZWM2NzI2ZDgwNGEiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJmd1ZjSUQyQ29wcGEiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImFiOTI3ZWQyLTU3ZWYtNDExNi1hNTU4LTY3YjMzZjRkNGFmYSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM1MjExMjA2NzcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpZV0k1TWpkbFpESXROVGRsWmkwME1URTJMV0UxTlRndE5qZGlNek5tTkdRMFlXWmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNjA3NTIwLCJpYXQiOjE3ODM1MjExMjAsImp0aSI6ImZmNTlhNTA0LTIwZGMtNDc1NC1hMDczLWNmNzc0ZDFkZmU5NyJ9.b78LcKa5YU-TBRCQjKs1O4mq2n6mkBFGksfk7PI2DHA&masterJWTPassthrough=true
 #EXTINF:-1 tvg-id="Showtime.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="Premium Cable",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Starz.branden" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="Premium Cable",Starz
-http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Starz.branden" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Premium Cable",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Cinema.branden" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="Premium Cable",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Kids.And.Family.branden" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="Premium Cable",Starz Kids & Family
@@ -193,7 +193,7 @@ https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="TeenNick.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="Children & Family",TeenNick
 http://206.212.244.63/670/index.m3u8
 #EXTINF:-1 tvg-id="PBS.Kids.branden" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Children & Family",PBS Kids
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.branden" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Children & Family",BabyFirst
 http://206.212.244.63/639/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.branden" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-chno="37" tvg-country="IT" group-title="Lifestyle & Documentary",Discovery Channel
