@@ -2,126 +2,127 @@
         BrandenTV EPG COVERAGE REPORT
 =============================================
 
-Playlist channels: 115
-Channels with EPG: 38
-Channels missing EPG: 77
-EPG coverage: 33.0%
+Playlist channels: 116
+Channels with EPG: 42
+Channels missing EPG: 74
+EPG coverage: 36.2%
 
 CHANNELS WITH EPG:
-- A&E Crime 360 | 6000a5a9e767980007b497ca | programmes=306
-- ABC | KAAL61.us@HD | programmes=123
-- AXS TV | AXSTV.us@SD | programmes=23
-- BET | BET.us@West | programmes=893
-- Bravo | BravoTV.ar@SD | programmes=231
-- CBS | KUTV21.us@HD | programmes=714
-- CMT | CMT.us@East | programmes=34
-- Comedy Central | ComedyCentral.us@East | programmes=57
-- ESPN | ESPN.br@SD | programmes=12
-- FOX | KOKHTV251.us@HD | programmes=439
-- Food Network | Food.Network.it | programmes=130
-- France 24 | France24.fr@Spanish | programmes=537
-- Grit | GritXtra.us@SD | programmes=215
-- IFC | IFC.us@East | programmes=550
-- INSP | INSP.us@SD | programmes=255
-- Ion Plus | IONPlus.us@East | programmes=160
-- Laff | Laff.us@SD | programmes=330
-- Lifetime | LifetimeMovies.us@East | programmes=480
-- MGM+ | 6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e | programmes=950
-- MTV | MTVBiggestPop.us@US | programmes=107
-- MeTV | MeTV.us@SD | programmes=268
-- Movies! | MoviesAction.sa@SD | programmes=1078
-- NBC | WMAQTV51.us@HD | programmes=569
-- Nick Jr. | NickJrClub.us@LatAm | programmes=40
-- Nickelodeon | Nickelodeon.us@East | programmes=75
-- Ovation | Ovation.us@SD | programmes=199
-- Oxygen | Oxygen.us@East | programmes=233
-- PBS | AntiquesRoadTrip.us@SD | programmes=1233
-- PBS Kids | PBSKidsMountain.us@SD | programmes=13
-- Pop | Pop.uk@SD | programmes=669
-- Scripps News | ScrippsNews.us@SD | programmes=155
-- Smithsonian Channel | SmithsonianChannel.us@East | programmes=16
-- TUDN | TUDN.us@SD | programmes=7
-- Telemundo | TelemundoInternacional.us@South | programmes=730
-- Tennis Channel | TennisChannel.us@SD | programmes=42
-- Univision | UnivisionLatinAmerica.mx@Panregional | programmes=9
-- VH1 | VH1.us@East | programmes=17
-- We TV | WeTV.us@East | programmes=612
+- A&E Crime 360 | A.And.E.Crime.360.branden | programmes=306
+- ABC | ABC.branden | programmes=148
+- AMC | AMC.branden | programmes=464
+- AXS TV | AXS.TV.branden | programmes=23
+- BET | BET.branden | programmes=892
+- Bravo | Bravo.branden | programmes=230
+- CBS | CBS.branden | programmes=787
+- CMT | CMT.branden | programmes=34
+- Comedy Central | Comedy.Central.branden | programmes=57
+- ESPN | ESPN.branden | programmes=11
+- FOX | FOX.branden | programmes=453
+- Food Network | Food.Network.branden | programmes=130
+- France 24 | France.24.branden | programmes=537
+- Grit | Grit.branden | programmes=215
+- IFC | IFC.branden | programmes=550
+- INSP | INSP.branden | programmes=306
+- Ion Mystery | Ion.Mystery.branden | programmes=174
+- Ion Plus | Ion.Plus.branden | programmes=160
+- Laff | Laff.branden | programmes=330
+- Lifetime | Lifetime.branden | programmes=508
+- MGM+ | MGM.Plus.branden | programmes=921
+- MTV | MTV.branden | programmes=89
+- MeTV | MeTV.branden | programmes=375
+- Movies! | Movies.branden | programmes=1087
+- NBC | NBC.branden | programmes=624
+- NESN | NESN.branden | programmes=178
+- Nick Jr. | Nick.Jr.branden | programmes=40
+- Nickelodeon | Nickelodeon.branden | programmes=75
+- Ovation | Ovation.branden | programmes=199
+- Oxygen | Oxygen.branden | programmes=117
+- PBS | PBS.branden | programmes=1368
+- PBS Kids | PBS.Kids.branden | programmes=13
+- Pop | Pop.branden | programmes=666
+- Reelz | Reelz.branden | programmes=180
+- Scripps News | Scripps.News.branden | programmes=155
+- Smithsonian Channel | Smithsonian.Channel.branden | programmes=16
+- TUDN | TUDN.branden | programmes=6
+- Telemundo | Telemundo.branden | programmes=821
+- Tennis Channel | Tennis.Channel.branden | programmes=48
+- Univision | Univision.branden | programmes=8
+- VH1 | VH1.branden | programmes=17
+- We TV | We.TV.branden | programmes=650
 
 CHANNELS MISSING EPG:
-- A&E | 
-- ABC Tampa | 
-- ACC Network | ACCNetwork.us@SD
-- AMC | 
-- AccuWeather Network | AccuWeatherNetwork.us@SD
-- Antenna TV | 
-- BBC America | BBCAmerica.us@East
-- BabyFirst | BabyFirst.us@US
-- Big Ten Network | BigTenNetwork.us@SD
-- CMT Music | CMTEqualPlay.us@SD
-- CNBC | CNBC.us@SD
-- CNBC Europe | CNBCEurope.uk
-- CNN International | CNNInternationalEurope.us
-- Charge! | Charge.us@SD
-- Classic Arts Showcase | ClassicArtsShowcase.us@SD
-- Comet | Comet.us@SD
-- Cozi TV | CoziTV.us@SD
-- Discovery Channel | Discovery.Channel.it
-- Disney Channel | DisneyChannel.pt@SD
-- Disney Junior | DisneyJunior.us@West
-- Disney XD | DisneyXD.us@East
-- E! | EKeepingUp.us@SD
-- ESPNU | ESPNU.us@SD
-- FOX Boston | WFXT662.us@SD
-- FOX Philadelphia | WTXFTV291.us@HD
-- FOX Tampa | WTVT131.us@HD
-- FX | FX.us@East
-- FXX | FXX.us@East
-- FYI | FYI.us@East
-- Fox Business Network | FoxBusinessNetwork.us@SD
-- Fox News Channel | FoxNewsChannel.us@SD
-- Fox Sports 1 | FS1Salzburg.at@SD
-- Freeform | Freeform.us@West
-- Fuse | Fuse.us@East
-- Golf Channel | GolfChannel.us@SD
-- HGTV | HGTV.nz@SD
-- Hallmark Channel | HallmarkChannel.us@East
-- Hallmark Family | HallmarkFamily.us@SD
-- Hallmark Mystery | HallmarkMystery.us@East
-- Heroes & Icons | HeroesIcons.us@SD
-- Ion Mystery | 
-- Ion Television | 65453f30085df200085883d8
-- Link TV | LinkTV.ar@SD
-- MTV Classic | MTVClassic.us@East
-- MTV2 | MTV2.us@East
-- MeTV Toons | MeTVToons.us@SD
-- MeTV+ | MeTVPlus.us@SD
-- MyNetworkTV | MyTVChannel.cm@SD
-- NBC Boston | WBTSCD151.us@HD
-- NBC Philadelphia | WCAU621.us@HD
-- NESN | 
-- NFL Network | NFLNetwork.us@SD
-- NHL Network | NHLNetwork.us@SD
-- National Geographic | NationalGeographicWild.ru@SD
-- NewsNation | NewsNation.us@SD
-- Newsmax TV | NewsmaxTV.us@SD
-- Nicktoons | Nicktoons.us@CA
-- Outdoor Channel | OutdoorChannel.us@SD
-- Paramount Network | ParamountNetwork.us@East
-- Pursuit Channel | PursuitChannel.us@SD
-- Reelz | 
-- Rewind TV | RewindTV.cl@SD
-- SEC Network | SECNetwork.us@SD
-- Showtime | ShowtimeFamilyZone.us@East
-- Start TV | StartTV.us@SD
-- Starz | Starz.us@East
-- Starz Cinema | StarzCinema.us@East
-- Starz Kids & Family | StarzKidsFamily.us@East
-- Story Television | WCIUTV265.us@SD
-- Sundance TV | SundanceTV.us@East
-- Syfy | SYFY.us@East
-- TNT | TNTNovelas.us@SD
-- TeenNick | TeenNick.us@East
-- The CW | 
-- The Cowboy Channel | TheCowboyChannel.us@SD
-- UniMas | UniMas.us@Mountain
-- Vice TV | VICETV.us@SD
+- A&E | A.And.E.branden
+- ABC Tampa | ABC.Tampa.branden
+- ACC Network | ACC.Network.branden
+- AccuWeather Network | AccuWeather.Network.branden
+- Antenna TV | Antenna.TV.branden
+- BBC America | BBC.America.branden
+- BabyFirst | BabyFirst.branden
+- Big Ten Network | Big.Ten.Network.branden
+- CMT Music | CMT.Music.branden
+- CNBC | CNBC.branden
+- CNBC Europe | CNBC.Europe.branden
+- CNN International | CNN.International.branden
+- Charge! | Charge.branden
+- Classic Arts Showcase | Classic.Arts.Showcase.branden
+- Comet | Comet.branden
+- Cozi TV | Cozi.TV.branden
+- Discovery Channel | Discovery.Channel.branden
+- Disney Channel | Disney.Channel.branden
+- Disney Junior | Disney.Junior.branden
+- Disney XD | Disney.XD.branden
+- E! | E.branden
+- ESPNU | ESPNU.branden
+- ESPNews | ESPNews.branden
+- FOX Boston | FOX.Boston.branden
+- FOX Philadelphia | FOX.Philadelphia.branden
+- FOX Tampa | FOX.Tampa.branden
+- FX | FX.branden
+- FXX | FXX.branden
+- FYI | FYI.branden
+- Fox Business Network | Fox.Business.Network.branden
+- Fox News Channel | Fox.News.Channel.branden
+- Fox Sports 1 | Fox.Sports.1.branden
+- Freeform | Freeform.branden
+- Fuse | Fuse.branden
+- Golf Channel | Golf.Channel.branden
+- HGTV | HGTV.branden
+- Hallmark Channel | Hallmark.Channel.branden
+- Hallmark Family | Hallmark.Family.branden
+- Hallmark Mystery | Hallmark.Mystery.branden
+- Heroes & Icons | Heroes.And.Icons.branden
+- Ion Television | Ion.Television.branden
+- Link TV | Link.TV.branden
+- MTV Classic | MTV.Classic.branden
+- MTV2 | MTV2.branden
+- MeTV Toons | MeTV.Toons.branden
+- MeTV+ | MeTV.Plus.branden
+- MyNetworkTV | MyNetworkTV.branden
+- NBC Boston | NBC.Boston.branden
+- NBC Philadelphia | NBC.Philadelphia.branden
+- NFL Network | NFL.Network.branden
+- NHL Network | NHL.Network.branden
+- National Geographic | National.Geographic.branden
+- NewsNation | NewsNation.branden
+- Newsmax TV | Newsmax.TV.branden
+- Nicktoons | Nicktoons.branden
+- Outdoor Channel | Outdoor.Channel.branden
+- Paramount Network | Paramount.Network.branden
+- Pursuit Channel | Pursuit.Channel.branden
+- Rewind TV | Rewind.TV.branden
+- SEC Network | SEC.Network.branden
+- Showtime | Showtime.branden
+- Start TV | Start.TV.branden
+- Starz | Starz.branden
+- Starz Cinema | Starz.Cinema.branden
+- Starz Kids & Family | Starz.Kids.And.Family.branden
+- Story Television | Story.Television.branden
+- Sundance TV | Sundance.TV.branden
+- Syfy | Syfy.branden
+- TNT | TNT.branden
+- TeenNick | TeenNick.branden
+- The CW | The.CW.branden
+- The Cowboy Channel | The.Cowboy.Channel.branden
+- UniMas | UniMas.branden
+- Vice TV | Vice.TV.branden

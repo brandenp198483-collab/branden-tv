@@ -156,12 +156,13 @@ def score_channel(ch, wanted, db):
     return score
 
 def rewrite(info, group, wanted):
-    clean_id = re.sub(r"[^A-Za-z0-9]+", ".", wanted).strip(".") + ".branden"
+    clean_name = wanted.replace("+", " Plus ").replace("&", " And ")
+    clean_id = re.sub(r"[^A-Za-z0-9]+", ".", clean_name).strip(".") + ".branden"
 
     # Remove old/source IDs and force BrandenTV ID
     info = re.sub(r'\s*tvg-id\s*=\s*"[^"]*"', '', info)
     info = re.sub(r"\s*tvg-id\s*=\s*'[^']*'", '', info)
-    info = info.replace("#EXTINF:", f'#EXTINF:-1 tvg-id="{clean_id}" ', 1)
+    info = re.sub(r"^#EXTINF:-?\d*", f'#EXTINF:-1 tvg-id="{clean_id}"', info, count=1)
 
     if 'group-title="' in info:
         info = re.sub(r'group-title="[^"]*"', f'group-title="{group}"', info)

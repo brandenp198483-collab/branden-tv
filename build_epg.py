@@ -2,7 +2,7 @@ from pathlib import Path
 import re, html, json, gzip, urllib.request
 import xml.etree.ElementTree as ET
 
-PLAYLIST = Path("docs/BrandenTV-Stremio.m3u")
+PLAYLIST = Path("output/BrandenTV-Stremio.m3u")
 OUT = Path("docs/BrandenTV.xml")
 SOURCES = Path("epg_sources.json")
 IDENTITY = Path("epg_identity.json")
@@ -13,6 +13,29 @@ def attr(line, key):
 
 def norm(s):
     return re.sub(r"[^a-z0-9]+", "", (s or "").lower())
+
+def quality_penalty(text):
+    t = " " + (text or "").lower() + " "
+    penalty = 0
+
+    bad_regions = [
+        ".br@", ".it", ".mx", ".ru", ".sa", ".ar", ".cl", ".pt", ".nz",
+        " brazil", " brasil", " italy", " mexico", " russia", " arabia",
+        " latin", " latam", " panregional", " internacional"
+    ]
+    for bad in bad_regions:
+        if bad in t:
+            penalty -= 1000
+
+    if " us" in t or ".us" in t or "usa" in t or "united states" in t:
+        penalty += 40
+
+    if " east" in t:
+        penalty += 15
+    if " west" in t:
+        penalty -= 25
+
+    return penalty
 
 identity = json.load(open(IDENTITY)) if IDENTITY.exists() else {"channels": {}}
 id_channels = identity.get("channels", {})
@@ -98,6 +121,7 @@ def score_match(tvg_id, possible_text):
         if "east" in clean:
             score -= 50
 
+    score += quality_penalty(text)
     return score
 
 out = ['<?xml version="1.0" encoding="UTF-8"?>', '<tv generator-info-name="BrandenTV">']
@@ -140,7 +164,7 @@ for source, url in json.load(open(SOURCES)).items():
                         best_tvg = tvg
                         best_score = sc
 
-            if best_tvg and best_score > 60:
+            if best_tvg and best_score >= 160:
                 source_to_tvg[cid] = best_tvg
                 matched[best_tvg] = source
 
