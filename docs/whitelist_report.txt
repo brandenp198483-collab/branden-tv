@@ -45,7 +45,7 @@ FOUND | Entertainment | Fuse | iptv-org-category | score=8815 | raw=Fuse (1080p)
 FOUND | Entertainment | FX | iptv-org-category | score=8807 | raw=FX (1080p)
 FOUND | Entertainment | FXX | iptv-org-category | score=8810 | raw=FXX (1080p)
 MISS  | Entertainment | FX Movie Channel
-MISS  | Entertainment | FYI | best_bad_score=-1580 | raw=FYI (720p)
+FOUND | Entertainment | FYI | iptv_org | score=420 | raw=FYI (720p)
 MISS  | Entertainment | GSN
 FOUND | Entertainment | Hallmark Channel | iptv-org-category | score=8792 | raw=Hallmark Channel (1080p)
 FOUND | Entertainment | Hallmark Mystery | iptv-org-category | score=8812 | raw=Hallmark Mystery (1080p)
@@ -70,7 +70,7 @@ FOUND | Entertainment | Sundance TV | iptv-org-category | score=8564 | raw=Sunda
 FOUND | Entertainment | Syfy | iptv-org-category | score=8539 | raw=SYFY (720p)
 MISS  | Entertainment | TBS
 MISS  | Entertainment | TLC
-MISS  | Entertainment | TNT | best_bad_score=-1520 | raw=TNT East
+FOUND | Entertainment | TNT | iptv_org | score=340 | raw=TNT Novelas (720p)
 MISS  | Entertainment | Travel Channel
 MISS  | Entertainment | TruTV
 MISS  | Entertainment | TV Land | best_bad_score=-1580 | raw=TV Land (720p)
@@ -140,7 +140,7 @@ MISS  | Sports | ESPN Deportes
 FOUND | Sports | Fox Sports 1 | iptv-org-category | score=8499 | raw=FS1 Salzburg (720p) [Not 24/7]
 MISS  | Sports | Fox Sports 2
 MISS  | Sports | Fox Soccer Plus
-MISS  | Sports | Golf Channel
+FOUND | Sports | Golf Channel | iptv_org | score=480 | raw=Golf Channel (1080p)
 MISS  | Sports | Marquee Sports Network
 MISS  | Sports | MASN
 MISS  | Sports | MAV TV | best_bad_score=-1470 | raw=Mav TV (#)
