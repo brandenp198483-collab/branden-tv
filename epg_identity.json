@@ -1,0 +1,1065 @@
+{
+  "defaults": {
+    "feed": "east",
+    "preferred_markets": [
+      "Tampa",
+      "Philadelphia",
+      "Boston"
+    ]
+  },
+  "channels": {
+    "ABC": {
+      "feed": "east",
+      "aliases": [
+        "ABC"
+      ],
+      "reject": [
+        "ABC West"
+      ]
+    },
+    "CBS": {
+      "feed": "east",
+      "aliases": [
+        "CBS"
+      ],
+      "reject": [
+        "CBS West"
+      ]
+    },
+    "NBC": {
+      "feed": "east",
+      "aliases": [
+        "NBC"
+      ],
+      "reject": [
+        "NBC West"
+      ]
+    },
+    "FOX": {
+      "feed": "east",
+      "aliases": [
+        "FOX"
+      ],
+      "reject": [
+        "FOX West"
+      ]
+    },
+    "The CW": {
+      "feed": "east",
+      "aliases": [
+        "The CW"
+      ],
+      "reject": [
+        "The CW West"
+      ]
+    },
+    "PBS": {
+      "feed": "east",
+      "aliases": [
+        "PBS"
+      ],
+      "reject": [
+        "PBS West"
+      ]
+    },
+    "MyNetworkTV": {
+      "feed": "east",
+      "aliases": [
+        "MyNetworkTV"
+      ],
+      "reject": [
+        "MyNetworkTV West"
+      ]
+    },
+    "Telemundo": {
+      "feed": "east",
+      "aliases": [
+        "Telemundo"
+      ],
+      "reject": [
+        "Telemundo West"
+      ]
+    },
+    "Univision": {
+      "feed": "east",
+      "aliases": [
+        "Univision"
+      ],
+      "reject": [
+        "Univision West"
+      ]
+    },
+    "UniMas": {
+      "feed": "east",
+      "aliases": [
+        "UniMas"
+      ],
+      "reject": [
+        "UniMas West"
+      ]
+    },
+    "Antenna TV": {
+      "feed": "east",
+      "aliases": [
+        "Antenna TV"
+      ],
+      "reject": [
+        "Antenna TV West"
+      ]
+    },
+    "Cozi TV": {
+      "feed": "east",
+      "aliases": [
+        "Cozi TV"
+      ],
+      "reject": [
+        "Cozi TV West"
+      ]
+    },
+    "Comet": {
+      "feed": "east",
+      "aliases": [
+        "Comet"
+      ],
+      "reject": [
+        "Comet West"
+      ]
+    },
+    "Charge!": {
+      "feed": "east",
+      "aliases": [
+        "Charge!"
+      ],
+      "reject": [
+        "Charge! West"
+      ]
+    },
+    "Grit": {
+      "feed": "east",
+      "aliases": [
+        "Grit"
+      ],
+      "reject": [
+        "Grit West"
+      ]
+    },
+    "Heroes & Icons": {
+      "feed": "east",
+      "aliases": [
+        "Heroes & Icons"
+      ],
+      "reject": [
+        "Heroes & Icons West"
+      ]
+    },
+    "Ion Television": {
+      "feed": "east",
+      "aliases": [
+        "Ion Television"
+      ],
+      "reject": [
+        "Ion Television West"
+      ]
+    },
+    "Ion Mystery": {
+      "feed": "east",
+      "aliases": [
+        "Ion Mystery"
+      ],
+      "reject": [
+        "Ion Mystery West"
+      ]
+    },
+    "Ion Plus": {
+      "feed": "east",
+      "aliases": [
+        "Ion Plus"
+      ],
+      "reject": [
+        "Ion Plus West"
+      ]
+    },
+    "Laff": {
+      "feed": "east",
+      "aliases": [
+        "Laff"
+      ],
+      "reject": [
+        "Laff West"
+      ]
+    },
+    "MeTV": {
+      "feed": "east",
+      "aliases": [
+        "MeTV"
+      ],
+      "reject": [
+        "MeTV West"
+      ]
+    },
+    "MeTV+": {
+      "feed": "east",
+      "aliases": [
+        "MeTV+"
+      ],
+      "reject": [
+        "MeTV+ West"
+      ]
+    },
+    "Movies!": {
+      "feed": "east",
+      "aliases": [
+        "Movies!"
+      ],
+      "reject": [
+        "Movies! West"
+      ]
+    },
+    "Rewind TV": {
+      "feed": "east",
+      "aliases": [
+        "Rewind TV"
+      ],
+      "reject": [
+        "Rewind TV West"
+      ]
+    },
+    "Start TV": {
+      "feed": "east",
+      "aliases": [
+        "Start TV"
+      ],
+      "reject": [
+        "Start TV West"
+      ]
+    },
+    "Story Television": {
+      "feed": "east",
+      "aliases": [
+        "Story Television"
+      ],
+      "reject": [
+        "Story Television West"
+      ]
+    },
+    "MeTV Toons": {
+      "feed": "east",
+      "aliases": [
+        "MeTV Toons"
+      ],
+      "reject": [
+        "MeTV Toons West"
+      ]
+    },
+    "A&E": {
+      "feed": "east",
+      "aliases": [
+        "A&E"
+      ],
+      "reject": [
+        "A&E West"
+      ]
+    },
+    "AMC": {
+      "feed": "east",
+      "aliases": [
+        "AMC"
+      ],
+      "reject": [
+        "AMC West"
+      ]
+    },
+    "AXS TV": {
+      "feed": "east",
+      "aliases": [
+        "AXS TV"
+      ],
+      "reject": [
+        "AXS TV West"
+      ]
+    },
+    "BBC America": {
+      "feed": "east",
+      "aliases": [
+        "BBC America"
+      ],
+      "reject": [
+        "BBC America West"
+      ]
+    },
+    "BET": {
+      "feed": "east",
+      "aliases": [
+        "BET"
+      ],
+      "reject": [
+        "BET West"
+      ]
+    },
+    "Bravo": {
+      "feed": "east",
+      "aliases": [
+        "Bravo"
+      ],
+      "reject": [
+        "Bravo West"
+      ]
+    },
+    "CMT": {
+      "feed": "east",
+      "aliases": [
+        "CMT"
+      ],
+      "reject": [
+        "CMT West"
+      ]
+    },
+    "Comedy Central": {
+      "feed": "east",
+      "aliases": [
+        "Comedy Central"
+      ],
+      "reject": [
+        "Comedy Central West"
+      ]
+    },
+    "E!": {
+      "feed": "east",
+      "aliases": [
+        "E!"
+      ],
+      "reject": [
+        "E! West"
+      ]
+    },
+    "Freeform": {
+      "feed": "east",
+      "aliases": [
+        "Freeform"
+      ],
+      "reject": [
+        "Freeform West"
+      ]
+    },
+    "Fuse": {
+      "feed": "east",
+      "aliases": [
+        "Fuse"
+      ],
+      "reject": [
+        "Fuse West"
+      ]
+    },
+    "FX": {
+      "feed": "east",
+      "aliases": [
+        "FX"
+      ],
+      "reject": [
+        "FX West"
+      ]
+    },
+    "FXX": {
+      "feed": "east",
+      "aliases": [
+        "FXX"
+      ],
+      "reject": [
+        "FXX West"
+      ]
+    },
+    "FYI": {
+      "feed": "east",
+      "aliases": [
+        "FYI"
+      ],
+      "reject": [
+        "FYI West"
+      ]
+    },
+    "Hallmark Channel": {
+      "feed": "east",
+      "aliases": [
+        "Hallmark Channel"
+      ],
+      "reject": [
+        "Hallmark Channel West"
+      ]
+    },
+    "Hallmark Mystery": {
+      "feed": "east",
+      "aliases": [
+        "Hallmark Mystery"
+      ],
+      "reject": [
+        "Hallmark Mystery West"
+      ]
+    },
+    "Hallmark Family": {
+      "feed": "east",
+      "aliases": [
+        "Hallmark Family"
+      ],
+      "reject": [
+        "Hallmark Family West"
+      ]
+    },
+    "IFC": {
+      "feed": "east",
+      "aliases": [
+        "IFC"
+      ],
+      "reject": [
+        "IFC West"
+      ]
+    },
+    "INSP": {
+      "feed": "east",
+      "aliases": [
+        "INSP"
+      ],
+      "reject": [
+        "INSP West"
+      ]
+    },
+    "Lifetime": {
+      "feed": "east",
+      "aliases": [
+        "Lifetime"
+      ],
+      "reject": [
+        "Lifetime West"
+      ]
+    },
+    "MTV": {
+      "feed": "east",
+      "aliases": [
+        "MTV"
+      ],
+      "reject": [
+        "MTV West"
+      ]
+    },
+    "MTV2": {
+      "feed": "east",
+      "aliases": [
+        "MTV2"
+      ],
+      "reject": [
+        "MTV2 West"
+      ]
+    },
+    "MTV Classic": {
+      "feed": "east",
+      "aliases": [
+        "MTV Classic"
+      ],
+      "reject": [
+        "MTV Classic West"
+      ]
+    },
+    "National Geographic": {
+      "feed": "east",
+      "aliases": [
+        "National Geographic"
+      ],
+      "reject": [
+        "National Geographic West"
+      ]
+    },
+    "Ovation": {
+      "feed": "east",
+      "aliases": [
+        "Ovation"
+      ],
+      "reject": [
+        "Ovation West"
+      ]
+    },
+    "Oxygen": {
+      "feed": "east",
+      "aliases": [
+        "Oxygen"
+      ],
+      "reject": [
+        "Oxygen West"
+      ]
+    },
+    "Paramount Network": {
+      "feed": "east",
+      "aliases": [
+        "Paramount Network"
+      ],
+      "reject": [
+        "Paramount Network West"
+      ]
+    },
+    "Pop": {
+      "feed": "east",
+      "aliases": [
+        "Pop"
+      ],
+      "reject": [
+        "Pop West"
+      ]
+    },
+    "Reelz": {
+      "feed": "east",
+      "aliases": [
+        "Reelz"
+      ],
+      "reject": [
+        "Reelz West"
+      ]
+    },
+    "Sundance TV": {
+      "feed": "east",
+      "aliases": [
+        "Sundance TV"
+      ],
+      "reject": [
+        "Sundance TV West"
+      ]
+    },
+    "Syfy": {
+      "feed": "east",
+      "aliases": [
+        "Syfy"
+      ],
+      "reject": [
+        "Syfy West"
+      ]
+    },
+    "TNT": {
+      "feed": "east",
+      "aliases": [
+        "TNT"
+      ],
+      "reject": [
+        "TNT West"
+      ]
+    },
+    "VH1": {
+      "feed": "east",
+      "aliases": [
+        "VH1"
+      ],
+      "reject": [
+        "VH1 West"
+      ]
+    },
+    "Vice TV": {
+      "feed": "east",
+      "aliases": [
+        "Vice TV"
+      ],
+      "reject": [
+        "Vice TV West"
+      ]
+    },
+    "We TV": {
+      "feed": "east",
+      "aliases": [
+        "We TV"
+      ],
+      "reject": [
+        "We TV West"
+      ]
+    },
+    "A&E Crime 360": {
+      "feed": "east",
+      "aliases": [
+        "A&E Crime 360"
+      ],
+      "reject": [
+        "A&E Crime 360 West"
+      ]
+    },
+    "Showtime": {
+      "feed": "east",
+      "aliases": [
+        "Showtime"
+      ],
+      "reject": [
+        "Showtime West"
+      ]
+    },
+    "Starz": {
+      "feed": "east",
+      "aliases": [
+        "Starz"
+      ],
+      "reject": [
+        "Starz West"
+      ]
+    },
+    "Starz Cinema": {
+      "feed": "east",
+      "aliases": [
+        "Starz Cinema"
+      ],
+      "reject": [
+        "Starz Cinema West"
+      ]
+    },
+    "Starz Kids & Family": {
+      "feed": "east",
+      "aliases": [
+        "Starz Kids & Family"
+      ],
+      "reject": [
+        "Starz Kids & Family West"
+      ]
+    },
+    "MGM+": {
+      "feed": "east",
+      "aliases": [
+        "MGM+"
+      ],
+      "reject": [
+        "MGM+ West"
+      ]
+    },
+    "AccuWeather Network": {
+      "feed": "east",
+      "aliases": [
+        "AccuWeather Network"
+      ],
+      "reject": [
+        "AccuWeather Network West"
+      ]
+    },
+    "CNBC": {
+      "feed": "east",
+      "aliases": [
+        "CNBC"
+      ],
+      "reject": [
+        "CNBC West"
+      ]
+    },
+    "CNN International": {
+      "feed": "east",
+      "aliases": [
+        "CNN International"
+      ],
+      "reject": [
+        "CNN International West"
+      ]
+    },
+    "Fox Business Network": {
+      "feed": "east",
+      "aliases": [
+        "Fox Business Network"
+      ],
+      "reject": [
+        "Fox Business Network West"
+      ]
+    },
+    "Fox News Channel": {
+      "feed": "east",
+      "aliases": [
+        "Fox News Channel"
+      ],
+      "reject": [
+        "Fox News Channel West"
+      ]
+    },
+    "Newsmax TV": {
+      "feed": "east",
+      "aliases": [
+        "Newsmax TV"
+      ],
+      "reject": [
+        "Newsmax TV West"
+      ]
+    },
+    "NewsNation": {
+      "feed": "east",
+      "aliases": [
+        "NewsNation"
+      ],
+      "reject": [
+        "NewsNation West"
+      ]
+    },
+    "Scripps News": {
+      "feed": "east",
+      "aliases": [
+        "Scripps News"
+      ],
+      "reject": [
+        "Scripps News West"
+      ]
+    },
+    "ACC Network": {
+      "feed": "east",
+      "aliases": [
+        "ACC Network"
+      ],
+      "reject": [
+        "ACC Network West"
+      ]
+    },
+    "Big Ten Network": {
+      "feed": "east",
+      "aliases": [
+        "Big Ten Network"
+      ],
+      "reject": [
+        "Big Ten Network West"
+      ]
+    },
+    "ESPN": {
+      "feed": "east",
+      "aliases": [
+        "ESPN"
+      ],
+      "reject": [
+        "ESPN West"
+      ]
+    },
+    "ESPNU": {
+      "feed": "east",
+      "aliases": [
+        "ESPNU"
+      ],
+      "reject": [
+        "ESPNU West"
+      ]
+    },
+    "Fox Sports 1": {
+      "feed": "east",
+      "aliases": [
+        "Fox Sports 1"
+      ],
+      "reject": [
+        "Fox Sports 1 West"
+      ]
+    },
+    "Golf Channel": {
+      "feed": "east",
+      "aliases": [
+        "Golf Channel"
+      ],
+      "reject": [
+        "Golf Channel West"
+      ]
+    },
+    "NFL Network": {
+      "feed": "east",
+      "aliases": [
+        "NFL Network"
+      ],
+      "reject": [
+        "NFL Network West"
+      ]
+    },
+    "NHL Network": {
+      "feed": "east",
+      "aliases": [
+        "NHL Network"
+      ],
+      "reject": [
+        "NHL Network West"
+      ]
+    },
+    "SEC Network": {
+      "feed": "east",
+      "aliases": [
+        "SEC Network"
+      ],
+      "reject": [
+        "SEC Network West"
+      ]
+    },
+    "Tennis Channel": {
+      "feed": "east",
+      "aliases": [
+        "Tennis Channel"
+      ],
+      "reject": [
+        "Tennis Channel West"
+      ]
+    },
+    "TUDN": {
+      "feed": "east",
+      "aliases": [
+        "TUDN"
+      ],
+      "reject": [
+        "TUDN West"
+      ]
+    },
+    "NESN": {
+      "feed": "east",
+      "aliases": [
+        "NESN"
+      ],
+      "reject": [
+        "NESN West"
+      ]
+    },
+    "Disney Channel": {
+      "feed": "east",
+      "aliases": [
+        "Disney Channel"
+      ],
+      "reject": [
+        "Disney Channel West"
+      ]
+    },
+    "Disney Junior": {
+      "feed": "east",
+      "aliases": [
+        "Disney Junior"
+      ],
+      "reject": [
+        "Disney Junior West"
+      ]
+    },
+    "Disney XD": {
+      "feed": "east",
+      "aliases": [
+        "Disney XD"
+      ],
+      "reject": [
+        "Disney XD West"
+      ]
+    },
+    "Nick Jr.": {
+      "feed": "east",
+      "aliases": [
+        "Nick Jr."
+      ],
+      "reject": [
+        "Nick Jr. West"
+      ]
+    },
+    "Nickelodeon": {
+      "feed": "east",
+      "aliases": [
+        "Nickelodeon"
+      ],
+      "reject": [
+        "Nickelodeon West"
+      ]
+    },
+    "Nicktoons": {
+      "feed": "east",
+      "aliases": [
+        "Nicktoons"
+      ],
+      "reject": [
+        "Nicktoons West"
+      ]
+    },
+    "TeenNick": {
+      "feed": "east",
+      "aliases": [
+        "TeenNick"
+      ],
+      "reject": [
+        "TeenNick West"
+      ]
+    },
+    "PBS Kids": {
+      "feed": "east",
+      "aliases": [
+        "PBS Kids"
+      ],
+      "reject": [
+        "PBS Kids West"
+      ]
+    },
+    "BabyFirst": {
+      "feed": "east",
+      "aliases": [
+        "BabyFirst"
+      ],
+      "reject": [
+        "BabyFirst West"
+      ]
+    },
+    "Discovery Channel": {
+      "feed": "east",
+      "aliases": [
+        "Discovery Channel"
+      ],
+      "reject": [
+        "Discovery Channel West"
+      ]
+    },
+    "Food Network": {
+      "feed": "east",
+      "aliases": [
+        "Food Network"
+      ],
+      "reject": [
+        "Food Network West"
+      ]
+    },
+    "HGTV": {
+      "feed": "east",
+      "aliases": [
+        "HGTV"
+      ],
+      "reject": [
+        "HGTV West"
+      ]
+    },
+    "Smithsonian Channel": {
+      "feed": "east",
+      "aliases": [
+        "Smithsonian Channel"
+      ],
+      "reject": [
+        "Smithsonian Channel West"
+      ]
+    },
+    "The Cowboy Channel": {
+      "feed": "east",
+      "aliases": [
+        "The Cowboy Channel"
+      ],
+      "reject": [
+        "The Cowboy Channel West"
+      ]
+    },
+    "Outdoor Channel": {
+      "feed": "east",
+      "aliases": [
+        "Outdoor Channel"
+      ],
+      "reject": [
+        "Outdoor Channel West"
+      ]
+    },
+    "Pursuit Channel": {
+      "feed": "east",
+      "aliases": [
+        "Pursuit Channel"
+      ],
+      "reject": [
+        "Pursuit Channel West"
+      ]
+    },
+    "Classic Arts Showcase": {
+      "feed": "east",
+      "aliases": [
+        "Classic Arts Showcase"
+      ],
+      "reject": [
+        "Classic Arts Showcase West"
+      ]
+    },
+    "France 24": {
+      "feed": "east",
+      "aliases": [
+        "France 24"
+      ],
+      "reject": [
+        "France 24 West"
+      ]
+    },
+    "Link TV": {
+      "feed": "east",
+      "aliases": [
+        "Link TV"
+      ],
+      "reject": [
+        "Link TV West"
+      ]
+    },
+    "ABC Tampa": {
+      "station": "WFTS",
+      "market": "Tampa",
+      "network": "ABC",
+      "feed": "local",
+      "aliases": [
+        "WFTS",
+        "WFTS-DT",
+        "ABC Action News",
+        "ABC Tampa"
+      ]
+    },
+    "FOX Tampa": {
+      "station": "WTVT",
+      "market": "Tampa",
+      "network": "FOX",
+      "feed": "local",
+      "aliases": [
+        "WTVT",
+        "WTVT-DT",
+        "FOX 13 Tampa",
+        "FOX Tampa"
+      ]
+    },
+    "NBC Boston": {
+      "station": "WBTS",
+      "market": "Boston",
+      "network": "NBC",
+      "feed": "local",
+      "aliases": [
+        "WBTS",
+        "WBTS-CD",
+        "NBC10 Boston",
+        "NBC Boston"
+      ]
+    },
+    "FOX Boston": {
+      "station": "WFXT",
+      "market": "Boston",
+      "network": "FOX",
+      "feed": "local",
+      "aliases": [
+        "WFXT",
+        "WFXT-DT",
+        "Boston 25",
+        "FOX Boston"
+      ]
+    },
+    "NBC Philadelphia": {
+      "station": "WCAU",
+      "market": "Philadelphia",
+      "network": "NBC",
+      "feed": "local",
+      "aliases": [
+        "WCAU",
+        "WCAU-DT",
+        "NBC10 Philadelphia",
+        "NBC Philadelphia"
+      ]
+    },
+    "FOX Philadelphia": {
+      "station": "WTXF",
+      "market": "Philadelphia",
+      "network": "FOX",
+      "feed": "local",
+      "aliases": [
+        "WTXF",
+        "WTXF-DT",
+        "FOX 29",
+        "FOX Philadelphia"
+      ]
+    },
+    "CMT Music": {
+      "feed": "east",
+      "aliases": [
+        "CMT Music"
+      ],
+      "reject": [
+        "CMT Music West"
+      ]
+    },
+    "CNBC Europe": {
+      "feed": "east",
+      "aliases": [
+        "CNBC Europe"
+      ],
+      "reject": [
+        "CNBC Europe West"
+      ]
+    }
+  }
+}

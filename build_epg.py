@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 PLAYLIST = Path("docs/BrandenTV-Stremio.m3u")
 OUT = Path("docs/BrandenTV.xml")
 SOURCES = Path("epg_sources.json")
+IDENTITY = Path("epg_identity.json")
 
 def attr(line, key):
     m = re.search(rf'{key}="([^"]*)"', line)
@@ -13,10 +14,14 @@ def attr(line, key):
 def norm(s):
     return re.sub(r"[^a-z0-9]+", "", (s or "").lower())
 
-# playlist channels
+identity = json.load(open(IDENTITY)) if IDENTITY.exists() else {"channels": {}}
+id_channels = identity.get("channels", {})
+
 channel_rows = []
 name_to_tvg = {}
-id_to_name = {}
+tvg_to_name = {}
+alias_to_tvg = {}
+rejects_by_tvg = {}
 
 for line in PLAYLIST.read_text(errors="ignore").splitlines():
     if not line.startswith("#EXTINF"):
@@ -31,7 +36,69 @@ for line in PLAYLIST.read_text(errors="ignore").splitlines():
 
     channel_rows.append((tvg_id, name, logo))
     name_to_tvg[norm(name)] = tvg_id
-    id_to_name[tvg_id] = name
+    tvg_to_name[tvg_id] = name
+
+    info = id_channels.get(name, {})
+    aliases = set(info.get("aliases", []))
+    aliases.add(name)
+
+    station = info.get("station")
+    if station:
+        aliases.add(station)
+        aliases.add(station + "-DT")
+        aliases.add(station + "TV")
+
+    for a in aliases:
+        alias_to_tvg[norm(a)] = tvg_id
+
+    rejects_by_tvg[tvg_id] = [norm(x) for x in info.get("reject", [])]
+
+def score_match(tvg_id, possible_text):
+    name = tvg_to_name.get(tvg_id, "")
+    info = id_channels.get(name, {})
+    text = " ".join(possible_text)
+    clean = norm(text)
+
+    score = 0
+
+    for bad in rejects_by_tvg.get(tvg_id, []):
+        if bad and bad in clean:
+            return -9999
+
+    nname = norm(name)
+    if len(nname) >= 3 and nname in clean:
+        score += 100
+    elif nname == clean:
+        score += 100
+
+    for a in info.get("aliases", []):
+        na = norm(a)
+        if len(na) >= 3 and na in clean:
+            score += 90
+        elif na == clean:
+            score += 90
+
+    station = info.get("station")
+    if station and norm(station) in clean:
+        score += 150
+
+    market = info.get("market")
+    if market and norm(market) in clean:
+        score += 70
+
+    feed = info.get("feed", "east").lower()
+    if feed == "east":
+        if "east" in clean:
+            score += 30
+        if "west" in clean:
+            score -= 80
+    elif feed == "west":
+        if "west" in clean:
+            score += 30
+        if "east" in clean:
+            score -= 50
+
+    return score
 
 out = ['<?xml version="1.0" encoding="UTF-8"?>', '<tv generator-info-name="BrandenTV">']
 programmes = []
@@ -53,12 +120,29 @@ for source, url in json.load(open(SOURCES)).items():
             names = [x.text or "" for x in ch.findall("display-name")]
             possible = [cid] + names
 
+            best_tvg = None
+            best_score = 0
+
             for item in possible:
                 key = norm(item)
-                if key in name_to_tvg:
-                    source_to_tvg[cid] = name_to_tvg[key]
-                    matched[name_to_tvg[key]] = source
-                    break
+                if key in alias_to_tvg:
+                    tvg = alias_to_tvg[key]
+                    sc = score_match(tvg, possible) + 100
+                    if sc > best_score:
+                        best_tvg = tvg
+                        best_score = sc
+
+            # fallback contains-match
+            if not best_tvg:
+                for tvg in tvg_to_name:
+                    sc = score_match(tvg, possible)
+                    if sc > best_score:
+                        best_tvg = tvg
+                        best_score = sc
+
+            if best_tvg and best_score > 60:
+                source_to_tvg[cid] = best_tvg
+                matched[best_tvg] = source
 
         added = 0
         for prog in root.findall("programme"):
@@ -68,7 +152,7 @@ for source, url in json.load(open(SOURCES)).items():
                 programmes.append(ET.tostring(prog, encoding="unicode"))
                 added += 1
 
-        print("  matched channels:", len(source_to_tvg), "programmes added:", added)
+        print("  matched channels:", len(set(source_to_tvg.values())), "programmes added:", added)
 
     except Exception as e:
         print("  FAILED", source, e)
