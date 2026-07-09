@@ -69,7 +69,7 @@ FOUND | Entertainment | Reelz | iptv-org-category | score=8488 | raw=Reelz Famou
 FOUND | Entertainment | Sundance TV | iptv-org-category | score=8575 | raw=Sundance TV (720p)
 FOUND | Entertainment | Syfy | iptv-org-category | score=8438 | raw=SYFY HD (720p)
 MISS  | Entertainment | TBS
-MISS  | Entertainment | TLC | best_bad_score=-1550 | raw=TLC
+MISS  | Entertainment | TLC
 FOUND | Entertainment | TNT | iptv_org_noram | score=8593 | raw=TNT Novelas (720p)
 MISS  | Entertainment | Travel Channel
 MISS  | Entertainment | TruTV
@@ -177,10 +177,10 @@ MISS  | Lifestyle & Documentary | Discovery Family
 MISS  | Lifestyle & Documentary | Discovery Life
 FOUND | Lifestyle & Documentary | Food Network | free_tv | score=7938 | raw=Food Network
 FOUND | Lifestyle & Documentary | HGTV | iptv-org-category | score=8914 | raw=HGTV (1080p)
-MISS  | Lifestyle & Documentary | History Channel | best_bad_score=-1550 | raw=History Channel
-MISS  | Lifestyle & Documentary | Investigation Discovery | best_bad_score=-1550 | raw=Investigation Discovery
+MISS  | Lifestyle & Documentary | History Channel
+MISS  | Lifestyle & Documentary | Investigation Discovery
 MISS  | Lifestyle & Documentary | Military History
-MISS  | Lifestyle & Documentary | Science Channel | best_bad_score=-1550 | raw=Science Channel
+MISS  | Lifestyle & Documentary | Science Channel
 FOUND | Lifestyle & Documentary | Smithsonian Channel | iptv-org-category | score=8826 | raw=Smithsonian Channel (1080p)
 FOUND | Lifestyle & Documentary | The Cowboy Channel | iptv-org-category | score=8576 | raw=The Cowboy Channel (720p)
 FOUND | Lifestyle & Documentary | Outdoor Channel | iptv-org-category | score=8857 | raw=Outdoor Channel (1080p)
