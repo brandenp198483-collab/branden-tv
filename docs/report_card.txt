@@ -3,34 +3,40 @@
 =============================================
 Whitelist channels:       213
 Channels with candidates: 137
-Final healthy streams:    113
-Final bad streams:        3
+Final healthy streams:    106
+Final bad streams:        2
 
 SOURCE GRADES:
 - apsat_firetv: candidates=1 health=100.0%
+- apsat_rakutentv_uk: candidates=2 health=95.8%
 - apsat_roku: candidates=1 health=0.0%
+- apsat_ssungusa: candidates=1 health=100.0%
 - apsat_tablo: candidates=5 health=100.0%
+- buddy_pluto_all: candidates=14 health=99.6%
 - distro: candidates=3 health=33.3%
-- free_tv: candidates=11 health=59.2%
-- iptv-org-category: candidates=226 health=88.8%
-- iptv-org-news: candidates=36 health=78.2%
-- iptv-org-sports: candidates=13 health=79.3%
+- free_tv: candidates=11 health=60.6%
+- iptv-org-category: candidates=214 health=87.9%
+- iptv-org-news: candidates=36 health=78.7%
+- iptv-org-sports: candidates=12 health=78.8%
 - iptv-org-weather: candidates=3 health=100.0%
-- iptv_org: candidates=146 health=85.6%
-- iptv_org_noram: candidates=21 health=96.6%
-- localnow: candidates=5 health=99.6%
+- iptv_org: candidates=149 health=88.2%
+- iptv_org_movies: candidates=7 health=71.1%
+- iptv_org_music: candidates=3 health=42.7%
+- iptv_org_noram: candidates=15 health=95.4%
+- iptv_org_us: candidates=12 health=84.0%
+- localnow: candidates=5 health=99.7%
 - manual_overrides: candidates=1 health=0.0%
-- manual_test_missing: candidates=6 health=0.0%
+- manual_removed_test: candidates=6 health=0.0%
 - ota_diginets: candidates=7 health=28.6%
-- plex: candidates=42 health=83.8%
-- pluto: candidates=22 health=99.3%
-- popular-kids-iptv: candidates=5 health=74.1%
-- popular-movies-iptv: candidates=6 health=63.5%
-- roku_online: candidates=1 health=95.6%
-- samsung: candidates=5 health=98.7%
-- tubi: candidates=5 health=98.2%
+- plex: candidates=56 health=83.8%
+- pluto: candidates=38 health=99.6%
+- popular-kids-iptv: candidates=3 health=99.8%
+- popular-movies-iptv: candidates=1 health=100.0%
+- roku_online: candidates=1 health=97.3%
+- samsung: candidates=4 health=98.7%
+- tubi: candidates=5 health=98.9%
 - usa_hanssettings: candidates=67 health=0.0%
-- vizio: candidates=4 health=99.4%
+- vizio: candidates=4 health=99.7%
 - xumo: candidates=6 health=0.0%
 
 MISSING / NO CANDIDATES:
@@ -111,6 +117,5 @@ MISSING / NO CANDIDATES:
 - CBS Philadelphia
 
 BROKEN FINAL LINEUP:
-- NBC (0.13s)
-- NBC Boston (0.171s)
-- NBC Philadelphia (0.144s)
+- NBC Boston (0.214s)
+- NBC Philadelphia (0.132s)

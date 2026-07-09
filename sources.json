@@ -22,5 +22,16 @@
   "apsat_veely": "https://www.apsattv.com/veely.m3u",
   "apsat_firetv": "https://www.apsattv.com/firetv.m3u",
   "apsat_tablo": "https://www.apsattv.com/tablo.m3u",
-  "apsat_roku": "https://www.apsattv.com/rok.m3u"
+  "apsat_roku": "https://www.apsattv.com/rok.m3u",
+  "buddy_pluto_us": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u",
+  "buddy_pluto_all": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u",
+  "apsat_ssungusa": "https://apsattv.com/ssungusa.m3u",
+  "apsat_uslg": "https://www.apsattv.com/uslg.m3u",
+  "apsat_rakutentv_uk": "https://www.apsattv.com/rakutentv-uk.m3u",
+  "apsat_rakutentv_fr": "https://www.apsattv.com/rakutentv-fr.m3u",
+  "iptv_org_movies": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+  "iptv_org_news_cat": "https://iptv-org.github.io/iptv/categories/news.m3u",
+  "iptv_org_documentary": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+  "iptv_org_music": "https://iptv-org.github.io/iptv/categories/music.m3u",
+  "iptv_org_us": "https://iptv-org.github.io/iptv/countries/us.m3u"
 }

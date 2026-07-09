@@ -1,23 +1,108 @@
 {
-  "MyNetworkTV": ["MyTV", "My TV", "MYTV", "My Network TV", "MyNetwork"],
-  "CMT": ["CMT", "Country Music Television"],
-  "CMT Music": ["CMT Music", "CMT Equal Play", "CMT Pure Country"],
-  "CNBC": ["CNBC", "CNBC US", "CNBC USA", "CNBC HD"],
-  "CNBC Europe": ["CNBC Europe", "CNBC EU", "CNBC International", "CNBC Frankfurt"],
-  "CNBC World": ["CNBC World"],
-
-  "ABC Tampa": ["WFTS", "ABC Tampa", "ABC Action News", "WFTS Tampa"],
-  "CBS Tampa": ["WTSP", "CBS Tampa", "10 Tampa Bay"],
-  "NBC Tampa": ["WFLA", "NBC Tampa", "NewsChannel 8"],
-  "FOX Tampa": ["WTVT", "FOX Tampa", "FOX 13 Tampa"],
-
-  "ABC Boston": ["WCVB", "ABC Boston", "WCVB Boston"],
-  "CBS Boston": ["WBZ", "CBS Boston", "WBZ Boston"],
-  "NBC Boston": ["WBTS", "NBC Boston", "NBC10 Boston"],
-  "FOX Boston": ["WFXT", "FOX Boston", "Boston 25"],
-
-  "ABC Philadelphia": ["WPVI", "ABC Philadelphia", "6abc"],
-  "CBS Philadelphia": ["KYW", "CBS Philadelphia", "CBS Philly"],
-  "NBC Philadelphia": ["WCAU", "NBC Philadelphia", "NBC10 Philadelphia"],
-  "FOX Philadelphia": ["WTXF", "FOX Philadelphia", "FOX 29"]
+  "MyNetworkTV": [
+    "MyTV",
+    "My TV",
+    "MYTV",
+    "My Network TV",
+    "MyNetwork"
+  ],
+  "CMT": [
+    "CMT",
+    "Country Music Television"
+  ],
+  "CMT Music": [
+    "CMT Music",
+    "CMT Equal Play",
+    "CMT Pure Country"
+  ],
+  "CNBC": [
+    "CNBC",
+    "CNBC US",
+    "CNBC USA",
+    "CNBC HD"
+  ],
+  "CNBC Europe": [
+    "CNBC Europe",
+    "CNBC EU",
+    "CNBC International",
+    "CNBC Frankfurt"
+  ],
+  "CNBC World": [
+    "CNBC World"
+  ],
+  "ABC Tampa": [
+    "WFTS",
+    "ABC Tampa",
+    "ABC Action News",
+    "WFTS Tampa"
+  ],
+  "CBS Tampa": [
+    "WTSP",
+    "CBS Tampa",
+    "10 Tampa Bay"
+  ],
+  "NBC Tampa": [
+    "WFLA",
+    "NBC Tampa",
+    "NewsChannel 8"
+  ],
+  "FOX Tampa": [
+    "WTVT",
+    "FOX Tampa",
+    "FOX 13 Tampa"
+  ],
+  "ABC Boston": [
+    "WCVB",
+    "ABC Boston",
+    "WCVB Boston"
+  ],
+  "CBS Boston": [
+    "WBZ",
+    "CBS Boston",
+    "WBZ Boston"
+  ],
+  "NBC Boston": [
+    "WBTS",
+    "NBC Boston",
+    "NBC10 Boston"
+  ],
+  "FOX Boston": [
+    "WFXT",
+    "FOX Boston",
+    "Boston 25"
+  ],
+  "ABC Philadelphia": [
+    "WPVI",
+    "ABC Philadelphia",
+    "6abc"
+  ],
+  "CBS Philadelphia": [
+    "KYW",
+    "CBS Philadelphia",
+    "CBS Philly"
+  ],
+  "NBC Philadelphia": [
+    "WCAU",
+    "NBC Philadelphia",
+    "NBC10 Philadelphia"
+  ],
+  "FOX Philadelphia": [
+    "WTXF",
+    "FOX Philadelphia",
+    "FOX 29"
+  ],
+  "aliases": {
+    "History Channel": [
+      "History",
+      "History Channel HD",
+      "History East"
+    ],
+    "H2": [
+      "H2",
+      "History 2",
+      "History2",
+      "History Channel 2",
+      "H2 HD"
+    ]
+  }
 }

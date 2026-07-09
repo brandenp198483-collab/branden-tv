@@ -3,15 +3,15 @@
     "group": "OTA Major Networks",
     "name": "ABC",
     "source": "iptv_org",
-    "raw": "ABC 6 Austin TX (KAAL) (1080p)",
-    "url": "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"KAAL61.us@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png\" group-title=\"General\",ABC 6 Austin TX (KAAL) (1080p)",
+    "raw": "ABC 2 Portland OR (KATU) (1080p)",
+    "url": "https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"KATU321.us@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png\" group-title=\"General\",ABC 2 Portland OR (KATU) (1080p)",
     "ok": true,
-    "seconds": 0.226,
+    "seconds": 0.272,
     "resolution": 1080,
-    "score": 8924,
+    "score": 8930,
     "alternatives": 52,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "CBS": {
     "group": "OTA Major Networks",
@@ -21,11 +21,11 @@
     "url": "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WWMT31.us@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png\" group-title=\"Undefined\",CBS 3 Kalamazoo MI (WWMT) (1080p)",
     "ok": true,
-    "seconds": 0.252,
+    "seconds": 0.259,
     "resolution": 1080,
-    "score": 8916,
+    "score": 8934,
     "alternatives": 35,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NBC": {
     "group": "OTA Major Networks",
@@ -35,11 +35,11 @@
     "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI",
     "info": "#EXTINF:-1 tvg-id=\"WMAQTV51.us@HD\" tvg-logo=\"https://i.imgur.com/wblxisu.png\" group-title=\"Undefined\",NBC 5 Chicago Live News (1080p)",
     "ok": true,
-    "seconds": 0.209,
+    "seconds": 0.217,
     "resolution": 1080,
-    "score": 8929,
+    "score": 8946,
     "alternatives": 32,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "FOX": {
     "group": "OTA Major Networks",
@@ -49,11 +49,11 @@
     "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WLUKTV141.us@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png\" group-title=\"Undefined\",FOX 11 Green Bay WI (WLUK) (1080p)",
     "ok": true,
-    "seconds": 0.254,
+    "seconds": 0.221,
     "resolution": 1080,
-    "score": 8915,
+    "score": 8945,
     "alternatives": 20,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "The CW": {
     "group": "OTA Major Networks",
@@ -63,11 +63,11 @@
     "url": "https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"\" tvg-logo=\"\" group-title=\"Undefined\",CW FOREVER (1080p)",
     "ok": true,
-    "seconds": 0.111,
+    "seconds": 0.089,
     "resolution": 1080,
-    "score": 8482,
+    "score": 8483,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "PBS": {
     "group": "OTA Major Networks",
@@ -77,25 +77,25 @@
     "url": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"AntiquesRoadTrip.us@SD\" tvg-logo=\"https://i.imgur.com/kkm7VqV.png\" group-title=\"Lifestyle\",PBS Antiques Road Trip (1080p)",
     "ok": true,
-    "seconds": 0.259,
+    "seconds": 0.176,
     "resolution": 1080,
-    "score": 8914,
+    "score": 8959,
     "alternatives": 21,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MyNetworkTV": {
     "group": "OTA Major Networks",
     "name": "MyNetworkTV",
-    "source": "iptv-org-category",
-    "raw": "myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]",
-    "url": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"KCWX351.us@HD\" tvg-logo=\"\" group-title=\"Entertainment\",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]",
+    "source": "iptv_org",
+    "raw": "My TV Channel (720p) [Not 24/7]",
+    "url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"MyTVChannel.cm@SD\" tvg-logo=\"https://i.imgur.com/vh2373L.png\" group-title=\"Undefined\",My TV Channel (720p) [Not 24/7]",
     "ok": true,
-    "seconds": 0.305,
+    "seconds": 0.213,
     "resolution": 720,
-    "score": 8274,
+    "score": 8273,
     "alternatives": 4,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Telemundo": {
     "group": "OTA Major Networks",
@@ -105,25 +105,25 @@
     "url": "http://190.60.46.156:8089/TELEMUNDO/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"TelemundoInternacional.us@CentralAmerica\" tvg-logo=\"https://i.imgur.com/j2O4ndp.png\" group-title=\"General\",Telemundo Internacional Central America (1080p)",
     "ok": true,
-    "seconds": 0.277,
+    "seconds": 0.219,
     "resolution": 1080,
-    "score": 8758,
+    "score": 8796,
     "alternatives": 12,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Univision": {
     "group": "OTA Major Networks",
     "name": "Univision",
-    "source": "iptv-org-category",
+    "source": "iptv_org_us",
     "raw": "Univision (1080p)",
     "url": "http://200.115.120.1:8000/play/ca106/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Univision.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png\" group-title=\"Undefined\",Univision (1080p)",
     "ok": true,
-    "seconds": 0.123,
+    "seconds": 0.12,
     "resolution": 1080,
-    "score": 8829,
+    "score": 8794,
     "alternatives": 5,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "UniMas": {
     "group": "OTA Major Networks",
@@ -133,11 +133,11 @@
     "url": "http://168.228.44.241:9997/play/a09e/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"UniMas.us@Mountain\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png\" group-title=\"Undefined\",UniMas Mountain (1080p)",
     "ok": true,
-    "seconds": 0.105,
+    "seconds": 0.123,
     "resolution": 1080,
-    "score": 8834,
+    "score": 5390,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Antenna TV": {
     "group": "OTA Digital Multicast",
@@ -147,11 +147,11 @@
     "url": "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8",
     "info": "#EXTINF:-1 tvg-logo=\"https://tmcb82.github.io/ota/logos/antennatv.png\" group-title=\"Entertainment\", Antenna TV",
     "ok": true,
-    "seconds": 0.548,
+    "seconds": 0.627,
     "resolution": 0,
-    "score": 7450,
+    "score": 7426,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Cozi TV": {
     "group": "OTA Digital Multicast",
@@ -161,11 +161,11 @@
     "url": "http://206.212.244.63/49/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"CoziTV.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png\" group-title=\"Entertainment\",Cozi TV (720p)",
     "ok": true,
-    "seconds": 0.113,
+    "seconds": 0.128,
     "resolution": 720,
-    "score": 8205,
+    "score": 8229,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Comet": {
     "group": "OTA Digital Multicast",
@@ -175,11 +175,11 @@
     "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Comet.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png\" group-title=\"Entertainment\",Comet (1080p)",
     "ok": true,
-    "seconds": 0.122,
+    "seconds": 0.106,
     "resolution": 1080,
-    "score": 8979,
+    "score": 8978,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Charge!": {
     "group": "OTA Digital Multicast",
@@ -191,9 +191,9 @@
     "ok": true,
     "seconds": 0.11,
     "resolution": 1080,
-    "score": 8982,
+    "score": 8976,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Dabl": {
     "group": "OTA Digital Multicast",
@@ -203,11 +203,11 @@
     "url": "https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8",
     "info": "#EXTINF:-1 tvg-logo=\"https://tmcb82.github.io/ota/logos/dabl.png\" group-title=\"Entertainment\", Dabl",
     "ok": false,
-    "seconds": 0.258,
+    "seconds": 0.262,
     "resolution": 0,
-    "score": -8063,
+    "score": -11064,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Defy TV": {
     "group": "OTA Digital Multicast",
@@ -217,11 +217,11 @@
     "url": "https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8:Defy TV",
     "info": "#EXTINF:-1 tvg-name=\"Defy TV\" group-title=\"HansSettings USA\",Defy TV",
     "ok": false,
-    "seconds": 0.02,
+    "seconds": 0.019,
     "resolution": 0,
-    "score": -8456,
+    "score": -11455,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Grit": {
     "group": "OTA Digital Multicast",
@@ -231,11 +231,11 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"GritXtra.us@SD\" tvg-logo=\"https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png\" group-title=\"Entertainment\",Grit Xtra (1080p)",
     "ok": true,
-    "seconds": 0.459,
+    "seconds": 0.517,
     "resolution": 1080,
     "score": 8626,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Heroes & Icons": {
     "group": "OTA Digital Multicast",
@@ -245,25 +245,25 @@
     "url": "http://206.212.244.63/88/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"HeroesIcons.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png\" group-title=\"Documentary\",Heroes & Icons (720p)",
     "ok": true,
-    "seconds": 0.108,
+    "seconds": 0.098,
     "resolution": 720,
-    "score": 8583,
+    "score": 8580,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Ion Television": {
     "group": "OTA Digital Multicast",
     "name": "Ion Television",
     "source": "pluto",
     "raw": "ION",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzZjIyNzQ4LWVkMmItNGUzOS1iZDI0LWE5YjQxNDgyODQ3NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjN2ZhODFiNC03YWQ5LTExZjEtYWM4ZC01ZWM2NzI2ZDgwNGEiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJmd1ZjSUQyQ29wcGEiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImFiOTI3ZWQyLTU3ZWYtNDExNi1hNTU4LTY3YjMzZjRkNGFmYSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM1MjExMjA2NzcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpZV0k1TWpkbFpESXROVGRsWmkwME1URTJMV0UxTlRndE5qZGlNek5tTkdRMFlXWmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNjA3NTIwLCJpYXQiOjE3ODM1MjExMjAsImp0aSI6ImZmNTlhNTA0LTIwZGMtNDc1NC1hMDczLWNmNzc0ZDFkZmU5NyJ9.b78LcKa5YU-TBRCQjKs1O4mq2n6mkBFGksfk7PI2DHA&masterJWTPassthrough=true",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzZjIyNzQ4LWVkMmItNGUzOS1iZDI0LWE5YjQxNDgyODQ3NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5OWQ3NjA2My03YjA1LTExZjEtODg4Ni1hZWYwMmE1YTZhODUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI3OTEwNWE4Ny1jN2E5LTRlOGQtOTEzMi04MmFmODc2NjQzZDYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI3OTEwNWE4Ny1jN2E5LTRlOGQtOTEzMi04MmFmODc2NjQzZDYiLCJmd1ZjSUQyQ29wcGEiOiI3OTEwNWE4Ny1jN2E5LTRlOGQtOTEzMi04MmFmODc2NjQzZDYiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6Ijc5MTA1YTg3LWM3YTktNGU4ZC05MTMyLTgyYWY4NzY2NDNkNiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM1Mzk5NDExMjcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOemt4TURWaE9EY3RZemRoT1MwMFpUaGtMVGt4TXpJdE9ESmhaamczTmpZME0yUTIiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNjI2MzQxLCJpYXQiOjE3ODM1Mzk5NDEsImp0aSI6ImZmYTQ0NTM1LTY3MzYtNDhmNi05ZTQwLTY3YjM2MmUyZWM5MyJ9.gN7eBuVvR1vltYNFgspp_fu-HTCUNNuXwUEk5p2HcoE&masterJWTPassthrough=true",
     "info": "#EXTINF:-1 group-title=\"Entertainment\" tvg-id=\"65453f30085df200085883d8\" tvg-name=\"ION\" tvg-logo=\"https://images.pluto.tv/channels/65453f30085df200085883d8/logo.png?fit=fill&fm=png&h=80&w=280\",ION",
     "ok": true,
-    "seconds": 0.302,
+    "seconds": 0.177,
     "resolution": 0,
-    "score": 8305,
-    "alternatives": 18,
-    "updated": 1783537475
+    "score": 8344,
+    "alternatives": 23,
+    "updated": 1783618485
   },
   "Ion Mystery": {
     "group": "OTA Digital Multicast",
@@ -273,11 +273,11 @@
     "url": "https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"\" tvg-logo=\"\" group-title=\"Undefined\",ION Mystery (1080p)",
     "ok": true,
-    "seconds": 0.487,
+    "seconds": 0.472,
     "resolution": 1080,
-    "score": 8345,
-    "alternatives": 11,
-    "updated": 1783537475
+    "score": 8370,
+    "alternatives": 12,
+    "updated": 1783618485
   },
   "Ion Plus": {
     "group": "OTA Digital Multicast",
@@ -287,11 +287,11 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8",
     "info": "#EXTINF:-1,ION Plus",
     "ok": true,
-    "seconds": 0.493,
+    "seconds": 0.453,
     "resolution": 1080,
-    "score": 8453,
-    "alternatives": 10,
-    "updated": 1783537475
+    "score": 8465,
+    "alternatives": 11,
+    "updated": 1783618485
   },
   "Laff": {
     "group": "OTA Digital Multicast",
@@ -301,11 +301,11 @@
     "url": "http://206.212.244.63/101/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Laff.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png\" group-title=\"Comedy\",Laff (720p)",
     "ok": true,
-    "seconds": 0.11,
+    "seconds": 0.121,
     "resolution": 720,
-    "score": 8582,
+    "score": 8573,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MeTV": {
     "group": "OTA Digital Multicast",
@@ -317,9 +317,9 @@
     "ok": true,
     "seconds": 0.419,
     "resolution": 720,
-    "score": 8616,
+    "score": 8636,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MeTV+": {
     "group": "OTA Digital Multicast",
@@ -331,23 +331,23 @@
     "ok": true,
     "seconds": 0.154,
     "resolution": 720,
-    "score": 8545,
+    "score": 8565,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Movies!": {
     "group": "OTA Digital Multicast",
     "name": "Movies!",
-    "source": "iptv-org-category",
+    "source": "popular-movies-iptv",
     "raw": "Movies Action (1080p)",
     "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"MoviesAction.sa@SD\" tvg-logo=\"https://i.imgur.com/NIVhISa.png\" group-title=\"Movies\",Movies Action (1080p)",
     "ok": true,
-    "seconds": 0.908,
+    "seconds": 0.226,
     "resolution": 1080,
-    "score": 8743,
+    "score": 9033,
     "alternatives": 5,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Rewind TV": {
     "group": "OTA Digital Multicast",
@@ -357,11 +357,11 @@
     "url": "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"RewindTV.cl@SD\" tvg-logo=\"https://i.imgur.com/OG0RC2e.png\" group-title=\"Music\",Rewind TV (1080p)",
     "ok": true,
-    "seconds": 0.425,
+    "seconds": 0.42,
     "resolution": 1080,
-    "score": 8888,
+    "score": 7206,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Start TV": {
     "group": "OTA Digital Multicast",
@@ -371,11 +371,11 @@
     "url": "http://206.212.244.63/150/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"StartTV.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/960px-Start_TV_logo.svg.png\" group-title=\"Series\",Start TV (720p)",
     "ok": true,
-    "seconds": 0.109,
+    "seconds": 0.149,
     "resolution": 720,
-    "score": 8583,
+    "score": 8565,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Story Television": {
     "group": "OTA Digital Multicast",
@@ -385,11 +385,11 @@
     "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WCIUTV265.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png\" group-title=\"Undefined\",Story Television",
     "ok": true,
-    "seconds": 0.091,
+    "seconds": 0.074,
     "resolution": 0,
-    "score": 8288,
+    "score": 8287,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "TBD": {
     "group": "OTA Digital Multicast",
@@ -399,11 +399,11 @@
     "url": "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8:TBD (#)",
     "info": "#EXTINF:-1 tvg-name=\"TBD (#)\" group-title=\"HansSettings USA\",TBD (#)",
     "ok": false,
-    "seconds": 0.023,
+    "seconds": 0.021,
     "resolution": 0,
-    "score": -8456,
+    "score": -11456,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MeTV Toons": {
     "group": "OTA Digital Multicast",
@@ -413,11 +413,11 @@
     "url": "http://206.212.244.63/112/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"MeTVToons.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png\" group-title=\"Kids\",MeTV Toons (720p)",
     "ok": true,
-    "seconds": 0.107,
+    "seconds": 0.115,
     "resolution": 720,
-    "score": 8583,
+    "score": 8575,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "A&E": {
     "group": "Entertainment",
@@ -427,25 +427,25 @@
     "url": "https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"\" tvg-logo=\"\" group-title=\"Undefined\",A&E Crime 360 (720p)",
     "ok": true,
-    "seconds": 1.045,
+    "seconds": 0.365,
     "resolution": 720,
-    "score": 7952,
+    "score": 8150,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "AMC": {
     "group": "Entertainment",
     "name": "AMC",
-    "source": "iptv_org",
-    "raw": "AMC Cupid (1080p)",
-    "url": "https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"\" tvg-logo=\"\" group-title=\"Undefined\",AMC Cupid (1080p)",
+    "source": "iptv_org_movies",
+    "raw": "AMC East (720p)",
+    "url": "http://41.223.30.230/AMC/index.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"AMC.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png\" group-title=\"Movies\",AMC East (720p)",
     "ok": true,
-    "seconds": 0.332,
-    "resolution": 1080,
-    "score": 8392,
-    "alternatives": 6,
-    "updated": 1783537475
+    "seconds": 0.59,
+    "resolution": 720,
+    "score": 7619,
+    "alternatives": 4,
+    "updated": 1783618485
   },
   "AXS TV": {
     "group": "Entertainment",
@@ -455,11 +455,11 @@
     "url": "http://23.239.31.26:8989/axstv/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"AXSTV.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png\" group-title=\"Music\",AXS TV (720p)",
     "ok": true,
-    "seconds": 0.124,
+    "seconds": 0.13,
     "resolution": 720,
-    "score": 1793,
+    "score": 2468,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "BBC America": {
     "group": "Entertainment",
@@ -469,11 +469,11 @@
     "url": "http://23.239.31.26:8989/bbcamerica/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"BBCAmerica.us@East\" tvg-logo=\"https://i.imgur.com/pTiiPz0.png\" group-title=\"Entertainment\",BBC America (720p)",
     "ok": true,
-    "seconds": 0.108,
+    "seconds": 0.11,
     "resolution": 720,
-    "score": 1798,
+    "score": 2436,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "BET": {
     "group": "Entertainment",
@@ -483,25 +483,25 @@
     "url": "http://206.212.244.63/16/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"BET.us@West\" tvg-logo=\"https://i.imgur.com/copIbc9.png\" group-title=\"Undefined\",BET West (720p)",
     "ok": true,
-    "seconds": 0.118,
+    "seconds": 0.123,
     "resolution": 720,
-    "score": 8556,
+    "score": 8575,
     "alternatives": 11,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Bravo": {
     "group": "Entertainment",
     "name": "Bravo",
-    "source": "iptv_org",
-    "raw": "Bravo TV (1080p)",
-    "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
-    "info": "#EXTINF:-1 tvg-id=\"BravoTV.ar@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png\" group-title=\"General\",Bravo TV (1080p)",
+    "source": "iptv_org_noram",
+    "raw": "Bravo West (720p)",
+    "url": "http://206.212.244.63/26/index.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"Bravo.us@West\" tvg-logo=\"https://i.imgur.com/JmTIRLF.png\" group-title=\"Undefined\",Bravo West (720p)",
     "ok": true,
-    "seconds": 0.387,
-    "resolution": 1080,
-    "score": 8875,
-    "alternatives": 8,
-    "updated": 1783537475
+    "seconds": 0.135,
+    "resolution": 720,
+    "score": 8625,
+    "alternatives": 6,
+    "updated": 1783618485
   },
   "CMT": {
     "group": "Entertainment",
@@ -511,25 +511,25 @@
     "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"CMT.us@East\" tvg-logo=\"https://i.imgur.com/S7DOpdY.png\" group-title=\"Music\",CMT (720p)",
     "ok": true,
-    "seconds": 1.335,
+    "seconds": 0.219,
     "resolution": 720,
-    "score": 8088,
+    "score": 8204,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Comedy Central": {
     "group": "Entertainment",
     "name": "Comedy Central",
-    "source": "iptv_org_noram",
-    "raw": "Comedy Central (1080p)",
-    "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"ComedyCentral.us@East\" tvg-logo=\"https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png\" group-title=\"Comedy\",Comedy Central (1080p)",
+    "source": "iptv_org",
+    "raw": "Comedy Central",
+    "url": "http://86.87.15.10:8002/play/a02k/index.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"ComedyCentral.nl@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Comedy\",Comedy Central",
     "ok": true,
-    "seconds": 0.602,
-    "resolution": 1080,
-    "score": 8471,
-    "alternatives": 7,
-    "updated": 1783537475
+    "seconds": 0.481,
+    "resolution": 0,
+    "score": 8017,
+    "alternatives": 2,
+    "updated": 1783618485
   },
   "E!": {
     "group": "Entertainment",
@@ -539,25 +539,25 @@
     "url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"EKeepingUp.us@SD\" tvg-logo=\"https://i.imgur.com/9F7VYDM.png\" group-title=\"Entertainment\",E! Keeping Up (1080p)",
     "ok": true,
-    "seconds": 0.119,
+    "seconds": 0.108,
     "resolution": 1080,
-    "score": 8980,
+    "score": 8977,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Freeform": {
     "group": "Entertainment",
     "name": "Freeform",
     "source": "iptv-org-category",
-    "raw": "Freeform (720p)",
-    "url": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"Freeform.us@East\" tvg-logo=\"https://i.imgur.com/BGAGeIf.png\" group-title=\"Family\",Freeform (720p)",
+    "raw": "Freeform West (720p)",
+    "url": "http://206.212.244.63/70/index.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"Freeform.us@West\" tvg-logo=\"https://i.imgur.com/BGAGeIf.png\" group-title=\"Family\",Freeform West (720p)",
     "ok": true,
-    "seconds": 0.111,
+    "seconds": 0.127,
     "resolution": 720,
-    "score": 8582,
+    "score": 8571,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Fuse": {
     "group": "Entertainment",
@@ -567,11 +567,11 @@
     "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Fuse.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png\" group-title=\"Entertainment\",Fuse (1080p)",
     "ok": true,
-    "seconds": 0.656,
+    "seconds": 0.174,
     "resolution": 1080,
-    "score": 8669,
+    "score": 8807,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "FX": {
     "group": "Entertainment",
@@ -581,11 +581,11 @@
     "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"FX.us@East\" tvg-logo=\"https://i.imgur.com/ZScwrpi.png\" group-title=\"Entertainment\",FX (1080p)",
     "ok": true,
-    "seconds": 0.606,
+    "seconds": 0.205,
     "resolution": 1080,
-    "score": 8558,
+    "score": 8570,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "FXX": {
     "group": "Entertainment",
@@ -595,25 +595,25 @@
     "url": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"FXX.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png\" group-title=\"Entertainment\",FXX (1080p)",
     "ok": true,
-    "seconds": 0.618,
+    "seconds": 0.181,
     "resolution": 1080,
-    "score": 8680,
+    "score": 8691,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "FYI": {
     "group": "Entertainment",
     "name": "FYI",
-    "source": "iptv_org_noram",
+    "source": "iptv_org_us",
     "raw": "FYI (720p)",
     "url": "http://206.212.244.63/78/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"FYI.us@East\" tvg-logo=\"https://i.imgur.com/PggQk7F.png\" group-title=\"Lifestyle\",FYI (720p)",
     "ok": true,
-    "seconds": 0.118,
+    "seconds": 0.111,
     "resolution": 720,
-    "score": 8639,
+    "score": 8547,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Hallmark Channel": {
     "group": "Entertainment",
@@ -623,11 +623,11 @@
     "url": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"HallmarkChannel.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png\" group-title=\"Family\",Hallmark Channel (1080p)",
     "ok": true,
-    "seconds": 0.597,
+    "seconds": 0.202,
     "resolution": 1080,
-    "score": 8560,
+    "score": 8457,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Hallmark Mystery": {
     "group": "Entertainment",
@@ -637,11 +637,11 @@
     "url": "http://206.212.244.63/86/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"HallmarkMystery.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg\" group-title=\"Series\",Hallmark Mystery (1080p)",
     "ok": true,
-    "seconds": 0.111,
+    "seconds": 0.126,
     "resolution": 1080,
-    "score": 8832,
+    "score": 8822,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Hallmark Family": {
     "group": "Entertainment",
@@ -651,11 +651,11 @@
     "url": "http://206.212.244.63/85/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"HallmarkFamily.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/960px-Hallmark_Family_2024.svg.png\" group-title=\"Movies\",Hallmark Family (720p)",
     "ok": true,
-    "seconds": 0.115,
+    "seconds": 0.136,
     "resolution": 720,
-    "score": 8581,
+    "score": 8569,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "IFC": {
     "group": "Entertainment",
@@ -665,11 +665,11 @@
     "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"IFC.us@East\" tvg-logo=\"https://i.imgur.com/bQdkyF9.png\" group-title=\"Movies\",IFC (1080p)",
     "ok": true,
-    "seconds": 1.336,
+    "seconds": 0.228,
     "resolution": 1080,
-    "score": 8345,
+    "score": 8570,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "INSP": {
     "group": "Entertainment",
@@ -679,39 +679,39 @@
     "url": "http://206.212.244.63/95/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"INSP.us@SD\" tvg-logo=\"https://i.imgur.com/YgOC51j.png\" group-title=\"Entertainment\",INSP (720p)",
     "ok": true,
-    "seconds": 0.111,
+    "seconds": 0.12,
     "resolution": 720,
-    "score": 8582,
+    "score": 8573,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Lifetime": {
     "group": "Entertainment",
     "name": "Lifetime",
-    "source": "popular-movies-iptv",
+    "source": "iptv_org_movies",
     "raw": "Lifetime Movies (1080p)",
     "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"LifetimeMovies.us@East\" tvg-logo=\"https://i.imgur.com/BWmqYTO.png\" group-title=\"Movies\",Lifetime Movies (1080p)",
     "ok": true,
-    "seconds": 0.618,
+    "seconds": 0.21,
     "resolution": 1080,
-    "score": 8491,
+    "score": 8555,
     "alternatives": 6,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MTV": {
     "group": "Entertainment",
     "name": "MTV",
     "source": "iptv_org",
     "raw": "MTV Biggest Pop (1080p)",
-    "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"MTVBiggestPop.us@US\" tvg-logo=\"https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png\" group-title=\"Music\",MTV Biggest Pop (1080p)",
+    "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"MTVBiggestPop.us@BR\" tvg-logo=\"https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png\" group-title=\"Music\",MTV Biggest Pop (1080p)",
     "ok": true,
-    "seconds": 0.499,
+    "seconds": 1.108,
     "resolution": 1080,
-    "score": 8842,
+    "score": 8679,
     "alternatives": 51,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MTV2": {
     "group": "Entertainment",
@@ -721,39 +721,39 @@
     "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"MTV2.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png\" group-title=\"Entertainment\",MTV2 (720p)",
     "ok": true,
-    "seconds": 0.118,
+    "seconds": 0.109,
     "resolution": 720,
-    "score": 7574,
+    "score": 7667,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MTV Classic": {
     "group": "Entertainment",
     "name": "MTV Classic",
-    "source": "iptv-org-category",
-    "raw": "MTV Classic (720p)",
-    "url": "http://206.212.244.63/117/index.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"MTVClassic.us@East\" tvg-logo=\"https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png\" group-title=\"Music\",MTV Classic (720p)",
+    "source": "buddy_pluto_all",
+    "raw": "MTV Classic",
+    "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+    "info": "#EXTINF:-1 channel-id=\"66a11a21a79dea0008aa90ca-ar\" tvg-id=\"66a11a21a79dea0008aa90ca\" tvg-chno=\"1503\" tvg-name=\"MTV Classic\" tvg-logo=\"https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png\" group-title=\"Argentina\",MTV Classic",
     "ok": true,
-    "seconds": 0.102,
-    "resolution": 720,
-    "score": 7956,
-    "alternatives": 2,
-    "updated": 1783537475
+    "seconds": 0.323,
+    "resolution": 0,
+    "score": 8300,
+    "alternatives": 3,
+    "updated": 1783618485
   },
   "National Geographic": {
     "group": "Entertainment",
     "name": "National Geographic",
-    "source": "iptv_org",
-    "raw": "National Geographic (1080p)",
-    "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"NationalGeographic.mx@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png\" group-title=\"Documentary\",National Geographic (1080p)",
+    "source": "iptv-org-category",
+    "raw": "National Geographic Wild (1080p)",
+    "url": "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"NationalGeographicWild.ru@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png\" group-title=\"Documentary\",National Geographic Wild (1080p)",
     "ok": true,
-    "seconds": 0.118,
+    "seconds": 0.622,
     "resolution": 1080,
-    "score": 8806,
+    "score": 8673,
     "alternatives": 16,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Ovation": {
     "group": "Entertainment",
@@ -763,11 +763,11 @@
     "url": "http://40.160.24.55/OVATION/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Ovation.us@SD\" tvg-logo=\"https://i.imgur.com/A3o9gvc.png\" group-title=\"Culture\",Ovation (1080p)",
     "ok": true,
-    "seconds": 0.09,
+    "seconds": 0.116,
     "resolution": 1080,
-    "score": 8838,
+    "score": 8825,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Oxygen": {
     "group": "Entertainment",
@@ -777,11 +777,11 @@
     "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Oxygen.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png\" group-title=\"Entertainment\",Oxygen (720p)",
     "ok": true,
-    "seconds": 0.13,
+    "seconds": 0.129,
     "resolution": 720,
-    "score": 8576,
+    "score": 8571,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Paramount Network": {
     "group": "Entertainment",
@@ -791,39 +791,39 @@
     "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ParamountNetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png\" group-title=\"Series\",Paramount Network (720p)",
     "ok": true,
-    "seconds": 0.92,
+    "seconds": 0.537,
     "resolution": 720,
-    "score": 7294,
+    "score": 7364,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Pop": {
     "group": "Entertainment",
     "name": "Pop",
-    "source": "iptv-org-category",
+    "source": "iptv_org",
     "raw": "Pop (1080p)",
     "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Pop.uk@SD\" tvg-logo=\"https://i.imgur.com/fGUlCY3.png\" group-title=\"Undefined\",Pop (1080p)",
     "ok": true,
-    "seconds": 0.27,
+    "seconds": 0.351,
     "resolution": 1080,
-    "score": 8796,
-    "alternatives": 8,
-    "updated": 1783537475
+    "score": 8782,
+    "alternatives": 11,
+    "updated": 1783618485
   },
   "Reelz": {
     "group": "Entertainment",
     "name": "Reelz",
-    "source": "iptv-org-category",
+    "source": "iptv_org",
     "raw": "Reelz Famous & Infamous (1080p)",
-    "url": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8",
+    "url": "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"\" tvg-logo=\"\" group-title=\"Undefined\",Reelz Famous & Infamous (1080p)",
     "ok": true,
-    "seconds": 0.093,
+    "seconds": 0.225,
     "resolution": 1080,
-    "score": 8488,
+    "score": 8444,
     "alternatives": 7,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Sundance TV": {
     "group": "Entertainment",
@@ -833,30 +833,30 @@
     "url": "http://206.212.244.63/151/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"SundanceTV.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png\" group-title=\"Movies\",Sundance TV (720p)",
     "ok": true,
-    "seconds": 0.135,
+    "seconds": 0.11,
     "resolution": 720,
-    "score": 8575,
+    "score": 8576,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Syfy": {
     "group": "Entertainment",
     "name": "Syfy",
-    "source": "iptv-org-category",
+    "source": "iptv_org",
     "raw": "SYFY HD (720p)",
     "url": "http://rezofoot.tv/SYFY-HD/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"SYFY.de@HD\" tvg-logo=\"https://i.imgur.com/4fMWhUE.png\" group-title=\"Undefined\",SYFY HD (720p)",
     "ok": true,
-    "seconds": 0.593,
+    "seconds": 0.55,
     "resolution": 720,
-    "score": 8438,
+    "score": 8446,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "TLC": {
     "group": "Entertainment",
     "name": "TLC",
-    "source": "manual_test_missing",
+    "source": "manual_removed_test",
     "raw": "TLC",
     "url": "http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929",
     "info": "#EXTINF:-1,TLC",
@@ -865,21 +865,21 @@
     "resolution": 0,
     "score": -5100,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "TNT": {
     "group": "Entertainment",
     "name": "TNT",
-    "source": "iptv_org_noram",
-    "raw": "TNT Novelas (720p)",
-    "url": "http://45.162.231.38:7779/TNT_Novelas/index.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"TNTNovelas.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png\" group-title=\"Series\",TNT Novelas (720p)",
-    "ok": true,
-    "seconds": 0.272,
-    "resolution": 720,
-    "score": 8593,
-    "alternatives": 3,
-    "updated": 1783537475
+    "source": "manual_removed_test",
+    "raw": "TNT",
+    "url": "http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827",
+    "info": "#EXTINF:-1,TNT",
+    "ok": false,
+    "seconds": 5.019,
+    "resolution": 0,
+    "score": -5100,
+    "alternatives": 2,
+    "updated": 1783618485
   },
   "TV Land": {
     "group": "Entertainment",
@@ -889,11 +889,11 @@
     "url": "http://185.246.209.113/TVLandHD/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"TVLand.us@East\" tvg-logo=\"https://i.imgur.com/VNNS4mF.png\" group-title=\"Classic\",TV Land (720p)",
     "ok": false,
-    "seconds": 0.127,
+    "seconds": 0.126,
     "resolution": 720,
-    "score": -14123,
+    "score": -24328,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "VH1": {
     "group": "Entertainment",
@@ -903,11 +903,11 @@
     "url": "http://rezofoot.tv/VH1/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"VH1.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png\" group-title=\"Music\",VH1 (720p)",
     "ok": true,
-    "seconds": 0.561,
+    "seconds": 0.572,
     "resolution": 720,
-    "score": 8070,
+    "score": 8099,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Vice TV": {
     "group": "Entertainment",
@@ -917,11 +917,11 @@
     "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"VICETV.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png\" group-title=\"Undefined\",VICE TV (1080p)",
     "ok": true,
-    "seconds": 0.573,
+    "seconds": 0.206,
     "resolution": 1080,
-    "score": 8568,
+    "score": 8684,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "We TV": {
     "group": "Entertainment",
@@ -931,25 +931,25 @@
     "url": "https://streamer1.nexgen.bz/WE_TV/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WeTV.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png\" group-title=\"Series\",We TV (720p)",
     "ok": true,
-    "seconds": 0.175,
+    "seconds": 0.177,
     "resolution": 720,
-    "score": 8713,
+    "score": 8706,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "A&E Crime 360": {
     "group": "Entertainment",
     "name": "A&E Crime 360",
-    "source": "pluto",
+    "source": "buddy_pluto_all",
     "raw": "A&E Crime 360",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzZjIyNzQ4LWVkMmItNGUzOS1iZDI0LWE5YjQxNDgyODQ3NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjN2ZhODFiNC03YWQ5LTExZjEtYWM4ZC01ZWM2NzI2ZDgwNGEiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJmd1ZjSUQyQ29wcGEiOiJhYjkyN2VkMi01N2VmLTQxMTYtYTU1OC02N2IzM2Y0ZDRhZmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImFiOTI3ZWQyLTU3ZWYtNDExNi1hNTU4LTY3YjMzZjRkNGFmYSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM1MjExMjA2NzcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpZV0k1TWpkbFpESXROVGRsWmkwME1URTJMV0UxTlRndE5qZGlNek5tTkdRMFlXWmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNjA3NTIwLCJpYXQiOjE3ODM1MjExMjAsImp0aSI6ImZmNTlhNTA0LTIwZGMtNDc1NC1hMDczLWNmNzc0ZDFkZmU5NyJ9.b78LcKa5YU-TBRCQjKs1O4mq2n6mkBFGksfk7PI2DHA&masterJWTPassthrough=true",
-    "info": "#EXTINF:-1 group-title=\"True Crime\" tvg-id=\"6000a5a9e767980007b497ca\" tvg-name=\"A&E Crime 360\" tvg-logo=\"https://images.pluto.tv/channels/6000a5a9e767980007b497ca/logo.png?fit=fill&fm=png&h=80&w=280\",A&E Crime 360",
+    "url": "https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8",
+    "info": "#EXTINF:-1 channel-id=\"6000a5a9e767980007b497ca-us\" tvg-id=\"6000a5a9e767980007b497ca\" tvg-chno=\"1330\" tvg-name=\"A&E Crime 360\" tvg-logo=\"https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG_1767745470551.png\" group-title=\"United States\",A&E Crime 360",
     "ok": true,
-    "seconds": 0.235,
-    "resolution": 0,
-    "score": 8325,
-    "alternatives": 15,
-    "updated": 1783537475
+    "seconds": 0.234,
+    "resolution": 720,
+    "score": 8776,
+    "alternatives": 24,
+    "updated": 1783618485
   },
   "Showtime": {
     "group": "Premium Cable",
@@ -959,11 +959,11 @@
     "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ShowtimeFamilyZone.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png\" group-title=\"Family\",Showtime Family Zone (720p)",
     "ok": true,
-    "seconds": 0.505,
+    "seconds": 0.186,
     "resolution": 720,
-    "score": 8464,
+    "score": 8099,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Flix": {
     "group": "Premium Cable",
@@ -973,25 +973,25 @@
     "url": "http://103.72.101.252:8080/live/1322.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Andflix.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=720x540\" group-title=\"Movies\",&flix HD (1080p)",
     "ok": false,
-    "seconds": 5.032,
+    "seconds": 5.043,
     "resolution": 1080,
-    "score": -14735,
+    "score": -24941,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Starz": {
     "group": "Premium Cable",
     "name": "Starz",
-    "source": "iptv_org_noram",
+    "source": "iptv_org_us",
     "raw": "Starz (1080p)",
     "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Starz.us@East\" tvg-logo=\"https://i.imgur.com/N7oSm4d.png\" group-title=\"Undefined\",Starz (1080p)",
     "ok": true,
-    "seconds": 0.612,
+    "seconds": 0.209,
     "resolution": 1080,
-    "score": 8741,
+    "score": 8768,
     "alternatives": 8,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Starz Encore": {
     "group": "Premium Cable",
@@ -1001,11 +1001,11 @@
     "url": "http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8:Starz Encore Classic East",
     "info": "#EXTINF:-1 tvg-name=\"Starz Encore Classic East\" group-title=\"HansSettings USA\",Starz Encore Classic East",
     "ok": false,
-    "seconds": 0.017,
+    "seconds": 0.018,
     "resolution": 0,
-    "score": -8605,
+    "score": -11605,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Starz Cinema": {
     "group": "Premium Cable",
@@ -1015,11 +1015,11 @@
     "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"StarzCinema.us@East\" tvg-logo=\"https://i.imgur.com/ghzzKoT.png\" group-title=\"Movies\",Starz Cinema (720p)",
     "ok": true,
-    "seconds": 0.605,
+    "seconds": 0.207,
     "resolution": 720,
-    "score": 8434,
+    "score": 8436,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Starz Kids & Family": {
     "group": "Premium Cable",
@@ -1029,25 +1029,25 @@
     "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"StarzKidsFamily.us@East\" tvg-logo=\"https://i.imgur.com/eE9FzEP.png\" group-title=\"Kids\",Starz Kids & Family (1080p)",
     "ok": true,
-    "seconds": 0.608,
+    "seconds": 0.204,
     "resolution": 1080,
-    "score": 8683,
+    "score": 8245,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MGM+": {
     "group": "Premium Cable",
     "name": "MGM+",
     "source": "plex",
     "raw": "MGM Presents: Westerns",
-    "url": "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=4J2U_2s9urMgKiyKWvc6",
+    "url": "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_",
     "info": "#EXTINF:-1 channel-id=\"6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e\" tvg-id=\"6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e\" tvg-chno=\"\" tvg-name=\"MGM Presents: Westerns\" tvg-logo=\"https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png\" group-title=\"United States\",MGM Presents: Westerns",
     "ok": true,
-    "seconds": 0.534,
+    "seconds": 0.329,
     "resolution": 0,
-    "score": 8118,
-    "alternatives": 3,
-    "updated": 1783537475
+    "score": 8180,
+    "alternatives": 4,
+    "updated": 1783618485
   },
   "AccuWeather Network": {
     "group": "News & Weather",
@@ -1057,11 +1057,11 @@
     "url": "http://206.212.244.63/674/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"AccuWeatherNetwork.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png\" group-title=\"Weather\",AccuWeather Network (720p)",
     "ok": true,
-    "seconds": 0.109,
+    "seconds": 0.112,
     "resolution": 720,
-    "score": 8668,
+    "score": 8667,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Bloomberg Television": {
     "group": "News & Weather",
@@ -1071,11 +1071,11 @@
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=oBu8xSeABVK",
     "info": "#EXTINF:-1 tvg-id=\"\" tvg-logo=\"https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20231219_184756_59.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Undefined\",Bloomberg Television",
     "ok": false,
-    "seconds": 0.152,
+    "seconds": 0.121,
     "resolution": 0,
-    "score": -7995,
+    "score": -10986,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "CNBC": {
     "group": "News & Weather",
@@ -1085,11 +1085,11 @@
     "url": "http://rezofoot.tv/CNBC/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"CNBC.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png\" group-title=\"Business\",CNBC (720p)",
     "ok": true,
-    "seconds": 0.713,
+    "seconds": 0.656,
     "resolution": 720,
-    "score": 8272,
+    "score": 8298,
     "alternatives": 5,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "CNN": {
     "group": "News & Weather",
@@ -1099,11 +1099,11 @@
     "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8",
     "info": "#EXTINF:-1 tvg-name=\"CNN\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png\" tvg-id=\"CNN.us\" tvg-chno=\"36\" group-title=\"News\",CNN",
     "ok": false,
-    "seconds": 0.141,
+    "seconds": 0.143,
     "resolution": 0,
-    "score": -7548,
+    "score": -10538,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "CNN International": {
     "group": "News & Weather",
@@ -1113,11 +1113,11 @@
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "info": "#EXTINF:-1 tvg-name=\"CNN International\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png\" tvg-id=\"CNNInternationalEurope.us\" tvg-chno=\"37\" group-title=\"News\",CNN International",
     "ok": true,
-    "seconds": 0.149,
+    "seconds": 0.161,
     "resolution": 0,
-    "score": 8050,
+    "score": 8056,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Fox Business Network": {
     "group": "News & Weather",
@@ -1127,11 +1127,11 @@
     "url": "http://206.212.244.63/66/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"FoxBusinessNetwork.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png\" group-title=\"Business\",Fox Business Network (720p)",
     "ok": true,
-    "seconds": 0.101,
+    "seconds": 0.1,
     "resolution": 720,
-    "score": 8585,
+    "score": 8579,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Fox News Channel": {
     "group": "News & Weather",
@@ -1141,11 +1141,11 @@
     "url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"FoxNewsChannel.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png\" group-title=\"News\",Fox News Channel (720p)",
     "ok": true,
-    "seconds": 0.132,
+    "seconds": 0.216,
     "resolution": 720,
-    "score": 8148,
+    "score": 7717,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "HLN": {
     "group": "News & Weather",
@@ -1155,11 +1155,11 @@
     "url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"HLNLive.be@SD\" tvg-logo=\"https://i.ibb.co/zbCrZG9/hq-hln.png\" group-title=\"News\",HLN Live (720p)",
     "ok": false,
-    "seconds": 0.096,
+    "seconds": 0.105,
     "resolution": 720,
-    "score": -17242,
+    "score": -30441,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MSNBC": {
     "group": "News & Weather",
@@ -1169,11 +1169,11 @@
     "url": "https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8",
     "info": "#EXTINF:-1 tvg-logo=\"https://tmcb82.github.io/ota/logos/msnbc.png\" group-title=\"News\", MSNBC",
     "ok": false,
-    "seconds": 0.024,
+    "seconds": 0.02,
     "resolution": 0,
-    "score": -7993,
+    "score": -10992,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Newsmax TV": {
     "group": "News & Weather",
@@ -1183,11 +1183,11 @@
     "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"NewsmaxTV.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png\" group-title=\"News\",Newsmax TV (720p)",
     "ok": true,
-    "seconds": 0.112,
+    "seconds": 0.081,
     "resolution": 720,
-    "score": 8653,
+    "score": 8666,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NewsNation": {
     "group": "News & Weather",
@@ -1197,11 +1197,11 @@
     "url": "http://206.212.244.63/712/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"NewsNation.us@SD\" tvg-logo=\"https://thehill.com/wp-content/uploads/sites/2/2025/08/NN-Stacked-Logo_Blue_1400x787.png\" group-title=\"News\",NewsNation (720p)",
     "ok": true,
-    "seconds": 0.105,
+    "seconds": 0.135,
     "resolution": 720,
-    "score": 8505,
+    "score": 8500,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Scripps News": {
     "group": "News & Weather",
@@ -1211,11 +1211,11 @@
     "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ScrippsNews.us@SD\" tvg-logo=\"https://i.imgur.com/W0Jvi5o.png\" group-title=\"News\",Scripps News (1080p)",
     "ok": true,
-    "seconds": 0.278,
+    "seconds": 0.481,
     "resolution": 1080,
-    "score": 8742,
-    "alternatives": 23,
-    "updated": 1783537475
+    "score": 8727,
+    "alternatives": 29,
+    "updated": 1783618485
   },
   "The Weather Channel": {
     "group": "News & Weather",
@@ -1225,11 +1225,11 @@
     "url": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8",
     "info": "#EXTINF:-1 tvg-logo=\"https://tmcb82.github.io/ota/logos/weather.png\" group-title=\"Weather\", The Weather Channel",
     "ok": false,
-    "seconds": 1.008,
+    "seconds": 1.241,
     "resolution": 0,
-    "score": -8288,
+    "score": -11358,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "ACC Network": {
     "group": "Sports",
@@ -1239,11 +1239,11 @@
     "url": "http://206.212.244.63/2486/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ACCNetwork.us@SD\" tvg-logo=\"https://i.imgur.com/TpCkbkT.png\" group-title=\"Sports\",ACC Network (720p)",
     "ok": true,
-    "seconds": 0.112,
+    "seconds": 0.118,
     "resolution": 720,
-    "score": 8512,
+    "score": 8506,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Big Ten Network": {
     "group": "Sports",
@@ -1253,11 +1253,11 @@
     "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"BigTenNetwork.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png\" group-title=\"Undefined\",Big Ten Network (720p)",
     "ok": true,
-    "seconds": 0.627,
+    "seconds": 0.248,
     "resolution": 720,
-    "score": 8427,
+    "score": 8193,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "ESPN": {
     "group": "Sports",
@@ -1267,11 +1267,11 @@
     "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ESPN.br@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png\" group-title=\"Sports\",ESPN (1080p)",
     "ok": true,
-    "seconds": 0.238,
+    "seconds": 0.233,
     "resolution": 1080,
-    "score": 8724,
+    "score": 8722,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "ESPNews": {
     "group": "Sports",
@@ -1281,11 +1281,11 @@
     "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ESPNews.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png\" group-title=\"News;Sports\",ESPNews (720p)",
     "ok": true,
-    "seconds": 0.533,
+    "seconds": 0.613,
     "resolution": 720,
-    "score": 2204,
+    "score": 2454,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "ESPNU": {
     "group": "Sports",
@@ -1295,11 +1295,11 @@
     "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ESPNU.us@SD\" tvg-logo=\"https://i.imgur.com/HiBrysh.png\" group-title=\"Sports\",ESPNU (720p)",
     "ok": true,
-    "seconds": 0.506,
+    "seconds": 0.215,
     "resolution": 720,
-    "score": 8394,
+    "score": 7933,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Fox Sports 1": {
     "group": "Sports",
@@ -1309,25 +1309,25 @@
     "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"FS1Salzburg.at@SD\" tvg-logo=\"https://i.imgur.com/74gMaPK.png\" group-title=\"General\",FS1 Salzburg (720p) [Not 24/7]",
     "ok": true,
-    "seconds": 0.351,
+    "seconds": 0.4,
     "resolution": 720,
-    "score": 8510,
+    "score": 8489,
     "alternatives": 4,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Golf Channel": {
     "group": "Sports",
     "name": "Golf Channel",
-    "source": "iptv_org_noram",
+    "source": "iptv_org_us",
     "raw": "Golf Channel (1080p)",
     "url": "http://23.237.104.106:8080/USA_GOLF/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"GolfChannel.us@SD\" tvg-logo=\"https://i.imgur.com/Lgux6Ik.png\" group-title=\"Sports\",Golf Channel (1080p)",
     "ok": true,
-    "seconds": 0.617,
+    "seconds": 0.208,
     "resolution": 1080,
-    "score": 8739,
+    "score": 8505,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "MAV TV": {
     "group": "Sports",
@@ -1337,11 +1337,11 @@
     "url": "http://fl2.moveonjoy.com/MAV_TV/index.m3u8:Mav TV (#)",
     "info": "#EXTINF:-1 tvg-name=\"Mav TV (#)\" group-title=\"HansSettings USA\",Mav TV (#)",
     "ok": false,
-    "seconds": 0.032,
+    "seconds": 0.018,
     "resolution": 0,
-    "score": -8609,
+    "score": -11605,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NBA TV": {
     "group": "Sports",
@@ -1351,11 +1351,11 @@
     "url": "http://212.102.60.231/NBA_TV/index.m3u8:NBA TV",
     "info": "#EXTINF:-1 tvg-name=\"NBA TV\" group-title=\"HansSettings USA\",NBA TV",
     "ok": false,
-    "seconds": 0.036,
+    "seconds": 0.018,
     "resolution": 0,
-    "score": -8610,
+    "score": -11605,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NFL Network": {
     "group": "Sports",
@@ -1365,11 +1365,11 @@
     "url": "http://206.212.244.63/196/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"NFLNetwork.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png\" group-title=\"Sports\",NFL Network (720p)",
     "ok": true,
-    "seconds": 0.138,
+    "seconds": 0.13,
     "resolution": 720,
-    "score": 8504,
+    "score": 8502,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NHL Network": {
     "group": "Sports",
@@ -1379,11 +1379,11 @@
     "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"NHLNetwork.us@SD\" tvg-logo=\"https://i.imgur.com/UNZ8bef.png\" group-title=\"Sports\",NHL Network (1080p)",
     "ok": true,
-    "seconds": 0.157,
+    "seconds": 0.094,
     "resolution": 1080,
-    "score": 8898,
+    "score": 8913,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "SEC Network": {
     "group": "Sports",
@@ -1393,25 +1393,25 @@
     "url": "http://206.212.244.63/2511/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"SECNetwork.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png\" group-title=\"Undefined\",SEC Network (720p)",
     "ok": true,
-    "seconds": 0.164,
+    "seconds": 0.113,
     "resolution": 720,
-    "score": 8566,
+    "score": 8576,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Tennis Channel": {
     "group": "Sports",
     "name": "Tennis Channel",
-    "source": "iptv-org-sports",
+    "source": "iptv_org_us",
     "raw": "Tennis Channel (1080p)",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"TennisChannel.us@SD\" tvg-logo=\"https://i.imgur.com/tsljAnY.png\" group-title=\"Sports\",Tennis Channel (1080p)",
     "ok": true,
-    "seconds": 0.391,
+    "seconds": 0.429,
     "resolution": 1080,
-    "score": 8711,
-    "alternatives": 5,
-    "updated": 1783537475
+    "score": 8742,
+    "alternatives": 10,
+    "updated": 1783618485
   },
   "TUDN": {
     "group": "Sports",
@@ -1421,11 +1421,11 @@
     "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"TUDN.us@SD\" tvg-logo=\"https://i.imgur.com/oT5CAvd.png\" group-title=\"Undefined\",TUDN (1080p) [Geo-blocked]",
     "ok": true,
-    "seconds": 0.157,
+    "seconds": 0.092,
     "resolution": 1080,
-    "score": 8968,
+    "score": 8982,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NESN": {
     "group": "Sports",
@@ -1435,11 +1435,11 @@
     "url": "https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"\" tvg-logo=\"\" group-title=\"Undefined\",NESN Nation (1080p)",
     "ok": true,
-    "seconds": 0.317,
+    "seconds": 0.13,
     "resolution": 1080,
-    "score": 8420,
+    "score": 8470,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Disney Channel": {
     "group": "Children & Family",
@@ -1449,11 +1449,11 @@
     "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"DisneyChannel.pt@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg\" group-title=\"Kids\",Disney Channel (1080p)",
     "ok": true,
-    "seconds": 0.312,
+    "seconds": 0.3,
     "resolution": 1080,
-    "score": 8663,
-    "alternatives": 5,
-    "updated": 1783537475
+    "score": 8858,
+    "alternatives": 6,
+    "updated": 1783618485
   },
   "Disney Junior": {
     "group": "Children & Family",
@@ -1463,11 +1463,11 @@
     "url": "http://206.212.244.63/655/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"DisneyJunior.us@West\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg\" group-title=\"Kids\",Disney Junior West (720p)",
     "ok": true,
-    "seconds": 0.154,
+    "seconds": 0.126,
     "resolution": 720,
-    "score": 8569,
+    "score": 8572,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Disney XD": {
     "group": "Children & Family",
@@ -1477,39 +1477,39 @@
     "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"DisneyXD.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg\" group-title=\"Kids\",Disney XD (720p)",
     "ok": true,
-    "seconds": 1.744,
+    "seconds": 0.203,
     "resolution": 720,
-    "score": 7972,
+    "score": 7996,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Nick Jr.": {
     "group": "Children & Family",
     "name": "Nick Jr.",
     "source": "iptv_org_noram",
-    "raw": "Nick Jr. Pluto TV (720p)",
-    "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"NickJrPlutoTV.us@US\" tvg-logo=\"https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png\" group-title=\"Kids\",Nick Jr. Pluto TV (720p)",
+    "raw": "Nick Jr. Club (720p)",
+    "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"NickJrClub.us@LatAm\" tvg-logo=\"https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png\" group-title=\"Kids\",Nick Jr. Club (720p)",
     "ok": true,
-    "seconds": 0.333,
+    "seconds": 0.247,
     "resolution": 720,
-    "score": 8725,
+    "score": 8741,
     "alternatives": 6,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Nickelodeon": {
     "group": "Children & Family",
     "name": "Nickelodeon",
     "source": "iptv_org",
     "raw": "Nickelodeon (1080p)",
-    "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
-    "info": "#EXTINF:-1 tvg-id=\"Nickelodeon.fr@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" group-title=\"Kids\",Nickelodeon (1080p)",
+    "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+    "info": "#EXTINF:-1 tvg-id=\"Nickelodeon.us@East\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" group-title=\"Kids\",Nickelodeon (1080p)",
     "ok": true,
-    "seconds": 0.312,
+    "seconds": 0.214,
     "resolution": 1080,
-    "score": 8748,
+    "score": 8797,
     "alternatives": 19,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Nicktoons": {
     "group": "Children & Family",
@@ -1519,11 +1519,11 @@
     "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Nicktoons.us@CA\" tvg-logo=\"https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png\" group-title=\"Kids\",NickToons",
     "ok": true,
-    "seconds": 0.406,
+    "seconds": 0.532,
     "resolution": 576,
-    "score": 8394,
+    "score": 8350,
     "alternatives": 3,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "TeenNick": {
     "group": "Children & Family",
@@ -1533,11 +1533,11 @@
     "url": "http://206.212.244.63/670/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"TeenNick.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png\" group-title=\"Kids\",TeenNick (720p)",
     "ok": true,
-    "seconds": 0.167,
+    "seconds": 0.127,
     "resolution": 720,
-    "score": 8565,
+    "score": 8571,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "PBS Kids": {
     "group": "Children & Family",
@@ -1547,11 +1547,11 @@
     "url": "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"PBSKidsAlaska.us@SD\" tvg-logo=\"https://i.imgur.com/ambc9le.png\" group-title=\"Education;Kids\",PBS Kids Alaska (1080p)",
     "ok": true,
-    "seconds": 0.201,
+    "seconds": 0.15,
     "resolution": 1080,
-    "score": 8931,
+    "score": 8966,
     "alternatives": 10,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "BabyFirst": {
     "group": "Children & Family",
@@ -1561,25 +1561,11 @@
     "url": "http://206.212.244.63/639/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"BabyFirst.us@US\" tvg-logo=\"https://i.imgur.com/WxLHBwu.png\" group-title=\"Kids\",BabyFirst (720p)",
     "ok": true,
-    "seconds": 0.134,
+    "seconds": 0.114,
     "resolution": 720,
     "score": 8575,
-    "alternatives": 1,
-    "updated": 1783537475
-  },
-  "Discovery Channel": {
-    "group": "Lifestyle & Documentary",
-    "name": "Discovery Channel",
-    "source": "free_tv",
-    "raw": "Discovery Channel",
-    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
-    "info": "#EXTINF:-1 tvg-name=\"Discovery Channel\" tvg-logo=\"https://i.imgur.com/5IxIFJ0.png\" tvg-id=\"Discovery.Channel.it\" tvg-chno=\"37\" tvg-country=\"IT\" group-title=\"Italy\",Discovery Channel",
-    "ok": true,
-    "seconds": 0.531,
-    "resolution": 0,
-    "score": 7935,
-    "alternatives": 1,
-    "updated": 1783537475
+    "alternatives": 2,
+    "updated": 1783618485
   },
   "Food Network": {
     "group": "Lifestyle & Documentary",
@@ -1589,11 +1575,11 @@
     "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
     "info": "#EXTINF:-1 tvg-name=\"Food Network\" tvg-logo=\"https://i.imgur.com/i60OYr9.png\" tvg-id=\"Food.Network.it\" tvg-chno=\"33\" tvg-country=\"IT\" group-title=\"Italy\",Food Network",
     "ok": true,
-    "seconds": 0.523,
+    "seconds": 0.424,
     "resolution": 0,
-    "score": 7938,
+    "score": 7977,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "HGTV": {
     "group": "Lifestyle & Documentary",
@@ -1603,16 +1589,16 @@
     "url": "https://i.mjh.nz/.r/sky-hgtv.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"HGTV.nz@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png\" group-title=\"Lifestyle\",HGTV (1080p)",
     "ok": true,
-    "seconds": 0.338,
+    "seconds": 0.224,
     "resolution": 1080,
-    "score": 8914,
+    "score": 8942,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "History Channel": {
     "group": "Lifestyle & Documentary",
     "name": "History Channel",
-    "source": "manual_test_missing",
+    "source": "manual_removed_test",
     "raw": "History Channel",
     "url": "http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554",
     "info": "#EXTINF:-1,History Channel",
@@ -1621,12 +1607,12 @@
     "resolution": 0,
     "score": -5100,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Investigation Discovery": {
     "group": "Lifestyle & Documentary",
     "name": "Investigation Discovery",
-    "source": "manual_test_missing",
+    "source": "manual_removed_test",
     "raw": "Investigation Discovery",
     "url": "http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729",
     "info": "#EXTINF:-1,Investigation Discovery",
@@ -1635,12 +1621,12 @@
     "resolution": 0,
     "score": -5100,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Science Channel": {
     "group": "Lifestyle & Documentary",
     "name": "Science Channel",
-    "source": "manual_test_missing",
+    "source": "manual_removed_test",
     "raw": "Science Channel",
     "url": "http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626",
     "info": "#EXTINF:-1,Science Channel",
@@ -1649,7 +1635,7 @@
     "resolution": 0,
     "score": -5100,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Smithsonian Channel": {
     "group": "Lifestyle & Documentary",
@@ -1659,11 +1645,11 @@
     "url": "http://40.160.24.55/SMITHSONIAN/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"SmithsonianChannel.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png\" group-title=\"Science\",Smithsonian Channel (1080p)",
     "ok": true,
-    "seconds": 0.13,
+    "seconds": 0.108,
     "resolution": 1080,
-    "score": 8826,
+    "score": 8827,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "The Cowboy Channel": {
     "group": "Lifestyle & Documentary",
@@ -1673,11 +1659,11 @@
     "url": "http://206.212.244.63/155/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"TheCowboyChannel.us@SD\" tvg-logo=\"https://i.imgur.com/0F1c7x4.png\" group-title=\"Undefined\",The Cowboy Channel (720p)",
     "ok": true,
-    "seconds": 0.132,
+    "seconds": 0.104,
     "resolution": 720,
-    "score": 8576,
+    "score": 8578,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Outdoor Channel": {
     "group": "Lifestyle & Documentary",
@@ -1687,11 +1673,11 @@
     "url": "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"OutdoorChannel.us@SD\" tvg-logo=\"https://i.imgur.com/Kh4MWaY.png\" group-title=\"Outdoor\",Outdoor Channel (1080p)",
     "ok": true,
-    "seconds": 0.527,
+    "seconds": 0.203,
     "resolution": 1080,
-    "score": 8857,
+    "score": 8949,
     "alternatives": 4,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Sportsman Channel": {
     "group": "Lifestyle & Documentary",
@@ -1701,11 +1687,11 @@
     "url": "http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8:Sportsman Channel",
     "info": "#EXTINF:-1 tvg-name=\"Sportsman Channel\" group-title=\"HansSettings USA\",Sportsman Channel",
     "ok": false,
-    "seconds": 0.031,
+    "seconds": 0.018,
     "resolution": 0,
-    "score": -8609,
+    "score": -11605,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Pursuit Channel": {
     "group": "Lifestyle & Documentary",
@@ -1715,11 +1701,11 @@
     "url": "http://206.212.244.63/140/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"PursuitChannel.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png\" group-title=\"Undefined\",Pursuit Channel (720p)",
     "ok": true,
-    "seconds": 0.126,
+    "seconds": 0.106,
     "resolution": 720,
-    "score": 8452,
+    "score": 8464,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Classic Arts Showcase": {
     "group": "Public / Educational",
@@ -1729,11 +1715,11 @@
     "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"ClassicArtsShowcase.us@SD\" tvg-logo=\"https://i.imgur.com/M6FFkc3.png\" group-title=\"Education\",Classic Arts Showcase (720p)",
     "ok": true,
-    "seconds": 0.152,
+    "seconds": 0.367,
     "resolution": 720,
-    "score": 8720,
+    "score": 8649,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Create": {
     "group": "Public / Educational",
@@ -1743,11 +1729,11 @@
     "url": "https://create.lls.pbs.org/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"Create.us@SD\" tvg-logo=\"https://i.imgur.com/OIJTECP.png\" group-title=\"Education\",Create (1080p)",
     "ok": false,
-    "seconds": 0.281,
+    "seconds": 0.212,
     "resolution": 1080,
-    "score": -13769,
+    "score": -23954,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "France 24": {
     "group": "Public / Educational",
@@ -1757,11 +1743,11 @@
     "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"France24.fr@Spanish\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png\" group-title=\"News\",France 24 Espa\u00f1ol (1080p)",
     "ok": true,
-    "seconds": 0.106,
+    "seconds": 0.095,
     "resolution": 1080,
-    "score": 8794,
-    "alternatives": 25,
-    "updated": 1783537475
+    "score": 8843,
+    "alternatives": 31,
+    "updated": 1783618485
   },
   "World Channel": {
     "group": "Public / Educational",
@@ -1771,11 +1757,11 @@
     "url": "https://world.lls.pbs.org/index.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WorldChannel.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg\" group-title=\"Education\",World Channel (1080p)",
     "ok": false,
-    "seconds": 0.268,
+    "seconds": 0.186,
     "resolution": 1080,
-    "score": -13765,
+    "score": -23946,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "Link TV": {
     "group": "Public / Educational",
@@ -1785,11 +1771,11 @@
     "url": "https://linktv.b-cdn.net/linktv.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"LinkTV.ar@SD\" tvg-logo=\"https://i.ibb.co/ncYZY6T/logo-3.png\" group-title=\"General\",Link TV",
     "ok": true,
-    "seconds": 0.255,
+    "seconds": 0.239,
     "resolution": 0,
-    "score": 7861,
+    "score": 7894,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "BYU TV": {
     "group": "Public / Educational",
@@ -1799,11 +1785,11 @@
     "url": "https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8:BYU TV",
     "info": "#EXTINF:-1 tvg-name=\"BYU TV\" group-title=\"HansSettings USA\",BYU TV",
     "ok": false,
-    "seconds": 0.012,
+    "seconds": 0.018,
     "resolution": 0,
-    "score": -8453,
+    "score": -11455,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "ABC Tampa": {
     "group": "Local News",
@@ -1813,11 +1799,11 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8",
     "info": "#EXTINF:-1,WFTS",
     "ok": true,
-    "seconds": 0.387,
+    "seconds": 0.383,
     "resolution": 0,
-    "score": 7784,
+    "score": 7786,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "FOX Tampa": {
     "group": "Local News",
@@ -1827,11 +1813,11 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WTVT131.us@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png\" group-title=\"Undefined\",WTVT-DT1 (1080p)",
     "ok": true,
-    "seconds": 0.466,
+    "seconds": 0.396,
     "resolution": 1080,
-    "score": 8876,
+    "score": 8891,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NBC Boston": {
     "group": "Local News",
@@ -1841,11 +1827,11 @@
     "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS",
     "info": "#EXTINF:-1 tvg-id=\"WBTSCD151.us@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/960px-WBTS-LD_NBC_10_Boston_logo.png\" group-title=\"Undefined\",WBTS-CD1 (1080p)",
     "ok": true,
-    "seconds": 0.145,
+    "seconds": 0.195,
     "resolution": 1080,
-    "score": 8972,
+    "score": 8951,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "FOX Boston": {
     "group": "Local News",
@@ -1855,11 +1841,11 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WFXT662.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png\" group-title=\"Undefined\",WFXT-DT2 (1080p)",
     "ok": true,
-    "seconds": 0.367,
+    "seconds": 0.504,
     "resolution": 1080,
-    "score": 8905,
+    "score": 8858,
     "alternatives": 2,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "NBC Philadelphia": {
     "group": "Local News",
@@ -1869,11 +1855,11 @@
     "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
     "info": "#EXTINF:-1 tvg-id=\"WCAU621.us@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/960px-WCAUlogo2.svg.png\" group-title=\"Undefined\",WCAU-DT1 (1080p)",
     "ok": true,
-    "seconds": 0.14,
+    "seconds": 0.153,
     "resolution": 1080,
-    "score": 8973,
+    "score": 8964,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "FOX Philadelphia": {
     "group": "Local News",
@@ -1883,11 +1869,11 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"WTXFTV291.us@HD\" tvg-logo=\"https://i.imgur.com/fRjmk5r.png\" group-title=\"Undefined\",WTXF-DT1 (1080p)",
     "ok": true,
-    "seconds": 0.367,
+    "seconds": 0.487,
     "resolution": 1080,
-    "score": 8905,
+    "score": 8863,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   },
   "CMT Music": {
     "group": "Entertainment Variants",
@@ -1897,11 +1883,11 @@
     "url": "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8",
     "info": "#EXTINF:-1 tvg-id=\"CMTEqualPlay.us@SD\" tvg-logo=\"https://i.imgur.com/9ysjkkL.png\" group-title=\"Music\",CMT Equal Play (720p)",
     "ok": true,
-    "seconds": 0.276,
+    "seconds": 0.231,
     "resolution": 720,
-    "score": 8683,
-    "alternatives": 4,
-    "updated": 1783537475
+    "score": 8690,
+    "alternatives": 8,
+    "updated": 1783618485
   },
   "CNBC Europe": {
     "group": "News Variants",
@@ -1911,10 +1897,10 @@
     "url": "https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8",
     "info": "#EXTINF:-1 tvg-name=\"CNBC Europe\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png\" tvg-id=\"CNBCEurope.uk\" tvg-chno=\"106\" group-title=\"Business\",CNBC Europe",
     "ok": true,
-    "seconds": 0.339,
+    "seconds": 0.411,
     "resolution": 0,
-    "score": 7993,
+    "score": 7981,
     "alternatives": 1,
-    "updated": 1783537475
+    "updated": 1783618485
   }
 }

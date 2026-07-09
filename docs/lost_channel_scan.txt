@@ -1,0 +1,426 @@
+======================================================================
+USA Network
+======================================================================
+01. POSSIBLE |  | ABC
+    
+02. POSSIBLE | usa_hanssettings | ABC 25 West Palm Beach FL (WPBF)
+    https://livetv-fa.tubi.video/wpbf/playlist.m3u8:ABC 25 West Palm Beach FL (WPBF)
+03. POSSIBLE |  | CBS
+    
+04. POSSIBLE | usa_hanssettings | CBS 12 West Palm Beach FL (WPEC)
+    https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8:CBS 12 West Palm Beach FL (WPEC)
+05. POSSIBLE | usa_hanssettings | CBS 12 West Palm Beach FL (WPEC) (#)
+    https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8:CBS 12 West Palm Beach FL (WPEC) (#)
+06. POSSIBLE |  | NBC
+    
+07. POSSIBLE | usa_hanssettings | NBC Universo West
+    http://190.11.225.124:5000/live/universo_hd/playlist.m3u8:NBC Universo West
+08. POSSIBLE | usa_hanssettings | NBC 5 West Palm Beach
+    https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8:NBC 5 West Palm Beach
+09. POSSIBLE |  | FOX
+    
+10. POSSIBLE | usa_hanssettings | FOX 15 West Texas Abilene
+    https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8:FOX 15 West Texas Abilene
+11. POSSIBLE |  | Telemundo
+    
+12. POSSIBLE | usa_hanssettings | Telemundo East
+    https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8:Telemundo East
+13. POSSIBLE |  | Comet
+    
+14. POSSIBLE | usa_hanssettings | Comet
+    https://fast-channels.sinclairstoryline.com/COMET/index.m3u8:Comet
+15. POSSIBLE |  | Charge!
+    
+16. POSSIBLE | usa_hanssettings | Charge!
+    https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8:Charge!
+17. POSSIBLE |  | Defy TV
+    
+18. POSSIBLE | usa_hanssettings | Defy TV
+    https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8:Defy TV
+19. POSSIBLE |  | Heroes & Icons
+    
+20. POSSIBLE | usa_hanssettings | Heroes & Icons
+    https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8:Heroes & Icons
+21. BAD_REGION? |  | Ion Television
+    
+22. POSSIBLE | usa_hanssettings | ION TV East
+    https://jmp2.uk/plu-65453f30085df200085883d8.m3u8:ION TV East
+23. POSSIBLE | usa_hanssettings | ION Plus East
+    https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8:ION Plus East
+24. BAD_REGION? |  | Ion Mystery
+    
+25. POSSIBLE | usa_hanssettings | ION Mystery
+    https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8:ION Mystery
+26. BAD_REGION? |  | Ion Plus
+    
+27. POSSIBLE | usa_hanssettings | ION Plus East
+    https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8:ION Plus East
+28. POSSIBLE |  | Movies!
+    
+29. POSSIBLE | usa_hanssettings | Movies!
+    https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8:Movies!
+30. POSSIBLE |  | Story Television
+    
+31. POSSIBLE | usa_hanssettings | Story Television
+    https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8:Story Television
+32. POSSIBLE |  | TBD
+    
+33. POSSIBLE | usa_hanssettings | TBD
+    http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a:TBD
+34. POSSIBLE | usa_hanssettings | TBD (#)
+    https://fast-channels.sinclairstoryline.com/TBD/index.m3u8:TBD (#)
+35. POSSIBLE |  | AMC
+    
+36. POSSIBLE | usa_hanssettings | AMC+
+    https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8:AMC+
+37. POSSIBLE |  | BBC America
+    
+38. POSSIBLE | usa_hanssettings | BBC America East
+    https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8:BBC America East
+39. POSSIBLE |  | Bravo
+    
+40. POSSIBLE | usa_hanssettings | Bravo East
+    https://i.mjh.nz/.r/bravo-plus1.m3u8:Bravo East
+41. POSSIBLE |  | CMT
+    
+42. POSSIBLE | iptv-org-category | CMT (720p)
+    http://23.237.104.106:8080/USA_CMT/index.m3u8
+43. POSSIBLE |  | Comedy Central
+    
+44. POSSIBLE | iptv_org_noram | Comedy Central (1080p)
+    http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+45. POSSIBLE | usa_hanssettings | Comedy Central East
+    http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8:Comedy Central East
+46. POSSIBLE |  | E!
+    
+47. POSSIBLE | iptv-org-category | E! (1080p)
+    http://23.237.104.106:8080/USA_E/index.m3u8
+48. POSSIBLE |  | Fuse
+    
+49. POSSIBLE | iptv-org-category | Fuse (1080p)
+    http://23.237.104.106:8080/USA_FUSE/index.m3u8
+50. POSSIBLE | usa_hanssettings | Fuse East
+    https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8:Fuse East
+51. POSSIBLE |  | FX
+    
+52. POSSIBLE | iptv-org-category | FX (1080p)
+    http://23.237.104.106:8080/USA_FX/index.m3u8
+53. POSSIBLE |  | FXX
+    
+54. POSSIBLE | iptv-org-category | FXX (1080p)
+    http://23.237.104.106:8080/USA_FXX/index.m3u8
+55. POSSIBLE |  | Hallmark Channel
+    
+56. POSSIBLE | iptv-org-category | Hallmark Channel (1080p)
+    http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+57. POSSIBLE |  | IFC
+    
+58. POSSIBLE | iptv-org-category | IFC (1080p)
+    http://23.237.104.106:8080/USA_IFC/index.m3u8
+59. POSSIBLE |  | Lifetime
+    
+60. POSSIBLE | popular-movies-iptv | Lifetime Movies (1080p)
+    http://23.237.104.106:8080/USA_LMN/index.m3u8
+61. BAD_REGION? |  | MTV
+    
+62. POSSIBLE | iptv-org-category | MTV Live (720p)
+    http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+63. POSSIBLE |  | MTV Classic
+    
+64. POSSIBLE | usa_hanssettings | MTV Classic
+    https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8:MTV Classic
+65. BAD_REGION? |  | Pop
+    
+66. POSSIBLE | usa_hanssettings | Pop
+    https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop
+67. POSSIBLE | usa_hanssettings | Pop (#)
+    https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8:Pop (#)
+68. POSSIBLE |  | Reelz
+    
+69. POSSIBLE | usa_hanssettings | REELZ
+    http://212.102.60.231/REELZ/index.m3u8:REELZ
+70. POSSIBLE | usa_hanssettings | Reelz
+    https://lnc-reelz.tubi.video/playlist.m3u8:Reelz
+71. POSSIBLE | usa_hanssettings | Reelz (#)
+    https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8:Reelz (#)
+72. POSSIBLE | usa_hanssettings | Reelz (#)
+    http://fl2.moveonjoy.com/REELZ/index.m3u8:Reelz (#)
+73. POSSIBLE |  | Syfy
+    
+74. POSSIBLE | iptv-org-category | SYFY (720p)
+    http://23.237.104.106:8080/USA_SYFY/index.m3u8
+75. POSSIBLE |  | TNT
+    
+76. POSSIBLE | usa_hanssettings | TNT East
+    http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts:TNT East
+77. POSSIBLE |  | USA Network
+    
+78. POSSIBLE |  | Vice TV
+    
+79. POSSIBLE | iptv-org-category | VICE TV (1080p)
+    http://23.237.104.106:8080/USA_VICETV/index.m3u8
+80. POSSIBLE |  | Showtime
+    
+81. POSSIBLE | iptv-org-category | Showtime (1080p)
+    http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+82. POSSIBLE | iptv-org-category | Showtime Family Zone (720p)
+    http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+83. POSSIBLE | usa_hanssettings | Showtime East
+    http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8:Showtime East
+84. POSSIBLE |  | Starz
+    
+85. POSSIBLE | iptv_org_noram | Starz (1080p)
+    http://23.237.104.106:8080/USA_STARZ/index.m3u8
+86. POSSIBLE | iptv_org_noram | Starz Cinema (720p)
+    http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+87. POSSIBLE | iptv_org_noram | Starz Comedy (1080p)
+    http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+88. POSSIBLE | iptv_org_noram | Starz Kids & Family (1080p)
+    http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+89. POSSIBLE | usa_hanssettings | Starz East
+    http://212.102.60.231/STARZ/index.m3u8:Starz East
+90. POSSIBLE | usa_hanssettings | Starz East (#)
+    http://23.237.104.106:8080/USA_STARZ/index.m3u8:Starz East (#)
+91. POSSIBLE | usa_hanssettings | Starz West
+    http://212.102.60.231/STARZ_WEST/index.m3u8:Starz West
+92. POSSIBLE | usa_hanssettings | Starz Encore Classic East
+    http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8:Starz Encore Classic East
+93. POSSIBLE |  | Starz Encore
+    
+94. POSSIBLE | usa_hanssettings | Starz Encore Classic East
+    http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8:Starz Encore Classic East
+95. POSSIBLE |  | Starz Cinema
+    
+96. POSSIBLE | iptv-org-category | Starz Cinema (720p)
+    http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+97. POSSIBLE |  | Starz Kids & Family
+    
+98. POSSIBLE | iptv-org-category | Starz Kids & Family (1080p)
+    http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+99. POSSIBLE |  | CNBC
+    
+100. POSSIBLE | usa_hanssettings | CNBC
+    https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8:CNBC
+101. POSSIBLE | usa_hanssettings | CNBC (#)
+    https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8:CNBC (#)
+102. POSSIBLE |  | CNN
+    
+103. POSSIBLE | free_tv | CNN
+    https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+104. POSSIBLE |  | CNN International
+    
+105. POSSIBLE | usa_hanssettings | CNN International
+    https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8:CNN International
+106. POSSIBLE |  | Fox Business Network
+    
+107. POSSIBLE | usa_hanssettings | Fox Business Network
+    http://41.205.93.154/FOXBUSINESS/index.m3u8:Fox Business Network
+108. POSSIBLE |  | Fox News Channel
+    
+109. POSSIBLE | usa_hanssettings | Fox News Channel
+    https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8:Fox News Channel
+110. POSSIBLE |  | MSNBC
+    
+111. POSSIBLE | usa_hanssettings | MSNBC
+    http://41.205.93.154/MSNBC/index.m3u8:MSNBC
+112. BAD_REGION? |  | Scripps News
+    
+113. POSSIBLE | usa_hanssettings | Scripps News
+    https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8:Scripps News
+114. POSSIBLE | usa_hanssettings | Scripps News (#)
+    https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8:Scripps News (#)
+115. POSSIBLE | usa_hanssettings | Scripps News (#)
+    https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8:Scripps News (#)
+116. POSSIBLE |  | ACC Network
+    
+117. POSSIBLE | usa_hanssettings | ACC Network
+    https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8:ACC Network
+118. POSSIBLE |  | Big Ten Network
+    
+119. POSSIBLE | iptv-org-category | Big Ten Network (720p)
+    http://23.237.104.106:8080/USA_BTN/index.m3u8
+120. POSSIBLE |  | ESPNU
+    
+121. POSSIBLE | iptv-org-sports | ESPNU (720p)
+    http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+122. POSSIBLE |  | Fox Sports 1
+    
+123. POSSIBLE | usa_hanssettings | FOX Sports 1
+    https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8:FOX Sports 1
+124. POSSIBLE |  | Golf Channel
+    
+125. POSSIBLE | iptv_org_noram | Golf Channel (1080p)
+    http://23.237.104.106:8080/USA_GOLF/index.m3u8
+126. POSSIBLE |  | MAV TV
+    
+127. POSSIBLE | usa_hanssettings | Mav TV (#)
+    http://fl2.moveonjoy.com/MAV_TV/index.m3u8:Mav TV (#)
+128. POSSIBLE |  | NBA TV
+    
+129. POSSIBLE | usa_hanssettings | NBA TV
+    http://212.102.60.231/NBA_TV/index.m3u8:NBA TV
+130. POSSIBLE |  | NHL Network
+    
+131. POSSIBLE | usa_hanssettings | NHL Network
+    https://nhl-firetv.amagi.tv/playlist.m3u8:NHL Network
+132. POSSIBLE |  | Tennis Channel
+    
+133. POSSIBLE | usa_hanssettings | Tennis Channel
+    https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8:Tennis Channel
+134. POSSIBLE | usa_hanssettings | Tennis Channel (#)
+    https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8:Tennis Channel (#)
+135. POSSIBLE |  | NESN
+    
+136. POSSIBLE | iptv-org-sports | NESN (720p)
+    http://23.237.104.106:8080/USA_NESN/index.m3u8
+137. POSSIBLE |  | Disney Junior
+    
+138. POSSIBLE | usa_hanssettings | Disney Junior East
+    http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8:Disney Junior East
+139. POSSIBLE | usa_hanssettings | Disney Junior East (#)
+    http://149.71.34.166:8000/play/a00l/index.m3u8:Disney Junior East (#)
+140. POSSIBLE |  | Disney XD
+    
+141. POSSIBLE | iptv-org-category | Disney XD (720p)
+    http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+142. POSSIBLE | usa_hanssettings | Disney XD
+    http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8:Disney XD
+143. BAD_REGION? |  | Nickelodeon
+    
+144. POSSIBLE | iptv_org | Nickelodeon (1080p)
+    http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+145. POSSIBLE | usa_hanssettings | Nickelodeon East
+    http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8:Nickelodeon East
+146. POSSIBLE |  | Nicktoons
+    
+147. POSSIBLE | usa_hanssettings | Nicktoons East
+    http://212.102.60.231/NICKTOONS/index.m3u8:Nicktoons East
+148. POSSIBLE |  | PBS Kids
+    
+149. POSSIBLE | usa_hanssettings | PBS Kids
+    https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8:PBS Kids
+150. POSSIBLE | usa_hanssettings | PBS Kids (#)
+    https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8:PBS Kids (#)
+151. POSSIBLE |  | The Cowboy Channel
+    
+152. POSSIBLE | usa_hanssettings | The Cowboy Channel
+    https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8:The Cowboy Channel
+153. POSSIBLE |  | Outdoor Channel
+    
+154. POSSIBLE | iptv-org-category | Outdoor Channel HD (720p)
+    http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+155. POSSIBLE | usa_hanssettings | Outdoor Channel
+    https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor Channel
+156. POSSIBLE |  | Sportsman Channel
+    
+157. POSSIBLE | usa_hanssettings | Sportsman Channel
+    http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8:Sportsman Channel
+158. POSSIBLE |  | Pursuit Channel
+    
+159. POSSIBLE | usa_hanssettings | Pursuit Channel
+    https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8:Pursuit Channel
+160. POSSIBLE |  | Classic Arts Showcase
+    
+161. POSSIBLE | usa_hanssettings | Classic Arts Showcase
+    https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8:Classic Arts Showcase
+162. POSSIBLE |  | BYU TV
+    
+163. POSSIBLE | usa_hanssettings | BYU TV
+    https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8:BYU TV
+======================================================================
+TBS
+======================================================================
+01. POSSIBLE |  | TBS
+    
+======================================================================
+TLC
+======================================================================
+01. POSSIBLE |  | TLC
+    
+02. POSSIBLE | manual_test_missing | TLC
+    http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+======================================================================
+History Channel
+======================================================================
+01. POSSIBLE |  | PBS
+    
+02. POSSIBLE | iptv_org | PBS History (1080p)
+    https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+03. POSSIBLE | iptv_org | PBS History (1080p)
+    https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+04. POSSIBLE |  | History Channel
+    
+05. POSSIBLE | manual_test_missing | History Channel
+    http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+06. POSSIBLE |  | Military History
+    
+======================================================================
+Investigation Discovery
+======================================================================
+01. POSSIBLE |  | Investigation Discovery
+    
+02. POSSIBLE | manual_test_missing | Investigation Discovery
+    http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+======================================================================
+Science Channel
+======================================================================
+01. POSSIBLE |  | Science Channel
+    
+02. POSSIBLE | manual_test_missing | Science Channel
+    http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
+======================================================================
+Animal Planet
+======================================================================
+01. POSSIBLE |  | Animal Planet
+    
+======================================================================
+Cooking Channel
+======================================================================
+01. POSSIBLE |  | Cooking Channel
+    
+======================================================================
+Cartoon Network
+======================================================================
+01. POSSIBLE |  | Cartoon Network
+    
+======================================================================
+Adult Swim
+======================================================================
+01. POSSIBLE |  | Adult Swim
+    
+======================================================================
+Boomerang
+======================================================================
+01. POSSIBLE |  | Boomerang
+    
+======================================================================
+TruTV
+======================================================================
+01. POSSIBLE |  | TruTV
+    
+======================================================================
+GSN
+======================================================================
+01. POSSIBLE |  | GSN
+    
+======================================================================
+LMN
+======================================================================
+01. BAD_REGION? |  | Ion Television
+    
+02. BAD_REGION? | pluto | ION
+    https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YzE1N2IxMC03OTUyLTExZjEtOTc0MC0zNjMwYjkyM2M0ZWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJmd1ZjSUQyQ29wcGEiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjgyN2ZjNDVhLTM0OWEtNDFjZS1hNjUzLWUwZTVjYzYwYmFlZSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzNTMwMzMyODIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpPREkzWm1NME5XRXRNelE1WVMwME1XTmxMV0UyTlRNdFpUQmxOV05qTmpCaVlXVmwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDM5NDMzLCJpYXQiOjE3ODMzNTMwMzMsImp0aSI6IjdlYzQ4ZTUzLWJiMGQtNGUxNS04MTAwLTcwNTMwMmI4ZWUzMCJ9.3h94KeNR98nnRLWg_rCJ_Nn3lMnTPx7rwM_wkK7C3ts&masterJWTPassthrough=true
+03. POSSIBLE |  | Lifetime
+    
+04. POSSIBLE | iptv_org | Lifetime Movies (1080p)
+    https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8
+05. POSSIBLE | popular-movies-iptv | Lifetime Movies (1080p)
+    http://23.237.104.106:8080/USA_LMN/index.m3u8
+06. POSSIBLE | iptv_org | Lifetime Movies Love & Drama (1080p)
+    https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+07. POSSIBLE |  | LMN
+    
+08. BAD_REGION? |  | Scripps News
+    
+09. BAD_REGION? | pluto | Scripps News
+    https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YzE1N2IxMC03OTUyLTExZjEtOTc0MC0zNjMwYjkyM2M0ZWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJmd1ZjSUQyQ29wcGEiOiI4MjdmYzQ1YS0zNDlhLTQxY2UtYTY1My1lMGU1Y2M2MGJhZWUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjgyN2ZjNDVhLTM0OWEtNDFjZS1hNjUzLWUwZTVjYzYwYmFlZSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMzNTMwMzMyODIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpPREkzWm1NME5XRXRNelE1WVMwME1XTmxMV0UyTlRNdFpUQmxOV05qTmpCaVlXVmwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNDM5NDMzLCJpYXQiOjE3ODMzNTMwMzMsImp0aSI6IjdlYzQ4ZTUzLWJiMGQtNGUxNS04MTAwLTcwNTMwMmI4ZWUzMCJ9.3h94KeNR98nnRLWg_rCJ_Nn3lMnTPx7rwM_wkK7C3ts&masterJWTPassthrough=true

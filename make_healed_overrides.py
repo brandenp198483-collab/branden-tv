@@ -1,3 +1,5 @@
+from channel_matcher import reject_for_channel
+from channel_matcher import looks_bad_region
 import json, time
 from pathlib import Path
 import ranking
@@ -31,6 +33,11 @@ for group, names in whitelist["categories"].items():
             if any(bad in haystack for bad in rejects):
                 continue
             filtered[url] = c
+
+        filtered = {
+            url: c for url, c in filtered.items()
+            if not reject_for_channel(wanted, c)
+        }
 
         ranked = ranking.best_candidate(filtered, source_grade_map)
 

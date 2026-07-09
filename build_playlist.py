@@ -1,9 +1,11 @@
+import requests
 import json, re, glob
 from pathlib import Path
-import requests
+import re
+from channel_matcher import smart_score, is_match, looks_bad_region, reject_for_channel, global_bad_stream
 
 HEALTH = json.load(open("candidate_health.json")) if Path("candidate_health.json").exists() else {}
-HEALED = json.load(open("healed_overrides.json")) if Path("healed_overrides.json").exists() else {}
+HEALED = {}  # disabled: healed overrides were locking in bad/wrong-language streams
 
 OUTPUT_DIR = Path("output")
 DOCS_DIR = Path("docs")
@@ -109,6 +111,10 @@ def aliases_for(wanted, db):
     return list(dict.fromkeys(aliases))
 
 def match_channel(ch, wanted, db):
+    text = ch["name"] + " " + ch["info"] + " " + ch["url"]
+    if reject_for_channel(wanted, text):
+        return False
+
     cname = clean(ch["name"])
 
     for alias in aliases_for(wanted, db):
@@ -119,6 +125,18 @@ def match_channel(ch, wanted, db):
 
         if cname in (a + " hd", a + " fhd", a + " 1080p", a + " 720p"):
             return True
+
+        if wanted == "MTV" and "classic" in cname:
+            return False
+
+        if wanted == "Lifetime" and ("movies" in cname or "lmn" in cname):
+            return False
+
+        if wanted == "MTV" and "classic" in cname:
+            return False
+
+        if wanted == "Lifetime" and ("movies" in cname or "lmn" in cname):
+            return False
 
         if cname.startswith(a + " ") and any(x in cname for x in ["1080p", "720p", "hd", "east", "west"]):
             return True
@@ -131,7 +149,13 @@ def score_channel(ch, wanted, db):
     wanted_clean = clean(wanted)
 
     health = HEALTH.get(ch["url"], {})
-    score = source_score(ch["source"]) + resolution_score(text)
+    score = source_score(ch["source"]) + resolution_score(text) + smart_score(wanted, text)
+
+    if ch.get("source") == "manual_overrides":
+        score += 50000
+
+    if reject_for_channel(wanted, text) or global_bad_stream(ch):
+        return -999999
 
     if health:
         if health.get("ok"):

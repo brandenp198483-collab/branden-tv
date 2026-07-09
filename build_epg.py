@@ -21,7 +21,10 @@ def quality_penalty(text):
     bad_regions = [
         ".br@", ".it", ".mx", ".ru", ".sa", ".ar", ".cl", ".pt", ".nz",
         " brazil", " brasil", " italy", " mexico", " russia", " arabia",
-        " latin", " latam", " panregional", " internacional"
+        " latin", " latam", " panregional", " internacional",
+        " novelas", " tntnovelas", " bravo tv ar", " keepingup",
+        " comedy central latino", " comedy central plus", " espn br",
+        " disney channel pt", " discovery channel it", " food network it"
     ]
     for bad in bad_regions:
         if bad in t:
