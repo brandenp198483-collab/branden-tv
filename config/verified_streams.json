@@ -18,5 +18,11 @@
     "url": "https://create.lls.pbs.org/index.m3u8",
     "status": "personally_verified",
     "verified_date": "2026-07-09"
+  },
+  "CNBC": {
+    "url": "http://rezofoot.tv/CNBC/index.m3u8",
+    "status": "personally_verified",
+    "verified_date": "2026-07-09",
+    "notes": "Candidate 3 Rezofoot; confirmed working in player"
   }
 }

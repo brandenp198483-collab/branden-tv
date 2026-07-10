@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-name="CNBC" group-title="News & Weather",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Ion.Television.branden" tvg-name="Ion Television" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="OTA Digital Multicast",Ion Television
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Ion.Television.branden" tvg-name="Ion Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_Television_logo.svg/960px-Ion_Television_logo.svg.png" group-title="OTA Digital Multicast",Ion Television
@@ -13,3 +11,5 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
 #EXTINF:-1 group-title="Verified Manual Override",Create
 https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",CNBC
+http://rezofoot.tv/CNBC/index.m3u8
