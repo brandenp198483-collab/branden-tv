@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Discovery Test",Discovery Candidate 1 - Tablo
+https://amg00136-wbd-amg00136c59-tablo-us-7102.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Discovery Test",Discovery Candidate 2 - Simulcast
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
