@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",Dabl
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",Defy TV
+https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",MeTV
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",MeTV+
+http://206.212.244.63/111/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",HLN
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",MSNBC
+https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",MAV TV
+https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",Food Network
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovery Round 2",World Channel
+https://world.lls.pbs.org/index.m3u8
