@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="BrandenTV AMC TNT Test",TNT Candidate 1 - TNT East
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts
+#EXTINF:-1 group-title="BrandenTV AMC TNT Test",AMC Candidate 1 - AMC 720p
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="BrandenTV AMC TNT Test",AMC Candidate 2 - AMC 1080p
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="BrandenTV AMC TNT Test",AMC Candidate 3 - AMC East
+http://41.223.30.230/AMC/index.m3u8
+#EXTINF:-1 group-title="BrandenTV AMC TNT Test",AMC Candidate 4 - AMC Plus
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
