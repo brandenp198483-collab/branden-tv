@@ -1,9 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Pop Test",Pop Candidate 1 - Pluto
-https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
-
-#EXTINF:-1 group-title="Pop Test",Pop Candidate 2 - Plex
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-664e9f11e8824b0c34762789/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
-
-#EXTINF:-1 group-title="Pop Test",Pop Candidate 3 - Plex
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-689658173fb218bcb80deb80/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
+#EXTINF:-1 group-title="My-iptv Test",Animal Planet Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Discovery Kids Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Discovery Science Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Discovery Turbo Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Discovery Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Dmax Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Dmax.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Eurosport Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Food Network Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Hgtv Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Hgtv.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Investigation Discovery Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Tlc Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 group-title="My-iptv Test",Travel Channel Candidate
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
