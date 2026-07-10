@@ -13,12 +13,42 @@ FULL_OUT = OUTPUT_DIR / "BrandenTV-Full.m3u"
 STREMIO_OUT = OUTPUT_DIR / "BrandenTV-Stremio.m3u"
 REPORT_OUT = DOCS_DIR / "whitelist_report.txt"
 
+CONFIG_DIR = Path("config")
+BAD_URLS = set()
+BLOCKED_NAMES = set()
+PREFERRED_URLS = set()
+EXTRA_ALIASES = {}
+
+def load_lines(path):
+    if not Path(path).exists():
+        return set()
+    return set(
+        line.strip()
+        for line in Path(path).read_text(errors="ignore").splitlines()
+        if line.strip() and not line.strip().startswith("#")
+    )
+
+BAD_URLS = load_lines(CONFIG_DIR / "bad_urls.txt") | load_lines("bad_urls.txt")
+BLOCKED_NAMES = {clean for clean in load_lines(CONFIG_DIR / "blocked_names.txt")}
+PREFERRED_URLS = load_lines(CONFIG_DIR / "preferred_urls.txt")
+
+if (CONFIG_DIR / "channel_aliases.json").exists():
+    try:
+        EXTRA_ALIASES = json.loads((CONFIG_DIR / "channel_aliases.json").read_text(errors="ignore"))
+    except Exception:
+        EXTRA_ALIASES = {}
+
 def clean(s):
     return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
 def load_sources():
     sources = json.load(open("sources.json"))
     channels = []
+
+    manual = Path("playlists/manual_overrides.m3u")
+    if manual.exists():
+        print("Loading manual overrides...")
+        channels += parse_m3u(manual.read_text(errors="ignore"), "manual_overrides")
     for source, url in sources.items():
         print(f"Downloading {source}...")
         try:
@@ -29,6 +59,8 @@ def load_sources():
             print(f"FAILED {source}: {e}")
 
     for file in glob.glob("playlists/*.m3u*"):
+        if Path(file).name == "manual_overrides.m3u":
+            continue
         print(f"Loading local {file}...")
         channels += parse_m3u(Path(file).read_text(errors="ignore"), Path(file).stem)
 
@@ -87,7 +119,20 @@ def source_score(source):
     }.get(source, 50)
 
 def is_rejected(ch, wanted, db):
+    if ch.get("url") in BAD_URLS:
+        return True
+
+    if (
+        ch.get("source") == "manual_overrides"
+        and clean(ch.get("name", "")) == clean(wanted)
+    ):
+        return False
+
     text = clean(ch["name"] + " " + ch["info"] + " " + ch["url"])
+
+    for bad_name in BLOCKED_NAMES:
+        if clean(bad_name) and clean(bad_name) in text:
+            return True
     wanted_clean = clean(wanted)
 
     allowed_spanish = [clean(x) for x in db.get("spanish_allowed", [])]
@@ -108,10 +153,18 @@ def is_rejected(ch, wanted, db):
 def aliases_for(wanted, db):
     aliases = [wanted]
     aliases += db.get("aliases", {}).get(wanted, [])
+    aliases += EXTRA_ALIASES.get(wanted, [])
     return list(dict.fromkeys(aliases))
 
 def match_channel(ch, wanted, db):
     text = ch["name"] + " " + ch["info"] + " " + ch["url"]
+
+    if (
+        ch.get("source") == "manual_overrides"
+        and clean(ch.get("name", "")) == clean(wanted)
+        and ch.get("url") not in BAD_URLS
+    ):
+        return True
     if reject_for_channel(wanted, text):
         return False
 
@@ -151,8 +204,20 @@ def score_channel(ch, wanted, db):
     health = HEALTH.get(ch["url"], {})
     score = source_score(ch["source"]) + resolution_score(text) + smart_score(wanted, text)
 
-    if ch.get("source") == "manual_overrides":
-        score += 50000
+    if ch.get("url") in BAD_URLS:
+        return -999999
+
+    if (
+        ch.get("source") == "manual_overrides"
+        and cname == wanted_clean
+    ):
+        return 100000 + resolution_score(text) + smart_score(wanted, text)
+
+    if ch.get("url") in PREFERRED_URLS:
+        score += 25000
+
+    if ch.get("url") in BAD_URLS:
+        return -999999
 
     if reject_for_channel(wanted, text) or global_bad_stream(ch):
         return -999999
