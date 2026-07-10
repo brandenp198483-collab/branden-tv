@@ -1,85 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="BrandenTV Hunter",Dabl Candidate 1 - Dabl
-https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",Defy TV Candidate 1 - Defy TV
-https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MeTV Candidate 1 - METV HD (1080p)
-http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MeTV Candidate 2 - MeTV (720p)
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MeTV+ Candidate 1 - MeTV+ (720p)
-http://206.212.244.63/111/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",TBS Candidate 1 - TBS East
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855462&extension=ts
-#EXTINF:-1 group-title="BrandenTV Hunter",TNT Candidate 1 - TNT (576p)
-http://94.230.129.31:8080/THT/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",Movieplex Candidate 1 - MoviePlex (576p)
-https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",Bloomberg Television Candidate 1 - Bloomberg Television
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=oBu8xSeABVK
-#EXTINF:-1 group-title="BrandenTV Hunter",Bloomberg Television Candidate 2 - Bloomberg Television (US)
-https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",CNBC World Candidate 1 - CNBC World (576p)
-http://206.212.244.63/42/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",CNN Candidate 1 - CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",CNN Candidate 2 - CNN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",CNN Candidate 3 - CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",HLN Candidate 1 - HLN Live (720p)
-https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MSNBC Candidate 1 - MSNBC
-https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MSNBC Candidate 2 - MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",The Weather Channel Candidate 1 - The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",The Weather Channel Candidate 2 - The Weather Network (720p)
-https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",The Weather Channel Candidate 3 - The Weather Network
-https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="BrandenTV Hunter",MAV TV Candidate 1 - Mav TV (#)
-http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MLB Network Candidate 1 - MLB
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVhMzliMTQyLTBmOTktNGUyNy04MmEzLTg1NDMzYzY1YjJhZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1MmYzOWNlOS03YmQwLTExZjEtYTRlNC03NmY5YTEwNmUzNzUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJmd1ZjSUQyQ29wcGEiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY4NzAwMDY1LWVjZjQtNDBlZC05NzBkLTlhNDRkMWRjN2UzMCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM2MjcwMTAwMzAsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOamczTURBd05qVXRaV05tTkMwME1HVmtMVGszTUdRdE9XRTBOR1F4WkdNM1pUTXciLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNzEzNDEwLCJpYXQiOjE3ODM2MjcwMTAsImp0aSI6IjI4NGI5YjAzLWM1NTQtNDgzYy1hOGEwLWM0ZjQyZGU5ZmJmZiJ9.HM9qRhiRVL_q9MUi50jZXyEeZs8Tz-mtLZLeqHydJMo&masterJWTPassthrough=true
-#EXTINF:-1 group-title="BrandenTV Hunter",MLB Network Candidate 2 - MLB
-https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MLB Network Candidate 3 - MLB
-https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MLB Network Strike Zone Candidate 1 - MLB Strike Zone (720p)
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",MSG Network Candidate 1 - MSG (720p)
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",NBA TV Candidate 1 - NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",Food Network Candidate 1 - Food Network
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",Food Network Candidate 2 - Food
-https://food-us.freemoviesplus.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",History Channel Candidate 1 - History Channel (1080p)
-https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 group-title="BrandenTV Hunter",History Channel Candidate 2 - History (720p)
-http://177.52.24.163/HISTORY-HD/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",History Channel Candidate 3 - History (720p)
-http://206.212.244.63/91/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",History Channel Candidate 4 - History
-http://213.91.179.28:8000/play/a0c1
-#EXTINF:-1 group-title="BrandenTV Hunter",History Channel Candidate 5 - History
-http://88.212.15.19/live/test_history/playlist.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",Sportsman Channel Candidate 1 - Sportsman Channel
-http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",France 24 Candidate 1 - FRANCE 24
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
-#EXTINF:-1 group-title="BrandenTV Hunter",France 24 Candidate 2 - FRANCE 24
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
-#EXTINF:-1 group-title="BrandenTV Hunter",France 24 Candidate 3 - FRANCE 24
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-678fe7959407a53556d3e8eb/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
-#EXTINF:-1 group-title="BrandenTV Hunter",France 24 Candidate 4 - FRANCE 24
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-678fe7959407a53556d3e8eb/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
-#EXTINF:-1 group-title="BrandenTV Hunter",France 24 Candidate 5 - FRANCE 24
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
-#EXTINF:-1 group-title="BrandenTV Hunter",World Channel Candidate 1 - World Channel (1080p)
-https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 group-title="BrandenTV Hunter",CNBC World Candidate 1 - CNBC World (576p)
-http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 group-title="TNT Slate Test",TNT East Slate 720p
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="TNT Slate Test",TNT East Slate 480p
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 group-title="TNT Slate Test",TNT East Slate 360p High
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="TNT Slate Test",TNT East Slate 360p Low
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_4_1064000.m3u8
