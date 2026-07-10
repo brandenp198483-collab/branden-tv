@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="CNBC Test",CNBC Candidate 1 - LiveNewsPlay SD
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 group-title="CNBC Test",CNBC Candidate 2 - NBCU Amagi
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CNBC Test",CNBC Candidate 3 - Rezofoot
+http://rezofoot.tv/CNBC/index.m3u8
