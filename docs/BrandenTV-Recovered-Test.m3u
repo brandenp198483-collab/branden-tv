@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="BrandenTV Recovered Test",Dabl
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",Defy TV
+https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",MeTV
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",MeTV+
+http://206.212.244.63/111/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",TBD
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",TBS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855462&extension=ts
+#EXTINF:-1 group-title="BrandenTV Recovered Test",TNT
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts
+#EXTINF:-1 group-title="BrandenTV Recovered Test",TV Land
+http://185.246.209.113/TVLandHD/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",USA Network
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",HLN
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",MSNBC
+https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",MAV TV
+https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",MSG Network
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",Sportsman Channel
+http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",Create
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",World Channel
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="BrandenTV Recovered Test",BYU TV
+https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
