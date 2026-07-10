@@ -1060,6 +1060,115 @@
       "reject": [
         "CNBC Europe West"
       ]
+    },
+    "TBD": {
+      "feed": "east",
+      "aliases": [
+        "TBD",
+        "TBD TV"
+      ],
+      "reject": []
+    },
+    "TV Land": {
+      "feed": "east",
+      "aliases": [
+        "TV Land",
+        "TVLand"
+      ],
+      "reject": [
+        "TV Land West",
+        "TVLand West"
+      ]
+    },
+    "USA Network": {
+      "feed": "east",
+      "aliases": [
+        "USA Network",
+        "USA"
+      ],
+      "reject": [
+        "USA Network West",
+        "USA West"
+      ]
+    },
+    "The Weather Channel": {
+      "feed": "east",
+      "aliases": [
+        "The Weather Channel",
+        "Weather Channel",
+        "TWC"
+      ],
+      "reject": [
+        "Weather Channel West"
+      ]
+    },
+    "MLB Network": {
+      "feed": "east",
+      "aliases": [
+        "MLB Network",
+        "MLBN"
+      ],
+      "reject": [
+        "MLB Network Alternate"
+      ]
+    },
+    "MLB Network Strike Zone": {
+      "feed": "east",
+      "aliases": [
+        "MLB Network Strike Zone",
+        "MLB Strike Zone",
+        "MLB Network StrikeZone"
+      ],
+      "reject": []
+    },
+    "History Channel": {
+      "feed": "east",
+      "aliases": [
+        "History Channel",
+        "History",
+        "The History Channel"
+      ],
+      "reject": [
+        "History Channel West",
+        "History en Espa\u00f1ol"
+      ]
+    },
+    "Create": {
+      "feed": "east",
+      "aliases": [
+        "Create",
+        "Create TV",
+        "PBS Create"
+      ],
+      "reject": []
+    },
+    "BYU TV": {
+      "feed": "east",
+      "aliases": [
+        "BYU TV",
+        "BYUtv"
+      ],
+      "reject": []
+    },
+    "CNN": {
+      "feed": "east",
+      "aliases": [
+        "CNN",
+        "CNN USA",
+        "CNN US"
+      ],
+      "reject": [
+        "CNN International",
+        "CNN en Espa\u00f1ol"
+      ]
+    },
+    "HLN": {
+      "feed": "east",
+      "aliases": [
+        "HLN",
+        "Headline News"
+      ],
+      "reject": []
     }
   }
 }
