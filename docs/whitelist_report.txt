@@ -70,7 +70,7 @@ FOUND | Entertainment | Sundance TV | iptv_org | score=2752 | raw=Sundance TV (7
 FOUND | Entertainment | Syfy | iptv_org | score=2749 | raw=SYFY (720p)
 MISS  | Entertainment | TBS
 MISS  | Entertainment | TLC
-MISS  | Entertainment | TNT | best_bad_score=-440 | raw=TNT East
+FOUND | Entertainment | TNT | manual_overrides | score=100500 | raw=TNT
 MISS  | Entertainment | Travel Channel
 MISS  | Entertainment | TruTV
 FOUND | Entertainment | TV Land | iptv_org | score=1270 | raw=TV Land (720p)

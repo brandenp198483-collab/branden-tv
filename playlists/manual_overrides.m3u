@@ -21,3 +21,5 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 group-title="Verified Manual Override",The Weather Channel
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 tvg-id="TNT.branden" tvg-name="TNT" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tnt.png" group-title="Entertainment",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8

@@ -110,6 +110,8 @@ https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 http://206.212.244.63/151/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/syfy.png" group-title="Entertainment",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TNT.branden" tvg-name="TNT" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tnt.png" group-title="Entertainment",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TV.Land.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tv-land.png" group-title="Entertainment",TV Land
 http://206.212.244.63/164/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/usa-network.png" tvg-id="USA.Network.branden" group-title="Entertainment",USA Network
