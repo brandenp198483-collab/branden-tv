@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://brandenp198483-collab.github.io/branden-tv/BrandenTV.xml"
 
-#EXTINF:-1 tvg-id="ABC.branden" tvg-logo="https://i.imgur.com/Lv6HuCT.png" group-title="OTA Major Networks",ABC
-https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="OTA Major Networks",ABC
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="OTA Major Networks",CBS
 http://stream.cammonitorplus.net/1783/index.m3u8
 #EXTINF:-1 tvg-id="NBC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="OTA Major Networks",NBC
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="FOX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="OTA Major Networks",FOX
-https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="The.CW.branden" tvg-logo="" group-title="OTA Major Networks",The CW
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="OTA Major Networks",PBS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="" group-title="OTA Major Networks",MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo.branden" tvg-logo="" group-title="OTA Major Networks",Telemundo
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Telemundo.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="OTA Major Networks",Telemundo
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="Univision.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="OTA Major Networks",Univision
 http://200.115.120.1:8000/play/ca106/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="OTA Major Networks",UniMas
@@ -58,8 +58,8 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.branden" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
-#EXTINF:-1 tvg-id="BET.branden" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Entertainment",BET
-http://206.212.244.63/16/index.m3u8
+#EXTINF:-1 tvg-id="BET.branden" tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="Entertainment",BET
+http://206.212.244.63/19/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.branden" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Entertainment",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="CMT.branden" tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="Entertainment",CMT
@@ -122,8 +122,8 @@ http://rezofoot.tv/VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="We.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Entertainment",We TV
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="A.And.E.Crime.360.branden" tvg-logo="https://images.vizio.com/v4/btv/1/1736242036/1/267/150/0.jpg" group-title="Entertainment",A&E Crime 360
-https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzIzOTY3Mjg1M30
+#EXTINF:-1 tvg-id="A.And.E.Crime.360.branden" tvg-logo="" group-title="Entertainment",A&E Crime 360
+https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 #EXTINF:-1 tvg-id="Showtime.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="Premium Cable",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="Starz.branden" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Premium Cable",Starz
@@ -133,7 +133,7 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Kids.And.Family.branden" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="Premium Cable",Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="MGM.Plus.branden" channel-id="6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e" tvg-chno="" tvg-name="MGM Presents: Westerns" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Premium Cable",MGM+
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=MXq8sXxAMp8hd1DzTzF_
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=Wo8EWGxA4EQaemW2X5WB
 #EXTINF:-1 tvg-id="CNBC.branden" group-title="News & Weather",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.International.branden" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-chno="37" group-title="News & Weather",CNN International
