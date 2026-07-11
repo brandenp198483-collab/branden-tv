@@ -31,3 +31,7 @@ https://stream1.freetv.fun/77858acda929b95a1f6704ac6eaea92d277e512602d0df019bd97
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 #EXTINF:-1 tvg-id="HBO.Comedy.branden" tvg-name="HBO Comedy" group-title="Premium Cable",HBO Comedy
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
+#EXTINF:-1 tvg-id="MGM.Marquee.branden" tvg-name="MGM+ Marquee" group-title="Premium Cable",MGM+ Marquee
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/12730.m3u8
+#EXTINF:-1 tvg-id="MGM.Drive.In.branden" tvg-name="MGM+ Drive-In" group-title="Premium Cable",MGM+ Drive-In
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
