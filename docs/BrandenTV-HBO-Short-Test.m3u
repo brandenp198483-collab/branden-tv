@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="HBO Candidate Test",002 - HBO
+http://40.160.24.53/HBO_HD/index.m3u8
+#EXTINF:-1 group-title="HBO Candidate Test",004 - HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="HBO Candidate Test",005 - HBO Comedy
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
+#EXTINF:-1 group-title="HBO Candidate Test",006 - HBO Family (🔉💬🇬🇧)🇮🇳
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 group-title="HBO Candidate Test",007 - HBO Family (🔉💬🇬🇧)🇵🇭
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+#EXTINF:-1 group-title="HBO Candidate Test",010 - HBO Signature (🔉💬🇬🇧)🇮🇳
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 group-title="HBO Candidate Test",011 - HBO Signature (🔉💬🇬🇧)🇵🇭
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+#EXTINF:-1 group-title="HBO Candidate Test",012 - HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
