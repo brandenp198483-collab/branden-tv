@@ -142,6 +142,10 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="MGM.Plus.branden" channel-id="6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e" tvg-chno="" tvg-name="MGM Presents: Westerns" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Premium Cable",MGM+
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=sbu7Wz8RTFs6Zcr8y473
+#EXTINF:-1 tvg-id="MGM.Plus.Marquee.branden" tvg-name="MGM+ Marquee" group-title="Premium Cable",MGM+ Marquee
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/12730.m3u8
+#EXTINF:-1 tvg-id="MGM.Plus.Drive.In.branden" tvg-name="MGM+ Drive-In" group-title="Premium Cable",MGM+ Drive-In
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
 #EXTINF:-1 tvg-id="CNBC.branden" group-title="News & Weather",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.International.branden" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-chno="37" group-title="News & Weather",CNN International
