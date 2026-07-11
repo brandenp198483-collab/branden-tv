@@ -22,12 +22,16 @@ http://200.115.120.1:8000/play/ca106/index.m3u8
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="Antenna.TV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/antenna-tv.png" group-title="OTA Digital Multicast",Antenna TV
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 tvg-id="Catchy.Comedy.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/catchy-comedy.png" group-title="OTA Digital Multicast",Catchy Comedy
+http://40.160.24.52/DECADES/index.m3u8
 #EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cozi-tv.png" group-title="OTA Digital Multicast",Cozi TV
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-id="Comet.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/comet.png" group-title="OTA Digital Multicast",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="Charge.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/charge.png" group-title="OTA Digital Multicast",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="Dabl.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/dabl.png" group-title="OTA Digital Multicast",Dabl
+http://40.160.24.56/DABL/index.m3u8
 #EXTINF:-1 tvg-id="Grit.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/grit.png" group-title="OTA Digital Multicast",Grit
 http://206.212.244.63/83/index.m3u8
 #EXTINF:-1 tvg-id="Heroes.And.Icons.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/heroes-icons.png" group-title="OTA Digital Multicast",Heroes & Icons
@@ -74,6 +78,8 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fxx.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fx-movie-channel.png" group-title="Entertainment",FX Movie Channel
+http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="FYI.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fyi.png" group-title="Entertainment",FYI
 http://206.212.244.63/78/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/hallmark-channel.png" group-title="Entertainment",Hallmark Channel
@@ -154,16 +160,26 @@ https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 http://206.212.244.63/2486/index.m3u8
 #EXTINF:-1 tvg-id="Big.Ten.Network.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/big-ten-network.png" group-title="Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cbs-sports-network.png" group-title="Sports",CBS Sports Network
+http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espn.png" group-title="Sports",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espnews.png" group-title="Sports",ESPNews
 http://41.223.30.230/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espnu.png" group-title="Sports",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.Deportes.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espn-deportes.png" group-title="Sports",ESPN Deportes
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-sports-1.png" group-title="Sports",Fox Sports 1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-sports-2.png" group-title="Sports",Fox Sports 2
+http://200.91.32.158:8080/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-soccer-plus.png" group-title="Sports",Fox Soccer Plus
+http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="Golf.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/golf-channel.png" group-title="Sports",Golf Channel
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/marquee-sports-network.png" group-title="Sports",Marquee Sports Network
+http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mlb-network.png" tvg-id="MLB.Network.branden" group-title="Sports",MLB Network
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVhMzliMTQyLTBmOTktNGUyNy04MmEzLTg1NDMzYzY1YjJhZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1MmYzOWNlOS03YmQwLTExZjEtYTRlNC03NmY5YTEwNmUzNzUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJmd1ZjSUQyQ29wcGEiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY4NzAwMDY1LWVjZjQtNDBlZC05NzBkLTlhNDRkMWRjN2UzMCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM2MjcwMTAwMzAsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOamczTURBd05qVXRaV05tTkMwME1HVmtMVGszTUdRdE9XRTBOR1F4WkdNM1pUTXciLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNzEzNDEwLCJpYXQiOjE3ODM2MjcwMTAsImp0aSI6IjI4NGI5YjAzLWM1NTQtNDgzYy1hOGEwLWM0ZjQyZGU5ZmJmZiJ9.HM9qRhiRVL_q9MUi50jZXyEeZs8Tz-mtLZLeqHydJMo&masterJWTPassthrough=true
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mlb-network-strike-zone.png" tvg-id="MLB.Network.Strike.Zone.branden" group-title="Sports",MLB Network Strike Zone
@@ -212,6 +228,8 @@ http://40.160.24.55/SMITHSONIAN/index.m3u8
 http://206.212.244.63/155/index.m3u8
 #EXTINF:-1 tvg-id="Outdoor.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/outdoor-channel.png" group-title="Lifestyle & Documentary",Outdoor Channel
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportsman.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/sportsman-channel.png" group-title="Lifestyle & Documentary",Sportsman Channel
+http://40.160.24.55/Sportsman_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Pursuit.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/pursuit-channel.png" group-title="Lifestyle & Documentary",Pursuit Channel
 http://206.212.244.63/140/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/discovery-turbo.png" tvg-id="Discovery.Turbo.branden" tvg-name="Discovery Turbo" group-title="Lifestyle & Documentary",Discovery Turbo
