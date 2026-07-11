@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="TBS Focused Test",001 - TBS [original 035, score 110]
+http://fl25.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="TBS Focused Test",002 - TBS [original 034, score 100]
+https://hilay.tv/l/tbs
+#EXTINF:-1 group-title="TBS Focused Test",003 - TBS [original 036, score 100]
+https://a1xs.vip/300038
+#EXTINF:-1 group-title="TBS Focused Test",004 - TBS East HD [original 043, score 60]
+https://tvpass.org/live/TBSEast/hd
+#EXTINF:-1 group-title="TBS Focused Test",005 - TBS East [original 042, score 50]
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSEast.us.m3u8
+#EXTINF:-1 group-title="TBS Focused Test",006 - TBS USA [original 052, score 45]
+http://fl3.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="TBS Focused Test",007 - TBS East SD [original 044, score 40]
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 group-title="TBS Focused Test",008 - TBS HD (Primehome) [original 047, score 20]
+https://proxy.utako.moe/ph.php?&isp=1&id=hdgd04
+#EXTINF:-1 group-title="TBS Focused Test",009 - TBS eFM [original 045, score 10]
+https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
+#EXTINF:-1 group-title="TBS Focused Test",010 - TBS(JP) [original 054, score 10]
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="TBS Focused Test",011 - BS TBS (Primehome) [original 008, score 0]
+https://proxy.utako.moe/ph.php?&isp=1&id=bs04
+#EXTINF:-1 group-title="TBS Focused Test",012 - TBS (Primehome) [original 039, score 0]
+https://proxy.utako.moe/ph.php?&isp=1&id=gd04
+#EXTINF:-1 group-title="TBS Focused Test",013 - TBS News (Primehome) [original 050, score 0]
+https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+#EXTINF:-1 group-title="TBS Focused Test",014 - TBS West [original 053, score -15]
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSWest.us.m3u8
