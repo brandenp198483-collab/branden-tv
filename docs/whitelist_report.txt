@@ -81,7 +81,7 @@ FOUND | Entertainment | We TV | iptv_org | score=2747 | raw=We TV (720p)
 FOUND | Entertainment | A&E Crime 360 | vizio | score=2529 | raw=A&E Crime 360
 MISS  | Premium Cable | HBO
 MISS  | Premium Cable | HBO2
-MISS  | Premium Cable | HBO Comedy
+FOUND | Premium Cable | HBO Comedy | manual_overrides | score=100500 | raw=HBO Comedy
 MISS  | Premium Cable | HBO Family
 MISS  | Premium Cable | HBO Latino
 MISS  | Premium Cable | HBO Signature

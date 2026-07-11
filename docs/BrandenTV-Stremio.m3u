@@ -130,6 +130,8 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="A.And.E.Crime.360.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/a-e-crime-360.png" group-title="Entertainment",A&E Crime 360
 https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzIzOTY3Mjg1M30
+#EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/hbo-comedy.png" tvg-id="HBO.Comedy.branden" tvg-name="HBO Comedy" group-title="Premium Cable",HBO Comedy
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 #EXTINF:-1 tvg-id="Showtime.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/showtime.png" group-title="Premium Cable",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="Starz.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/starz.png" group-title="Premium Cable",Starz
