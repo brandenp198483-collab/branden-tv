@@ -214,7 +214,7 @@ http://206.212.244.63/155/index.m3u8
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Pursuit.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/pursuit-channel.png" group-title="Lifestyle & Documentary",Pursuit Channel
 http://206.212.244.63/140/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Turbo.branden" tvg-name="Discovery Turbo" group-title="Lifestyle & Documentary",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/discovery-turbo.png" tvg-id="Discovery.Turbo.branden" tvg-name="Discovery Turbo" group-title="Lifestyle & Documentary",Discovery Turbo
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 #EXTINF:-1 tvg-id="Classic.Arts.Showcase.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/classic-arts-showcase.png" group-title="Public / Educational",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
