@@ -64,7 +64,7 @@ MISS  | Entertainment | Nat Geo Wild
 FOUND | Entertainment | Ovation | iptv_org | score=2733 | raw=Ovation (1080p)
 FOUND | Entertainment | Oxygen | iptv_org | score=2749 | raw=Oxygen (720p)
 FOUND | Entertainment | Paramount Network | iptv_org | score=2712 | raw=Paramount Network (720p)
-FOUND | Entertainment | Pop | iptv_org | score=2617 | raw=Pop (1080p)
+FOUND | Entertainment | Pop | buddy_pluto_all | score=2402 | raw=POP
 FOUND | Entertainment | Reelz | iptv_org | score=2363 | raw=Reelz Famous & Infamous (1080p)
 FOUND | Entertainment | Sundance TV | iptv_org | score=2752 | raw=Sundance TV (720p)
 FOUND | Entertainment | Syfy | iptv_org | score=2749 | raw=SYFY (720p)
@@ -178,14 +178,15 @@ MISS  | Lifestyle & Documentary | Discovery Life
 MISS  | Lifestyle & Documentary | Food Network | best_bad_score=-999999 | raw=Food Network
 FOUND | Lifestyle & Documentary | HGTV | iptv_org | score=2713 | raw=HGTV (1080p)
 FOUND | Lifestyle & Documentary | History Channel | manual_overrides | score=101000 | raw=History Channel
-MISS  | Lifestyle & Documentary | Investigation Discovery
+FOUND | Lifestyle & Documentary | Investigation Discovery | manual_overrides | score=100500 | raw=Investigation Discovery
 MISS  | Lifestyle & Documentary | Military History
-MISS  | Lifestyle & Documentary | Science Channel
+FOUND | Lifestyle & Documentary | Science Channel | manual_overrides | score=100500 | raw=Science Channel
 FOUND | Lifestyle & Documentary | Smithsonian Channel | iptv_org | score=2817 | raw=Smithsonian Channel (1080p)
 FOUND | Lifestyle & Documentary | The Cowboy Channel | iptv_org | score=2677 | raw=The Cowboy Channel (720p)
 FOUND | Lifestyle & Documentary | Outdoor Channel | iptv_org | score=2731 | raw=Outdoor Channel (1080p)
 MISS  | Lifestyle & Documentary | Sportsman Channel | best_bad_score=-890 | raw=Sportsman Channel
 FOUND | Lifestyle & Documentary | Pursuit Channel | iptv_org | score=2681 | raw=Pursuit Channel (720p)
+FOUND | Lifestyle & Documentary | Discovery Turbo | manual_overrides | score=100500 | raw=Discovery Turbo
 FOUND | Public / Educational | Classic Arts Showcase | iptv_org | score=2679 | raw=Classic Arts Showcase (720p)
 FOUND | Public / Educational | Create | manual_overrides | score=100500 | raw=Create
 MISS  | Public / Educational | DW-TV
