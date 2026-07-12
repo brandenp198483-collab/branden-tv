@@ -32,7 +32,7 @@ FOUND | OTA Digital Multicast | TBD | manual_overrides | score=100500 | raw=TBD
 MISS  | OTA Digital Multicast | This TV
 FOUND | OTA Digital Multicast | MeTV Toons | iptv_org | score=2679 | raw=MeTV Toons (720p)
 MISS  | Entertainment | A&E
-MISS  | Entertainment | AMC | best_bad_score=-890 | raw=AMC+
+FOUND | Entertainment | AMC | iptv_org | score=1250 | raw=AMC+ (1080p)
 FOUND | Entertainment | AXS TV | iptv_org | score=2677 | raw=AXS TV (720p)
 FOUND | Entertainment | BBC America | iptv_org | score=2759 | raw=BBC America (720p)
 FOUND | Entertainment | BET | iptv_org | score=2488 | raw=BET Her West (720p)
@@ -96,7 +96,7 @@ MISS  | Premium Cable | Showtime 2
 MISS  | Premium Cable | Showtime Showcase
 MISS  | Premium Cable | The Movie Channel
 MISS  | Premium Cable | The Movie Channel Xtra
-MISS  | Premium Cable | Flix | best_bad_score=-1060 | raw=&flix HD (1080p)
+FOUND | Premium Cable | Flix | iptv_org | score=1270 | raw=Flix (720p)
 FOUND | Premium Cable | Starz | iptv_org | score=2810 | raw=Starz (1080p)
 MISS  | Premium Cable | Starz Encore | best_bad_score=-1210 | raw=Starz Encore Classic East
 FOUND | Premium Cable | Starz Cinema | iptv_org | score=2750 | raw=Starz Cinema (720p)
@@ -104,7 +104,7 @@ MISS  | Premium Cable | Starz InBlack
 FOUND | Premium Cable | Starz Kids & Family | iptv_org | score=2810 | raw=Starz Kids & Family (1080p)
 MISS  | Premium Cable | Starz Edge
 FOUND | Premium Cable | MGM+ | manual_overrides | score=100500 | raw=MGM+
-MISS  | Premium Cable | MGM+ Hits
+FOUND | Premium Cable | MGM+ Hits | iptv_org | score=1270 | raw=MGM+ Hits (720p)
 FOUND | Premium Cable | MGM+ Marquee | manual_overrides | score=100500 | raw=MGM+ Marquee
 FOUND | Premium Cable | MGM+ Drive-In | manual_overrides | score=100500 | raw=MGM+ Drive-In
 MISS  | Premium Cable | Movieplex
@@ -113,7 +113,7 @@ MISS  | Premium Cable | RetroPlex
 FOUND | Premium Cable | MGM Westerns | manual_overrides | score=100500 | raw=MGM Westerns
 MISS  | News & Weather | AccuWeather Network
 MISS  | News & Weather | Bloomberg Television | best_bad_score=-1050 | raw=Bloomberg Television
-MISS  | News & Weather | C-SPAN
+FOUND | News & Weather | C-SPAN | iptv_org | score=1230 | raw=C-SPAN (720p)
 MISS  | News & Weather | C-SPAN2
 MISS  | News & Weather | C-SPAN3
 FOUND | News & Weather | CNBC | manual_overrides | score=100500 | raw=CNBC

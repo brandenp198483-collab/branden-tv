@@ -56,6 +56,8 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Toons.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/metv-toons.png" group-title="OTA Digital Multicast",MeTV Toons
 http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 tvg-id="AMC.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/amc.png" group-title="Entertainment",AMC
+http://40.160.24.52/AMC_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="AXS.TV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/axs-tv.png" group-title="Entertainment",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/bbc-america.png" group-title="Entertainment",BBC America
@@ -134,6 +136,8 @@ https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 #EXTINF:-1 tvg-id="Showtime.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/showtime.png" group-title="Premium Cable",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Flix.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/flix.png" group-title="Premium Cable",Flix
+http://40.160.24.52/FLIX/index.m3u8
 #EXTINF:-1 tvg-id="Starz.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/starz.png" group-title="Premium Cable",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Cinema.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/starz-cinema.png" group-title="Premium Cable",Starz Cinema
@@ -141,13 +145,17 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Kids.And.Family.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/starz-kids-family.png" group-title="Premium Cable",Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm.png" tvg-id="MGM.Plus.branden" tvg-name="MGM+" group-title="Premium Cable",MGM+
-http://lunar.pm:8080/live/Stephanie/time44/18206.m3u8
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
+#EXTINF:-1 tvg-id="MGM.Plus.Hits.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-hits.png" group-title="Premium Cable",MGM+ Hits
+http://40.160.24.52/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-marquee.png" tvg-id="MGM.Plus.Marquee.branden" tvg-name="MGM+ Marquee" group-title="Premium Cable",MGM+ Marquee
 http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/12730.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-drive-in.png" tvg-id="MGM.Plus.Drive.In.branden" tvg-name="MGM+ Drive-In" group-title="Premium Cable",MGM+ Drive-In
-http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/18206.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-westerns.png" tvg-id="MGM.Westerns.branden" tvg-name="MGM Westerns" group-title="Premium Cable",MGM Westerns
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=sbu7Wz8RTFs6Zcr8y473
+#EXTINF:-1 tvg-id="C.SPAN.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/c-span.png" group-title="News & Weather",C-SPAN
+http://40.160.24.52/C-SPAN_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cnbc.png" tvg-id="CNBC.branden" group-title="News & Weather",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.International.branden" tvg-name="CNN International" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cnn-international.png" tvg-chno="37" group-title="News & Weather",CNN International
