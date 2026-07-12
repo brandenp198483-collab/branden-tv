@@ -39,3 +39,5 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a48
 http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
 #EXTINF:-1 tvg-id="MGM.Plus.Drive.In.branden" tvg-name="MGM+ Drive-In" group-title="Premium Cable",MGM+ Drive-In
 http://lunar.pm:8080/live/Stephanie/time44/18206.m3u8
+#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-name="Cozi TV" group-title="OTA Digital Multicast",Cozi TV
+http://206.212.244.63/49/index.m3u8
