@@ -56,6 +56,8 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Toons.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="OTA Digital Multicast",MeTV Toons
 http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 tvg-id="AMC.branden" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment",AMC
+http://40.160.24.52/AMC_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="AXS.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Entertainment",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.branden" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
@@ -134,18 +136,26 @@ https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 #EXTINF:-1 tvg-id="Showtime.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="Premium Cable",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Flix.branden" tvg-logo="https://i.imgur.com/N1d23J3.png" group-title="Premium Cable",Flix
+http://40.160.24.52/FLIX/index.m3u8
 #EXTINF:-1 tvg-id="Starz.branden" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Premium Cable",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Cinema.branden" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="Premium Cable",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Kids.And.Family.branden" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="Premium Cable",Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="MGM.Plus.branden" channel-id="6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e" tvg-chno="" tvg-name="MGM Presents: Westerns" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Premium Cable",MGM+
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=sbu7Wz8RTFs6Zcr8y473
+#EXTINF:-1 tvg-id="MGM.Plus.branden" tvg-name="MGM+" group-title="Premium Cable",MGM+
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
+#EXTINF:-1 tvg-id="MGM.Plus.Hits.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png" group-title="Premium Cable",MGM+ Hits
+http://40.160.24.52/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="MGM.Plus.Marquee.branden" tvg-name="MGM+ Marquee" group-title="Premium Cable",MGM+ Marquee
 http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/12730.m3u8
 #EXTINF:-1 tvg-id="MGM.Plus.Drive.In.branden" tvg-name="MGM+ Drive-In" group-title="Premium Cable",MGM+ Drive-In
-http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/18206.m3u8
+#EXTINF:-1 tvg-id="MGM.Westerns.branden" tvg-name="MGM Westerns" group-title="Premium Cable",MGM Westerns
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=sbu7Wz8RTFs6Zcr8y473
+#EXTINF:-1 tvg-id="C.SPAN.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png" group-title="News & Weather",C-SPAN
+http://40.160.24.52/C-SPAN_HD/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.branden" group-title="News & Weather",CNBC
 http://rezofoot.tv/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.International.branden" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-chno="37" group-title="News & Weather",CNN International
