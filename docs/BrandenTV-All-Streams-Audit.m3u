@@ -1,0 +1,275 @@
+#EXTM3U
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/abc.png",001 - ABC [AUTO-SELECTED]
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cbs.png",002 - CBS [AUTO-SELECTED]
+http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nbc.png",003 - NBC [AUTO-SELECTED]
+http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox.png",004 - FOX [AUTO-SELECTED]
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/the-cw.png",005 - The CW [AUTO-SELECTED]
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/pbs.png",006 - PBS [AUTO-SELECTED]
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mynetworktv.png",007 - MyNetworkTV [AUTO-SELECTED]
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/telemundo.png",008 - Telemundo [AUTO-SELECTED]
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/univision.png",009 - Univision [AUTO-SELECTED]
+http://200.115.120.1:8000/play/ca106/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Major Networks" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/unimas.png",010 - UniMas [AUTO-SELECTED]
+http://168.228.44.241:9997/play/a09e/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/antenna-tv.png",011 - Antenna TV [AUTO-SELECTED]
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/catchy-comedy.png",012 - Catchy Comedy [AUTO-SELECTED]
+http://40.160.24.52/DECADES/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cozi-tv.png",013 - Cozi TV [AUTO-SELECTED]
+http://206.212.244.63/49/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/comet.png",014 - Comet [AUTO-SELECTED]
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/charge.png",015 - Charge! [AUTO-SELECTED]
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/dabl.png",016 - Dabl [AUTO-SELECTED]
+http://40.160.24.56/DABL/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/grit.png",017 - Grit [AUTO-SELECTED]
+http://206.212.244.63/83/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/heroes-icons.png",018 - Heroes & Icons [AUTO-SELECTED]
+http://206.212.244.63/88/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/ion-television.png",019 - Ion Television [LOCKED]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/ion-mystery.png",020 - Ion Mystery [AUTO-SELECTED]
+https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n4=content_name&ads.v4=ION%20Mystery&ads.n21=content_custom_2_param&ads.v21=AMDB013703&ads.n22=channel_company_id&ads.v22=AMDP500574&ads.n23=did&ads.v23=&ads.n24=content_livestream&ads.v24=1&ads.n25=channel_ext_id&ads.v25=&ads.n26=channel_id&ads.v26=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=dnt&ads.v28=&ads.n29=channel_genre&ads.v29=Drama&ads.n30=content_type&ads.v30=channel&ads.n31=gpp&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=ifa_type&ads.v33=&ads.n34=pos&ads.v34=midroll&ads.n35=channel_brand_id&ads.v35=AMDB013703&ads.n36=app_version&ads.v36=0.0.0&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=content_producer_name&ads.v39=ION%20Media%20Networks&ads.n40=device_make&ads.v40=&ads.n41=channel_title&ads.v41=ION%20Mystery&ads.n42=device_model&ads.v42=&ads.n43=app_bundle&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=network_name&ads.v45=ion-mystery&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=h&ads.v47=1080&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=ip&ads.v50=185.217.168.164&ads.n51=w&ads.v51=1920&ads.n52=channel_name&ads.v52=ION%20Mystery&ads.n53=channel_language&ads.v53=en&ads.n54=channel_corp&ads.v54=ION%20Media%20Networks&ads.n55=app_name&ads.v55=&ads.n56=content_custom_1_param&ads.v56=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n57=content_provider&ads.v57=ion-mystery&ads.n58=gpp_sid&ads.v58=
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/ion-plus.png",021 - Ion Plus [AUTO-SELECTED]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/laff.png",022 - Laff [AUTO-SELECTED]
+http://206.212.244.63/101/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/movies.png",023 - Movies! [AUTO-SELECTED]
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/rewind-tv.png",024 - Rewind TV [AUTO-SELECTED]
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/start-tv.png",025 - Start TV [AUTO-SELECTED]
+http://206.212.244.63/150/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/story-television.png",026 - Story Television [AUTO-SELECTED]
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tbd.png",027 - TBD [LOCKED]
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - OTA Digital Multicast" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/metv-toons.png",028 - MeTV Toons [AUTO-SELECTED]
+http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/amc.png",029 - AMC [AUTO-SELECTED]
+http://40.160.24.52/AMC_PLUS/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/axs-tv.png",030 - AXS TV [AUTO-SELECTED]
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/bbc-america.png",031 - BBC America [AUTO-SELECTED]
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/bet.png",032 - BET [AUTO-SELECTED]
+http://206.212.244.63/19/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/bravo.png",033 - Bravo [AUTO-SELECTED]
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cmt.png",034 - CMT [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Uncategorized" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/comedy-central.png",035 - Comedy Central [AUTO-SELECTED]
+http://86.87.15.10:8002/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/e.png",036 - E! [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/freeform.png",037 - Freeform [AUTO-SELECTED]
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fuse.png",038 - Fuse [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fx.png",039 - FX [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fxx.png",040 - FXX [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fx-movie-channel.png",041 - FX Movie Channel [AUTO-SELECTED]
+http://40.160.24.52/FXM/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fyi.png",042 - FYI [AUTO-SELECTED]
+http://206.212.244.63/78/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/hallmark-channel.png",043 - Hallmark Channel [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/hallmark-mystery.png",044 - Hallmark Mystery [AUTO-SELECTED]
+http://206.212.244.63/86/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/hallmark-family.png",045 - Hallmark Family [AUTO-SELECTED]
+http://206.212.244.63/85/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/ifc.png",046 - IFC [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/insp.png",047 - INSP [AUTO-SELECTED]
+http://206.212.244.63/95/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/lifetime.png",048 - Lifetime [AUTO-SELECTED]
+http://rezofoot.tv/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mtv.png",049 - MTV [AUTO-SELECTED]
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mtv2.png",050 - MTV2 [AUTO-SELECTED]
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mtv-classic.png",051 - MTV Classic [AUTO-SELECTED]
+http://206.212.244.63/117/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/national-geographic.png",052 - National Geographic [AUTO-SELECTED]
+http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/ovation.png",053 - Ovation [AUTO-SELECTED]
+http://40.160.24.55/OVATION/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/oxygen.png",054 - Oxygen [AUTO-SELECTED]
+http://198.58.104.90:8989/oxygen/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/paramount-network.png",055 - Paramount Network [AUTO-SELECTED]
+http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/pop.png",056 - Pop [AUTO-SELECTED]
+https://narrative-popkids-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-narrative-popkids-rakuten/CDN/master.m3u8?ads_amagi_channel_id=850&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=children&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=0&ads_rtv_content_id=4880&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=128a73f5-24fb-42e1-8055-93f3891f42d8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/reelz.png",057 - Reelz [AUTO-SELECTED]
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/sundance-tv.png",058 - Sundance TV [AUTO-SELECTED]
+http://206.212.244.63/151/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/syfy.png",059 - Syfy [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tnt.png",060 - TNT [LOCKED]
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tv-land.png",061 - TV Land [AUTO-SELECTED]
+http://206.212.244.63/164/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/usa-network.png",062 - USA Network [LOCKED]
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/vh1.png",063 - VH1 [AUTO-SELECTED]
+http://rezofoot.tv/VH1/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/vice-tv.png",064 - Vice TV [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/we-tv.png",065 - We TV [AUTO-SELECTED]
+https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/a-e-crime-360.png",066 - A&E Crime 360 [AUTO-SELECTED]
+https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/hbo-comedy.png",067 - HBO Comedy [LOCKED]
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/showtime.png",068 - Showtime [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/flix.png",069 - Flix [AUTO-SELECTED]
+http://40.160.24.52/FLIX/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/starz.png",070 - Starz [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/starz-cinema.png",071 - Starz Cinema [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/starz-kids-family.png",072 - Starz Kids & Family [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm.png",073 - MGM+ [LOCKED]
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-hits.png",074 - MGM+ Hits [AUTO-SELECTED]
+http://40.160.24.52/EPIX_2/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-marquee.png",075 - MGM+ Marquee [LOCKED]
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/12730.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-drive-in.png",076 - MGM+ Drive-In [LOCKED]
+http://lunar.pm:8080/live/Stephanie/time44/18206.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Premium Cable" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mgm-westerns.png",077 - MGM Westerns [LOCKED]
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=sbu7Wz8RTFs6Zcr8y473
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/c-span.png",078 - C-SPAN [AUTO-SELECTED]
+http://40.160.24.52/C-SPAN_HD/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cnbc.png",079 - CNBC [LOCKED]
+http://rezofoot.tv/CNBC/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cnn-international.png",080 - CNN International [AUTO-SELECTED]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-business-network.png",081 - Fox Business Network [AUTO-SELECTED]
+http://206.212.244.63/66/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-news-channel.png",082 - Fox News Channel [AUTO-SELECTED]
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/newsmax-tv.png",083 - Newsmax TV [AUTO-SELECTED]
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/newsnation.png",084 - NewsNation [AUTO-SELECTED]
+http://206.212.244.63/712/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/scripps-news.png",085 - Scripps News [AUTO-SELECTED]
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News & Weather" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/the-weather-channel.png",086 - The Weather Channel [LOCKED]
+https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/acc-network.png",087 - ACC Network [AUTO-SELECTED]
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/big-ten-network.png",088 - Big Ten Network [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cbs-sports-network.png",089 - CBS Sports Network [AUTO-SELECTED]
+http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espn.png",090 - ESPN [AUTO-SELECTED]
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espnews.png",091 - ESPNews [AUTO-SELECTED]
+http://41.223.30.230/ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espnu.png",092 - ESPNU [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/espn-deportes.png",093 - ESPN Deportes [AUTO-SELECTED]
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-sports-1.png",094 - Fox Sports 1 [AUTO-SELECTED]
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-sports-2.png",095 - Fox Sports 2 [AUTO-SELECTED]
+http://200.91.32.158:8080/foxsports2/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-soccer-plus.png",096 - Fox Soccer Plus [AUTO-SELECTED]
+http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/golf-channel.png",097 - Golf Channel [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/marquee-sports-network.png",098 - Marquee Sports Network [AUTO-SELECTED]
+http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mlb-network.png",099 - MLB Network [LOCKED]
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVhMzliMTQyLTBmOTktNGUyNy04MmEzLTg1NDMzYzY1YjJhZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1MmYzOWNlOS03YmQwLTExZjEtYTRlNC03NmY5YTEwNmUzNzUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJmd1ZjSUQyQ29wcGEiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY4NzAwMDY1LWVjZjQtNDBlZC05NzBkLTlhNDRkMWRjN2UzMCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM2MjcwMTAwMzAsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOamczTURBd05qVXRaV05tTkMwME1HVmtMVGszTUdRdE9XRTBOR1F4WkdNM1pUTXciLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNzEzNDEwLCJpYXQiOjE3ODM2MjcwMTAsImp0aSI6IjI4NGI5YjAzLWM1NTQtNDgzYy1hOGEwLWM0ZjQyZGU5ZmJmZiJ9.HM9qRhiRVL_q9MUi50jZXyEeZs8Tz-mtLZLeqHydJMo&masterJWTPassthrough=true
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mlb-network-strike-zone.png",100 - MLB Network Strike Zone [LOCKED]
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nfl-network.png",101 - NFL Network [AUTO-SELECTED]
+http://206.212.244.63/196/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nhl-network.png",102 - NHL Network [AUTO-SELECTED]
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/sec-network.png",103 - SEC Network [AUTO-SELECTED]
+http://206.212.244.63/2511/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tennis-channel.png",104 - Tennis Channel [AUTO-SELECTED]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tudn.png",105 - TUDN [AUTO-SELECTED]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Sports" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nesn.png",106 - NESN [AUTO-SELECTED]
+https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/disney-channel.png",107 - Disney Channel [AUTO-SELECTED]
+http://206.212.244.63/650/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/disney-junior.png",108 - Disney Junior [AUTO-SELECTED]
+http://206.212.244.63/655/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/disney-xd.png",109 - Disney XD [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nick-jr.png",110 - Nick Jr. [AUTO-SELECTED]
+http://40.160.24.55/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nickelodeon.png",111 - Nickelodeon [AUTO-SELECTED]
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nicktoons.png",112 - Nicktoons [AUTO-SELECTED]
+https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/teennick.png",113 - TeenNick [AUTO-SELECTED]
+http://206.212.244.63/670/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/pbs-kids.png",114 - PBS Kids [AUTO-SELECTED]
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Children & Family" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/babyfirst.png",115 - BabyFirst [AUTO-SELECTED]
+http://206.212.244.63/639/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/hgtv.png",116 - HGTV [AUTO-SELECTED]
+https://i.mjh.nz/.r/sky-hgtv.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/history-channel.png",117 - History Channel [LOCKED]
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/investigation-discovery.png",118 - Investigation Discovery [LOCKED]
+https://stream1.freetv.fun/c7cbeee0048337bd881a4b357e53ce54cbce7fb041e725498604a1445ad8fbdf.ctv
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/science-channel.png",119 - Science Channel [LOCKED]
+https://stream1.freetv.fun/77858acda929b95a1f6704ac6eaea92d277e512602d0df019bd97ec286fdf8aa.ctv
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/smithsonian-channel.png",120 - Smithsonian Channel [AUTO-SELECTED]
+http://40.160.24.55/SMITHSONIAN/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/the-cowboy-channel.png",121 - The Cowboy Channel [AUTO-SELECTED]
+http://206.212.244.63/155/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/outdoor-channel.png",122 - Outdoor Channel [AUTO-SELECTED]
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/sportsman-channel.png",123 - Sportsman Channel [AUTO-SELECTED]
+http://40.160.24.55/Sportsman_Channel/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/pursuit-channel.png",124 - Pursuit Channel [AUTO-SELECTED]
+http://206.212.244.63/140/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Lifestyle & Documentary" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/discovery-turbo.png",125 - Discovery Turbo [LOCKED]
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Public / Educational" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/classic-arts-showcase.png",126 - Classic Arts Showcase [AUTO-SELECTED]
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Public / Educational" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/create.png",127 - Create [LOCKED]
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Public / Educational" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/link-tv.png",128 - Link TV [AUTO-SELECTED]
+https://linktv.b-cdn.net/linktv.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Public / Educational" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/byu-tv.png",129 - BYU TV [LOCKED]
+https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Local News" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/abc-tampa.png",130 - ABC Tampa [AUTO-SELECTED]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Local News" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-tampa.png",131 - FOX Tampa [AUTO-SELECTED]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Local News" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nbc-boston.png",132 - NBC Boston [AUTO-SELECTED]
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+#EXTINF:-1 group-title="Full Stream Audit - Local News" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-boston.png",133 - FOX Boston [AUTO-SELECTED]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Local News" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nbc-philadelphia.png",134 - NBC Philadelphia [AUTO-SELECTED]
+https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
+#EXTINF:-1 group-title="Full Stream Audit - Local News" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-philadelphia.png",135 - FOX Philadelphia [AUTO-SELECTED]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - Entertainment Variants" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cmt-music.png",136 - CMT Music [AUTO-SELECTED]
+https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+#EXTINF:-1 group-title="Full Stream Audit - News Variants" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cnbc-europe.png",137 - CNBC Europe [AUTO-SELECTED]
+https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
