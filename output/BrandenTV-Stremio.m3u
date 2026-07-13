@@ -258,8 +258,6 @@ https://create.lls.pbs.org/index.m3u8
 https://linktv.b-cdn.net/linktv.m3u8
 #EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/byu-tv.png" tvg-id="BYU.TV.branden" group-title="Public / Educational",BYU TV
 https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
-#EXTINF:-1 tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/abc-tampa.png" group-title="Local News" -1 tvg-id="ABC.Tampa.branden",ABC Tampa
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX.Tampa.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fox-tampa.png" group-title="Local News",FOX Tampa
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.Boston.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/nbc-boston.png" group-title="Local News",NBC Boston
@@ -275,4 +273,4 @@ https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 tvg-id="CNBC.Europe.branden" tvg-name="CNBC Europe" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cnbc-europe.png" tvg-chno="106" group-title="News Variants",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-id="Tampa.Bay.28.Plus.branden" tvg-name="Tampa Bay 28+" group-title="Local News",Tampa Bay 28+
-https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8
