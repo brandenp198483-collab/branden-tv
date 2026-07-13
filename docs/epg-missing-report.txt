@@ -2,7 +2,7 @@ WORKING         | ABC | ABC.branden
 WORKING         | CBS | CBS.branden
 WORKING         | NBC | NBC.branden
 WORKING         | FOX | FOX.branden
-NO PROGRAMMES   | The CW | The.CW.branden
+WORKING         | The CW | The.CW.branden
 WORKING         | PBS | PBS.branden
 NO PROGRAMMES   | MyNetworkTV | MyNetworkTV.branden
 WORKING         | Telemundo | Telemundo.branden
@@ -26,7 +26,7 @@ WORKING         | Start TV | Start.TV.branden
 WORKING         | Story Television | Story.Television.branden
 NO PROGRAMMES   | TBD | TBD.branden
 WORKING         | MeTV Toons | MeTV.Toons.branden
-WORKING         | AMC | AMC.branden
+NO XML CHANNEL  | AMC+ | AMC.Plus.branden
 WORKING         | AXS TV | AXS.TV.branden
 WORKING         | BBC America | BBC.America.branden
 WORKING         | BET | BET.branden
@@ -135,3 +135,4 @@ WORKING         | FOX Philadelphia | FOX.Philadelphia.branden
 WORKING         | CMT Music | CMT.Music.branden
 NO PROGRAMMES   | CNBC Europe | CNBC.Europe.branden
 WORKING         | Tampa Bay 28+ | Tampa.Bay.28.Plus.branden
+WORKING         | AMC | AMC.branden
