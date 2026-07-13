@@ -8,9 +8,9 @@ http://stream.cammonitorplus.net/1783/index.m3u8
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="FOX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="OTA Major Networks",FOX
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="The.CW.branden" tvg-logo="" group-title="OTA Major Networks",The CW
+#EXTINF:-1 tvg-id="The.CW.branden" tvg-logo="https://iptv-epg.org/images/T9og20P0JODD7tntvALNYJFvW_U56i0ddLC9-itwScrihEeJWjavFVhZG2SnH66UqShlOEpESGFnFCe1-UYT7pV9RimVsnDfW2c-_eew7A" group-title="OTA Major Networks",The CW
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="OTA Major Networks",PBS
+#EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://iptv-epg.org/images/RaYiWD-IkmSbogNoZKYInZIfrnlKCDZR8SCfd2KBlCC9CqLj_9_SWvV10iBnua8WHU1PBdMHWRZ_Nn1JVdtMJYjkMpXFEy4lPQkZ0Rg9pGErh9t_" group-title="OTA Major Networks",PBS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="" group-title="OTA Major Networks",MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
