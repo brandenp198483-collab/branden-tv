@@ -24,7 +24,7 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="Catchy.Comedy.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/250px-Catchy_Comedy_logo.svg.png" group-title="OTA Digital Multicast",Catchy Comedy
 http://40.160.24.52/DECADES/index.m3u8
-#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png" group-title="OTA Digital Multicast",Cozi TV
+#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-name="Cozi TV" group-title="OTA Digital Multicast",Cozi TV
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-id="Comet.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="OTA Digital Multicast",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
@@ -56,7 +56,7 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Toons.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="OTA Digital Multicast",MeTV Toons
 http://206.212.244.63/112/index.m3u8
-#EXTINF:-1 tvg-id="AMC.Plus.branden" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment" tvg-name="AMC+",AMC+
+#EXTINF:-1 tvg-id="AMC.branden" tvg-name="AMC+" group-title="Entertainment",AMC
 http://40.160.24.52/AMC_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="AXS.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Entertainment",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
@@ -272,5 +272,3 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiaw
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 tvg-id="CNBC.Europe.branden" tvg-name="CNBC Europe" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-chno="106" group-title="News Variants",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-#EXTINF:-1 tvg-id="Tampa.Bay.28.Plus.branden" tvg-name="Tampa Bay 28+" group-title="Local News",Tampa Bay 28+
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8

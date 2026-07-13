@@ -11,7 +11,7 @@ FOUND | OTA Major Networks | UniMas | iptv_org | score=2468 | raw=UniMas Mountai
 FOUND | OTA Digital Multicast | Antenna TV | ota_diginets | score=2468 | raw=Antenna TV
 MISS  | OTA Digital Multicast | Bounce TV
 FOUND | OTA Digital Multicast | Catchy Comedy | iptv_org | score=1190 | raw=Catchy Comedy (720p)
-FOUND | OTA Digital Multicast | Cozi TV | iptv-org-category | score=2588 | raw=Cozi TV (720p)
+FOUND | OTA Digital Multicast | Cozi TV | manual_overrides | score=100500 | raw=Cozi TV
 FOUND | OTA Digital Multicast | Comet | iptv_org | score=2740 | raw=Comet (1080p)
 FOUND | OTA Digital Multicast | Charge! | iptv_org | score=2739 | raw=Charge! (1080p)
 FOUND | OTA Digital Multicast | Dabl | iptv_org | score=1190 | raw=Dabl (720p)
@@ -32,7 +32,7 @@ FOUND | OTA Digital Multicast | TBD | manual_overrides | score=100500 | raw=TBD
 MISS  | OTA Digital Multicast | This TV
 FOUND | OTA Digital Multicast | MeTV Toons | iptv_org | score=2679 | raw=MeTV Toons (720p)
 MISS  | Entertainment | A&E
-FOUND | Entertainment | AMC | iptv_org | score=1250 | raw=AMC+ (1080p)
+FOUND | Entertainment | AMC | manual_overrides | score=100500 | raw=AMC+
 FOUND | Entertainment | AXS TV | iptv_org | score=2677 | raw=AXS TV (720p)
 FOUND | Entertainment | BBC America | iptv_org | score=2759 | raw=BBC America (720p)
 FOUND | Entertainment | BET | iptv_org | score=2488 | raw=BET Her West (720p)
@@ -198,7 +198,7 @@ MISS  | Public / Educational | World Channel | best_bad_score=-750 | raw=World C
 MISS  | Public / Educational | NASA TV
 FOUND | Public / Educational | Link TV | iptv_org | score=2517 | raw=Link TV
 FOUND | Public / Educational | BYU TV | manual_overrides | score=100500 | raw=BYU TV
-FOUND | Local News | ABC Tampa | tablo | score=1947 | raw=WFTS
+MISS  | Local News | ABC Tampa
 MISS  | Local News | CBS Tampa
 MISS  | Local News | NBC Tampa
 FOUND | Local News | FOX Tampa | iptv_org | score=1901 | raw=WTVT-DT1 (1080p)
