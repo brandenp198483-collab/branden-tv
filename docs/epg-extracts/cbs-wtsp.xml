@@ -1,0 +1,2257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="BrandenTV isolated one-channel EPG extract">
+  <channel id="CBSWTSP.us">
+    <display-name>US - CBS WTSP Tampa St. Petersburg FL</display-name>
+    <icon src="https://iptv-epg.org/images/e29mbya9zqEVWZpZgUnONuoy7LGyXWKHG8F6YS_hnO6qIDKpjn3SW6GjbYZrsF-QuVq45aZpaV2QH_xt7WzSoiyVGGTU9D7Yd9XkYgY" />
+  </channel>
+  <programme start="20260711190000 +0000" stop="20260711200000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sports</category>
+    <desc lang="en">Pregame coverage of WNBA action.</desc>
+    <icon src="https://iptv-epg.org/images/P9eFtZT04R5KM9cf82NhrE5bJBfk_2MW570jCsoduW6yI_6XX_3OMH33g2tNFmrro2fbhqgLk0yAI15mZzS8CwqXUW95rQSK8ExNPW_WVvY" />
+    <title lang="en">WNBA Tip-Off Show</title>
+    <live />
+  </programme>
+  <programme start="20260711200000 +0000" stop="20260711220000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Portland Fire at Atlanta Dream
+The Atlanta Dream and the Portland Fire meet for a WNBA regular-season game at Gateway Center. Atlanta currently leads the season 1-0 against Portland. Carla Leite leads Portland in points and assists, while Rhyne Howard leads Atlanta in points.</desc>
+    <icon src="https://iptv-epg.org/images/J3KcEd5wEK-dwJEQUUA21I5f--Qq6oFDFWexIG3pb5DyWNew1pfAv9mT4QaKDaMD_lrZlVIHAgsp6nnfOtTVOc0WCoLweZcITW_UoBwojXk" />
+    <title lang="en">WNBA Basketball</title>
+    <live />
+  </programme>
+  <programme start="20260711220000 +0000" stop="20260711223000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/q-U8U5KpMru_eC9TrTVNCmUuQgcbHRxbv6wDBLidBxeGd6PLDaE1ja9veZQbocqtB8eSbeeSO2cRUy-nZ5mwfkYsofkkYt9QJpTMRCibodQ" />
+    <title lang="en">10 Tampa Bay News at 6PM-Sat</title>
+  </programme>
+  <programme start="20260711223000 +0000" stop="20260711230000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
+  <programme start="20260711230000 +0000" stop="20260711233000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S43 E150 — Love Is in the Air
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S43 E150</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <previously-shown />
+    <title lang="en">Wheel of Fortune</title>
+  </programme>
+  <programme start="20260711233000 +0000" stop="20260712000000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S41 E136
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S41 E136</episode-num>
+    <icon src="https://iptv-epg.org/images/rPVv01_npejiYNZn8yHnCzFf4C8SXkyiHbigl_nn1dRDICUzdNWl2iJy9x0vpw1I549XFGUfXnC7Uf1HMBW7NqWKcVk9_VqmZ1_ZKZ6CCoQ" />
+    <previously-shown />
+    <title lang="en">Jeopardy!</title>
+  </programme>
+  <programme start="20260712000000 +0000" stop="20260712010000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Crime drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Mika Amonsen</actor>
+      <actor>Gloria Reuben</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Marcus Scribner</actor>
+    </credits>
+    <desc lang="en">S01 E09 — Collateral Damage
+Mae faces public and family backlash over the consequences of her past decisions; Sarah struggles with guilt that pushes her to take risks in pursuit of justice; Lena and Danny dive into a tense homicide case.</desc>
+    <episode-num>S01 E09</episode-num>
+    <icon src="https://iptv-epg.org/images/461VVmRO_Ee7N0fCiSvuihvQdAybFECsUP_PABQ2qJOejGOZQOibAEjdexXw_10RgDFpcWyb2JRVv2D2ipfdQU8uXIao14J1GAbB7XSNU-Y" />
+    <previously-shown />
+    <title lang="en">Boston Blue</title>
+  </programme>
+  <programme start="20260712010000 +0000" stop="20260712020000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S38 E30 — My Mother's Murder Trial Part One
+A woman suspects her mother of a double murder; years later, courtroom drama and new testimony reignite the case; featuring extensive testimony from defendant Dana Chandler, along with new and archival interviews.</desc>
+    <episode-num>S38 E30</episode-num>
+    <icon src="https://iptv-epg.org/images/8nckIIgxc7faSLPv8lLxO_bZqp2XBIY1ZgHBdsTWMaZ-w6P2F2G1IU6TLP0XLHn28oVxm870gEEkbzOpYS2OVwyLbauheeHsta6heN4Kpqk" />
+    <previously-shown />
+    <title lang="en">48 Hours</title>
+  </programme>
+  <programme start="20260712020000 +0000" stop="20260712030000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S38 E31 — My Mother's Murder Trial Part Two
+A woman suspects her mother of a double murder; years later, courtroom drama and new testimony reignite the case; featuring extensive testimony from defendant Dana Chandler, along with new and archival interviews.</desc>
+    <episode-num>S38 E31</episode-num>
+    <icon src="https://iptv-epg.org/images/8nckIIgxc7faSLPv8lLxO_bZqp2XBIY1ZgHBdsTWMaZ-w6P2F2G1IU6TLP0XLHn28oVxm870gEEkbzOpYS2OVwyLbauheeHsta6heN4Kpqk" />
+    <previously-shown />
+    <title lang="en">48 Hours</title>
+  </programme>
+  <programme start="20260712030000 +0000" stop="20260712033500 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Nighttime news coverage.</desc>
+    <icon src="https://iptv-epg.org/images/bm5Ah463J7P5Cz9s-kwBjPpf_Cq2QmQevosgGZixlCp7I969Q9KeiyVr0V6bciZGYWqZb-DuzOPRegyuIfaXTh1kEY7KyeDuTjMok8RtFVA" />
+    <title lang="en">10 Tampa Bay at 11pm</title>
+    <new />
+  </programme>
+  <programme start="20260712033500 +0000" stop="20260712040500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Sports talk</category>
+    <category>Sports</category>
+    <date>2019</date>
+    <desc lang="en">The former NFL quarterback interviews compelling figures in the sports and entertainment industries.</desc>
+    <icon src="https://iptv-epg.org/images/IQDZE-Ze0E1gENmerjrXSyQZYQwmQkAzSFdsa3gh_R_jHPwn_ohOybEh12U8SWs6sP2pdB-qYeSO6AnhSBgB5pq9uxCRbr_jz-i8KW2AueY" />
+    <title lang="en">Game Time With Boomer Esiason</title>
+    <new />
+  </programme>
+  <programme start="20260712040500 +0000" stop="20260712043500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Outdoors</category>
+    <category lang="en">Rodeo</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <date>2025</date>
+    <desc lang="en">Jackie Crawford
+Luke Branquinho sits down with 24 time world champion Jackie Crawford, who's having another standout year in and dominating the arena with her trademark grit and precision.</desc>
+    <icon src="https://iptv-epg.org/images/KmPYvQ4UY2CGb-QXNgyhM9wvjIppfk5EQIhP2UEpM9uIVEUmaQkEU-yTaQwV86zZQuYwtzjh1G48AJ44dGLO848kys3MQtFXdE_CfvRYduA" />
+    <previously-shown />
+    <title lang="en">The Luke Branquinho Show</title>
+  </programme>
+  <programme start="20260712043500 +0000" stop="20260712050500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Religious</category>
+    <date>1979</date>
+    <desc lang="en">Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <icon src="https://iptv-epg.org/images/qUeUsNrifh6Jzt0tUqRAqZvTqE_fOdi2xQVoiCNXd7oIAWwGjbf4hqGJljxd-NgDt5TBmtvhLL4mW_mL9DZBgXF6T3hMO9cGquKaifAuhWg" />
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+  </programme>
+  <programme start="20260712050500 +0000" stop="20260712053500 +0000" channel="CBSWTSP.us">
+    <date>2025</date>
+    <desc lang="en">An exclusive look at the world of movies, gaming and more with prominent Hollywood stars.</desc>
+    <icon src="https://iptv-epg.org/images/gLoKlssmTBeJ1iejXnL8yExvrMV6v_-kjihkF0S3Z7QIWdeyxQZIEHzW6t0G-i7zXOU7tPzmlnuQVWU-GoFul2rj32KzBR8hqnkGFA8u08s" />
+    <title lang="en">The Backstage Experience</title>
+  </programme>
+  <programme start="20260712053500 +0000" stop="20260712063500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2020</date>
+    <desc lang="en">S04 E20 — The Figure in the Garage
+A single dad and former firefighter is found dead in his garage; police use a neighbor's security footage to uncover a deadly secret.</desc>
+    <episode-num>S04 E20</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260712063500 +0000" stop="20260712073500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2020</date>
+    <desc lang="en">S04 E21 — Secrets of Lake Seminole
+A man disappears after a duck hunting trip in Florida on his sixth wedding anniversary and is later found to have been murdered.</desc>
+    <episode-num>S04 E21</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260712073500 +0000" stop="20260712080000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">A Town's Hidden Gems
+A man who has supplied over 600 famous restaurants with thousands of vintage treasures.</desc>
+    <icon src="https://iptv-epg.org/images/ntMKBnVz1J0awYDitO2dnhJvS5to2FSocZwuCtBaM_aM36bcax04npfGeoVOXFiIdB6FZaCxHpYwnAv78uiDJnV9SWUjBTr9e596MFrVAVk" />
+    <previously-shown />
+    <title lang="en">Small Town Big Deal</title>
+  </programme>
+  <programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Crime</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Weather</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S03 E20 — Deadly Downpour
+Afters a storm rolls through a small town in Maine, a beloved teenager is found brutally murdered.</desc>
+    <episode-num>S03 E20</episode-num>
+    <icon src="https://iptv-epg.org/images/Yg22W-xPvAW-G4QAjgUDNRJmrhxkYTHf9awFdxciLzjMK3yrGUBST87RMragCHmwBEAfF3XG63f51dxO-iCkjMwgweXm5hJMKdlYlqwAQRA" />
+    <previously-shown />
+    <title lang="en">Storm of Suspicion</title>
+  </programme>
+  <programme start="20260712090000 +0000" stop="20260712093000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">Reclaimed Lives, Classic Tractors, and A-Maize-ing Art
+A man transforms reclaimed wood and helps rebuild lives along the way; a gathering of vintage tractor enthusiasts in South Dakota.</desc>
+    <icon src="https://iptv-epg.org/images/ntMKBnVz1J0awYDitO2dnhJvS5to2FSocZwuCtBaM_aM36bcax04npfGeoVOXFiIdB6FZaCxHpYwnAv78uiDJnV9SWUjBTr9e596MFrVAVk" />
+    <previously-shown />
+    <title lang="en">Small Town Big Deal</title>
+  </programme>
+  <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Consumer</category>
+    <desc lang="en">Suffering from chronic pain or numbness? There is finally a solution! Call now for your FREE consultation!</desc>
+    <icon src="https://iptv-epg.org/images/hyQ-l2QheF8UCrGogmFRkfX07-yCTPg7d9pPHFIZDgEfXNRHsqbo434mBGZawV3_96sjS1bpAvkrzmBuG8ohw7-5N6sxZiQeiUM4Hmd04vo" />
+    <title lang="en">Relief For Neuropathy Pain!</title>
+  </programme>
+  <programme start="20260712100000 +0000" stop="20260712103000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Science</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S10 E14 — Fish Finding Tech
+The tech of fishing; learning math with the pendulum wave; the pizza box plating dinner; the nutty history of George Washington Carver.</desc>
+    <episode-num>S10 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/Swc53zr63TYkpPwHQQqp4JUY7Tdg1K9GR6YOmpli3GSzQ2SZO79AzJ3fxxLqxS0zVvQVLVAwk3Dxc2mIF7zuye88lcFOMx8bQawS6kca8DU" />
+    <previously-shown />
+    <title lang="en">The Henry Ford's Innovation Nation</title>
+  </programme>
+  <programme start="20260712103000 +0000" stop="20260712110000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E16 — A Trio of Eagles
+A decision must be made about three bald eagles; an albino red squirrel; an attempt to release a pair of house finches.</desc>
+    <episode-num>S01 E16</episode-num>
+    <icon src="https://iptv-epg.org/images/O57b-g1LcQ3qK5ZAZAB1jKQly8MdC5CazeRT8Yy0uY_ZTZt_30OJn0WafNxni3tUsEZKJsUQnKb9u4iRBTtM6R_qQUxwRzv3TvbCj58EusA" />
+    <previously-shown />
+    <title lang="en">Hope in the Wild</title>
+  </programme>
+  <programme start="20260712110000 +0000" stop="20260712130000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/WDBmZhRTgU2EV0gMfC6LESWTHdV-y8PqrxfLKbC5sZYgG2NGC63AsfpYTzXiZHPxDtHCJVtO3ft0J2cKx4aBQJlr1IpikEi7HvuNgj9Xa6Y" />
+    <title lang="en">10 Tampa Bay News This Weekend-Sun</title>
+  </programme>
+  <programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">The Wilmington Coup, an ugly chapter in Wilmington, North Carolina's history; singer-songwriter Gracie Abrams; an aquatic and musical installation at the Park Avenue Armory in New York; the sport of wine barrel racing in Tuscany; actor Noah Wyle.</desc>
+    <icon src="https://iptv-epg.org/images/HHb9IKiApVrW_WbuPhGgJKucDKbgpDbHArxPSEFtOU3WjjNr2mRmcFey6HkWe1aM5jvNFb0EqxR3wDG0C7Z-o3tiqsIFzGFzAggNaKF-zes" />
+    <title lang="en">CBS News Sunday Morning</title>
+    <new />
+  </programme>
+  <programme start="20260712143000 +0000" stop="20260712153000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Dr. Michael Leiter, Israeli ambassador to the U.S.; White House Border Czar Tom Homan; Rep. Mike Turner (R-Ohio); Rahm Emanuel, former ambassador to Japan; retired Gen. Frank McKenzie.</desc>
+    <icon src="https://iptv-epg.org/images/PBedsTrLKM4xfd4UBSU2Jt3Oyua8vMhWWmQl2kOSA8EAGOOpMXxV1TF5YeQSoMPS2SnmOMp_hbQpZ0nhLibDoh37cK0VM7-9lDxvJZYTdS0" />
+    <title lang="en">Face the Nation</title>
+    <new />
+  </programme>
+  <programme start="20260712153000 +0000" stop="20260712160000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Community</category>
+    <desc lang="en">Retirement Success! With Steve and Elizabeth Holland</desc>
+    <icon src="https://iptv-epg.org/images/K-NHz6VAzbuTWTGgePXqJe5PLQ8keoA2bwf87XQYQc-Id4JIJQTHTd5HhR3ijwjPpj9TpCyOUCMXWsbiQEoAfWpvooHLyF_bxO0c-bulzCI" />
+    <title lang="en">Retirement Success! With Steve and Elizabeth Holland</title>
+  </programme>
+  <programme start="20260712160000 +0000" stop="20260712190000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Genesis Scottish Open, Final Round
+The Final Round of the 2026 Genesis Scottish Open continues at The Renaissance Club in Scotland. The final 18-hole loop will crown the champion and determine the division of the $9 million purse. The winner claims $1.62 million and 500 FedEx points.</desc>
+    <icon src="https://iptv-epg.org/images/EEUEaziflhGNNE5oAVWpaaOHuvEBK-7Od6UBuNOX5VHroNOWQRLG6YHTGkWpZDO-504EmFsimihRMOLLDj6z8-DTb1kFwYL1v3l2dTqeF1w" />
+    <title lang="en">DP World Tour Golf</title>
+    <live />
+  </programme>
+  <programme start="20260712190000 +0000" stop="20260712200000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Golf</category>
+    <category>Sports</category>
+    <desc lang="en">Johnson Wagner, Shane Bacon, and Patrick McDonald recap and preview tournaments while sharing their expert insights, bold predictions and more.</desc>
+    <icon src="https://iptv-epg.org/images/1Dts2FxKGPD5vXUTgylSahbm29_vodH8msW73T6FC6MQI0_n7mroB8zE30qT-IM5D7yXdT17LODWwiKYjLWBTzZ71i_R9FDve3aWsXXGH_o" />
+    <title lang="en">Scorecard</title>
+    <live />
+  </programme>
+  <programme start="20260712200000 +0000" stop="20260712220000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Week 4: Los Angeles
+Los Angeles hosts this week's stop of the BIG3 Basketball season.</desc>
+    <icon src="https://iptv-epg.org/images/iW0FBpjECMvFor-cKxGNSZHev0VoWot-SbbKFhc2LGcxrDU4fY6aaefIzrIvYmQE_xVzJcFcfPDLob5QSnEggRfnCWF2R3-jB53ZnyLzWHg" />
+    <title lang="en">BIG3 Basketball</title>
+    <live />
+  </programme>
+  <programme start="20260712220000 +0000" stop="20260712223000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
+  <programme start="20260712223000 +0000" stop="20260712230000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/dU6vJtI5uJLw1rY1H_weDg-ei_K5AJBcliTmbXgQR8i7Rm_0K9-hoTG4qPDbh0ILo5CnsFcxZZOMCSZQ369crItdnVvHAHAVvf2tDQ1b9cI" />
+    <title lang="en">10 Tampa Bay News at 6:30pm-Sun</title>
+  </programme>
+  <programme start="20260712230000 +0000" stop="20260713000000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S58 E41 — The Vatican's Orphans; Sealand; Christopher Nolan
+Author Maria Laurino; the Principality of Sealand; director Christopher Nolan.</desc>
+    <episode-num>S58 E41</episode-num>
+    <icon src="https://iptv-epg.org/images/KZZH-ifXUtlO1PZKRLyxkyg-8KDIFUft1Q6grNwly6D9RBo1L9uaezTEWF6hLsW96G9sYaUVI3EITGs93eGzwSXYXW2bEI8gCEc4vIuLFFM" />
+    <title lang="en">60 Minutes</title>
+    <new />
+  </programme>
+  <programme start="20260713000000 +0000" stop="20260713013000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Competition reality</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">S28 E03 — Episode 3
+The head of household nominates three fellow houseguests for possible eviction.</desc>
+    <episode-num>S28 E03</episode-num>
+    <icon src="https://iptv-epg.org/images/GQMrubSAqGLCu-mIFWvoOEbwCBF-k4WqdCIw1DiphPrK7hfDkStd51Na-Z-2DXT_vauHAguxxGUUKh5fyEN2Cnz44GnizvxdR2LtWxQyJm8" />
+    <title lang="en">Big Brother</title>
+    <new />
+  </programme>
+  <programme start="20260713013000 +0000" stop="20260713020000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Montana Jordan</actor>
+      <actor>Emily Osment</actor>
+      <actor>Dougie Baldwin</actor>
+      <actor>Jessie Prez</actor>
+      <actor>Will Sasso</actor>
+      <actor>Rachel Jones</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Isabelle Booko</actor>
+      <actor>Zariah Booko</actor>
+      <actor>Raegan Revord</actor>
+      <actor>Matt Letscher</actor>
+      <actor>Matt Hobby</actor>
+    </credits>
+    <desc lang="en">S02 E14 — Three Angry Women and a Prophylactic
+Mandy's attempt to help Missy with boys backfires when Mary finds out and Georgie is caught in the crossfire.</desc>
+    <episode-num>S02 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/_3yooFL_Gn_qc3MOCddkgWNoU6hVRUn-EA4zT6RN5tmFHy_9l0gQc5Ikr1elN7fq1WJLX1XcLRFISCBRafZfq_aePu_ifUwiq2fmL5cgRrg" />
+    <previously-shown />
+    <title lang="en">Georgie &amp; Mandy's First Marriage</title>
+  </programme>
+  <programme start="20260713020000 +0000" stop="20260713030000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Luke Grimes</actor>
+      <actor>Logan Marshall-Green</actor>
+      <actor>Arielle Kebbel</actor>
+      <actor>Ash Santos</actor>
+      <actor>Tatanka Means</actor>
+      <actor>Brecken Merrill</actor>
+      <actor>Gil Birmingham</actor>
+      <actor>Mo Brings Plenty</actor>
+    </credits>
+    <desc lang="en">S01 E07 — Family Business
+When a federal judge and her family are the targets of a car bomb, the Marshals are assigned to guard them; family secrets start to surface as the Marshals start to look into why someone would want this family dead.</desc>
+    <episode-num>S01 E07</episode-num>
+    <icon src="https://iptv-epg.org/images/Und7Of3QkCdExsyvwQiJjVvaOaa5pJ3lYhZFBkNmw5VN9uC8W9qTThOOJ7w8N3aQOw7uWsY6Fl8AoMNdNScIkLowXMpnmS_3-b7pHhoZi9o" />
+    <previously-shown />
+    <title lang="en">Marshals</title>
+  </programme>
+  <programme start="20260713030000 +0000" stop="20260713033500 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Nighttime news coverage.</desc>
+    <icon src="https://iptv-epg.org/images/bm5Ah463J7P5Cz9s-kwBjPpf_Cq2QmQevosgGZixlCp7I969Q9KeiyVr0V6bciZGYWqZb-DuzOPRegyuIfaXTh1kEY7KyeDuTjMok8RtFVA" />
+    <title lang="en">10 Tampa Bay at 11pm</title>
+    <new />
+  </programme>
+  <programme start="20260713033500 +0000" stop="20260713040500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Religious</category>
+    <date>1979</date>
+    <desc lang="en">Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <icon src="https://iptv-epg.org/images/qUeUsNrifh6Jzt0tUqRAqZvTqE_fOdi2xQVoiCNXd7oIAWwGjbf4hqGJljxd-NgDt5TBmtvhLL4mW_mL9DZBgXF6T3hMO9cGquKaifAuhWg" />
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+  </programme>
+  <programme start="20260713040500 +0000" stop="20260713043500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Sports talk</category>
+    <category>Sports</category>
+    <date>2019</date>
+    <desc lang="en">The former NFL quarterback interviews compelling figures in the sports and entertainment industries.</desc>
+    <icon src="https://iptv-epg.org/images/IQDZE-Ze0E1gENmerjrXSyQZYQwmQkAzSFdsa3gh_R_jHPwn_ohOybEh12U8SWs6sP2pdB-qYeSO6AnhSBgB5pq9uxCRbr_jz-i8KW2AueY" />
+    <title lang="en">Game Time With Boomer Esiason</title>
+    <new />
+  </programme>
+  <programme start="20260713043500 +0000" stop="20260713050500 +0000" channel="CBSWTSP.us">
+    <date>2025</date>
+    <desc lang="en">An exclusive look at the world of movies, gaming and more with prominent Hollywood stars.</desc>
+    <icon src="https://iptv-epg.org/images/gLoKlssmTBeJ1iejXnL8yExvrMV6v_-kjihkF0S3Z7QIWdeyxQZIEHzW6t0G-i7zXOU7tPzmlnuQVWU-GoFul2rj32KzBR8hqnkGFA8u08s" />
+    <title lang="en">The Backstage Experience</title>
+  </programme>
+  <programme start="20260713050500 +0000" stop="20260713060500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2020</date>
+    <desc lang="en">S04 E23 — The Ultimatum
+A mother's death initially appears to be a suicide, but when investigators start to interview those closest to her, an evil plot emerges.</desc>
+    <episode-num>S04 E23</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260713060500 +0000" stop="20260713063500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">A Town's Hidden Gems
+A man who has supplied over 600 famous restaurants with thousands of vintage treasures.</desc>
+    <icon src="https://iptv-epg.org/images/ntMKBnVz1J0awYDitO2dnhJvS5to2FSocZwuCtBaM_aM36bcax04npfGeoVOXFiIdB6FZaCxHpYwnAv78uiDJnV9SWUjBTr9e596MFrVAVk" />
+    <previously-shown />
+    <title lang="en">Small Town Big Deal</title>
+  </programme>
+  <programme start="20260713063500 +0000" stop="20260713083000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
+  </programme>
+  <programme start="20260713083000 +0000" stop="20260713090000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260713090000 +0000" stop="20260713100000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/Dt2clCYYjidVy05QYIohCfgascE7tqnWF801wRdeIkdRBoJu9_huyLxNHha2ATjnRg7iOBoIP0ZPX5RDScoR74AM9gPZJ9hLsAGxFI02zaY" />
+    <title lang="en">10 Tampa Bay Brightside</title>
+    <new />
+  </programme>
+  <programme start="20260713100000 +0000" stop="20260713110000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/OcqS334kcaThrHA_Y8SWCXrnIT-DgJ0BH2LXBUokw5Lo0-QhVbjMOJXm5ZX9lWa9P1nI6HUwU1FhA6SMkICIAL1asAlkUHURiNxc8mqiYGs" />
+    <title lang="en">10 Tampa Bay News This Morning at 6:00 a.m.</title>
+  </programme>
+  <programme start="20260713110000 +0000" stop="20260713130000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Matchmaker Maria; family physician Dr. Mark Hyman; journalist David Begnaud.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260713130000 +0000" stop="20260713140000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+    <live />
+  </programme>
+  <programme start="20260713140000 +0000" stop="20260713150000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S17 E53
+Costumed contestants compete for cash and prizes.</desc>
+    <episode-num>S17 E53</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <previously-shown />
+    <title lang="en">Let's Make a Deal</title>
+  </programme>
+  <programme start="20260713150000 +0000" stop="20260713160000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S54 E179
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S54 E179</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <previously-shown />
+    <title lang="en">The Price Is Right</title>
+  </programme>
+  <programme start="20260713160000 +0000" stop="20260713170000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Get a recap of the morning's news and a look ahead to the afternoon; we're keeping up with the changing forecast.</desc>
+    <icon src="https://iptv-epg.org/images/huPTy8_ECQ-Tvsag6hOHNnljVKundOtvrsVPhFZtSu62Nl_uN8zo8PXSElGLHXI5b-2wkpLGVoxjpc7i2v0g5OiRsN1EjXiavd3mSMLldC4" />
+    <title lang="en">10 Tampa Bay News at Noon</title>
+  </programme>
+  <programme start="20260713170000 +0000" stop="20260713180000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S53 E193
+Diane sits vigil at Jack's bedside; Lauren reminisces with Ashley and Traci; Billy commiserates with Kyle.</desc>
+    <episode-num>S53 E193</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
+  </programme>
+  <programme start="20260713180000 +0000" stop="20260713190000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E123
+Bill is rushed to the hospital; Andre and Dani try to get on the same page; Chelsea's proposition does not sit well with Kat; Nicole worries her daughter's latest decision was made for all the wrong reasons.</desc>
+    <episode-num>S02 E123</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
+    <new />
+  </programme>
+  <programme start="20260713190000 +0000" stop="20260713193000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S39 E210
+Will turns to Bill for guidance; Sheila pleads with Finn for another chance.</desc>
+    <episode-num>S39 E210</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
+  <programme start="20260713193000 +0000" stop="20260713200000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260713200000 +0000" stop="20260713210000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2018</date>
+    <desc lang="en">S02 E28 — As Night Fell
+Heidi and Conrad Truman are an enviable couple with a bright future; then, one fateful night, Heidi is found dead of a gunshot wound to the head; in the aftermath of her death, accusatory fingers are pointed at someone who may very well be innocent.</desc>
+    <episode-num>S02 E28</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260713210000 +0000" stop="20260713213000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/AW08qsgMtXtOTFT0y24pArWMewBn1btkncY5w-nbShNlImOJJSKvjFDw2SWkySpNHjM2OwvmBjZvmMe05jvAf1w5E64rcZES0GsD6frjx7w" />
+    <title lang="en">10 Tampa Bay News at 5PM</title>
+  </programme>
+  <programme start="20260713213000 +0000" stop="20260713220000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">From breaking news to weather alerts, get informed about what's happening around Tampa Bay, Fla.; plus, the latest in sports.</desc>
+    <icon src="https://iptv-epg.org/images/5479XAybwoiT81VOl7vPCMayF1IQJj4R3ZJ40kIqXVt0W1taDXUXntavudKubpuzbsAiIdDZaqfoA9WrwY9raYqjETqO9CtjUbRRRUqPwEU" />
+    <title lang="en">10 Tampa Bay News at 5:30 pm</title>
+  </programme>
+  <programme start="20260713220000 +0000" stop="20260713223000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/tYXUNQZTuKdaom7CNi8Pw1fz2A0WNDZwPNx8w3Up5mW4n3lrDtKABoXUenRtmxQUFvJ2BUSSiaqMaVTY338b5_UJYMLAX9JP6uZRzYuLWCc" />
+    <title lang="en">10 Tampa Bay News at 6PM</title>
+  </programme>
+  <programme start="20260713223000 +0000" stop="20260713230000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
+  <programme start="20260713230000 +0000" stop="20260713233000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S43 E176 — Yaamava' Resort &amp; Casino Week
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S43 E176</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <previously-shown />
+    <title lang="en">Wheel of Fortune</title>
+  </programme>
+  <programme start="20260713233000 +0000" stop="20260714000000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E221
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E221</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <title lang="en">Jeopardy!</title>
+    <new />
+  </programme>
+  <programme start="20260714000000 +0000" stop="20260714003000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Beth Behrs</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Sheaun McKinney</actor>
+      <actor>Marcel Spears</actor>
+      <actor>Hank Greenspan</actor>
+      <actor>Skye Townsend</actor>
+    </credits>
+    <desc lang="en">S08 E18 — Welcome to the Chat
+When Tina oversteps at daycare, a well-meaning effort to fix it takes a turn after a message is sent to the wrong chat; a surprise visit from Dave's mother leads him and Gemma to reconsider their careers and what comes next.</desc>
+    <episode-num>S08 E18</episode-num>
+    <icon src="https://iptv-epg.org/images/YGCtXH3RCHbLxX086E2_B-4N5YhINPA77uUzX11I6A8i6tlZiqZ-PWBfJFAjHdaPoyaHyqfFK5g_hfyiyAqu8HFsrnPTXiAntaebVA6ne4k" />
+    <previously-shown />
+    <title lang="en">The Neighborhood</title>
+  </programme>
+  <programme start="20260714003000 +0000" stop="20260714010000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Beth Behrs</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Sheaun McKinney</actor>
+      <actor>Marcel Spears</actor>
+      <actor>Hank Greenspan</actor>
+      <actor>Skye Townsend</actor>
+    </credits>
+    <desc lang="en">S08 E19 — Welcome to Kalamazoo?
+When Dave and Gemma seriously consider a major life change, it sends ripples through the family and strains relationships; wedding chaos and unexpected revelations complicate plans for Malcolm and Marty.</desc>
+    <episode-num>S08 E19</episode-num>
+    <icon src="https://iptv-epg.org/images/YGCtXH3RCHbLxX086E2_B-4N5YhINPA77uUzX11I6A8i6tlZiqZ-PWBfJFAjHdaPoyaHyqfFK5g_hfyiyAqu8HFsrnPTXiAntaebVA6ne4k" />
+    <previously-shown />
+    <title lang="en">The Neighborhood</title>
+  </programme>
+  <programme start="20260714010000 +0000" stop="20260714020000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Action</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Jeremy Sisto</actor>
+      <actor>Alana De La Garza</actor>
+      <actor>John Boyd</actor>
+      <actor>Katherine Renee Kane</actor>
+      <actor>Juliana Martinez</actor>
+      <actor>Ebonée Noel</actor>
+      <actor>Sela Ward</actor>
+    </credits>
+    <desc lang="en">S08 E03 — Boy Scout
+After a young man is found beaten to death on federal land, Scola and Special Agent Eva Ramos hit a roadblock when their case intersects with a DEA operation.</desc>
+    <episode-num>S08 E03</episode-num>
+    <icon src="https://iptv-epg.org/images/df21JZYqtFYITQfq3B1UKwAnel0qGGFaGS2sKhE5bpr3YI5QtAg_-PoxrqmdW-lvK8wdXm-XysmWKTR2yh7_U5jvXI6fHWwtZtwsCNGqVvU" />
+    <previously-shown />
+    <title lang="en">FBI</title>
+  </programme>
+  <programme start="20260714020000 +0000" stop="20260714030000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Crime drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Tom Ellis</actor>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Necar Zadegan</actor>
+      <actor>Natalee Linez</actor>
+    </credits>
+    <date>2026</date>
+    <desc lang="en">S01 E02 — Fatal Defect
+Colin and Bill head upstate when a known smuggler is flagged at the New York border with unidentified cargo; to find the smuggler, they must enlist the help of a foreign intelligence officer looking to defect.</desc>
+    <episode-num>S01 E02</episode-num>
+    <icon src="https://iptv-epg.org/images/tyyQ4OUys9DQHyLAqAQkEJnAFKQ9lUy3sY_PBkPQ2bsdB80XSpqVf_FemV48X6jiNseXIuZGG7UCAQ1HsVzZTzQgJevjTTrOfmfPcIR8Geo" />
+    <previously-shown />
+    <title lang="en">CIA</title>
+  </programme>
+  <programme start="20260714030000 +0000" stop="20260714033500 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Dive deeper into the headlines; we're adding context to the news, weather and sporting events that are impacting Tampa Bay, Fla.</desc>
+    <icon src="https://iptv-epg.org/images/udTyLX5qyZ_esb8zArvw2GbsgeWYZATLhQEn5gdQafNE3Y8J1Cswry5p9PuvPAmMUSzhIz7-AxBXqM1sPZTDT8beAzuccOrHNvpo_VZKiCc" />
+    <title lang="en">10 Tampa Bay News at 11:00 P.M.</title>
+  </programme>
+  <programme start="20260714033500 +0000" stop="20260714040500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E79 — Frances DiIorinzo; Leo Flowers; Dan Grueter; Omid Singh
+Frances DiIorinzo; Leo Flowers; Dan Grueter; Omid Singh.</desc>
+    <episode-num>S04 E79</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260714040500 +0000" stop="20260714043700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E115 — Alycia Cooper; Dan LaMorte; Daniel Geneen; Dusty Slay
+Alycia Cooper; Dan LaMorte; Daniel Geneen; Dusty Slay.</desc>
+    <episode-num>S04 E115</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260714043700 +0000" stop="20260714050700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S07 E66
+Jon Lovitz; Sheryl Underwood; Billy Gardell; Byron Allen; Whitney Cummings; Jamie Kennedy.</desc>
+    <episode-num>S07 E66</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260714050700 +0000" stop="20260714053700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S06 E32
+Jon Lovitz; Vivica Fox; Howie Mandel; Byron Allen; Whitney Cummings; Billy Gardell.</desc>
+    <episode-num>S06 E32</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260714053700 +0000" stop="20260714060700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E221
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E221</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <previously-shown />
+    <title lang="en">Jeopardy!</title>
+  </programme>
+  <programme start="20260714060700 +0000" stop="20260714063700 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Kendall Kirkham and Java Ingram host the Bay Area's only live lifestyle show with fun foodie events, entertainment, inspiring guests and much more every weekday.</desc>
+    <icon src="https://iptv-epg.org/images/MuA86MAeY1XkA2gEJs-SfKW-p4gBIeI4yb4F70zrj2x-hvx1lBlPq_nZJHyVtOxpsc6J-Jd2y5nh2WBiNW4H2SDm0Lpyst0Mz8gBAVYqZ6s" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260714063700 +0000" stop="20260714083000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
+  </programme>
+  <programme start="20260714083000 +0000" stop="20260714090000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260714090000 +0000" stop="20260714093000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">The AM crew gets your morning started off right, offering breaking news and traffic alerts to plan your commute; we've got the forecast to start your day.</desc>
+    <icon src="https://iptv-epg.org/images/VZEkKRAWLFKkFndyznASuxMPl_emGNHuBU0hHzNThR6Fy4RIkPuyeguS64A-abCcFUJwp2iRnCqDRM3ZtaB6-se1tDRHnzJTGhdOWrOGlV4" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:00 a.m.</title>
+  </programme>
+  <programme start="20260714093000 +0000" stop="20260714100000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/22wjKfeu7-9RsSxQIcBQOZRc-YlQA3nSxKI2BwUMmVxm-9wmqL6_67WJJ8ee_XzSWq0EMPRe2lF-ATAuAVoVeELBJeG-9y8qKgUUnM43Upw" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:30 a.m.</title>
+  </programme>
+  <programme start="20260714100000 +0000" stop="20260714110000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/OcqS334kcaThrHA_Y8SWCXrnIT-DgJ0BH2LXBUokw5Lo0-QhVbjMOJXm5ZX9lWa9P1nI6HUwU1FhA6SMkICIAL1asAlkUHURiNxc8mqiYGs" />
+    <title lang="en">10 Tampa Bay News This Morning at 6:00 a.m.</title>
+  </programme>
+  <programme start="20260714110000 +0000" stop="20260714130000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Actor Alan Ritchson.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260714130000 +0000" stop="20260714140000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+    <live />
+  </programme>
+  <programme start="20260714140000 +0000" stop="20260714150000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S17 E54
+Costumed contestants compete for cash and prizes.</desc>
+    <episode-num>S17 E54</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <previously-shown />
+    <title lang="en">Let's Make a Deal</title>
+  </programme>
+  <programme start="20260714150000 +0000" stop="20260714160000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S54 E50
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S54 E50</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <previously-shown />
+    <title lang="en">The Price Is Right</title>
+  </programme>
+  <programme start="20260714160000 +0000" stop="20260714170000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Get a recap of the morning's news and a look ahead to the afternoon; we're keeping up with the changing forecast.</desc>
+    <icon src="https://iptv-epg.org/images/huPTy8_ECQ-Tvsag6hOHNnljVKundOtvrsVPhFZtSu62Nl_uN8zo8PXSElGLHXI5b-2wkpLGVoxjpc7i2v0g5OiRsN1EjXiavd3mSMLldC4" />
+    <title lang="en">10 Tampa Bay News at Noon</title>
+  </programme>
+  <programme start="20260714170000 +0000" stop="20260714180000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S53 E194
+Victor gives Kyle a warning shot; Sally accuses Adam and Chelsea of sabotaging her company; Nikki struggles with her new condition.</desc>
+    <episode-num>S53 E194</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
+  </programme>
+  <programme start="20260714180000 +0000" stop="20260714190000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E124
+Dani gets a call that causes her to make an impromptu visit; Chelsea, Naomi and Madison present a united front; Hayley's advice causes Tomas to clash with Naomi; Ted is flabbergasted by Kat's recent actions.</desc>
+    <episode-num>S02 E124</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
+    <new />
+  </programme>
+  <programme start="20260714190000 +0000" stop="20260714193000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S39 E211
+Daphne receives devastating news; Jessica encourages Dylan to make her move.</desc>
+    <episode-num>S39 E211</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
+  <programme start="20260714193000 +0000" stop="20260714200000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260714200000 +0000" stop="20260714210000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E29 — Robert Durst: The Lost Years
+Friends of accused murderer Robert Durst talk about his recent arrest in New Orleans and his whereabouts over the past 30 years.</desc>
+    <episode-num>S02 E29</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260714210000 +0000" stop="20260714213000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/AW08qsgMtXtOTFT0y24pArWMewBn1btkncY5w-nbShNlImOJJSKvjFDw2SWkySpNHjM2OwvmBjZvmMe05jvAf1w5E64rcZES0GsD6frjx7w" />
+    <title lang="en">10 Tampa Bay News at 5PM</title>
+  </programme>
+  <programme start="20260714213000 +0000" stop="20260714220000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">From breaking news to weather alerts, get informed about what's happening around Tampa Bay, Fla.; plus, the latest in sports.</desc>
+    <icon src="https://iptv-epg.org/images/5479XAybwoiT81VOl7vPCMayF1IQJj4R3ZJ40kIqXVt0W1taDXUXntavudKubpuzbsAiIdDZaqfoA9WrwY9raYqjETqO9CtjUbRRRUqPwEU" />
+    <title lang="en">10 Tampa Bay News at 5:30 pm</title>
+  </programme>
+  <programme start="20260714220000 +0000" stop="20260714223000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/tYXUNQZTuKdaom7CNi8Pw1fz2A0WNDZwPNx8w3Up5mW4n3lrDtKABoXUenRtmxQUFvJ2BUSSiaqMaVTY338b5_UJYMLAX9JP6uZRzYuLWCc" />
+    <title lang="en">10 Tampa Bay News at 6PM</title>
+  </programme>
+  <programme start="20260714223000 +0000" stop="20260714230000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
+  <programme start="20260714230000 +0000" stop="20260714233000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S43 E177 — Yaamava' Resort &amp; Casino Week
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S43 E177</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <previously-shown />
+    <title lang="en">Wheel of Fortune</title>
+  </programme>
+  <programme start="20260714233000 +0000" stop="20260715000000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E222
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E222</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <title lang="en">Jeopardy!</title>
+    <new />
+  </programme>
+  <programme start="20260715000000 +0000" stop="20260715010000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Sean Murray</actor>
+      <actor>Wilmer Valderrama</actor>
+      <actor>Brian Dietzen</actor>
+      <actor>Diona Reasonover</actor>
+      <actor>Katrina Law</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>Gary Cole</actor>
+      <actor>David McCallum</actor>
+      <actor>Maria Bello</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>Jennifer Esposito</actor>
+      <actor>Michael Weatherly</actor>
+    </credits>
+    <desc lang="en">S23 E07 — God Only Knows
+A kidnapped teen leads the team to a Navy SEAL who survived captivity by the Taliban but may have committed murder after returning home; Jimmy finally shares his findings about the mysterious death of Parker's mother with his boss.</desc>
+    <episode-num>S23 E07</episode-num>
+    <icon src="https://iptv-epg.org/images/KSTAi26bOit_WO6gR9XHkiLwpWj2LM55Au704owrz-Q6DL-oqNZ9WRqmh84uWIdlAlGJeMrx2tZclksj8ayWq9RM3HU2ICp_JMXSAhLUo4w" />
+    <previously-shown />
+    <title lang="en">NCIS</title>
+  </programme>
+  <programme start="20260715010000 +0000" stop="20260715020000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Austin Stowell</actor>
+      <actor>Kyle Schmid</actor>
+      <actor>Mariel Molino</actor>
+      <actor>Tyla Abercrumbie</actor>
+      <actor>Diany Rodriguez</actor>
+    </credits>
+    <desc lang="en">S02 E17 — Rule 13
+Wheeler takes command when a car bomb goes off outside NIS headquarters; the truth about Franks' distaste for lawyers is revealed.</desc>
+    <episode-num>S02 E17</episode-num>
+    <icon src="https://iptv-epg.org/images/FOYZI8Y3xaKQDXcGKieV5AfF--HToVITHgn1mqcbwx29oJeTgRxnf6BdHf16XiNyNmT0VeKx-cDnKpll0YNXB3re29fapOlmQ1Eaaw0poz0" />
+    <previously-shown />
+    <title lang="en">NCIS: Origins</title>
+  </programme>
+  <programme start="20260715020000 +0000" stop="20260715030000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Olivia Swann</actor>
+      <actor>Todd Lasance</actor>
+      <actor>Sean Sagar</actor>
+      <actor>Tuuli Narkle</actor>
+      <actor>Mavournee Hazel</actor>
+      <actor>William McInnes</actor>
+    </credits>
+    <desc lang="en">S03 E14 — Death Card
+The team is drawn into the mystical world of fortune-telling when a tarot card is found near a drowned U.S. Naval officer depicting the exact manner of his death.</desc>
+    <episode-num>S03 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/rrESALqTwMvKSXY6elM7SlW5uL2WSMt8pGlf9U35RkvDL9rmScd1buckpBwk-Nfx_E4O9ClffT2cT0FSXsiS9syBhOJr2zcSEbyxg8L6Qs4" />
+    <previously-shown />
+    <title lang="en">NCIS: Sydney</title>
+  </programme>
+  <programme start="20260715030000 +0000" stop="20260715033500 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Dive deeper into the headlines; we're adding context to the news, weather and sporting events that are impacting Tampa Bay, Fla.</desc>
+    <icon src="https://iptv-epg.org/images/udTyLX5qyZ_esb8zArvw2GbsgeWYZATLhQEn5gdQafNE3Y8J1Cswry5p9PuvPAmMUSzhIz7-AxBXqM1sPZTDT8beAzuccOrHNvpo_VZKiCc" />
+    <title lang="en">10 Tampa Bay News at 11:00 P.M.</title>
+  </programme>
+  <programme start="20260715033500 +0000" stop="20260715040500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E80 — Melanie Iglesias; Brandon Broady; Craig Geraghty; David Nihill
+Melanie Iglesias; Brandon Broady; Craig Geraghty; David Nihill.</desc>
+    <episode-num>S04 E80</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260715040500 +0000" stop="20260715043700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E116 — Elle Orlando; Randolph Davies; Sandy Danto; Landon Brown
+Elle Orlando; Randolph Davies; Sandy Danto; Landon Brown.</desc>
+    <episode-num>S04 E116</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260715043700 +0000" stop="20260715050700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S07 E66
+Jon Lovitz; Sheryl Underwood; Billy Gardell; Byron Allen; Whitney Cummings; Jamie Kennedy.</desc>
+    <episode-num>S07 E66</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260715050700 +0000" stop="20260715053700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S06 E33
+Jon Lovitz; Jackée Harry; Jamie Kennedy; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <episode-num>S06 E33</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <title lang="en">Funny You Should Ask</title>
+    <new />
+  </programme>
+  <programme start="20260715053700 +0000" stop="20260715060700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E222
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E222</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <previously-shown />
+    <title lang="en">Jeopardy!</title>
+  </programme>
+  <programme start="20260715060700 +0000" stop="20260715063700 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260715063700 +0000" stop="20260715083000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
+  </programme>
+  <programme start="20260715083000 +0000" stop="20260715090000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260715090000 +0000" stop="20260715093000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">The AM crew gets your morning started off right, offering breaking news and traffic alerts to plan your commute; we've got the forecast to start your day.</desc>
+    <icon src="https://iptv-epg.org/images/VZEkKRAWLFKkFndyznASuxMPl_emGNHuBU0hHzNThR6Fy4RIkPuyeguS64A-abCcFUJwp2iRnCqDRM3ZtaB6-se1tDRHnzJTGhdOWrOGlV4" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:00 a.m.</title>
+  </programme>
+  <programme start="20260715093000 +0000" stop="20260715100000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/22wjKfeu7-9RsSxQIcBQOZRc-YlQA3nSxKI2BwUMmVxm-9wmqL6_67WJJ8ee_XzSWq0EMPRe2lF-ATAuAVoVeELBJeG-9y8qKgUUnM43Upw" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:30 a.m.</title>
+  </programme>
+  <programme start="20260715100000 +0000" stop="20260715110000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/OcqS334kcaThrHA_Y8SWCXrnIT-DgJ0BH2LXBUokw5Lo0-QhVbjMOJXm5ZX9lWa9P1nI6HUwU1FhA6SMkICIAL1asAlkUHURiNxc8mqiYGs" />
+    <title lang="en">10 Tampa Bay News This Morning at 6:00 a.m.</title>
+  </programme>
+  <programme start="20260715110000 +0000" stop="20260715130000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Author Stephen J. Dubner.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260715130000 +0000" stop="20260715140000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+    <live />
+  </programme>
+  <programme start="20260715140000 +0000" stop="20260715150000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S17 E55
+Costumed contestants compete for cash and prizes.</desc>
+    <episode-num>S17 E55</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <previously-shown />
+    <title lang="en">Let's Make a Deal</title>
+  </programme>
+  <programme start="20260715150000 +0000" stop="20260715160000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S54 E182
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S54 E182</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <previously-shown />
+    <title lang="en">The Price Is Right</title>
+  </programme>
+  <programme start="20260715160000 +0000" stop="20260715170000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Get a recap of the morning's news and a look ahead to the afternoon; we're keeping up with the changing forecast.</desc>
+    <icon src="https://iptv-epg.org/images/huPTy8_ECQ-Tvsag6hOHNnljVKundOtvrsVPhFZtSu62Nl_uN8zo8PXSElGLHXI5b-2wkpLGVoxjpc7i2v0g5OiRsN1EjXiavd3mSMLldC4" />
+    <title lang="en">10 Tampa Bay News at Noon</title>
+  </programme>
+  <programme start="20260715170000 +0000" stop="20260715180000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S53 E195
+Victor accuses Nikki of betrayal; Jack and Diane find their way back to each other; Kyle bargains with Patty.</desc>
+    <episode-num>S53 E195</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
+  </programme>
+  <programme start="20260715180000 +0000" stop="20260715190000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E125
+Doug's final words startle Joey; Deanna sets a dastardly plan in motion; Jacob accompanies Naomi to her oncology appointment with Monica; Hayley and Randy plot to accelerate their con.</desc>
+    <episode-num>S02 E125</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
+    <new />
+  </programme>
+  <programme start="20260715190000 +0000" stop="20260715193000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S39 E212
+Will is consumed by regret over not being honest with Electra; Steffy offers Daphne comfort and support.</desc>
+    <episode-num>S39 E212</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
+  <programme start="20260715193000 +0000" stop="20260715200000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260715200000 +0000" stop="20260715210000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E30 — Tangled Web
+The investigation into the death of a Florida firefighter reveals a tale of secrets, lies and infidelity.</desc>
+    <episode-num>S02 E30</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260715210000 +0000" stop="20260715213000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/AW08qsgMtXtOTFT0y24pArWMewBn1btkncY5w-nbShNlImOJJSKvjFDw2SWkySpNHjM2OwvmBjZvmMe05jvAf1w5E64rcZES0GsD6frjx7w" />
+    <title lang="en">10 Tampa Bay News at 5PM</title>
+  </programme>
+  <programme start="20260715213000 +0000" stop="20260715220000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">From breaking news to weather alerts, get informed about what's happening around Tampa Bay, Fla.; plus, the latest in sports.</desc>
+    <icon src="https://iptv-epg.org/images/5479XAybwoiT81VOl7vPCMayF1IQJj4R3ZJ40kIqXVt0W1taDXUXntavudKubpuzbsAiIdDZaqfoA9WrwY9raYqjETqO9CtjUbRRRUqPwEU" />
+    <title lang="en">10 Tampa Bay News at 5:30 pm</title>
+  </programme>
+  <programme start="20260715220000 +0000" stop="20260715223000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/tYXUNQZTuKdaom7CNi8Pw1fz2A0WNDZwPNx8w3Up5mW4n3lrDtKABoXUenRtmxQUFvJ2BUSSiaqMaVTY338b5_UJYMLAX9JP6uZRzYuLWCc" />
+    <title lang="en">10 Tampa Bay News at 6PM</title>
+  </programme>
+  <programme start="20260715223000 +0000" stop="20260715230000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
+  <programme start="20260715230000 +0000" stop="20260715233000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S43 E178 — Yaamava' Resort &amp; Casino Week
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S43 E178</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <previously-shown />
+    <title lang="en">Wheel of Fortune</title>
+  </programme>
+  <programme start="20260715233000 +0000" stop="20260716000000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E223
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E223</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <title lang="en">Jeopardy!</title>
+    <new />
+  </programme>
+  <programme start="20260716000000 +0000" stop="20260716013000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Competition reality</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">S28 E04 — Episode 4
+The houseguests compete to win the power of veto; during the veto meeting, the winner of the competition can keep nominations the same or save someone from eviction for the week.</desc>
+    <episode-num>S28 E04</episode-num>
+    <icon src="https://iptv-epg.org/images/GQMrubSAqGLCu-mIFWvoOEbwCBF-k4WqdCIw1DiphPrK7hfDkStd51Na-Z-2DXT_vauHAguxxGUUKh5fyEN2Cnz44GnizvxdR2LtWxQyJm8" />
+    <title lang="en">Big Brother</title>
+    <new />
+  </programme>
+  <programme start="20260716013000 +0000" stop="20260716020000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Montana Jordan</actor>
+      <actor>Emily Osment</actor>
+      <actor>Dougie Baldwin</actor>
+      <actor>Jessie Prez</actor>
+      <actor>Will Sasso</actor>
+      <actor>Rachel Jones</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Isabelle Booko</actor>
+      <actor>Zariah Booko</actor>
+      <actor>Raegan Revord</actor>
+      <actor>Matt Letscher</actor>
+      <actor>Matt Hobby</actor>
+    </credits>
+    <desc lang="en">S02 E15 — A Stuffed Monkey and an Ex-Girlfriend
+When CeeCee loses her favorite toy, Mandy and Meemaw take it as an opportunity to make some money; Connor contemplates revisiting an old relationship.</desc>
+    <episode-num>S02 E15</episode-num>
+    <icon src="https://iptv-epg.org/images/_3yooFL_Gn_qc3MOCddkgWNoU6hVRUn-EA4zT6RN5tmFHy_9l0gQc5Ikr1elN7fq1WJLX1XcLRFISCBRafZfq_aePu_ifUwiq2fmL5cgRrg" />
+    <previously-shown />
+    <title lang="en">Georgie &amp; Mandy's First Marriage</title>
+  </programme>
+  <programme start="20260716020000 +0000" stop="20260716030000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Law</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Carrie Preston</actor>
+      <actor>Wendell Pierce</actor>
+      <actor>Carra Patterson</actor>
+      <actor>Fredric Lehne</actor>
+      <actor>Gloria Reuben</actor>
+    </credits>
+    <desc lang="en">S03 E06 — Bunker Down
+Elsbeth investigates when a crisis manager vanishes inside a billionaire's panic room; Elsbeth meets the late Judge Crawford's widow, Winnie.</desc>
+    <episode-num>S03 E06</episode-num>
+    <icon src="https://iptv-epg.org/images/KRblUW3faq37w-xMDKbf3GZ62hxuyGuCoTt0JSz0Iva9QwRol58FKBiKbgZTTLryAA8QvQujXHBo-S7rriOLAT-yvijA6AvL2MoaGLyal1Q" />
+    <previously-shown />
+    <title lang="en">Elsbeth</title>
+  </programme>
+  <programme start="20260716030000 +0000" stop="20260716033500 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Dive deeper into the headlines; we're adding context to the news, weather and sporting events that are impacting Tampa Bay, Fla.</desc>
+    <icon src="https://iptv-epg.org/images/udTyLX5qyZ_esb8zArvw2GbsgeWYZATLhQEn5gdQafNE3Y8J1Cswry5p9PuvPAmMUSzhIz7-AxBXqM1sPZTDT8beAzuccOrHNvpo_VZKiCc" />
+    <title lang="en">10 Tampa Bay News at 11:00 P.M.</title>
+  </programme>
+  <programme start="20260716033500 +0000" stop="20260716040500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E81 — Ester Steinberg; Cam Bertrand; Affion Crockett; Paul Virzi
+Ester Steinberg; Cam Bertrand; Affion Crockett; Paul Virzi.</desc>
+    <episode-num>S04 E81</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260716040500 +0000" stop="20260716043700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E130 — Liz Zagone; Red Grant; Saul Trujillo; Maxx Eddy
+Liz Zagone; Red Grant; Saul Trujillo; Maxx Eddy.</desc>
+    <episode-num>S04 E130</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+    <new />
+  </programme>
+  <programme start="20260716043700 +0000" stop="20260716050700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S07 E66
+Jon Lovitz; Sheryl Underwood; Billy Gardell; Byron Allen; Whitney Cummings; Jamie Kennedy.</desc>
+    <episode-num>S07 E66</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260716050700 +0000" stop="20260716053700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S06 E34
+Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <episode-num>S06 E34</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260716053700 +0000" stop="20260716060700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E223
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E223</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <previously-shown />
+    <title lang="en">Jeopardy!</title>
+  </programme>
+  <programme start="20260716060700 +0000" stop="20260716063700 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260716063700 +0000" stop="20260716083000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
+  </programme>
+  <programme start="20260716083000 +0000" stop="20260716090000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260716090000 +0000" stop="20260716093000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">The AM crew gets your morning started off right, offering breaking news and traffic alerts to plan your commute; we've got the forecast to start your day.</desc>
+    <icon src="https://iptv-epg.org/images/VZEkKRAWLFKkFndyznASuxMPl_emGNHuBU0hHzNThR6Fy4RIkPuyeguS64A-abCcFUJwp2iRnCqDRM3ZtaB6-se1tDRHnzJTGhdOWrOGlV4" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:00 a.m.</title>
+  </programme>
+  <programme start="20260716093000 +0000" stop="20260716100000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/22wjKfeu7-9RsSxQIcBQOZRc-YlQA3nSxKI2BwUMmVxm-9wmqL6_67WJJ8ee_XzSWq0EMPRe2lF-ATAuAVoVeELBJeG-9y8qKgUUnM43Upw" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:30 a.m.</title>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716110000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/OcqS334kcaThrHA_Y8SWCXrnIT-DgJ0BH2LXBUokw5Lo0-QhVbjMOJXm5ZX9lWa9P1nI6HUwU1FhA6SMkICIAL1asAlkUHURiNxc8mqiYGs" />
+    <title lang="en">10 Tampa Bay News This Morning at 6:00 a.m.</title>
+  </programme>
+  <programme start="20260716110000 +0000" stop="20260716130000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Reporting on international news stories, interviews, and in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260716130000 +0000" stop="20260716140000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+    <live />
+  </programme>
+  <programme start="20260716140000 +0000" stop="20260716150000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S17 E57
+Costumed contestants compete for cash and prizes.</desc>
+    <episode-num>S17 E57</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <previously-shown />
+    <title lang="en">Let's Make a Deal</title>
+  </programme>
+  <programme start="20260716150000 +0000" stop="20260716160000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S54 E183
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S54 E183</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <previously-shown />
+    <title lang="en">The Price Is Right</title>
+  </programme>
+  <programme start="20260716160000 +0000" stop="20260716170000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Get a recap of the morning's news and a look ahead to the afternoon; we're keeping up with the changing forecast.</desc>
+    <icon src="https://iptv-epg.org/images/huPTy8_ECQ-Tvsag6hOHNnljVKundOtvrsVPhFZtSu62Nl_uN8zo8PXSElGLHXI5b-2wkpLGVoxjpc7i2v0g5OiRsN1EjXiavd3mSMLldC4" />
+    <title lang="en">10 Tampa Bay News at Noon</title>
+  </programme>
+  <programme start="20260716170000 +0000" stop="20260716180000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S53 E196
+Victor plays hardball with Spectra-Charles; Victoria and Claire honor Cole's memory; Nikki is concerned about Nick's sobriety.</desc>
+    <episode-num>S53 E196</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
+  </programme>
+  <programme start="20260716180000 +0000" stop="20260716190000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E126
+Smitty and Martin recall this time last year when their marriage hit the skids; Naomi updates her cousins on her health status; Vanessa, Joey and Deanna have a tense dinner; Pamela bolsters a guilt-ridden Dani.</desc>
+    <episode-num>S02 E126</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
+    <new />
+  </programme>
+  <programme start="20260716190000 +0000" stop="20260716193000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S39 E213
+Ridge and Eric hope the latest couture showing will shift attention away from Logan; Will attempts to get through to Electra; Carter and Daphne's marriage is tested like never before.</desc>
+    <episode-num>S39 E213</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
+  <programme start="20260716193000 +0000" stop="20260716200000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260716200000 +0000" stop="20260716210000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2018</date>
+    <desc lang="en">S02 E31 — Twisted Tale
+When a woman returns two days after being reported abducted, authorities believe it's a hoax until a similar crime forces them to take another look.</desc>
+    <episode-num>S02 E31</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260716210000 +0000" stop="20260716213000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/AW08qsgMtXtOTFT0y24pArWMewBn1btkncY5w-nbShNlImOJJSKvjFDw2SWkySpNHjM2OwvmBjZvmMe05jvAf1w5E64rcZES0GsD6frjx7w" />
+    <title lang="en">10 Tampa Bay News at 5PM</title>
+  </programme>
+  <programme start="20260716213000 +0000" stop="20260716220000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">From breaking news to weather alerts, get informed about what's happening around Tampa Bay, Fla.; plus, the latest in sports.</desc>
+    <icon src="https://iptv-epg.org/images/5479XAybwoiT81VOl7vPCMayF1IQJj4R3ZJ40kIqXVt0W1taDXUXntavudKubpuzbsAiIdDZaqfoA9WrwY9raYqjETqO9CtjUbRRRUqPwEU" />
+    <title lang="en">10 Tampa Bay News at 5:30 pm</title>
+  </programme>
+  <programme start="20260716220000 +0000" stop="20260716223000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/tYXUNQZTuKdaom7CNi8Pw1fz2A0WNDZwPNx8w3Up5mW4n3lrDtKABoXUenRtmxQUFvJ2BUSSiaqMaVTY338b5_UJYMLAX9JP6uZRzYuLWCc" />
+    <title lang="en">10 Tampa Bay News at 6PM</title>
+  </programme>
+  <programme start="20260716223000 +0000" stop="20260716230000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
+  <programme start="20260716230000 +0000" stop="20260716233000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S43 E179 — Yaamava' Resort &amp; Casino Week
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S43 E179</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <previously-shown />
+    <title lang="en">Wheel of Fortune</title>
+  </programme>
+  <programme start="20260716233000 +0000" stop="20260717000000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E224
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E224</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <title lang="en">Jeopardy!</title>
+    <new />
+  </programme>
+  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Competition reality</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">S28 E05 — Episode 5 -- Live Eviction
+Following a live vote, a houseguest is evicted and interviewed; remaining houseguests compete for power in the next head of household.</desc>
+    <episode-num>S28 E05</episode-num>
+    <icon src="https://iptv-epg.org/images/GQMrubSAqGLCu-mIFWvoOEbwCBF-k4WqdCIw1DiphPrK7hfDkStd51Na-Z-2DXT_vauHAguxxGUUKh5fyEN2Cnz44GnizvxdR2LtWxQyJm8" />
+    <title lang="en">Big Brother</title>
+    <live />
+  </programme>
+  <programme start="20260717010000 +0000" stop="20260717013000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Montana Jordan</actor>
+      <actor>Emily Osment</actor>
+      <actor>Dougie Baldwin</actor>
+      <actor>Jessie Prez</actor>
+      <actor>Will Sasso</actor>
+      <actor>Rachel Jones</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Isabelle Booko</actor>
+      <actor>Zariah Booko</actor>
+      <actor>Raegan Revord</actor>
+      <actor>Matt Letscher</actor>
+      <actor>Matt Hobby</actor>
+    </credits>
+    <desc lang="en">S02 E16 — Alpha Males and the Power of Prayer
+Mandy tries to make things right with Pastor Jeff when she learns her controversial comments have hurt the tire store's business; Jim and Audrey butt heads over Connor's allowance.</desc>
+    <episode-num>S02 E16</episode-num>
+    <icon src="https://iptv-epg.org/images/_3yooFL_Gn_qc3MOCddkgWNoU6hVRUn-EA4zT6RN5tmFHy_9l0gQc5Ikr1elN7fq1WJLX1XcLRFISCBRafZfq_aePu_ifUwiq2fmL5cgRrg" />
+    <previously-shown />
+    <title lang="en">Georgie &amp; Mandy's First Marriage</title>
+  </programme>
+  <programme start="20260717013000 +0000" stop="20260717020000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Paranormal</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Rose McIver</actor>
+      <actor>Utkarsh Ambudkar</actor>
+      <actor>Brandon Jones</actor>
+      <actor>Richie Moriarty</actor>
+      <actor>Danielle Pinnock</actor>
+      <actor>Asher Grodman</actor>
+      <actor>Román Zaragoza</actor>
+      <actor>Sheila Carrasco</actor>
+      <actor>Rebecca Wisocky</actor>
+      <actor>Devan Long</actor>
+    </credits>
+    <desc lang="en">S05 E18 — Under New Management
+When new pressures threaten Sam and Jay's control over Woodstone, they're forced to navigate unexpected challenges to protect its future; a long-absent ghost returns, reopening emotional connections that complicate new relationships.</desc>
+    <episode-num>S05 E18</episode-num>
+    <icon src="https://iptv-epg.org/images/WLJPHgYXjVD5Df7ocZEEO6AtIZrPxyGV1A9kz2bClW9JrPQQWzDS92FaI97HuRzVd_RGavZ_c-L0G5p-BvghTwxumZx37Ww4GZKuJRQOA9A" />
+    <previously-shown />
+    <title lang="en">Ghosts</title>
+  </programme>
+  <programme start="20260717020000 +0000" stop="20260717023000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Montana Jordan</actor>
+      <actor>Emily Osment</actor>
+      <actor>Dougie Baldwin</actor>
+      <actor>Jessie Prez</actor>
+      <actor>Will Sasso</actor>
+      <actor>Rachel Jones</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Isabelle Booko</actor>
+      <actor>Zariah Booko</actor>
+      <actor>Raegan Revord</actor>
+      <actor>Matt Letscher</actor>
+      <actor>Matt Hobby</actor>
+    </credits>
+    <desc lang="en">S02 E17 — A Country Club, a Yokel and a New Boss
+Georgie's plan to make new clients at the local country club backfires when its outdated policies upset Audrey; Mandy struggles to prove herself at work.</desc>
+    <episode-num>S02 E17</episode-num>
+    <icon src="https://iptv-epg.org/images/_3yooFL_Gn_qc3MOCddkgWNoU6hVRUn-EA4zT6RN5tmFHy_9l0gQc5Ikr1elN7fq1WJLX1XcLRFISCBRafZfq_aePu_ifUwiq2fmL5cgRrg" />
+    <previously-shown />
+    <title lang="en">Georgie &amp; Mandy's First Marriage</title>
+  </programme>
+  <programme start="20260717023000 +0000" stop="20260717030000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Paranormal</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Rose McIver</actor>
+      <actor>Utkarsh Ambudkar</actor>
+      <actor>Brandon Jones</actor>
+      <actor>Richie Moriarty</actor>
+      <actor>Danielle Pinnock</actor>
+      <actor>Asher Grodman</actor>
+      <actor>Román Zaragoza</actor>
+      <actor>Sheila Carrasco</actor>
+      <actor>Rebecca Wisocky</actor>
+      <actor>Devan Long</actor>
+    </credits>
+    <desc lang="en">S05 E19 — Gate-gate
+When an emotion-driven decision puts Woodstone at risk, Sam and Jay step up to defend what they've built; Isaac struggles to adjust to new surroundings, only to realize that some connections are too important to leave behind.</desc>
+    <episode-num>S05 E19</episode-num>
+    <icon src="https://iptv-epg.org/images/WLJPHgYXjVD5Df7ocZEEO6AtIZrPxyGV1A9kz2bClW9JrPQQWzDS92FaI97HuRzVd_RGavZ_c-L0G5p-BvghTwxumZx37Ww4GZKuJRQOA9A" />
+    <previously-shown />
+    <title lang="en">Ghosts</title>
+  </programme>
+  <programme start="20260717030000 +0000" stop="20260717033500 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Dive deeper into the headlines; we're adding context to the news, weather and sporting events that are impacting Tampa Bay, Fla.</desc>
+    <icon src="https://iptv-epg.org/images/udTyLX5qyZ_esb8zArvw2GbsgeWYZATLhQEn5gdQafNE3Y8J1Cswry5p9PuvPAmMUSzhIz7-AxBXqM1sPZTDT8beAzuccOrHNvpo_VZKiCc" />
+    <title lang="en">10 Tampa Bay News at 11:00 P.M.</title>
+  </programme>
+  <programme start="20260717033500 +0000" stop="20260717040500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E82 — Heather Shaw; Bruce Bruce; Jose Sarduy; Noah Gardenswartz
+Heather Shaw; Bruce Bruce; Jose Sarduy; Noah Gardenswartz.</desc>
+    <episode-num>S04 E82</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260717040500 +0000" stop="20260717043700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E117 — JT Tomlinson; Jeremy Scippio; Maureen Langan; Raanan Hershberg
+JT Tomlinson; Jeremy Scippio; Maureen Langan; Raanan Hershberg.</desc>
+    <episode-num>S04 E117</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260717043700 +0000" stop="20260717050700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S07 E66
+Jon Lovitz; Sheryl Underwood; Billy Gardell; Byron Allen; Whitney Cummings; Jamie Kennedy.</desc>
+    <episode-num>S07 E66</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260717050700 +0000" stop="20260717053700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S06 E35
+Jon Lovitz; Jackée Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jimmie Walker.</desc>
+    <episode-num>S06 E35</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260717053700 +0000" stop="20260717060700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E224
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E224</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <previously-shown />
+    <title lang="en">Jeopardy!</title>
+  </programme>
+  <programme start="20260717060700 +0000" stop="20260717063700 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260717063700 +0000" stop="20260717083000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
+  </programme>
+  <programme start="20260717083000 +0000" stop="20260717090000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260717090000 +0000" stop="20260717093000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">The AM crew gets your morning started off right, offering breaking news and traffic alerts to plan your commute; we've got the forecast to start your day.</desc>
+    <icon src="https://iptv-epg.org/images/VZEkKRAWLFKkFndyznASuxMPl_emGNHuBU0hHzNThR6Fy4RIkPuyeguS64A-abCcFUJwp2iRnCqDRM3ZtaB6-se1tDRHnzJTGhdOWrOGlV4" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:00 a.m.</title>
+  </programme>
+  <programme start="20260717093000 +0000" stop="20260717100000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/22wjKfeu7-9RsSxQIcBQOZRc-YlQA3nSxKI2BwUMmVxm-9wmqL6_67WJJ8ee_XzSWq0EMPRe2lF-ATAuAVoVeELBJeG-9y8qKgUUnM43Upw" />
+    <title lang="en">10 Tampa Bay News This Morning at 5:30 a.m.</title>
+  </programme>
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/OcqS334kcaThrHA_Y8SWCXrnIT-DgJ0BH2LXBUokw5Lo0-QhVbjMOJXm5ZX9lWa9P1nI6HUwU1FhA6SMkICIAL1asAlkUHURiNxc8mqiYGs" />
+    <title lang="en">10 Tampa Bay News This Morning at 6:00 a.m.</title>
+  </programme>
+  <programme start="20260717110000 +0000" stop="20260717130000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Actors Anne Hathaway and Matt Damon ("The Odyssey"); Dr. Tara Shirazian.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
+  </programme>
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+    <live />
+  </programme>
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S17 E52
+Costumed contestants compete for cash and prizes.</desc>
+    <episode-num>S17 E52</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <previously-shown />
+    <title lang="en">Let's Make a Deal</title>
+  </programme>
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S54 E54
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S54 E54</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <previously-shown />
+    <title lang="en">The Price Is Right</title>
+  </programme>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Get a recap of the morning's news and a look ahead to the afternoon; we're keeping up with the changing forecast.</desc>
+    <icon src="https://iptv-epg.org/images/huPTy8_ECQ-Tvsag6hOHNnljVKundOtvrsVPhFZtSu62Nl_uN8zo8PXSElGLHXI5b-2wkpLGVoxjpc7i2v0g5OiRsN1EjXiavd3mSMLldC4" />
+    <title lang="en">10 Tampa Bay News at Noon</title>
+  </programme>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S53 E197
+Victor and Nikki agree to a fresh start; Lily and Nate worry about Devon; Matt Clark causes problems for Noah and Sienna.</desc>
+    <episode-num>S53 E197</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
+  </programme>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E127
+Leslie interrupts father-daughter time between Ted and Eva, and clashes with her ex; Dani and Hayley lock horns; Kat's surprising sentiment shocks one of her siblings; Ted has an admission that leaves Shanice stunned.</desc>
+    <episode-num>S02 E127</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
+    <new />
+  </programme>
+  <programme start="20260717190000 +0000" stop="20260717193000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S39 E214
+Steffy and Finn find themselves at a defining crossroads; Eric draws a hard line, demanding Will stay away from his family; the women at Bikini try to help Will move on.</desc>
+    <episode-num>S39 E214</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
+  <programme start="20260717193000 +0000" stop="20260717200000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Tampa's only live weekday lifestyle show offers local shopping tips and fitness advice while also going inside the best restaurants and music scenes.</desc>
+    <icon src="https://iptv-epg.org/images/-E_bdINoAP21QaPaUi0IQoPvtyleYfYTF1dd1xPqDI20JYVvwJiRuIHraOf2vIDbDtA-0U0MSRMi_eQfSGRu568rB_4O7BQICyoCFuz90zQ" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2018</date>
+    <desc lang="en">S02 E32 — The Girl With the Red Shoes
+A hairdresser-turned-detective uncovers the truth behind the murder of a teenage girl at a scenic spot on a Utah river.</desc>
+    <episode-num>S02 E32</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717213000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/AW08qsgMtXtOTFT0y24pArWMewBn1btkncY5w-nbShNlImOJJSKvjFDw2SWkySpNHjM2OwvmBjZvmMe05jvAf1w5E64rcZES0GsD6frjx7w" />
+    <title lang="en">10 Tampa Bay News at 5PM</title>
+  </programme>
+  <programme start="20260717213000 +0000" stop="20260717220000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">From breaking news to weather alerts, get informed about what's happening around Tampa Bay, Fla.; plus, the latest in sports.</desc>
+    <icon src="https://iptv-epg.org/images/5479XAybwoiT81VOl7vPCMayF1IQJj4R3ZJ40kIqXVt0W1taDXUXntavudKubpuzbsAiIdDZaqfoA9WrwY9raYqjETqO9CtjUbRRRUqPwEU" />
+    <title lang="en">10 Tampa Bay News at 5:30 pm</title>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717223000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/tYXUNQZTuKdaom7CNi8Pw1fz2A0WNDZwPNx8w3Up5mW4n3lrDtKABoXUenRtmxQUFvJ2BUSSiaqMaVTY338b5_UJYMLAX9JP6uZRzYuLWCc" />
+    <title lang="en">10 Tampa Bay News at 6PM</title>
+  </programme>
+  <programme start="20260717223000 +0000" stop="20260717230000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260717233000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S43 E180 — Yaamava' Resort &amp; Casino Week
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S43 E180</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <previously-shown />
+    <title lang="en">Wheel of Fortune</title>
+  </programme>
+  <programme start="20260717233000 +0000" stop="20260718000000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E225
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E225</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <title lang="en">Jeopardy!</title>
+    <new />
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Morena Baccarin</actor>
+      <actor>W. Brown</actor>
+      <actor>Matt Lauria</actor>
+      <actor>Christopher Gorham</actor>
+      <actor>Michele Weaver</actor>
+    </credits>
+    <desc lang="en">S01 E20 — Mexico
+With her department under scrutiny and tensions rising across Edgewater, Sheriff Mickey Fox faces the fallout from a major investigation that threatens to upend everything she's built.</desc>
+    <episode-num>S01 E20</episode-num>
+    <icon src="https://iptv-epg.org/images/g2Byp_ecxNA3iQoVLZR4gqXYWvDdRV2eAc8z6YOsJwHIRSOtr2WrEubRd6__c9CgWUJlhM0iHm2YsazVWX6whtQIJhSO0evv7P2-BZyDuIU" />
+    <previously-shown />
+    <title lang="en">Sheriff Country</title>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Max Thieriot</actor>
+      <actor>Billy Burke</actor>
+      <actor>Kevin Alejandro</actor>
+      <actor>Diane Farr</actor>
+      <actor>Stephanie Arcila</actor>
+      <actor>Jordan Calloway</actor>
+      <actor>Jules Latimer</actor>
+    </credits>
+    <date>2026</date>
+    <desc lang="en">S04 E10 — On the Carpet
+As a massive wildfire pushes the station to their limits, tough calls on the front lines spark even tougher questions back at headquarters.</desc>
+    <episode-num>S04 E10</episode-num>
+    <icon src="https://iptv-epg.org/images/wqHNX_dPd2g_zNh-CHvG_w_ETNLaUkyyWIW14-WfTEqLhdoT9becc8wS_GJi6YQJGl3nkhwcy-fk7ICaEvnGwHolWox6FGmsvMLfuPT5Imw" />
+    <previously-shown />
+    <title lang="en">Fire Country</title>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Crime drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Mika Amonsen</actor>
+      <actor>Gloria Reuben</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Marcus Scribner</actor>
+    </credits>
+    <desc lang="en">S01 E09 — Collateral Damage
+Mae faces public and family backlash over the consequences of her past decisions; Sarah struggles with guilt that pushes her to take risks in pursuit of justice; Lena and Danny dive into a tense homicide case.</desc>
+    <episode-num>S01 E09</episode-num>
+    <icon src="https://iptv-epg.org/images/461VVmRO_Ee7N0fCiSvuihvQdAybFECsUP_PABQ2qJOejGOZQOibAEjdexXw_10RgDFpcWyb2JRVv2D2ipfdQU8uXIao14J1GAbB7XSNU-Y" />
+    <previously-shown />
+    <title lang="en">Boston Blue</title>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718033500 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Dive deeper into the headlines; we're adding context to the news, weather and sporting events that are impacting Tampa Bay, Fla.</desc>
+    <icon src="https://iptv-epg.org/images/udTyLX5qyZ_esb8zArvw2GbsgeWYZATLhQEn5gdQafNE3Y8J1Cswry5p9PuvPAmMUSzhIz7-AxBXqM1sPZTDT8beAzuccOrHNvpo_VZKiCc" />
+    <title lang="en">10 Tampa Bay News at 11:00 P.M.</title>
+  </programme>
+  <programme start="20260718033500 +0000" stop="20260718040500 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E83 — Jenn Sterger; Sydney Castillo; Clay Horwitz; Ryan Reiss
+Jenn Sterger; Sydney Castillo; Clay Horwitz; Ryan Reiss.</desc>
+    <episode-num>S04 E83</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260718040500 +0000" stop="20260718043700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E118 — Kristy Quinn; Paul Chowdhry; Luke Binkow; Clayton Thomas
+Kristy Quinn; Paul Chowdhry; Luke Binkow; Clayton Thomas.</desc>
+    <episode-num>S04 E118</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
+  <programme start="20260718043700 +0000" stop="20260718050700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S07 E66
+Jon Lovitz; Sheryl Underwood; Billy Gardell; Byron Allen; Whitney Cummings; Jamie Kennedy.</desc>
+    <episode-num>S07 E66</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
+  <programme start="20260718050700 +0000" stop="20260718053700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S06 E36
+Jon Lovitz; Tiffany Haddish; Howie Mandel; Byron Allen; Jodi Miller; Billy Gardell.</desc>
+    <episode-num>S06 E36</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <title lang="en">Funny You Should Ask</title>
+    <new />
+  </programme>
+  <programme start="20260718053700 +0000" stop="20260718060700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S42 E225
+The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num>S42 E225</episode-num>
+    <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
+    <previously-shown />
+    <title lang="en">Jeopardy!</title>
+  </programme>
+  <programme start="20260718060700 +0000" stop="20260718063700 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Kendall Kirkham and Java Ingram host the Bay Area's only live lifestyle show with fun foodie events, entertainment, inspiring guests and much more every weekday.</desc>
+    <icon src="https://iptv-epg.org/images/MuA86MAeY1XkA2gEJs-SfKW-p4gBIeI4yb4F70zrj2x-hvx1lBlPq_nZJHyVtOxpsc6J-Jd2y5nh2WBiNW4H2SDm0Lpyst0Mz8gBAVYqZ6s" />
+    <title lang="en">Great Day Live</title>
+  </programme>
+  <programme start="20260718063700 +0000" stop="20260718073700 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2018</date>
+    <desc lang="en">S02 E32 — The Girl With the Red Shoes
+A hairdresser-turned-detective uncovers the truth behind the murder of a teenage girl at a scenic spot on a Utah river.</desc>
+    <episode-num>S02 E32</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260718073700 +0000" stop="20260718080000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">Reclaimed Lives, Classic Tractors, and A-Maize-ing Art
+A man transforms reclaimed wood and helps rebuild lives along the way; a gathering of vintage tractor enthusiasts in South Dakota.</desc>
+    <icon src="https://iptv-epg.org/images/ntMKBnVz1J0awYDitO2dnhJvS5to2FSocZwuCtBaM_aM36bcax04npfGeoVOXFiIdB6FZaCxHpYwnAv78uiDJnV9SWUjBTr9e596MFrVAVk" />
+    <previously-shown />
+    <title lang="en">Small Town Big Deal</title>
+  </programme>
+  <programme start="20260718080000 +0000" stop="20260718090000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Documentary</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Series</category>
+    <date>2018</date>
+    <desc lang="en">S02 E32 — The Girl With the Red Shoes
+A hairdresser-turned-detective uncovers the truth behind the murder of a teenage girl at a scenic spot on a Utah river.</desc>
+    <episode-num>S02 E32</episode-num>
+    <icon src="https://iptv-epg.org/images/-jiXc8lK4hstOSFf5KkpAgaGp0E5kuNAHUUFqjiP5Bo2qGEawbAapLJnoiFZEC0HJCG8vFPpf5DhqNP0Skk1vtc8ydIulwKRFpjMzwS1w_Q" />
+    <previously-shown />
+    <title lang="en">Dateline</title>
+  </programme>
+  <programme start="20260718090000 +0000" stop="20260718093000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Sports talk</category>
+    <category>Sports</category>
+    <date>2019</date>
+    <desc lang="en">The former NFL quarterback interviews compelling figures in the sports and entertainment industries.</desc>
+    <icon src="https://iptv-epg.org/images/IQDZE-Ze0E1gENmerjrXSyQZYQwmQkAzSFdsa3gh_R_jHPwn_ohOybEh12U8SWs6sP2pdB-qYeSO6AnhSBgB5pq9uxCRbr_jz-i8KW2AueY" />
+    <title lang="en">Game Time With Boomer Esiason</title>
+    <new />
+  </programme>
+  <programme start="20260718093000 +0000" stop="20260718100000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <desc lang="en">Paid programming.</desc>
+    <icon src="https://iptv-epg.org/images/l94SjPcRIYJoiCooeiuJ5OEF2D-vKypyantKVvBqCdCZP1bTHxkzIP6knENKzfJtois3t9ITpMtFVo6_sN2NtFkdNxN06lpAntGm27jcm64" />
+    <title lang="en">Paid Programming</title>
+  </programme>
+  <programme start="20260718100000 +0000" stop="20260718103000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S03 E25 — Canine Coworkers
+Brandon looks back at the stories of two former shelter dogs that were trained to join their adopters at work.</desc>
+    <episode-num>S03 E25</episode-num>
+    <icon src="https://iptv-epg.org/images/2SGafJ_XD8zoJ0rhniq0BzZ_kQoN-TE9IbPFQbLqD2cc_UJOEgUl8N5ZTwBmUJ0x7mzwGHULycQQMrLG_tBRpZn6Zp9x5qVro-qaK3Pvs1Y" />
+    <title lang="en">Lucky Dog: Reunions</title>
+    <new />
+  </programme>
+  <programme start="20260718103000 +0000" stop="20260718110000 +0000" channel="CBSWTSP.us">
+    <category lang="en">Animals</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E25 — Canine Companions
+A man living with chronic pain hopes that a timid fox terrier mix would like to stay by his side; a woman rebuilding her life after a motorbike accident thinks that a Maltese-terrier mix might be the support she needs.</desc>
+    <episode-num>S01 E25</episode-num>
+    <icon src="https://iptv-epg.org/images/EBiy41GODtgjJTPKojGkZayGkxtXbR3lVK29Pvjzx0YqbflCatTV6GmNjPERjRdB8_3GCUYhgi3mn1vVlaNPSd0pRvVmIlzSLTjwnp6G8hA" />
+    <title lang="en">Lucky Dog: Down Under</title>
+    <new />
+  </programme>
+  <programme start="20260718110000 +0000" stop="20260718120000 +0000" channel="CBSWTSP.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/vrbU_DwU_HXiZxmJHGlYmX096f12QJpHQeUvldW15RqzIIsUJ4OrZzXHZ8auKJqpICBKyE3P0MF-wXoR6572OT54Xzm6kDgyAaacOlQNgns" />
+    <title lang="en">10 Tampa Bay News This Weekend-Sat</title>
+  </programme>
+</tv>
