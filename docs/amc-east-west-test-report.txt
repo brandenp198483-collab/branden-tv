@@ -1,0 +1,71 @@
+AMC East/West isolated candidate test
+==================================================================================
+Source test playlists examined: 9
+Unique filtered candidates: 11
+
+==================================================================================
+001. 004 - AMC East (1080p) [abusaeeidx/IPTV-Scraper-Zilla]
+Score: 155
+Source: docs/BrandenTV-GitHub-amc-us-east-Test.m3u
+URL: https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+==================================================================================
+002. 005 - AMC East (1080p) [EasonCai07/-tvbox]
+Score: 155
+Source: docs/BrandenTV-GitHub-amc-east-Test.m3u
+URL: https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+==================================================================================
+003. 001 - AMC Eastern Feed HD [abusaeeidx/IPTV-Scraper-Zilla]
+Score: 145
+Source: docs/BrandenTV-GitHub-amc-eastern-Test.m3u
+URL: https://tvpass.org/live/AMCEast/hd
+
+==================================================================================
+004. 006 - AMC East (720p) [xJEYDAin/iptv-scraper]
+Score: 135
+Source: docs/BrandenTV-GitHub-amc-east-Test.m3u
+URL: http://41.223.30.230/AMC/index.m3u8
+
+==================================================================================
+005. 002 - AMC East [OinktechLLC/livem3u]
+Score: 130
+Source: docs/BrandenTV-GitHub-amc-east-Test.m3u
+URL: https://secure-272717.tatnet.app/41.223.30.230/AMC/index.m3u8
+
+==================================================================================
+006. 002 - AMC Eastern Feed SD [abusaeeidx/IPTV-Scraper-Zilla]
+Score: 130
+Source: docs/BrandenTV-GitHub-amc-eastern-Test.m3u
+URL: https://tvpass.org/live/AMCEast/sd
+
+==================================================================================
+007. 003 - AMC East [Valchrist23/VikT]
+Score: 130
+Source: docs/BrandenTV-GitHub-amc-east-Test.m3u
+URL: https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+
+==================================================================================
+008. 004 - AMC East [Valchrist23/VikT]
+Score: 130
+Source: docs/BrandenTV-GitHub-amc-east-Test.m3u
+URL: https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+
+==================================================================================
+009. 007 - AMC East 🇺🇸 [WolfTeam010/didactic-eureka]
+Score: 130
+Source: docs/BrandenTV-GitHub-amc-east-Test.m3u
+URL: https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+
+==================================================================================
+010. 003 - US006:AMC HD [ntaboss/iptv]
+Score: 15
+Source: docs/BrandenTV-GitHub-amc-eastern-Test.m3u
+URL: http://kmkus.wanicelife.com:8880/48msk050004/62869843/3162
+
+==================================================================================
+011. 001 - AMC (American Movie Classics) (West) [aceray50/iptv]
+Score: 0
+Source: docs/BrandenTV-GitHub-amc-west-Test.m3u
+URL: http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/643834
+
