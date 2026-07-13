@@ -43,3 +43,5 @@ http://lunar.pm:8080/live/Stephanie/time44/18206.m3u8
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-id="Tampa.Bay.28.Plus.branden" tvg-name="Tampa Bay 28+" group-title="Local News",Tampa Bay 28+
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC.Plus.branden" tvg-name="AMC+" group-title="Entertainment",AMC+
+http://40.160.24.52/AMC_PLUS/index.m3u8
