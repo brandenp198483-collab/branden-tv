@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies! Test",001 - Movies! [playlists/usa_hanssettings.m3u]
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8:Movies!
+#EXTINF:-1 group-title="Movies! Test",002 - Magnificent Movies Network [playlists/popular-movies-iptv.m3u]
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 group-title="Movies! Test",003 - Movies! (576p) [playlists/popular-movies-iptv.m3u]
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",004 - Movies! (480p) [playlists/iptv-org-category.m3u]
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",005 - Movies! [output/BrandenTV-Stremio.m3u]
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",006 - Movies! West (13.2 KVBC-LP2) (432p) [github_m3u_cache/280b9f9b-IPTV-old__IPTV-Entertainment.m3u]
+https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.3.m3u8
+#EXTINF:-1 group-title="Movies! Test",007 - LIFETIME MOVIE NETWORK [github_m3u_cache/BuddyChewChew-My-Streams__Archive-Backup.m3u]
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/mpegts
+#EXTINF:-1 group-title="Movies! Test",008 - LIFETIME MOVIE NETWORK [github_m3u_cache/BuddyChewChew-My-Streams__Archive-moj-scanner.m3u]
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",009 - Lifetime Movies Network [github_m3u_cache/Crankrune-CrIPTV__output-playlists-playlist_all.m3u]
+http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",010 - Movies! [github_m3u_cache/EasonCai07--tvbox__index.m3u]
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",011 - USA: MOVIES! [M] [github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__lidns_live.m3u]
+http://lidns.cc/live/yu3k45/3audeg/303637.m3u8
+#EXTINF:-1 group-title="Movies! Test",012 - TVS Nostalgia Movies Network [github_m3u_cache/Mr-DS-ML-85-IPTV-98__playlist-play_pro.m3u]
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",013 - Great Movies! (GB) Geo [github_m3u_cache/Mr-DS-ML-85-IPTV-98__playlist-play_pro.m3u]
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",014 - Great Movies! (IE) Geo [github_m3u_cache/Mr-DS-ML-85-IPTV-98__playlist-play_pro.m3u]
+https://amg01753-amg01753c3-lg-ie-2962.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lgie/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",015 - USA - MOVIES! HD [github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__MERGED_LIVE.m3u]
+http://portott.com/live/c4c24c0217/c4b2e86278c6/552028.m3u8
+#EXTINF:-1 group-title="Movies! Test",016 - USA: MOVIES! [M] [github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__MERGED_LIVE.m3u]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303637.m3u8
+#EXTINF:-1 group-title="Movies! Test",017 - USA - MOVIES! HD [github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__MERGED_LIVE.m3u]
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/552028.m3u8
+#EXTINF:-1 group-title="Movies! Test",018 - USA Movies! [github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__MERGED_LIVE.m3u]
+http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/543962.m3u8
+#EXTINF:-1 group-title="Movies! Test",019 - My time Movies Network [github_m3u_cache/Mr-DS-ML-85-IPTV-98__playlist-playtv.m3u]
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",020 - Movies! (480p) [github_m3u_cache/OinktechLLC-livem3u__data-playlist.m3u]
+https://secure-272717.tatnet.app/bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",021 - Magnificent Movies Network [github_m3u_cache/OinktechLLC-livem3u__data-playlist.m3u]
+https://secure-272717.tatnet.app/mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 group-title="Movies! Test",022 - KPVM Movies! [github_m3u_cache/OinktechLLC-livem3u__data-playlist.m3u]
+https://secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",023 - Movies! (480p) [github_m3u_cache/OinktechLLC-livem3u__data-playlists-Movies.m3u]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",024 - KPVM Movies! [github_m3u_cache/OinktechLLC-livem3u__data-playlists-Movies.m3u]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",025 - Magnificent Movies Network [github_m3u_cache/OinktechLLC-livem3u__data-playlists-Movies_Shop.m3u]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 group-title="Movies! Test",026 - lifetime movies network [github_m3u_cache/hexhoxhex-mkurugenzi_viewer__playlist_new.m3u8]
+https://xameleon.phantemlis.top/one/secure/608719431d041858068ebe23b2b035b0/1783992491/premium389/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",027 - Lifetime Movies Network [github_m3u_cache/hexhoxhex-mkurugenzi_viewer__tivimate_playlist.m3u8]
+https://xyzdddd.mizhls.ru/lb/premium389/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 group-title="Movies! Test",028 - Lifetime Movies Network [github_m3u_cache/hexhoxhex-mkurugenzi_viewer__all_channels-playlist.m3u8]
+https://xyzdddd.mizhls.ru/lb/premium389/index.m3u8
+#EXTINF:-1 group-title="Movies! Test",029 - Lifetime Movies Network [github_m3u_cache/hexhoxhex-mkurugenzi_viewer__kodi_playlist.m3u8]
+https://xyzdddd.mizhls.ru/lb/premium389/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+#EXTINF:-1 group-title="Movies! Test",030 - [HD]movies! [github_m3u_cache/iptvjs-iptv__ew_all.m3u]
+https://stream1.freetv.fun/c9c0ae927ecbeb4d1e241daade733ac04f296ddfc089329f5897c6d6ccb03961.ctv
+#EXTINF:-1 group-title="Movies! Test",031 - Movies Network [github_m3u_cache/aceray50-iptv__tv.m3u]
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/543962
+#EXTINF:-1 group-title="Movies! Test",032 - ☆ Netmovies TV 🇧🇷 [github_m3u_cache/iprtl-m3u__Pluto.m3u]
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+#EXTINF:-1 group-title="Movies! Test",033 - GOSPEL MOVIES TV [github_m3u_cache/otaviozanon-LiveWatch__playlists-m3u8-LiveWatch-PlaylistManoTV.m3u8]
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Movies! Test",034 - [HD]movies! [github_m3u_cache/xJEYDAin-iptv-scraper__filtered-freetv-fun_20260713.m3u]
+https://t.freetv.fun/live/movies.m3u8
