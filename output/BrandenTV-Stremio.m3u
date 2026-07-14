@@ -12,7 +12,7 @@ https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://iptv-epg.org/images/RaYiWD-IkmSbogNoZKYInZIfrnlKCDZR8SCfd2KBlCC9CqLj_9_SWvV10iBnua8WHU1PBdMHWRZ_Nn1JVdtMJYjkMpXFEy4lPQkZ0Rg9pGErh9t_" group-title="OTA Major Networks",PBS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mynetworktv.png" group-title="OTA Major Networks",MyNetworkTV
+#EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mynetworktv.svg" group-title="OTA Major Networks",MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/telemundo.png" group-title="OTA Major Networks",Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
