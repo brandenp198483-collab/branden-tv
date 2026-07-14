@@ -47,3 +47,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wft
 http://40.160.24.52/AMC_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="AMC.branden" tvg-name="AMC" group-title="Entertainment",AMC
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/643834
+#EXTINF:-1 tvg-id="FX.branden" group-title="Entertainment",FX
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22522.ts
