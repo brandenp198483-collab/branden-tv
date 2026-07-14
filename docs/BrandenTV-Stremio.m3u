@@ -8,11 +8,11 @@ http://stream.cammonitorplus.net/1783/index.m3u8
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="FOX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="OTA Major Networks",FOX
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="The.CW.branden" tvg-logo="https://iptv-epg.org/images/T9og20P0JODD7tntvALNYJFvW_U56i0ddLC9-itwScrihEeJWjavFVhZG2SnH66UqShlOEpESGFnFCe1-UYT7pV9RimVsnDfW2c-_eew7A" group-title="OTA Major Networks",The CW
+#EXTINF:-1 tvg-id="The.CW.branden" tvg-logo="" group-title="OTA Major Networks",The CW
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://iptv-epg.org/images/RaYiWD-IkmSbogNoZKYInZIfrnlKCDZR8SCfd2KBlCC9CqLj_9_SWvV10iBnua8WHU1PBdMHWRZ_Nn1JVdtMJYjkMpXFEy4lPQkZ0Rg9pGErh9t_" group-title="OTA Major Networks",PBS
+#EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="OTA Major Networks",PBS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mynetworktv.svg" group-title="OTA Major Networks",MyNetworkTV
+#EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="" group-title="OTA Major Networks",MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="OTA Major Networks",Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -24,7 +24,7 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="Catchy.Comedy.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/250px-Catchy_Comedy_logo.svg.png" group-title="OTA Digital Multicast",Catchy Comedy
 http://40.160.24.52/DECADES/index.m3u8
-#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cozi-tv.svg" tvg-name="Cozi TV" group-title="OTA Digital Multicast",Cozi TV
+#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-name="Cozi TV" group-title="OTA Digital Multicast",Cozi TV
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-id="Comet.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="OTA Digital Multicast",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
@@ -36,7 +36,7 @@ http://40.160.24.56/DABL/index.m3u8
 http://206.212.244.63/83/index.m3u8
 #EXTINF:-1 tvg-id="Heroes.And.Icons.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png" group-title="OTA Digital Multicast",Heroes & Icons
 http://206.212.244.63/88/index.m3u8
-#EXTINF:-1 tvg-id="Ion.Television.branden" tvg-name="Ion Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" group-title="OTA Digital Multicast",Ion Television
+#EXTINF:-1 tvg-id="Ion.Television.branden" tvg-name="Ion Television" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="OTA Digital Multicast",Ion Television
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Ion.Mystery.branden" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/066D3CDB-3E22-41A6-B041-C7F85793BE7E/3-1x1.png" group-title="OTA Digital Multicast",Ion Mystery
 https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n4=content_name&ads.v4=ION%20Mystery&ads.n21=content_custom_2_param&ads.v21=AMDB013703&ads.n22=channel_company_id&ads.v22=AMDP500574&ads.n23=did&ads.v23=&ads.n24=content_livestream&ads.v24=1&ads.n25=channel_ext_id&ads.v25=&ads.n26=channel_id&ads.v26=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=dnt&ads.v28=&ads.n29=channel_genre&ads.v29=Drama&ads.n30=content_type&ads.v30=channel&ads.n31=gpp&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=ifa_type&ads.v33=&ads.n34=pos&ads.v34=midroll&ads.n35=channel_brand_id&ads.v35=AMDB013703&ads.n36=app_version&ads.v36=0.0.0&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=content_producer_name&ads.v39=ION%20Media%20Networks&ads.n40=device_make&ads.v40=&ads.n41=channel_title&ads.v41=ION%20Mystery&ads.n42=device_model&ads.v42=&ads.n43=app_bundle&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=network_name&ads.v45=ion-mystery&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=h&ads.v47=1080&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=ip&ads.v50=185.217.168.164&ads.n51=w&ads.v51=1920&ads.n52=channel_name&ads.v52=ION%20Mystery&ads.n53=channel_language&ads.v53=en&ads.n54=channel_corp&ads.v54=ION%20Media%20Networks&ads.n55=app_name&ads.v55=&ads.n56=content_custom_1_param&ads.v56=066D3CDB-3E22-41A6-B041-C7F85793BE7E&ads.n57=content_provider&ads.v57=ion-mystery&ads.n58=gpp_sid&ads.v58=
@@ -56,10 +56,7 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Toons.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="OTA Digital Multicast",MeTV Toons
 http://206.212.244.63/112/index.m3u8
-#EXTINF:-1 tvg-id="AMC.branden" tvg-name="AMC" group-title="Entertainment",AMC
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/643834
-
-#EXTINF:-1 tvg-id="AMC.Plus.branden" tvg-name="AMC+" group-title="Entertainment",AMC+
+#EXTINF:-1 tvg-id="AMC.branden" tvg-name="AMC+" group-title="Entertainment",AMC
 http://40.160.24.52/AMC_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="AXS.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Entertainment",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
@@ -83,7 +80,7 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fxm.svg" group-title="Entertainment",FX Movie Channel
+#EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png" group-title="Entertainment",FX Movie Channel
 http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="FYI.branden" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Entertainment",FYI
 http://206.212.244.63/78/index.m3u8
@@ -124,7 +121,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="TNT.branden" tvg-name="TNT" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tnt.png" group-title="Entertainment",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TV.Land.branden" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Entertainment",TV Land
-http://206.212.244.63/164/index.m3u8
+http://40.160.24.55/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.branden" group-title="Entertainment",USA Network
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VH1.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="Entertainment",VH1

@@ -12,8 +12,8 @@ FOUND | OTA Digital Multicast | Antenna TV | ota_diginets | score=2468 | raw=Ant
 MISS  | OTA Digital Multicast | Bounce TV
 FOUND | OTA Digital Multicast | Catchy Comedy | iptv_org | score=1190 | raw=Catchy Comedy (720p)
 FOUND | OTA Digital Multicast | Cozi TV | manual_overrides | score=100500 | raw=Cozi TV
-FOUND | OTA Digital Multicast | Comet | iptv_org | score=2740 | raw=Comet (1080p)
-FOUND | OTA Digital Multicast | Charge! | iptv_org | score=2739 | raw=Charge! (1080p)
+FOUND | OTA Digital Multicast | Comet | iptv-org-category | score=2650 | raw=Comet (1080p)
+FOUND | OTA Digital Multicast | Charge! | popular-movies-iptv | score=2649 | raw=Charge! (1080p)
 FOUND | OTA Digital Multicast | Dabl | iptv_org | score=1190 | raw=Dabl (720p)
 MISS  | OTA Digital Multicast | Defy TV | best_bad_score=-890 | raw=Defy TV
 FOUND | OTA Digital Multicast | Grit | iptv-org-category | score=2589 | raw=Grit (720p)
@@ -26,7 +26,7 @@ MISS  | OTA Digital Multicast | MeTV
 MISS  | OTA Digital Multicast | MeTV+
 FOUND | OTA Digital Multicast | Movies! | iptv_org | score=2383 | raw=Movies Thriller (1080p)
 FOUND | OTA Digital Multicast | Rewind TV | iptv_org | score=2628 | raw=Rewind TV (1080p)
-FOUND | OTA Digital Multicast | Start TV | iptv_org | score=2676 | raw=Start TV (720p)
+FOUND | OTA Digital Multicast | Start TV | iptv-org-category | score=2586 | raw=Start TV (720p)
 FOUND | OTA Digital Multicast | Story Television | iptv_org | score=2613 | raw=Story Television
 FOUND | OTA Digital Multicast | TBD | manual_overrides | score=100500 | raw=TBD
 MISS  | OTA Digital Multicast | This TV
@@ -40,7 +40,7 @@ FOUND | Entertainment | Bravo | iptv-org-category | score=2616 | raw=Bravo (720p
 FOUND | Entertainment | CMT | iptv_org | score=2749 | raw=CMT (720p)
 FOUND | Entertainment | Comedy Central | iptv_org | score=2992 | raw=Comedy Central
 FOUND | Entertainment | E! | iptv_org | score=2806 | raw=E! (1080p)
-FOUND | Entertainment | Freeform | iptv_org | score=2797 | raw=Freeform (720p)
+FOUND | Entertainment | Freeform | iptv-org-category | score=2707 | raw=Freeform (720p)
 FOUND | Entertainment | Fuse | iptv_org | score=2813 | raw=Fuse (1080p)
 FOUND | Entertainment | FX | iptv_org | score=2810 | raw=FX (1080p)
 FOUND | Entertainment | FXX | iptv_org | score=2812 | raw=FXX (1080p)
@@ -48,25 +48,25 @@ FOUND | Entertainment | FX Movie Channel | iptv_org | score=420 | raw=FXM (720p)
 FOUND | Entertainment | FYI | iptv_org | score=2759 | raw=FYI (720p)
 MISS  | Entertainment | GSN
 FOUND | Entertainment | Hallmark Channel | iptv_org | score=2810 | raw=Hallmark Channel (1080p)
-FOUND | Entertainment | Hallmark Mystery | iptv_org | score=2818 | raw=Hallmark Mystery (1080p)
+FOUND | Entertainment | Hallmark Mystery | popular-movies-iptv | score=2728 | raw=Hallmark Mystery (1080p)
 FOUND | Entertainment | Hallmark Family | popular-movies-iptv | score=2587 | raw=Hallmark Family (720p)
 FOUND | Entertainment | IFC | iptv_org | score=2808 | raw=IFC (1080p)
-FOUND | Entertainment | INSP | iptv_org | score=2678 | raw=INSP (720p)
-FOUND | Entertainment | Lifetime | iptv_org | score=2696 | raw=Lifetime (720p)
+FOUND | Entertainment | INSP | iptv-org-category | score=2588 | raw=INSP (720p)
+FOUND | Entertainment | Lifetime | iptv-org-category | score=2606 | raw=Lifetime (720p)
 MISS  | Entertainment | LMN
 MISS  | Entertainment | Logo
 MISS  | Entertainment | Magnolia Network
-FOUND | Entertainment | MTV | iptv_org | score=2756 | raw=MTV (720p)
+FOUND | Entertainment | MTV | iptv-org-category | score=2666 | raw=MTV (720p)
 FOUND | Entertainment | MTV2 | iptv-org-category | score=2670 | raw=MTV2 (720p)
 FOUND | Entertainment | MTV Classic | iptv_org | score=2761 | raw=MTV Classic (720p)
-FOUND | Entertainment | National Geographic | iptv_org | score=2717 | raw=National Geographic (720p)
+FOUND | Entertainment | National Geographic | iptv-org-category | score=2627 | raw=National Geographic (720p)
 MISS  | Entertainment | Nat Geo Wild
 FOUND | Entertainment | Ovation | iptv_org | score=2739 | raw=Ovation (1080p)
-FOUND | Entertainment | Oxygen | iptv_org | score=2758 | raw=Oxygen (720p)
-FOUND | Entertainment | Paramount Network | iptv_org | score=2717 | raw=Paramount Network (720p)
+FOUND | Entertainment | Oxygen | iptv-org-category | score=2668 | raw=Oxygen (720p)
+FOUND | Entertainment | Paramount Network | popular-movies-iptv | score=2627 | raw=Paramount Network (720p)
 FOUND | Entertainment | Pop | apsat_rakutentv_uk | score=2438 | raw=POP
 FOUND | Entertainment | Reelz | iptv_org | score=2378 | raw=Reelz Famous & Infamous (1080p)
-FOUND | Entertainment | Sundance TV | iptv_org | score=2759 | raw=Sundance TV (720p)
+FOUND | Entertainment | Sundance TV | popular-movies-iptv | score=2669 | raw=Sundance TV (720p)
 FOUND | Entertainment | Syfy | iptv_org | score=2749 | raw=SYFY (720p)
 MISS  | Entertainment | TBS
 MISS  | Entertainment | TLC
@@ -75,9 +75,9 @@ MISS  | Entertainment | Travel Channel
 MISS  | Entertainment | TruTV
 FOUND | Entertainment | TV Land | iptv_org | score=1270 | raw=TV Land (720p)
 FOUND | Entertainment | USA Network | manual_overrides | score=101080 | raw=USA Network
-FOUND | Entertainment | VH1 | iptv_org | score=2713 | raw=VH1 (720p)
+FOUND | Entertainment | VH1 | iptv-org-category | score=2623 | raw=VH1 (720p)
 FOUND | Entertainment | Vice TV | iptv_org | score=2810 | raw=VICE TV (1080p)
-FOUND | Entertainment | We TV | iptv_org | score=2753 | raw=We TV (720p)
+FOUND | Entertainment | We TV | iptv-org-category | score=2663 | raw=We TV (720p)
 FOUND | Entertainment | A&E Crime 360 | iptv_org | score=2587 | raw=A&E Crime 360 (720p)
 MISS  | Premium Cable | HBO
 MISS  | Premium Cable | HBO2
@@ -121,21 +121,21 @@ MISS  | News & Weather | CNBC World
 MISS  | News & Weather | CNN | best_bad_score=-895 | raw=CNN
 FOUND | News & Weather | CNN International | free_tv | score=2589 | raw=CNN International
 MISS  | News & Weather | CNN en Espanol
-FOUND | News & Weather | Fox Business Network | iptv_org | score=2680 | raw=Fox Business Network (720p)
-FOUND | News & Weather | Fox News Channel | iptv_org | score=2669 | raw=Fox News Channel (720p)
+FOUND | News & Weather | Fox Business Network | iptv-org-category | score=2590 | raw=Fox Business Network (720p)
+FOUND | News & Weather | Fox News Channel | iptv-org-news | score=2579 | raw=Fox News Channel (720p)
 MISS  | News & Weather | HLN | best_bad_score=-1160 | raw=HLN Live (720p)
 MISS  | News & Weather | MSNBC | best_bad_score=-890 | raw=MSNBC
-FOUND | News & Weather | Newsmax TV | iptv_org | score=2682 | raw=Newsmax TV (720p)
-FOUND | News & Weather | NewsNation | iptv_org | score=2677 | raw=NewsNation (720p)
+FOUND | News & Weather | Newsmax TV | iptv-org-news | score=2592 | raw=Newsmax TV (720p)
+FOUND | News & Weather | NewsNation | iptv-org-news | score=2587 | raw=NewsNation (720p)
 FOUND | News & Weather | Scripps News | iptv_org | score=2702 | raw=Scripps News (1080p)
 FOUND | News & Weather | The Weather Channel | manual_overrides | score=100500 | raw=The Weather Channel
-FOUND | Sports | ACC Network | iptv_org | score=2679 | raw=ACC Network (720p)
+FOUND | Sports | ACC Network | popular-sports-iptv | score=2589 | raw=ACC Network (720p)
 MISS  | Sports | Bally Sports
 FOUND | Sports | Big Ten Network | iptv_org | score=2746 | raw=Big Ten Network (720p)
 FOUND | Sports | CBS Sports Network | iptv_org | score=1000 | raw=CBS Sports Network USA (720p)
 FOUND | Sports | ESPN | iptv_org | score=2647 | raw=ESPN (1080p)
 MISS  | Sports | ESPN2
-FOUND | Sports | ESPNews | iptv_org | score=2629 | raw=ESPNews (720p)
+FOUND | Sports | ESPNews | popular-sports-iptv | score=2539 | raw=ESPNews (720p)
 FOUND | Sports | ESPNU | iptv_org | score=2749 | raw=ESPNU (720p)
 FOUND | Sports | ESPN Deportes | iptv_org | score=1190 | raw=ESPN Deportes (720p)
 FOUND | Sports | Fox Sports 1 | iptv_org | score=1600 | raw=FS1 Salzburg (720p) [Not 24/7]
@@ -149,9 +149,9 @@ FOUND | Sports | MLB Network | manual_overrides | score=100500 | raw=MLB Network
 FOUND | Sports | MLB Network Strike Zone | manual_overrides | score=100580 | raw=MLB Network Strike Zone
 MISS  | Sports | MSG Network
 MISS  | Sports | NBA TV | best_bad_score=-890 | raw=NBA TV
-FOUND | Sports | NFL Network | iptv_org | score=2677 | raw=NFL Network (720p)
+FOUND | Sports | NFL Network | popular-sports-iptv | score=2587 | raw=NFL Network (720p)
 FOUND | Sports | NHL Network | iptv_org | score=2741 | raw=NHL Network (1080p)
-FOUND | Sports | SEC Network | iptv_org | score=2679 | raw=SEC Network (720p)
+FOUND | Sports | SEC Network | iptv-org-category | score=2589 | raw=SEC Network (720p)
 FOUND | Sports | Tennis Channel | iptv_org | score=2708 | raw=Tennis Channel (1080p)
 FOUND | Sports | TUDN | iptv_org | score=2471 | raw=TUDN (1080p) [Geo-blocked]
 FOUND | Sports | NESN | iptv_org | score=2387 | raw=NESN Nation (1080p)
@@ -166,7 +166,7 @@ FOUND | Children & Family | Nick Jr. | iptv_org | score=2817 | raw=Nick Jr. (108
 FOUND | Children & Family | Nickelodeon | iptv_org | score=2809 | raw=Nickelodeon (1080p)
 FOUND | Children & Family | Nicktoons | iptv_org | score=2617 | raw=NickToons
 FOUND | Children & Family | TeenNick | popular-kids-iptv | score=2668 | raw=TeenNick (720p)
-FOUND | Children & Family | PBS Kids | iptv_org | score=2666 | raw=PBS Kids (720p)
+FOUND | Children & Family | PBS Kids | popular-kids-iptv | score=2576 | raw=PBS Kids (720p)
 MISS  | Children & Family | Universal Kids
 FOUND | Children & Family | BabyFirst | iptv_org | score=2679 | raw=BabyFirst (720p)
 MISS  | Lifestyle & Documentary | American Heroes Channel
