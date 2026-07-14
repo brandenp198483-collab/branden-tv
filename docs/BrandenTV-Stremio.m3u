@@ -24,7 +24,7 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="Catchy.Comedy.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/250px-Catchy_Comedy_logo.svg.png" group-title="OTA Digital Multicast",Catchy Comedy
 http://40.160.24.52/DECADES/index.m3u8
-#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-name="Cozi TV" group-title="OTA Digital Multicast",Cozi TV
+#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/cozi-tv.svg" tvg-name="Cozi TV" group-title="OTA Digital Multicast",Cozi TV
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-id="Comet.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="OTA Digital Multicast",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
