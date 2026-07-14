@@ -80,7 +80,7 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fxx.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fx-movie-channel.png" group-title="Entertainment",FX Movie Channel
+#EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fxm.svg" group-title="Entertainment",FX Movie Channel
 http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="FYI.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fyi.png" group-title="Entertainment",FYI
 http://206.212.244.63/78/index.m3u8
