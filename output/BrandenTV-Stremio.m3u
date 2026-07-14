@@ -77,7 +77,7 @@ http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Fuse.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fuse.png" group-title="Entertainment",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fx.png" group-title="Entertainment",FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22522.ts
 #EXTINF:-1 tvg-id="FXX.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fxx.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/fxm.svg" group-title="Entertainment",FX Movie Channel

@@ -77,7 +77,7 @@ http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Fuse.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="Entertainment",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.branden" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22522.ts
 #EXTINF:-1 tvg-id="FXX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png" group-title="Entertainment",FX Movie Channel
