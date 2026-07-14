@@ -1,0 +1,39 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main/persiana.xml.gz"
+#EXTINF:-1 tvg-id="family" tvg-name="Family" tvg-logo="https://www.persianagroup.tv/assets/logos/family.png" group-title="Persiana",Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="series" tvg-name="Series" tvg-logo="https://www.persianagroup.tv/assets/logos/series.png" group-title="Persiana",Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://www.persianagroup.tv/assets/logos/cinema.png" group-title="Persiana",Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="korea" tvg-name="Korea" tvg-logo="https://www.persianagroup.tv/assets/logos/korea.png" group-title="Persiana",Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="plus" tvg-name="Persiana+" tvg-logo="https://www.persianagroup.tv/assets/logos/plus.png" group-title="Persiana",Persiana+
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="iranian" tvg-name="Iranian" tvg-logo="https://www.persianagroup.tv/assets/logos/iranian.png" group-title="Persiana",Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="comedy" tvg-name="Comedy" tvg-logo="https://www.persianagroup.tv/assets/logos/comedy.png" group-title="Persiana",Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="reality" tvg-name="Reality" tvg-logo="https://www.persianagroup.tv/assets/logos/reality.png" group-title="Persiana",Reality
+https://realhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="turkey" tvg-name="Türkiye" tvg-logo="https://www.persianagroup.tv/assets/logos/turkey.png" group-title="Persiana",Türkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="medical" tvg-name="Medical" tvg-logo="https://www.persianagroup.tv/assets/logos/medical.png" group-title="Persiana",Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="docs" tvg-name="Docs" tvg-logo="https://www.persianagroup.tv/assets/logos/docs.png" group-title="Persiana",Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="junior" tvg-name="Junior" tvg-logo="https://www.persianagroup.tv/assets/logos/junior.png" group-title="Persiana",Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="fight" tvg-name="Fight" tvg-logo="https://www.persianagroup.tv/assets/logos/fight.png" group-title="Persiana",Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="music" tvg-name="Music" tvg-logo="https://www.persianagroup.tv/assets/logos/music.png" group-title="Persiana",Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="nostalgia" tvg-name="Nostalgia" tvg-logo="https://www.persianagroup.tv/assets/logos/nostalgia.png" group-title="Persiana",Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="folk" tvg-name="Folk" tvg-logo="https://www.persianagroup.tv/assets/logos/folk.png" group-title="Persiana",سنتی
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="setmix" tvg-name="SetMix" tvg-logo="https://www.persianagroup.tv/assets/logos/setmix.png" group-title="Persiana",SetMix
+https://setmixhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="travel" tvg-name="Travel" tvg-logo="https://www.persianagroup.tv/assets/logos/travel.png" group-title="Persiana",Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="kurd4" tvg-name="4 Kurd" tvg-logo="https://www.persianagroup.tv/assets/logos/kurd4.png" group-title="Persiana",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8

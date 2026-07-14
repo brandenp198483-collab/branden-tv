@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal5SantaFe.ar@SD",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD",Telefe Internacional (576p)
+http://190.108.83.69:8000/play/a08l/index.m3u8
+#EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD",Telefe Buenos Aires (1080p)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (1080p)
+http://45.6.4.35/TELEFE_INTERIOR/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (720p)
+http://200.91.32.158:8080/telefehd/index.m3u8

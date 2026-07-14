@@ -1,0 +1,248 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="",HBO
+http://36.141.75.171:10122/TV0001
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="",NHK
+http://36.141.75.171:10122/TV0002
+#EXTINF:-1 tvg-id="Channel" tvg-name="Channel" tvg-logo="",Channel
+http://36.141.75.171:10122/TV0003
+#EXTINF:-1 tvg-id="START" tvg-name="START" tvg-logo="",START
+http://36.141.75.171:10122/TV0004
+
+
+#EXTINF:-1 tvg-id="Dsports+" tvg-name="Dsports+" tvg-logo="https://example.com/dsportsplus.png" group-title="Deportes", Dsports+
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO2cDOjVWNjVDOxITL4Y2Ni1CZ5MGNtEDOmVWLiZTZzgDN0QzL.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsARG" tvg-name="TNT Sports ARG" tvg-logo="https://example.com/tntsportsarg.png" group-title="Deportes", TNT Sports ARG
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzM5OTE0ODEyYTc5LThjMDgtODJmNC1mODRkLTNiZTE1NjM3/master.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsCH" tvg-name="TNT Sports CH" tvg-logo="https://example.com/tntsportsch.png" group-title="Deportes", TNT Sports CH
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTE3Nzk1NTU4ZGExLTI5ODgtZWUzNC1iZWFkLTA5MjQ5N2E3/master.m3u8
+
+#EXTINF:-1 tvg-id="TycSports" tvg-name="Tyc Sports" tvg-logo="https://example.com/tycsports.png" group-title="Deportes", Tyc Sports
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzM1YjZlYTRkODRjLWI4MWEtNmVkNC04Y2NlLTJiNWQxYTk5/master.m3u8
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://example.com/telefe.png" group-title="Entretenimiento", Telefe
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OWQ3NWNjMDE5MDI5LTFhMzgtMWIwNC0xNjkzLTA5ZGE0Y2U2/master.m3u8
+
+#EXTINF:-1 tvg-id="VTV+" tvg-name="VTV+" tvg-logo="https://example.com/vtvplus.png" group-title="Entretenimiento", VTV+
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OWVhZDhiMDA4YmRkLTM0ODgtMWFhNC0zNzhiLWQ2NzI1ZDFi/master.m3u8
+
+#EXTINF:-1 tvg-id="FUTV" tvg-name="FUTV" tvg-logo="https://example.com/futv.png" group-title="Deportes", FUTV
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NjVkNWFkZDY3ZTk3LTc3OWEtZWQyNC03ZThlLWM2M2UzMWE0/master.m3u8
+
+#EXTINF:-1 tvg-id="Liga1MAX" tvg-name="Liga 1 MAX" tvg-logo="https://example.com/liga1max.png" group-title="Deportes", Liga 1 MAX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZjFmZmFjY2FhN2ZjLTJlODgtNzliNC01MTQzLTVhYTk4MjVm/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsPremium" tvg-name="Fox Sports Premium" tvg-logo="https://example.com/foxsportspremium.png" group-title="Deportes", Fox Sports Premium
+https://as.periquitopan.store/foxpremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsMX" tvg-name="Fox Sports MX" tvg-logo="https://example.com/foxsportsmx.png" group-title="Deportes", Fox Sports MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YzhmM2NjYzMxNDQ3LWQzMTktNjExNC1lZTAwLTIwNDVlMjA2/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2MX" tvg-name="Fox Sports 2 MX" tvg-logo="https://example.com/foxsports2mx.png" group-title="Deportes", Fox Sports 2 MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZGFlMzBlNWFlODE3LTY2NGEtOGZlNC00Njk2LWU3MzYxMWQ2/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3MX" tvg-name="Fox Sports 3 MX" tvg-logo="https://example.com/foxsports3mx.png" group-title="Deportes", Fox Sports 3 MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MGQzMThhOTliNmMyLTJlYzktOGJjNC0wZmQ3LWIwMWU0NTNl/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPNMX" tvg-name="ESPN MX" tvg-logo="https://example.com/espnmx.png" group-title="Deportes", ESPN MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1N2E2YTBkZmJjMzFiLWU0ODgtYTk0NC03YTViLWU4NzlhZmE0/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2MX" tvg-name="ESPN 2 MX" tvg-logo="https://example.com/espn2mx.png" group-title="Deportes", ESPN 2 MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NmZhZDYwNTFiMzdjLTM1MWEtNGQyNC1kMDBkLTFmNzA0YmZh/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3MX" tvg-name="ESPN 3 MX" tvg-logo="https://example.com/espn3mx.png" group-title="Deportes", ESPN 3 MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1Y2Y3NWY0YmEzMDg1LTgwYTgtZThiNC02ZTA1LWI2ZmZhYWU2/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4MX" tvg-name="ESPN 4 MX" tvg-logo="https://example.com/espn4mx.png" group-title="Deportes", ESPN 4 MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZTE1ODQwZDA4ODAwLTg1YWItNmY2NC0xY2JhLWYyYmI3MDAw/master.m3u8
+
+#EXTINF:-1 tvg-id="TVCDeportesMX" tvg-name="TVC Deportes MX" tvg-logo="https://example.com/tvcdeportesmx.png" group-title="Deportes", TVC Deportes MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1M2NmMWJkMjFmYjM3LWY4ODgtYjBkNC0zOWJlLTZhN2FhM2Ni/master.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7MX" tvg-name="Azteca 7 MX" tvg-logo="https://example.com/azteca7mx.png" group-title="Entretenimiento", Azteca 7 MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1M2U3ZTg4Mzk2NmMyLTk5MTktMTcxNC00ZGUwLWM4ZjQ1ZWFl/master.m3u8
+
+#EXTINF:-1 tvg-id="AztecaDeportes" tvg-name="Azteca Deportes" tvg-logo="https://example.com/aztecadeportes.png" group-title="Deportes", Azteca Deportes
+https://example.com/stream/aztecadeportes.m3u8
+
+#EXTINF:-1 tvg-id="DeportesTVCHN" tvg-name="Deportes TVC HN" tvg-logo="https://example.com/deportestvchn.png" group-title="Deportes", Deportes TVC HN
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MWJmYTA3NGM4NDE2LWMwNmItMTdlNC1lNjc2LWE2Njc0OTRm/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN USA" tvg-logo="https://example.com/tudnusa.png" group-title="Deportes", TUDN USA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OGU3NmY0YWQ3MWNkLWEwYjktOWE5NC05Y2YzLTI3ZTk3ZmFj/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN MX" tvg-logo="https://example.com/tudnmx.png" group-title="Deportes", TUDN MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzNhOWM5M2Q0NDE3LTY0ZjgtMmQ3NC0yNjkzLTliNjFlNGY5/master.m3u8
+
+#EXTINF:-1 tvg-id="CANAL5MX" tvg-name="CANAL 5 MX" tvg-logo="https://example.com/canal5mx.png" group-title="Entretenimiento", CANAL 5 MX
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MmNiZjNlNGRjMTkzLTEwNTktZjY1NC0wMjk4LTczOTYyNThm/master.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSOUSA" tvg-name="UNIVERSO USA" tvg-logo="https://example.com/universousa.png" group-title="Entretenimiento", UNIVERSO USA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTU4ZTY0YjNhY2YxLTFmZGEtNzdlNC0zMzExLWE5MjZlZmNj/master.m3u8
+
+#EXTINF:-1 tvg-id="TELEMUNDOUSA" tvg-name="TELEMUNDO USA" tvg-logo="https://example.com/telemundousa.png" group-title="Entretenimiento", TELEMUNDO USA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTE1ODUzMjViNzcxLWRiN2ItOWEzNC0xMjRjLWYxZWRlMjc3/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportesUSA" tvg-name="Fox Deportes USA" tvg-logo="https://example.com/foxdeportesusa.png" group-title="Deportes", Fox Deportes USA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YWZlZjkxN2IxZDI5LTY3MmItMTQyNC1jNDkzLTI1OWY4OThj/master.m3u8
+
+#EXTINF:-1 tvg-id="UnimásUSA" tvg-name="Unimás USA" tvg-logo="https://example.com/unimasusa.png" group-title="Entretenimiento", Unimás USA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NDVmZmRhOWVlNmJmLTdkZmEtNTZhNC03MWU4LTRjZThmMmMz/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPNDeportes" tvg-name="ESPN Deportes" tvg-logo="https://example.com/espndeportes.png" group-title="Deportes", ESPN Deportes
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NDhlN2YzY2RmMjFkLTkyNTktNDNkNC02M2Q0LTk1YWVjODEy/master.m3u8
+
+#EXTINF:-1 tvg-id="WinSports+" tvg-name="Win Sports+" tvg-logo="https://example.com/winsportsplus.png" group-title="Deportes", Win Sports+
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1M2ZjNzQ3ZWVmMmQ4LTBkZGEtMWJlNC1mYzMyLWFhOWIxMjBm/master.m3u8
+
+#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" tvg-logo="https://example.com/winsports.png" group-title="Deportes", Win Sports
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MjU0MWQ5ZWFjOGM1LTgyNmItY2ExNC1jM2VjLTM0MTE2OGJh/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV1PT" tvg-name="Sport TV1 PT" tvg-logo="https://example.com/sporttv1pt.png" group-title="Deportes", Sport TV1 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MzBjYWIzYzg0YWVkLWY4ZjktMjZkNC02MmY2LTVlNGEyNjA3/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV2PT" tvg-name="Sport TV2 PT" tvg-logo="https://example.com/sporttv2pt.png" group-title="Deportes", Sport TV2 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MDI4ZDQxYmI0NjhmLWJhNDgtNzNmNC04NDFiLTQxZWNjYWRk/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV3PT" tvg-name="Sport TV3 PT" tvg-logo="https://example.com/sporttv3pt.png" group-title="Deportes", Sport TV3 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MDljN2Y3MGU2MWM4LTllMmItNGY3NC03MDJkLWJhZmI5NDIz/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV4PT" tvg-name="Sport TV4 PT" tvg-logo="https://example.com/sporttv4pt.png" group-title="Deportes", Sport TV4 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YzJlZGU3ODYwNzIxLTUyNmEtODdiNC04MWU0LWE0OGMwZDdm/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV5PT" tvg-name="Sport TV5 PT" tvg-logo="https://example.com/sporttv5pt.png" group-title="Deportes", Sport TV5 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTg0ZDhlMDMzM2RhLWU1MjgtMTZkNC1iMDQ2LTQ2ZWZkMDY0/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV6PT" tvg-name="Sport TV6 PT" tvg-logo="https://example.com/sporttv6pt.png" group-title="Deportes", Sport TV6 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZGU0MTgzNjNiNTRiLWEzZWItNmFkNC04NmQzLWQ3ZTFhMGYw/master.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1PT" tvg-name="DAZN 1 PT" tvg-logo="https://example.com/dazn1pt.png" group-title="Deportes", DAZN 1 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTRmMGJmNTRjYmY5LTg4ZGItYTRmNC02YzE4LTViZDZiMDMz/master.m3u8
+
+#EXTINF:-1 tvg-id="DAZN2PT" tvg-name="DAZN 2 PT" tvg-logo="https://example.com/dazn2pt.png" group-title="Deportes", DAZN 2 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OGZmOWQ4Njc3OTRhLWJmZWEtNzc0NC0zZGJiLWZkYzI1OTE4/master.m3u8
+
+#EXTINF:-1 tvg-id="DAZN3PT" tvg-name="DAZN 3 PT" tvg-logo="https://example.com/dazn3pt.png" group-title="Deportes", DAZN 3 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YjA5YzA0YjkxZDA5LWNlNmItNDY0NC03YTNkLWJmMGIwYjQy/master.m3u8
+
+#EXTINF:-1 tvg-id="DAZN4PT" tvg-name="DAZN 4 PT" tvg-logo="https://example.com/dazn4pt.png" group-title="Deportes", DAZN 4 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ODRhZjc4NWIyMTYyLTU1NjktZDkyNC01MDdmLWQ1NWU5MjU3/master.m3u8
+
+#EXTINF:-1 tvg-id="DAZN5PT" tvg-name="DAZN 5 PT" tvg-logo="https://example.com/dazn5pt.png" group-title="Deportes", DAZN 5 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NGMwMjYyNWM0MGM0LTFiYzktOTEwNC0xY2ZmLWMyZTE5NWI3/master.m3u8
+
+#EXTINF:-1 tvg-id="CANAL11PT" tvg-name="CANAL 11 PT" tvg-logo="https://example.com/canal11pt.png" group-title="Entretenimiento", CANAL 11 PT
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MTI0NWQ2N2ExZjhjLTRlMjgtOTQ3NC1kNjFjLWY2YjQwMzA0/master.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://example.com/premiere.png" group-title="Deportes", Premiere
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MGVjMjIzNjlhMDBhLWU0MGEtMjdkNC1hNTcwLWFmOWNlMTc3/master.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="Premiere 2" tvg-logo="https://example.com/premiere2.png" group-title="Deportes", Premiere 2
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZjA5NjQ0MzZmNjEyLTZiNTktMGQ1NC0wY2NmLWQ1Y2UwZTNi/master.m3u8
+
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="Premiere 3" tvg-logo="https://example.com/premiere3.png" group-title="Deportes", Premiere 3
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZmIyYjJhNjAwODlkLTEyMTgtY2RjNC0yZTc4LTliZDg5MTQ0/master.m3u8
+
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="Premiere 4" tvg-logo="https://example.com/premiere4.png" group-title="Deportes", Premiere 4
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZWU2MzMzZTk5ZjdkLWYxZTgtMzAzNC0zZGIxLWUwMTQzZGNm/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV1BR" tvg-name="Sport TV 1 BR" tvg-logo="https://example.com/sporttv1br.png" group-title="Deportes", Sport TV 1 BR
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ODZlYmI4MzVlODRhLTZhNjktMmQwNC1hZjQyLTgyZmU3NmE5/master.m3u8
+
+#EXTINF:-1 tvg-id="SportTV2BR" tvg-name="Sport TV 2 BR" tvg-logo="https://example.com/sporttv2br.png" group-title="Deportes", Sport TV 2 BR
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1Y2NkMjBmNzdkMzg2LTFlZjktNjM0NC1iYWQzLTgxODAzYjVl/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsBundesliga1" tvg-name="Sky Sports Bundesliga 1" tvg-logo="https://example.com/skysportsbundesliga1.png" group-title="Deportes", Sky Sports Bundesliga 1
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MjhmMDllM2U0YTNhLWVmOGItNWE2NC1mN2IwLTFmMTRlM2Qw/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsBundesliga2" tvg-name="Sky Sports Bundesliga 2" tvg-logo="https://example.com/skysportsbundesliga2.png" group-title="Deportes", Sky Sports Bundesliga 2
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YTE1MWJlN2I0Y2ExLTNmZGEtMmE2NC04NDk1LWY0OWQyYjRk/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsBundesliga3" tvg-name="Sky Sports Bundesliga 3" tvg-logo="https://example.com/skysportsbundesliga3.png" group-title="Deportes", Sky Sports Bundesliga 3
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MTczMWRjMjQwMzU4LThkMmEtMjBhNC04ZTY4LTBhYjkxNDRj/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsBundesliga4" tvg-name="Sky Sports Bundesliga 4" tvg-logo="https://example.com/skysportsbundesliga4.png" group-title="Deportes", Sky Sports Bundesliga 4
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YzA0NjQ2NjFmZmMzLTc0M2ItNWU1NC1hOGVlLTE3NTdkMTdi/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsBundesliga5" tvg-name="Sky Sports Bundesliga 5" tvg-logo="https://example.com/skysportsbundesliga5.png" group-title="Deportes", Sky Sports Bundesliga 5
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTQ0N2FjOGQ0M2NlLTk0YzktYTlmNC0zMmJmLTRkOWZmMjVm/master.m3u8
+
+#EXTINF:-1 tvg-id="ZiggoSportNL" tvg-name="Ziggo Sport NL" tvg-logo="https://example.com/ziggosportnl.png" group-title="Deportes", Ziggo Sport NL
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1Y2I1YTdjZDM0NDljLTBlNmItNjkxNC04ZWIxLTZmZTA4YWE0/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxSoccerPlus" tvg-name="Fox Soccer Plus" tvg-logo="https://example.com/foxsoccerplus.png" group-title="Deportes", Fox Soccer Plus
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTYyOTNjYWQyMTA3LTNhYjgtMjJiNC1mY2IwLTRlZTBiOTg0/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports1USA" tvg-name="Fox Sports 1 USA" tvg-logo="https://example.com/foxsports1usa.png" group-title="Deportes", Fox Sports 1 USA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YjQ0YzgwM2I5NmYxLTljODgtMjdkNC1lNWU5LTM5MWViMDI2/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2USA" tvg-name="Fox Sports 2 USA" tvg-logo="https://example.com/foxsports2usa.png" group-title="Deportes", Fox Sports 2 USA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZDI5YTY1MmQ5MTQ3LTRlMWEtM2NiNC0wODFkLWY1YTYyYWNh/master.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1UK" tvg-name="TNT Sports 1 UK" tvg-logo="https://example.com/tntsports1uk.png" group-title="Deportes", TNT Sports 1 UK
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTZjNjBiNzEwMmQwLTkzOGItNmU1NC1jMGE0LWYwNWNiYmQz/master.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2UK" tvg-name="TNT Sports 2 UK" tvg-logo="https://example.com/tntsports2uk.png" group-title="Deportes", TNT Sports 2 UK
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzJlOGQ3ZjcyNzM5LTMxZGItOTY3NC1hYWJiLWZlNmM3YmE2/master.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports3UK" tvg-name="TNT Sports 3 UK" tvg-logo="https://example.com/tntsports3uk.png" group-title="Deportes", TNT Sports 3 UK
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTM1M2IxYTBkM2Y2LTM1OTgtOTQ4NC05OTI5LWNjZWVmYzIy/master.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports4UK" tvg-name="TNT Sports 4 UK" tvg-logo="https://example.com/tntsports4uk.png" group-title="Deportes", TNT Sports 4 UK
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1Njg5MTc2YWRiYTkzLWRkYTktZTM2NC0wMjhkLTE3NWNhNWJi/master.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork" tvg-name="USA Network" tvg-logo="https://example.com/usanetwork.png" group-title="Entretenimiento", USA Network
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZmNiYzY5ZjJmYjZjLTRkNjgtZTcxNC0xNGJhLWNkYThhOTlm/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent" tvg-name="Sky Sports Main Event" tvg-logo="https://example.com/skysportsmainevent.png" group-title="Deportes", Sky Sports Main Event
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YTVkNTMxYmRkNDI4LWVmYjktNzc5NC05ZTM0LTAxM2Q3NGFm/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsFootball" tvg-name="Sky Sports Football" tvg-logo="https://example.com/skysportsfootball.png" group-title="Deportes", Sky Sports Football
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NGM2YTY4ZTM3YzgyLTI3MzktNjJiNC01OGFlLWViMDhmZGZi/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyPremierLeague" tvg-name="Sky Premier League" tvg-logo="https://example.com/skypremierleague.png" group-title="Deportes", Sky Premier League
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MjM0N2M5ZGMyYTU5LTIwMjktNDc4NC03NzY4LTgzNWYwZWRm/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsTenis" tvg-name="Sky Sports Tenis" tvg-logo="https://example.com/skysportstenis.png" group-title="Deportes", Sky Sports Tenis
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NWMxMjQ4Mjk0Mjk1LTg1ZmEtYzcyNC01MmFiLWU3OGM5N2Jk/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricket" tvg-name="Sky Sports Cricket" tvg-logo="https://example.com/skysportscricket.png" group-title="Deportes", Sky Sports Cricket
+https://example.com/stream/skysportscricket.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-name="Sky Sports Golf" tvg-logo="https://example.com/skysportsgolf.png" group-title="Deportes", Sky Sports Golf
+https://example.com/stream/skysportsgolf.m3u8
+
+#EXTINF:-1 tvg-id="SkyF1" tvg-name="Sky F1" tvg-logo="https://example.com/skyf1.png" group-title="Deportes", Sky F1
+https://example.com/stream/skyf1.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports1" tvg-name="Premier Sports 1" tvg-logo="https://example.com/premiersports1.png" group-title="Deportes", Premier Sports 1
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MjIyMTA1NmJjMThmLWIzNTktYWE2NC0zOWQ0LTQyNzYxYTQy/master.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports2" tvg-name="Premier Sports 2" tvg-logo="https://example.com/premiersports2.png" group-title="Deportes", Premier Sports 2
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ODhjYWNmMDgwZDQ4LWRmNGItNDAzNC1mMjU5LWIzN2ZmNmRi/master.m3u8
+
+#EXTINF:-1 tvg-id="GO3Sports" tvg-name="GO 3 Sports" tvg-logo="https://example.com/go3sports.png" group-title="Deportes", GO 3 Sports
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YjQ3OTg0ZThiMzFhLWIxNWEtZmNmNC0wNTM0LWYxNmQyNjli/master.m3u8
+
+#EXTINF:-1 tvg-id="TSN1CA" tvg-name="TSN 1 CA" tvg-logo="https://example.com/tsn1ca.png" group-title="Deportes", TSN 1 CA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YWJkN2E2ZjZlNTM2LTVmOTktODk4NC0wYjI2LTIwODBhNjE3/master.m3u8
+
+#EXTINF:-1 tvg-id="TSN2CA" tvg-name="TSN 2 CA" tvg-logo="https://example.com/tsn2ca.png" group-title="Deportes", TSN 2 CA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZTg3YTFhN2IwNmVhLWY5MWItY2E2NC04Yjg4LTAyODI5ZmZk/master.m3u8
+
+#EXTINF:-1 tvg-id="TSN3CA" tvg-name="TSN 3 CA" tvg-logo="https://example.com/tsn3ca.png" group-title="Deportes", TSN 3 CA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YTkzYzg2NDhlZDA3LTRmNWItNjAzNC1kNWFiLTNhNDg3YmEx/master.m3u8
+
+#EXTINF:-1 tvg-id="TSN4CA" tvg-name="TSN 4 CA" tvg-logo="https://example.com/tsn4ca.png" group-title="Deportes", TSN 4 CA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MzkwZjQ0NTc5M2I3LTM4NzgtZDYxNC0xYzVmLWFmMmMxNzRj/master.m3u8
+
+#EXTINF:-1 tvg-id="TSN5CA" tvg-name="TSN 5 CA" tvg-logo="https://example.com/tsn5ca.png" group-title="Deportes", TSN 5 CA
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NmJhMzNkMjBlZTZiLTJiMmEtMGYwNC05ODk3LTM3NzhmOTli/master.m3u8
+
+#EXTINF:-1 tvg-id="SportsNetEAST" tvg-name="SportsNet EAST" tvg-logo="https://example.com/sportsneteast.png" group-title="Deportes", SportsNet EAST
+https://example.com/stream/sportsneteast.m3u8
+
+#EXTINF:-1 tvg-id="SN360" tvg-name="SN 360" tvg-logo="https://example.com/sn360.png" group-title="Deportes", SN 360
+https://windnew.koskoros.ru/wind/premium84/mono.m3u8

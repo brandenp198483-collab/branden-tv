@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GM7Digital.ec@HD",GM7 Digital [Not 24/7]
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD",MakroDigital Television (1080p)
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com

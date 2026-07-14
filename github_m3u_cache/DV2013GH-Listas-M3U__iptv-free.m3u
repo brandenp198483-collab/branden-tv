@@ -1,0 +1,107 @@
+#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml"
+
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/3d194e5a-05e4-4803-90fa-d2d9363574fc.png" group-title="Peru", Willax TV HD
+http://8.243.126.131:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-latina.png" group-title="Peru", Latina TV HD
+http://8.243.126.131:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="RppTV.pe" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/194656f4-e392-46f8-b8e6-f9743929e423.png" group-title="Peru", RPP TV
+http://8.243.126.131:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica_tv.png" group-title="Peru", America Television HD
+http://8.243.126.131:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/p/a/panamericana_hd.png" group-title="Peru", Panamericana TV HD
+http://8.243.126.131:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/2d610177-301c-4a29-9e72-163e4562e1ed.png" group-title="Peru", Exitosa TV HD
+http://8.243.126.131:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_per_hd.png" group-title="Peru", TV Peru HD
+http://8.243.126.131:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-id="Atv+.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/t/atv__1.png" group-title="Peru", ATV+ HD
+http://8.243.126.131:8000/play/a04n/index.m3u8
+
+#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/t/atv_hd.png" group-title="Peru", ATV HD
+http://8.243.126.131:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/4116d6e4-b6bc-4f51-b63a-e600404e0353.png" group-title="Peru", La Tele HD
+http://8.243.126.131:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="UsmpTV.pe" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/f5d35d6c-9670-487e-b0f7-82538c97fe3b.png" group-title="Peru", USMP TV HD
+http://8.243.126.131:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="Peru", Canal IPe
+http://8.243.126.131:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/g/l/global_1.png" group-title="Peru", Global TV
+http://8.243.126.131:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_per_noticias_hd_1.png" group-title="Peru", TV Peru Noticias
+http://8.243.126.131:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/8b71c883-7b9f-4dc7-8352-6ac5a5c78d83.png" group-title="Peru", Nativa TV
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AtvSur.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/ATVSURNEW/EXPORTACION_WEB/SS/ATVSURNEW_t-290x163.png" group-title="Peru", ATV Sur HD
+http://8.243.126.131:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="TV+.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_hd_1.png" group-title="Chile", TV+
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNChile.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tvn_1.png" group-title="Chile", TVN HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/55279.m3u8
+
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-mega.png" group-title="Chile", Mega HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/55277.m3u8
+
+#EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/h/chilevisi_n_hd_1.png" group-title="Chile", Chilevision HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/55274.m3u8
+
+#EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_13_hd.png" group-title="Chile", Canal 13 HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/209.m3u8
+
+#EXTINF:-1 tvg-id="La Red.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/a/la_red_hd.png" group-title="Chile", La Red HD
+https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="America.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica.png" group-title="Argentina", America TV HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81276.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_p_blica.png" group-title="Argentina", TV Publica
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81265.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_nueve.png" group-title="Argentina", El Nueve HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81271.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/e/telefe.png" group-title="Argentina", Telefe HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81285.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_trece_1.png" group-title="Argentina", El Trece HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81266.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/n/tn_hd_1.png" group-title="Argentina", Todo Noticias
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81324.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_103.png" group-title="Argentina", Canal 26 HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81310.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/5/c5n.png" group-title="Argentina", C5N HD
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81274.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/2/a24_hd.png" group-title="Argentina", A24
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81289.m3u8
+
+#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/caracol_televisi_n.png" group-title="Colombia", Caracol TV
+http://181.78.6.2:9080/play/c002/index.m3u8
+
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/r/c/rcn_hd.png" group-title="Colombia", Canal RCN
+http://181.78.6.2:9080/play/a0ay/index.m3u8
+
+#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/s/e/se_al_colombia_1.png" group-title="Colombia", Señal Colombia
+http://181.78.6.2:9080/play/a0bo/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_1_hd_1.png" group-title="Colombia", Canal 1 HD
+http://181.78.6.2:9080/play/a056/index.m3u8
+

@@ -1,0 +1,15 @@
+#EXTM3U
+# Обновлено: 2026-07-14 06:36:21
+# Всего каналов: 20455
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Austria
+# Каналов: 1
+# Обновлено: 2026-07-14 06:36:22
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Tirol TV Ⓖ" group-title="Austria",Tirol TV Ⓖ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+

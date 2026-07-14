@@ -1,0 +1,33 @@
+#EXTM3U x-tvg-url="epg.xml"
+#EXTINF:-1 tvg-id="dw-news.de" tvg-name="DW News" tvg-logo="" group-title="News" tvg-country="DE",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="france24-english.fr" tvg-name="France 24 English" tvg-logo="" group-title="News" tvg-country="FR",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="nhk-world.jp" tvg-name="NHK World Japan" tvg-logo="" group-title="Asia" tvg-country="JP",NHK World Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="cna.sg" tvg-name="CNA Singapore" tvg-logo="" group-title="Asia" tvg-country="SG",CNA Singapore
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg-tv.us" tvg-name="Bloomberg TV US" tvg-logo="" group-title="News" tvg-country="US",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="aljazeera-english.qa" tvg-name="Al Jazeera English" tvg-logo="" group-title="Global" tvg-country="QA",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="arirang-tv.kr" tvg-name="Arirang TV" tvg-logo="" group-title="Asia" tvg-country="KR",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cgtn.cn" tvg-name="CGTN" tvg-logo="" group-title="China" tvg-country="CN",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="cgtn-documentary.cn" tvg-name="CGTN Documentary" tvg-logo="" group-title="China" tvg-country="CN",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="cgtn-francais.cn" tvg-name="CGTN Francais" tvg-logo="" group-title="China" tvg-country="CN",CGTN Francais
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="cgtn-espanol.cn" tvg-name="CGTN Espanol" tvg-logo="" group-title="China" tvg-country="CN",CGTN Espanol
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="cgtn-arabic.cn" tvg-name="CGTN Arabic" tvg-logo="" group-title="China" tvg-country="CN",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="cgtn-russian.cn" tvg-name="CGTN Russian" tvg-logo="" group-title="China" tvg-country="CN",CGTN Russian
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-id="cctvplus-1.cn" tvg-name="CCTV+ Channel 1" tvg-logo="" group-title="China" tvg-country="CN",CCTV+ Channel 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cctvplus-2.cn" tvg-name="CCTV+ Channel 2" tvg-logo="" group-title="China" tvg-country="CN",CCTV+ Channel 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv4-america.cn" tvg-name="CCTV-4 America" tvg-logo="" group-title="China" tvg-country="CN",CCTV-4 America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8

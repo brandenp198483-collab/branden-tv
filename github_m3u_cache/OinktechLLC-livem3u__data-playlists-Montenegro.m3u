@@ -1,0 +1,24 @@
+#EXTM3U
+# Обновлено: 2026-07-13 21:09:35
+# Всего каналов: 20217
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Montenegro
+# Каналов: 4
+# Обновлено: 2026-07-13 21:09:35
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="TVCG 1 Ⓖ" group-title="Montenegro",TVCG 1 Ⓖ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVCG 2 Ⓖ" group-title="Montenegro",TVCG 2 Ⓖ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVCG 3 Ⓖ" group-title="Montenegro",TVCG 3 Ⓖ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVCG MNE" group-title="Montenegro",TVCG MNE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+

@@ -1,0 +1,30 @@
+#EXTM3U
+# Обновлено: 2026-07-13 07:25:37
+# Всего каналов: 20217
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Venezuela
+# Каналов: 6
+# Обновлено: 2026-07-13 07:25:38
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Venevisión" group-title="Venezuela",Venevisión
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
+
+#EXTINF:-1 tvg-name="Venezolana de Televisión Ⓓ" group-title="Venezuela",Venezolana de Televisión Ⓓ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.dailymotion.com/embed/video/x828i6j
+
+#EXTINF:-1 tvg-name="Televen" group-title="Venezuela",Televen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+
+#EXTINF:-1 tvg-name="Globovisión" group-title="Venezuela",Globovisión
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vale TV Ⓢ" group-title="Venezuela",Vale TV Ⓢ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telesur" group-title="Venezuela",Telesur
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
+

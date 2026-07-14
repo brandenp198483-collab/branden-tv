@@ -1,0 +1,1045 @@
+IPTV-EPG.org U.S. Channel Audit
+==============================================================================
+All channel records examined: 13586
+U.S. channel records examined: 3628
+Missing BrandenTV targets: 30
+
+==============================================================================
+ABC Tampa
+Current aliases: ABC Action News, ABC Tampa, WFTS, WFTS-DT
+
+01. score=180 | id=ABCWFTS.us
+    name=US - ABC WFTS Tampa FL
+02. score=90 | id=ABCNewsLive.us
+    name=US - ABC News Live
+03. score=90 | id=ABCWWSB.us
+    name=US - ABC WWSB Sarasota Tampa FL
+04. score=45 | id=38KALO.us
+    name=US - 38 KALO-DT Honolulu HI
+05. score=45 | id=50CentAction.us
+    name=US - 50 Cent Action
+06. score=45 | id=ABCEast_WABC.us
+    name=US - ABC East WABC
+07. score=45 | id=ABCKAAL.us
+    name=US - ABC KAAL Rochester MN
+08. score=45 | id=ABCKABC.us
+    name=US - ABC KABC Los Angeles CA
+09. score=45 | id=ABCKAEF.us
+    name=US - ABC KAEF Eureka CA
+10. score=45 | id=ABCKAIT.us
+    name=US - ABC KAIT Jonesboro AR
+11. score=45 | id=ABCKAKE.us
+    name=US - ABC KAKE Wichita KS
+12. score=45 | id=ABCKAMC.us
+    name=US - ABC KAMC Lubbock TX
+13. score=45 | id=ABCKAPP.us
+    name=US - ABC KAPP KVEW Yakima WA
+14. score=45 | id=ABCKATC.us
+    name=US - ABC KATC Lafayette LA
+15. score=45 | id=ABCKATN.us
+    name=US - ABC KATN Fairbanks AK
+16. score=45 | id=ABCKATU.us
+    name=US - ABC KATU Portland OR
+17. score=45 | id=ABCKATV.us
+    name=US - ABC KATV Little Rock AR
+18. score=45 | id=ABCKAVU.us
+    name=US - ABC KAVU Victoria TX
+19. score=45 | id=ABCKBMT.us
+    name=US - ABC KBMT Beaumont TX
+20. score=45 | id=ABCKBMY.us
+    name=US - ABC KBMY Bismarck ND
+
+==============================================================================
+CMT Music
+Current aliases: CMT Music
+
+01. score=180 | id=CMTMusic.us
+    name=US - CMT Music
+02. score=45 | id=B4UMusic.us
+    name=US - B4U Music
+03. score=45 | id=CMT.us
+    name=US - CMT
+04. score=45 | id=CMTPacific.us
+    name=US - CMT West
+05. score=45 | id=DirecTVMusicChoiceMovieScores.us
+    name=US - DirecTV Music Choice Movie Scores
+06. score=45 | id=DiscoPoloMusic.us
+    name=US - Disco Polo Music
+07. score=45 | id=FilmRiseMusic.us
+    name=US - FilmRise Music
+08. score=45 | id=FuseMusic.us
+    name=US - FUSE MUSIC
+09. score=45 | id=MaaMusic.us
+    name=US - Maa Music
+10. score=45 | id=MusicChoice60sAnd70sMellowHits.us
+    name=US - Music Choice &apos;60s & &apos;70s Mellow Hits
+11. score=45 | id=MusicChoice60sGeneration.us
+    name=US - Music Choice &apos;60s Generation
+12. score=45 | id=MusicChoice70s.us
+    name=US - Music Choice 70s
+13. score=45 | id=MusicChoice70sAnd80sFavorites.us
+    name=US - Music Choice &apos;70s & &apos;80s Favorites
+14. score=45 | id=MusicChoice80s.us
+    name=US - Music Choice 80s
+15. score=45 | id=MusicChoice90s.us
+    name=US - Music Choice 90s
+16. score=45 | id=MusicChoiceAdultAlternative.us
+    name=US - Music Choice Adult Alternative
+17. score=45 | id=MusicChoiceAllXmas.us
+    name=US - Music Choice All Xmas
+18. score=45 | id=MusicChoiceAltAndRockFavorites.us
+    name=US - Music Choice Alt & Rock Favorites
+19. score=45 | id=MusicChoiceAmericana.us
+    name=US - Music Choice Americana
+20. score=45 | id=MusicChoiceBigBand.us
+    name=US - Music Choice Big Band
+
+==============================================================================
+CNBC
+Current aliases: CNBC
+
+01. score=180 | id=CNBC.us
+    name=US - CNBC
+02. score=180 | id=CNBCWorld.us
+    name=US - CNBC WORLD
+
+==============================================================================
+CNBC Europe
+Current aliases: CNBC Europe
+
+01. score=45 | id=CNBC.us
+    name=US - CNBC
+02. score=45 | id=CNBCWorld.us
+    name=US - CNBC WORLD
+
+==============================================================================
+Classic Arts Showcase
+Current aliases: Classic Arts Showcase
+
+01. score=180 | id=ClassicArtsShowcase.us
+    name=US - Classic Arts Showcase
+02. score=45 | id=AllArts.us
+    name=US - All Arts
+03. score=45 | id=ClassicCinema.us
+    name=US - Classic Cinema
+04. score=45 | id=ClassicDoctorWho.us
+    name=US - Classic Doctor Who
+05. score=45 | id=FilmRiseClassicTV.us
+    name=US - FilmRise Classic TV
+06. score=45 | id=MTVClassic.us
+    name=US - MTV CLASSIC
+07. score=45 | id=MTVClassicPacific.us
+    name=US - MTV Classic West
+08. score=45 | id=MusicChoiceClassicAlternative.us
+    name=US - Music Choice Classic Alternative
+09. score=45 | id=MusicChoiceClassicChristmas.us
+    name=US - Music Choice Classic Christmas
+10. score=45 | id=MusicChoiceClassicCountry.us
+    name=US - Music Choice Classic Country
+11. score=45 | id=MusicChoiceClassicDance.us
+    name=US - Music Choice Classic Dance
+12. score=45 | id=MusicChoiceClassicRock.us
+    name=US - Music Choice Classic Rock
+13. score=45 | id=ShowcaseWQEDDT4.us
+    name=US - Showcase WQED-DT4 Pittsburgh PA
+14. score=45 | id=ShowtimeShowcase.us
+    name=US - SHOWTIME SHOWCASE
+15. score=45 | id=ShowtimeShowcasePacific.us
+    name=US - SHOWCASE WEST
+16. score=45 | id=StarzEncoreClassic.us
+    name=US - STARZ ENCORE CLASSIC
+17. score=45 | id=StarzEncoreClassicPacific.us
+    name=US - Starz Encore Classic Pacific
+18. score=45 | id=StingrayClassicRnBandSoul.us
+    name=US - Stingray Classic RnB and Soul
+19. score=45 | id=StingrayClassicRock.us
+    name=US - Stingray Classic Rock
+20. score=45 | id=XiteClassicCountry.us
+    name=US - Xite Classic Country
+
+==============================================================================
+E!
+Current aliases: E!
+
+01. score=180 | id=14KJZZ.us
+    name=US - 14 KJZZ Salt Lake City UT
+02. score=180 | id=21JumpStreet.us
+    name=US - 21 Jump Street
+03. score=180 | id=23NewsWVUA.us
+    name=US - 23News WVUA Tuscaloosa Birmingham AL
+04. score=180 | id=3TVKTVK.us
+    name=US - 3TV KTVK Phoenix AZ
+05. score=180 | id=50CentAction.us
+    name=US - 50 Cent Action
+06. score=180 | id=911Network.us
+    name=US - 911 Network
+07. score=180 | id=A3Cine.us
+    name=US - A3Cine
+08. score=180 | id=AAGTelevision.us
+    name=US - AAG Television
+09. score=180 | id=AandECrime360.us
+    name=US - A&E Crime 360
+10. score=180 | id=AandENetwork.us
+    name=US - A&E Network
+11. score=180 | id=AandENetworkPacific.us
+    name=US - A&E Network West
+12. score=180 | id=ABCEast_WABC.us
+    name=US - ABC East WABC
+13. score=180 | id=ABCKAAL.us
+    name=US - ABC KAAL Rochester MN
+14. score=180 | id=ABCKABC.us
+    name=US - ABC KABC Los Angeles CA
+15. score=180 | id=ABCKAEF.us
+    name=US - ABC KAEF Eureka CA
+16. score=180 | id=ABCKAIT.us
+    name=US - ABC KAIT Jonesboro AR
+17. score=180 | id=ABCKAKE.us
+    name=US - ABC KAKE Wichita KS
+18. score=180 | id=ABCKAPP.us
+    name=US - ABC KAPP KVEW Yakima WA
+19. score=180 | id=ABCKATC.us
+    name=US - ABC KATC Lafayette LA
+20. score=180 | id=ABCKATV.us
+    name=US - ABC KATV Little Rock AR
+
+==============================================================================
+ESPNU
+Current aliases: ESPNU
+
+01. score=180 | id=ESPNU.us
+    name=US - ESPN U
+
+==============================================================================
+ESPNews
+Current aliases: ESPNews
+
+01. score=180 | id=ESPNEWS.us
+    name=US - ESPNEWS
+
+==============================================================================
+FOX Boston
+Current aliases: Boston 25, FOX Boston, WFXT, WFXT-DT
+
+01. score=180 | id=FOXWFXT.us
+    name=US - FOX WFXT Boston MA
+02. score=45 | id=38KALO.us
+    name=US - 38 KALO-DT Honolulu HI
+03. score=45 | id=ABCWCVB.us
+    name=US - ABC WCVB Boston MA
+04. score=45 | id=BEACHTVWAWDDT.us
+    name=US - BEACHTV WAWD-DT Mobile-Pensacola FL
+05. score=45 | id=BEACHTVWPCTDT.us
+    name=US - BEACHTV WPCT-DT Panama City FL
+06. score=45 | id=CBSWBZ.us
+    name=US - CBS WBZ Boston MA
+07. score=45 | id=CreateWGBXDT3.us
+    name=US - Create WGBX-DT3 Boston MA
+08. score=45 | id=CWWLVI.us
+    name=US - CW WLVI Boston MA
+09. score=45 | id=DaystarKWBN.us
+    name=US - Daystar KWBN-DT Honolulu HI
+10. score=45 | id=ESPNPlay25.us
+    name=US - ESPN Play 25
+11. score=45 | id=FOX+9WFTCDT2.us
+    name=US - FOX+9 WFTC-DT2 WFTC Minneapolis Saint Paul MN
+12. score=45 | id=Fox+WPWR.us
+    name=US - >Fox+ WPWR Chicago IL
+13. score=45 | id=Fox11+KCOP.us
+    name=US - Fox 11 Plus KCOP Los Angeles CA
+14. score=45 | id=FOX4K.us
+    name=US - FOX 4K
+15. score=45 | id=Fox4K_Event_Only.us
+    name=US - Fox 4K (Event Only)
+16. score=45 | id=Fox5PlusWDCA.us
+    name=US - Fox 5 Plus WDCA Washington DC
+17. score=45 | id=FoxBusiness.us
+    name=US - Fox Business
+18. score=45 | id=FoxDeportes.us
+    name=US - FOX DEPORTES
+19. score=45 | id=FoxEast_WNYW.us
+    name=US - Fox East WNYW
+20. score=45 | id=FoxJustice.us
+    name=US - Fox Justice
+
+==============================================================================
+FOX Philadelphia
+Current aliases: FOX 29, FOX Philadelphia, WTXF, WTXF-DT
+
+01. score=180 | id=FOXWTXF.us
+    name=US - FOX WTXF Philadelphia PA
+02. score=45 | id=38KALO.us
+    name=US - 38 KALO-DT Honolulu HI
+03. score=45 | id=ABCWPVI.us
+    name=US - ABC WPVI Philadelphia PA
+04. score=45 | id=ACEWACPDT7.us
+    name=US - ACE WACP-DT7 Philadelphia PA
+05. score=45 | id=BEACHTVWAWDDT.us
+    name=US - BEACHTV WAWD-DT Mobile-Pensacola FL
+06. score=45 | id=BEACHTVWPCTDT.us
+    name=US - BEACHTV WPCT-DT Panama City FL
+07. score=45 | id=CBSKYW.us
+    name=US - CBS KYW Philadelphia PA
+08. score=45 | id=CWWPHL.us
+    name=US - CW WPHL Philadelphia PA
+09. score=45 | id=DaystarKWBN.us
+    name=US - Daystar KWBN-DT Honolulu HI
+10. score=45 | id=ESPNPlay29.us
+    name=US - ESPN Play 29
+11. score=45 | id=FOX+9WFTCDT2.us
+    name=US - FOX+9 WFTC-DT2 WFTC Minneapolis Saint Paul MN
+12. score=45 | id=Fox+WPWR.us
+    name=US - >Fox+ WPWR Chicago IL
+13. score=45 | id=Fox11+KCOP.us
+    name=US - Fox 11 Plus KCOP Los Angeles CA
+14. score=45 | id=FOX4K.us
+    name=US - FOX 4K
+15. score=45 | id=Fox4K_Event_Only.us
+    name=US - Fox 4K (Event Only)
+16. score=45 | id=Fox5PlusWDCA.us
+    name=US - Fox 5 Plus WDCA Washington DC
+17. score=45 | id=FoxBusiness.us
+    name=US - Fox Business
+18. score=45 | id=FoxDeportes.us
+    name=US - FOX DEPORTES
+19. score=45 | id=FoxEast_WNYW.us
+    name=US - Fox East WNYW
+20. score=45 | id=FoxJustice.us
+    name=US - Fox Justice
+
+==============================================================================
+FOX Tampa
+Current aliases: FOX 13 Tampa, FOX Tampa, WTVT, WTVT-DT
+
+01. score=180 | id=FOXWTVT.us
+    name=US - FOX WTVT Tampa FL
+02. score=45 | id=38KALO.us
+    name=US - 38 KALO-DT Honolulu HI
+03. score=45 | id=ABCWFTS.us
+    name=US - ABC WFTS Tampa FL
+04. score=45 | id=ABCWWSB.us
+    name=US - ABC WWSB Sarasota Tampa FL
+05. score=45 | id=BEACHTVWAWDDT.us
+    name=US - BEACHTV WAWD-DT Mobile-Pensacola FL
+06. score=45 | id=BEACHTVWPCTDT.us
+    name=US - BEACHTV WPCT-DT Panama City FL
+07. score=45 | id=CBSWTSP.us
+    name=US - CBS WTSP Tampa St. Petersburg FL
+08. score=45 | id=Channel13.us
+    name=US - Channel 13
+09. score=45 | id=CWWTOG.us
+    name=US - CW WTOG Tampa St. Petersburg FL
+10. score=45 | id=DaystarKWBN.us
+    name=US - Daystar KWBN-DT Honolulu HI
+11. score=45 | id=ESPNPlay13.us
+    name=US - ESPN Play 13
+12. score=45 | id=EstrellaTVWMORDT3.us
+    name=US - EstrellaTV WMOR-DT3 Tampa FL
+13. score=45 | id=FOX+9WFTCDT2.us
+    name=US - FOX+9 WFTC-DT2 WFTC Minneapolis Saint Paul MN
+14. score=45 | id=Fox+WPWR.us
+    name=US - >Fox+ WPWR Chicago IL
+15. score=45 | id=Fox11+KCOP.us
+    name=US - Fox 11 Plus KCOP Los Angeles CA
+16. score=45 | id=FOX4K.us
+    name=US - FOX 4K
+17. score=45 | id=Fox4K_Event_Only.us
+    name=US - Fox 4K (Event Only)
+18. score=45 | id=Fox5PlusWDCA.us
+    name=US - Fox 5 Plus WDCA Washington DC
+19. score=45 | id=FoxBusiness.us
+    name=US - Fox Business
+20. score=45 | id=FoxDeportes.us
+    name=US - FOX DEPORTES
+
+==============================================================================
+FX
+Current aliases: FX
+
+01. score=180 | id=FOXKBFX.us
+    name=US - FOX KBFX Bakersfield CA
+02. score=180 | id=FOXKDFXCD2.us
+    name=US - FOX KDFX-CD2 Palm Springs CA
+03. score=180 | id=FOXKFXK.us
+    name=US - FOX KFXK Longview Tyler Nacogdoches Jacksonville TX
+04. score=180 | id=FOXKFXL.us
+    name=US - FOX KFXL Lincoln Superior NE
+05. score=180 | id=FOXKFXO.us
+    name=US - FOX KFXO Bend OR
+06. score=180 | id=FOXKFXV.us
+    name=US - FOX KFXV McAllen Harlingen Brownsville Weslaco TX
+07. score=180 | id=FOXKKFX.us
+    name=US - FOX KKFX San Luis Obispo CA
+08. score=180 | id=FOXKQFX.us
+    name=US - FOX KQFX Springfield Osage Beach MO
+09. score=180 | id=FOXWDFX.us
+    name=US - FOX WDFX Dothan AL
+10. score=180 | id=FOXWFXB.us
+    name=US - FOX WFXB Myrtle Beach SC
+11. score=180 | id=FOXWFXG.us
+    name=US - FOX WFXG Augusta GA
+12. score=180 | id=FOXWFXL.us
+    name=US - FOX WFXL Albany GA
+13. score=180 | id=FOXWFXP.us
+    name=US - FOX WFXP ERIE PA
+14. score=180 | id=FOXWFXR.us
+    name=US - FOX WFXR Roanoke Lynchburg VA
+15. score=180 | id=FOXWFXT.us
+    name=US - FOX WFXT Boston MA
+16. score=180 | id=FOXWFXV.us
+    name=US - FOX WFXV Utica NY
+17. score=180 | id=FOXWSFX.us
+    name=US - FOX WSFX Wilmington NC
+18. score=180 | id=FOXWVFX.us
+    name=US - FOX WVFX Clarksburg WV
+19. score=180 | id=FOXWYFX.us
+    name=US - FOX WYFX Youngstown OH
+20. score=180 | id=FX.us
+    name=US - FX
+
+==============================================================================
+Fox Business Network
+Current aliases: Fox Business Network
+
+01. score=90 | id=FoxBusiness.us
+    name=US - Fox Business
+02. score=45 | id=911Network.us
+    name=US - 911 Network
+03. score=45 | id=AandENetwork.us
+    name=US - A&E Network
+04. score=45 | id=AandENetworkPacific.us
+    name=US - A&E Network West
+05. score=45 | id=ACCDigitalNetwork.us
+    name=US - ACC Digital Network
+06. score=45 | id=ACCNetwork.us
+    name=US - ACC NETWORK
+07. score=45 | id=AmericanCountryNetwork.us
+    name=US - American Country Network
+08. score=45 | id=BigTen.us
+    name=US - Big Ten Network
+09. score=45 | id=BigTen1.us
+    name=US - Big Ten Network 1
+10. score=45 | id=BigTen2.us
+    name=US - Big Ten Network 2
+11. score=45 | id=BigTen3.us
+    name=US - Big Ten Network 3
+12. score=45 | id=BigTen4.us
+    name=US - Big Ten Network 4
+13. score=45 | id=CartoonNetwork.us
+    name=US - CARTOON NETWORK
+14. score=45 | id=CartoonNetworkPacific.us
+    name=US - CARTOON NETWORK WEST
+15. score=45 | id=CBSSportsGolazoNetwork.us
+    name=US - CBS Sports Golazo Network
+16. score=45 | id=CBSSportsNetwork.us
+    name=US - CBS SPORTS NETWORK
+17. score=45 | id=ChicagoSportsNetwork.us
+    name=US - Chicago Sports Network
+18. score=45 | id=ChicagoSportsNetworkPlus.us
+    name=US - Chicago Sports Network Plus
+19. score=45 | id=DraftKingsNetwork.us
+    name=US - DraftKings Network
+20. score=45 | id=ElReyNetwork.us
+    name=US - El Rey Network
+
+==============================================================================
+Fox News Channel
+Current aliases: Fox News Channel
+
+01. score=90 | id=FoxNewsChannel.us
+    name=US - FOX NEWS
+02. score=45 | id=ABCNewsLive.us
+    name=US - ABC News Live
+03. score=45 | id=AFNNews.us
+    name=US - AFN News
+04. score=45 | id=AfricaChannel.us
+    name=US - Africa Channel
+05. score=45 | id=AirAndSpaceChannel.us
+    name=US - Air & Space Channel
+06. score=45 | id=AmericanHeroesChannel.us
+    name=US - AMERICAN HERO CHANNEL
+07. score=45 | id=AtlantaNewsFirstWANF.us
+    name=US - Atlanta News First WANF Atlanta GA
+08. score=45 | id=BBCNewsNorthAmerica.us
+    name=US - BBC News (North America)
+09. score=45 | id=BBCWorldNews.us
+    name=US - BBC WORLD NEWS
+10. score=45 | id=CBNNews.us
+    name=US - CBN News
+11. score=45 | id=CBSNews.us
+    name=US - CBS News
+12. score=45 | id=CBSNewsBayArea.us
+    name=US - CBS News Bay Area
+13. score=45 | id=CBSNewsPittsburgh.us
+    name=US - CBS News Pittsburgh
+14. score=45 | id=CBSNewsTexas.us
+    name=US - CBS News Texas
+15. score=45 | id=CGTNCCTVNews.us
+    name=US - CGTN CCTV News
+16. score=45 | id=Channel13.us
+    name=US - Channel 13
+17. score=45 | id=CMC.us
+    name=US - CMC CHANNEL
+18. score=45 | id=CombatWarChannel.us
+    name=US - Combat War Channel
+19. score=45 | id=CookingChannel.us
+    name=US - COOKING CHANNEL
+20. score=45 | id=CookingChannelPacific.us
+    name=US - Cooking Channel West
+
+==============================================================================
+Fox Sports 1
+Current aliases: Fox Sports 1
+
+01. score=180 | id=FoxSports1.us
+    name=US - Fox Sports 1
+02. score=135 | id=FoxSports4KEvents1.us
+    name=US - Fox Sports 4K Events 1
+03. score=90 | id=FoxSports2.us
+    name=US - FOX SPORTS 2
+04. score=90 | id=FoxSports4KEvents2.us
+    name=US - Fox Sports 4K Events 2
+05. score=90 | id=FoxSports4KEvents3.us
+    name=US - Fox Sports 4K Events 3
+06. score=90 | id=ROOTSportsNorthwestAlt1.us
+    name=US - ROOT Sports Northwest Alt 1
+07. score=45 | id=AdventureSportsTV.us
+    name=US - Adventure Sports TV
+08. score=45 | id=AFNSports.us
+    name=US - AFN Sports
+09. score=45 | id=AFNSports2.us
+    name=US - AFN Sports 2
+10. score=45 | id=AltitudeSports.us
+    name=US - Altitude Sports
+11. score=45 | id=AltitudeSports2.us
+    name=US - Altitude Sports 2
+12. score=45 | id=BarstoolSports.us
+    name=US - Barstool Sports
+13. score=45 | id=beINSports.us
+    name=US - beIN SPORTS USA
+14. score=45 | id=beINSPORTS3.us
+    name=US - beIN SPORTS 3
+15. score=45 | id=beINSPORTS4.us
+    name=US - beIN SPORTS 4
+16. score=45 | id=beINSPORTS5.us
+    name=US - beIN SPORTS 5
+17. score=45 | id=beINSPORTS6.us
+    name=US - beIN SPORTS 6
+18. score=45 | id=beINSPORTS7.us
+    name=US - beIN SPORTS 7
+19. score=45 | id=beINSPORTS8.us
+    name=US - beIN SPORTS 8
+20. score=45 | id=beINSportsEnEspanol.us
+    name=US - beIN SPORTS ESP US
+
+==============================================================================
+HGTV
+Current aliases: HGTV
+
+01. score=180 | id=HGTV.us
+    name=US - HGTV
+02. score=180 | id=HGTVPacific.us
+    name=US - HGTV WEST
+03. score=180 | id=HogarDeHGTV.us
+    name=US - Hogar de HGTV
+
+==============================================================================
+Heroes & Icons
+Current aliases: Heroes & Icons
+
+01. score=180 | id=HeroesAndIconsNetwork.us
+    name=US - HEROES & ICONS
+02. score=180 | id=HeroesAndIconsWest.us
+    name=US - Heroes & Icons West
+03. score=90 | id=HeroesandIcons.us
+    name=US - Heroes &amp; Icons Des Moines IA
+04. score=90 | id=HeroesAndIconsKPRCDT3.us
+    name=US - Heroes &amp; Icons
+05. score=45 | id=MilitaryHeroesByHistory.us
+    name=US - Military Heroes By History
+
+==============================================================================
+Link TV
+Current aliases: Link TV
+
+01. score=45 | id=ACEtv.us
+    name=US - ACE TV
+02. score=45 | id=ACKTV.us
+    name=US - AKC TV
+03. score=45 | id=ACLCornholeTV.us
+    name=US - ACL Cornhole TV
+04. score=45 | id=AdventureSportsTV.us
+    name=US - Adventure Sports TV
+05. score=45 | id=AllRealityWEtv.us
+    name=US - All Reality WE tv
+06. score=45 | id=AMGTV.us
+    name=US - AMG TV
+07. score=45 | id=AntennaTV.us
+    name=US - ANTENNA TV
+08. score=45 | id=AplausoTV.us
+    name=US - Aplauso TV
+09. score=45 | id=AXSTV.us
+    name=US - AXS TV
+10. score=45 | id=AXSTVNOW.us
+    name=US - AXS TV NOW
+11. score=45 | id=AZTVKAZT.us
+    name=US - AZTV AZ TV KAZT Phoenix AZ
+12. score=45 | id=BabyTV.us
+    name=US - BABY TV
+13. score=45 | id=BenficaTV.us
+    name=US - Benfica TV
+14. score=45 | id=BilliardTV.us
+    name=US - Billiard TV
+15. score=45 | id=BingeTV.us
+    name=US - Binge TV
+16. score=45 | id=BlazeTV.us
+    name=US - Blaze TV
+17. score=45 | id=BounceTV.us
+    name=US - BOUNCE TV
+18. score=45 | id=BowlingTV.us
+    name=US - Bowling TV
+19. score=45 | id=BratTV.us
+    name=US - Brat TV
+20. score=45 | id=BuzzrTV.us
+    name=US - Buzzr TV
+
+==============================================================================
+MLB Network Strike Zone
+Current aliases: MLB Network Strike Zone, MLB Network StrikeZone, MLB Strike Zone
+
+01. score=180 | id=MLBStrikeZone.us
+    name=US - MLB Strike Zone
+02. score=90 | id=MLBNetwork-Alt.us
+    name=US - MLB Network-Alt
+03. score=90 | id=MLBNetwork.us
+    name=US - MLB NETWORK
+04. score=90 | id=MLBNetwork4K.us
+    name=US - MLB Network 4K
+05. score=45 | id=911Network.us
+    name=US - 911 Network
+06. score=45 | id=AandENetwork.us
+    name=US - A&E Network
+07. score=45 | id=AandENetworkPacific.us
+    name=US - A&E Network West
+08. score=45 | id=ACCDigitalNetwork.us
+    name=US - ACC Digital Network
+09. score=45 | id=ACCNetwork.us
+    name=US - ACC NETWORK
+10. score=45 | id=AmericanCountryNetwork.us
+    name=US - American Country Network
+11. score=45 | id=BigTen.us
+    name=US - Big Ten Network
+12. score=45 | id=BigTen1.us
+    name=US - Big Ten Network 1
+13. score=45 | id=BigTen2.us
+    name=US - Big Ten Network 2
+14. score=45 | id=BigTen3.us
+    name=US - Big Ten Network 3
+15. score=45 | id=BigTen4.us
+    name=US - Big Ten Network 4
+16. score=45 | id=CartoonNetwork.us
+    name=US - CARTOON NETWORK
+17. score=45 | id=CartoonNetworkPacific.us
+    name=US - CARTOON NETWORK WEST
+18. score=45 | id=CBSSportsGolazoNetwork.us
+    name=US - CBS Sports Golazo Network
+19. score=45 | id=CBSSportsNetwork.us
+    name=US - CBS SPORTS NETWORK
+20. score=45 | id=ChicagoSportsNetwork.us
+    name=US - Chicago Sports Network
+
+==============================================================================
+MTV Classic
+Current aliases: MTV Classic
+
+01. score=180 | id=MTVClassic.us
+    name=US - MTV CLASSIC
+02. score=180 | id=MTVClassicPacific.us
+    name=US - MTV Classic West
+03. score=45 | id=ClassicArtsShowcase.us
+    name=US - Classic Arts Showcase
+04. score=45 | id=ClassicCinema.us
+    name=US - Classic Cinema
+05. score=45 | id=ClassicDoctorWho.us
+    name=US - Classic Doctor Who
+06. score=45 | id=FilmRiseClassicTV.us
+    name=US - FilmRise Classic TV
+07. score=45 | id=MTV.us
+    name=US - MTV
+08. score=45 | id=MTV2.us
+    name=US - MTV 2
+09. score=45 | id=MTVLive.us
+    name=US - MTV LIVE
+10. score=45 | id=MTVPacific.us
+    name=US - MTV WEST
+11. score=45 | id=mtvU.us
+    name=US - MTV U
+12. score=45 | id=MusicChoiceClassicAlternative.us
+    name=US - Music Choice Classic Alternative
+13. score=45 | id=MusicChoiceClassicChristmas.us
+    name=US - Music Choice Classic Christmas
+14. score=45 | id=MusicChoiceClassicCountry.us
+    name=US - Music Choice Classic Country
+15. score=45 | id=MusicChoiceClassicDance.us
+    name=US - Music Choice Classic Dance
+16. score=45 | id=MusicChoiceClassicRock.us
+    name=US - Music Choice Classic Rock
+17. score=45 | id=StarzEncoreClassic.us
+    name=US - STARZ ENCORE CLASSIC
+18. score=45 | id=StarzEncoreClassicPacific.us
+    name=US - Starz Encore Classic Pacific
+19. score=45 | id=StingrayClassicRnBandSoul.us
+    name=US - Stingray Classic RnB and Soul
+20. score=45 | id=StingrayClassicRock.us
+    name=US - Stingray Classic Rock
+
+==============================================================================
+MTV2
+Current aliases: MTV2
+
+01. score=180 | id=MTV2.us
+    name=US - MTV 2
+02. score=180 | id=MTV2Pacific.us
+    name=US - MTV2 WEST
+
+==============================================================================
+MyNetworkTV
+Current aliases: MyNetworkTV
+
+NO U.S. CANDIDATES
+
+==============================================================================
+NBC Boston
+Current aliases: NBC Boston, NBC10 Boston, WBTS, WBTS-CD
+
+01. score=180 | id=NBCWBTS.us
+    name=US - NBC WBTS Boston MA
+02. score=90 | id=NBCSportsBoston.us
+    name=US - NBC SPORTS BOSTON
+03. score=90 | id=NBCWMFP.us
+    name=US - NBC WMFP Boston MA
+04. score=45 | id=ABCWCVB.us
+    name=US - ABC WCVB Boston MA
+05. score=45 | id=BeachTVWGSCCD.us
+    name=US - BeachTV WGSC-CD Myrtle Beach SC
+06. score=45 | id=CBSWBZ.us
+    name=US - CBS WBZ Boston MA
+07. score=45 | id=CreateWGBXDT3.us
+    name=US - Create WGBX-DT3 Boston MA
+08. score=45 | id=CWWLVI.us
+    name=US - CW WLVI Boston MA
+09. score=45 | id=FOXWFXT.us
+    name=US - FOX WFXT Boston MA
+10. score=45 | id=KEYTVWCAYCD.us
+    name=US - KEYTV WCAY-CD Florida Keys FL
+11. score=45 | id=MeTVWCVBDT2.us
+    name=US - MeTV WCVB-DT2 Boston MA
+12. score=45 | id=MYWSBK.us
+    name=US - MY MY38 WSBK Boston MA
+13. score=45 | id=NBC4K.us
+    name=US - NBC 4K
+14. score=45 | id=NBCEast_WNBC.us
+    name=US - NBC East WNBC
+15. score=45 | id=NBCKAGS.us
+    name=US - NBC KAGS Bryan College Station TX
+16. score=45 | id=NBCKAITDT2.us
+    name=US - NBC KAIT-DT2 Jonesboro AR
+17. score=45 | id=NBCKALB.us
+    name=US - NBC KALB Alexandria LA
+18. score=45 | id=NBCKAMR.us
+    name=US - NBC KAMR Amarillo TX
+19. score=45 | id=NBCKARE.us
+    name=US - NBC KARE Minneapolis Saint Paul MN
+20. score=45 | id=NBCKARK.us
+    name=US - NBC KARK Little Rock AR
+
+==============================================================================
+NBC Philadelphia
+Current aliases: NBC Philadelphia, NBC10 Philadelphia, WCAU, WCAU-DT
+
+01. score=180 | id=NBCWCAU.us
+    name=US - NBC WCAU Philadelphia PA
+02. score=180 | id=NBCWCAUNJ.us
+    name=US - NBC WCAU VINELAND NJ
+03. score=90 | id=NBCSportsPhiladelphia.us
+    name=US - NBC Sports Philadelphia
+04. score=90 | id=NBCSportsPhiladelphiaPlus.us
+    name=US - NBC Sports Philadelphia Plus
+05. score=45 | id=38KALO.us
+    name=US - 38 KALO-DT Honolulu HI
+06. score=45 | id=ABCWPVI.us
+    name=US - ABC WPVI Philadelphia PA
+07. score=45 | id=ACEWACPDT7.us
+    name=US - ACE WACP-DT7 Philadelphia PA
+08. score=45 | id=BEACHTVWAWDDT.us
+    name=US - BEACHTV WAWD-DT Mobile-Pensacola FL
+09. score=45 | id=BEACHTVWPCTDT.us
+    name=US - BEACHTV WPCT-DT Panama City FL
+10. score=45 | id=CBSKYW.us
+    name=US - CBS KYW Philadelphia PA
+11. score=45 | id=CWWPHL.us
+    name=US - CW WPHL Philadelphia PA
+12. score=45 | id=DaystarKWBN.us
+    name=US - Daystar KWBN-DT Honolulu HI
+13. score=45 | id=FOXWTXF.us
+    name=US - FOX WTXF Philadelphia PA
+14. score=45 | id=IONWPPX.us
+    name=US - ION WPPX Philadelphia PA
+15. score=45 | id=MYNetworkWPHLDT2.us
+    name=US - MYNetwork WPHL-DT2 Philadelphia PA
+16. score=45 | id=NBC4K.us
+    name=US - NBC 4K
+17. score=45 | id=NBCEast_WNBC.us
+    name=US - NBC East WNBC
+18. score=45 | id=NBCKAGS.us
+    name=US - NBC KAGS Bryan College Station TX
+19. score=45 | id=NBCKAITDT2.us
+    name=US - NBC KAIT-DT2 Jonesboro AR
+20. score=45 | id=NBCKALB.us
+    name=US - NBC KALB Alexandria LA
+
+==============================================================================
+Starz Cinema
+Current aliases: Starz Cinema
+
+01. score=180 | id=StarzCinema.us
+    name=US - STARZ CINEMA
+02. score=180 | id=StarzCinemaPacific.us
+    name=US - STARZ CINEMA WEST
+03. score=45 | id=CinemaDinamita.us
+    name=US - Cinema Dinamita
+04. score=45 | id=ClassicCinema.us
+    name=US - Classic Cinema
+05. score=45 | id=MaverickBlackCinema.us
+    name=US - Maverick Black Cinema
+06. score=45 | id=Starz.us
+    name=US - STARZ
+07. score=45 | id=StarzComedy.us
+    name=US - STARZ COMEDY
+08. score=45 | id=StarzComedyPacific.us
+    name=US - STARZ COMEDY WEST
+09. score=45 | id=StarzEdge.us
+    name=US - STARZ EDGE
+10. score=45 | id=StarzEdgePacific.us
+    name=US - STARZ EDGE WEST
+11. score=45 | id=StarzEncore.us
+    name=US - STARZ ENCORE
+12. score=45 | id=StarzEncoreAction.us
+    name=US - Starz Encore Action
+13. score=45 | id=StarzEncoreActionPacific.us
+    name=US - Starz Encore Action Pacific
+14. score=45 | id=StarzEncoreBlack.us
+    name=US - STARZ ENCORE BLACK
+15. score=45 | id=StarzEncoreBlackPacific.us
+    name=US - Starz Encore Black Pacific
+16. score=45 | id=StarzEncoreClassic.us
+    name=US - STARZ ENCORE CLASSIC
+17. score=45 | id=StarzEncoreClassicPacific.us
+    name=US - Starz Encore Classic Pacific
+18. score=45 | id=StarzEncoreEspanol.us
+    name=US - STARZ ENCORE ESPANOL
+19. score=45 | id=StarzEncoreFamily.us
+    name=US - STARZ ENCORE FAMILY
+20. score=45 | id=StarzEncoreFamilyPacific.us
+    name=US - Starz Encore Family West
+
+==============================================================================
+Starz Kids & Family
+Current aliases: Starz Kids & Family
+
+01. score=180 | id=StarzKids.us
+    name=US - STARZ KIDS & FAMILY
+02. score=180 | id=StarzKidsPacific.us
+    name=US - Starz Kids & Family Pacific
+03. score=90 | id=StarzEncoreFamily.us
+    name=US - STARZ ENCORE FAMILY
+04. score=90 | id=StarzEncoreFamilyPacific.us
+    name=US - Starz Encore Family West
+05. score=45 | id=AFNFamily_AFNPulse.us
+    name=US - AFN Family AFN Pulse
+06. score=45 | id=AtHomewithFamilyHandyman.us
+    name=US - At Home with Family Handyman
+07. score=45 | id=DiscoveryFamilyChannel.us
+    name=US - DISCOVERY FAMILY
+08. score=45 | id=FilmRiseFamily.us
+    name=US - FilmRise Family
+09. score=45 | id=FilmRiseKids.us
+    name=US - FilmRise Kids
+10. score=45 | id=FMC.us
+    name=US - Family Movie Classics (FMC)
+11. score=45 | id=GreatAmericanFamily.us
+    name=US - Great American Family
+12. score=45 | id=HallmarkFamily.us
+    name=US - Hallmark Family
+13. score=45 | id=HallmarkFamilyPacific.us
+    name=US - Hallmark Family West
+14. score=45 | id=KidsInTheHall.us
+    name=US - Kids in the Hall
+15. score=45 | id=KidsStreet.us
+    name=US - Kids Street
+16. score=45 | id=KidsWXXIDT4.us
+    name=US - Kids PBS WXXI-DT4 Rochester NY
+17. score=45 | id=LooLooKidsTV.us
+    name=US - LooLoo Kids TV
+18. score=45 | id=PBSKidsNYC.us
+    name=US - PBS KIDS NYC
+19. score=45 | id=PBSKidsWBIQDT2.us
+    name=US - PBSKids PBS Kids WBIQ-DT2 Birmingham AL
+20. score=45 | id=PBSKidsWestSoCal.us
+    name=US - PBS Kids West SoCal
+
+==============================================================================
+Story Television
+Current aliases: Story Television
+
+01. score=180 | id=StoryTelevision.us
+    name=US - Story Television
+02. score=45 | id=AAGTelevision.us
+    name=US - AAG Television
+03. score=45 | id=AngelsBroadcastTelevision.us
+    name=US - Angels Broadcast Television
+04. score=45 | id=GreatEntertainmentTelevision.us
+    name=US - Great Entertainment Television
+05. score=45 | id=IONKPXO.us
+    name=US - ION TELEVISION KPXO Honolulu HI
+06. score=45 | id=JewelryTelevision.us
+    name=US - Jewelry Television
+07. score=45 | id=MainStreetTelevision.us
+    name=US - MainStreet Television
+08. score=45 | id=OutsideTelevision.us
+    name=US - OUTSIDE TELEVISION
+
+==============================================================================
+TBD
+Current aliases: TBD, TBD TV
+
+01. score=45 | id=ACEtv.us
+    name=US - ACE TV
+02. score=45 | id=ACKTV.us
+    name=US - AKC TV
+03. score=45 | id=ACLCornholeTV.us
+    name=US - ACL Cornhole TV
+04. score=45 | id=AdventureSportsTV.us
+    name=US - Adventure Sports TV
+05. score=45 | id=AllRealityWEtv.us
+    name=US - All Reality WE tv
+06. score=45 | id=AMGTV.us
+    name=US - AMG TV
+07. score=45 | id=AntennaTV.us
+    name=US - ANTENNA TV
+08. score=45 | id=AplausoTV.us
+    name=US - Aplauso TV
+09. score=45 | id=AXSTV.us
+    name=US - AXS TV
+10. score=45 | id=AXSTVNOW.us
+    name=US - AXS TV NOW
+11. score=45 | id=AZTVKAZT.us
+    name=US - AZTV AZ TV KAZT Phoenix AZ
+12. score=45 | id=BabyTV.us
+    name=US - BABY TV
+13. score=45 | id=BenficaTV.us
+    name=US - Benfica TV
+14. score=45 | id=BilliardTV.us
+    name=US - Billiard TV
+15. score=45 | id=BingeTV.us
+    name=US - Binge TV
+16. score=45 | id=BlazeTV.us
+    name=US - Blaze TV
+17. score=45 | id=BounceTV.us
+    name=US - BOUNCE TV
+18. score=45 | id=BowlingTV.us
+    name=US - Bowling TV
+19. score=45 | id=BratTV.us
+    name=US - Brat TV
+20. score=45 | id=BuzzrTV.us
+    name=US - Buzzr TV
+
+==============================================================================
+The CW
+Current aliases: The CW
+
+01. score=45 | id=AtTheMovies.us
+    name=US - At the Movies
+02. score=45 | id=CW+KATNDT3.us
+    name=US - CW+ KATN-DT3 Fairbanks AK
+03. score=45 | id=CW+KECYDT3.us
+    name=US - CW+ KECY-DT3 Yuma AZ
+04. score=45 | id=CW+KJUDDT2.us
+    name=US - CW+ KJUD-DT2 Juneau Douglas AK
+05. score=45 | id=CW+KMTRDT2.us
+    name=US - CW+ KMTR-DT2 Eugene OR
+06. score=45 | id=CW+KTIVDT2.us
+    name=US - CW+ KTIV-DT2 Sioux City NE
+07. score=45 | id=CW+KVIIDT2.us
+    name=US - CW+ KVII-DT2 Amarillo TX
+08. score=45 | id=CW+KYUU.us
+    name=US - CW+ KYUU Boise ID
+09. score=45 | id=CW+WISE.us
+    name=US - CW+ WISE Fort Wayne IN
+10. score=45 | id=CW+WKTVDT3.us
+    name=US - CW+ WKTV-DT3 Utica NY
+11. score=45 | id=CW+WXXVDT3.us
+    name=US - CW+ WXXV-DT3 Biloxi Gulfport MS
+12. score=45 | id=CWForever.us
+    name=US - CW Forever
+13. score=45 | id=CWGold.us
+    name=US - CW Gold
+14. score=45 | id=CWKALBDT3.us
+    name=US - CW KALB-DT3 Alexandria LA
+15. score=45 | id=CWKARDDT2.us
+    name=US - CW KARD-DT2 MONROE LA
+16. score=45 | id=CWKASN.us
+    name=US - CW KASN Little Rock AR
+17. score=45 | id=CWKASW.us
+    name=US - CW KASW Phoenix AZ
+18. score=45 | id=CWKCBA.us
+    name=US - CW KCBA Salinas CA
+19. score=45 | id=CWKCOYDT3.us
+    name=US - CW KCOY-DT3 Santa Maria San Luis Obispo CA
+20. score=45 | id=CWKCRGDT3.US
+    name=US - CW KCRG-DT3 Cedar Rapids IA
+
+==============================================================================
+Vice TV
+Current aliases: Vice TV
+
+01. score=45 | id=ACEtv.us
+    name=US - ACE TV
+02. score=45 | id=ACKTV.us
+    name=US - AKC TV
+03. score=45 | id=ACLCornholeTV.us
+    name=US - ACL Cornhole TV
+04. score=45 | id=AdventureSportsTV.us
+    name=US - Adventure Sports TV
+05. score=45 | id=AllRealityWEtv.us
+    name=US - All Reality WE tv
+06. score=45 | id=AMGTV.us
+    name=US - AMG TV
+07. score=45 | id=AntennaTV.us
+    name=US - ANTENNA TV
+08. score=45 | id=AplausoTV.us
+    name=US - Aplauso TV
+09. score=45 | id=AXSTV.us
+    name=US - AXS TV
+10. score=45 | id=AXSTVNOW.us
+    name=US - AXS TV NOW
+11. score=45 | id=AZTVKAZT.us
+    name=US - AZTV AZ TV KAZT Phoenix AZ
+12. score=45 | id=BabyTV.us
+    name=US - BABY TV
+13. score=45 | id=BenficaTV.us
+    name=US - Benfica TV
+14. score=45 | id=BilliardTV.us
+    name=US - Billiard TV
+15. score=45 | id=BingeTV.us
+    name=US - Binge TV
+16. score=45 | id=BlazeTV.us
+    name=US - Blaze TV
+17. score=45 | id=BounceTV.us
+    name=US - BOUNCE TV
+18. score=45 | id=BowlingTV.us
+    name=US - Bowling TV
+19. score=45 | id=BratTV.us
+    name=US - Brat TV
+20. score=45 | id=BuzzrTV.us
+    name=US - Buzzr TV
+

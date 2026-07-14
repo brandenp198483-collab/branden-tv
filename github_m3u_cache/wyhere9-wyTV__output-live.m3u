@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="英语新闻" tvg-id="sky-news" tvg-name="Sky News",Sky News [OTHER]
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
+#EXTINF:-1 group-title="英语新闻" tvg-id="sky-news" tvg-name="Sky News",Sky News [OTHER]
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-id="cbs-news" tvg-name="CBS News",CBS News [US]
+https://news20e7hhcb.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-id="cbs-news" tvg-name="CBS News",CBS News [US]
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="旅游" tvg-id="gotraveler" tvg-name="GoTraveler",GoTraveler [US]
+https://amg09501-amg09501c1-ottera-us-2535.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-otteraus/playlist.m3u8

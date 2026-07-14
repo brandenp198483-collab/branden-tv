@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsiriTV.pe@SD",AsiriTV (720p) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="ATV.pe@SD",ATV (720p) [Not 24/7]
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+#EXTINF:-1 tvg-id="ATV.pe@SD",ATV [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.atv.pe/
+#EXTINF:-1 tvg-id="BethelTV.pe@SD",Bethel TV
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe@SD",BHTV (1080p)
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CadenaTV.pe@HD",Cadena TV (720p) [Not 24/7]
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe@SD",Conecta2TV (720p) [Not 24/7]
+https://live.obslivestream.com/conecta2/index.m3u8
+#EXTINF:-1 tvg-id="ControversiaTV.pe@SD",Controversia TV (720p) [Not 24/7]
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (720p) [Not 24/7]
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+#EXTINF:-1 tvg-id="IntuitivaTV.pe@SD",Intuitiva TV (720p)
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe@SD",Mega TV Arequipa (720p) [Not 24/7]
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
+#EXTINF:-1 tvg-id="MegaTVJaen.pe@SD",Mega TV Jaen (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-id="MielTV.pe@SD",Miel TV (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 tvg-id="MilenialTV.pe@SD",Milenial TV
+https://www.milenial.news/salida/milenial.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe@SD",Monterrico TV (1080p) [Not 24/7]
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe@SD",Nativa TV Satipo (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe@SD",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe@SD",Ovación TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PancTVPeru.pe@SD",Panc TV Peru (1080p)
+https://panel.host-live.com:19360/20000/20000.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe@SD",Planeta TV (720p) [Not 24/7]
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="RPPTV.pe@SD",RPP TV [Not 24/7]
+#EXTVLCOPT:http-referrer=https://rpp.pe/tv.html
+#EXTINF:-1 tvg-id="TopTV.pe@SD",Top FM TV (240p) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe@SD",TV Cosmos (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
+#EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
+#EXTINF:-1 tvg-id="VisionSur.pe@SD",Visión Sur TV (1080p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe@SD",Viva TV Yurimaguas (720p)
+https://live.obslivestream.com/vivatv/index.m3u8

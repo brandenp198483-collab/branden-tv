@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1",TVNZ 1
+http://192.168.0.115:8080/hls/tvnz1/index.m3u8
+#EXTINF:-1 tvg-chno="2",TVNZ 2
+http://192.168.0.115:8080/hls/tvnz2/index.m3u8
+#EXTINF:-1 tvg-chno="5",TVNZ DUKE
+http://192.168.0.115:8080/hls/tvnzduke/index.m3u8
+#EXTINF:-1 tvg-chno="20",TVNZ 1 +1
+http://192.168.0.115:8080/hls/tvnz1plus1/index.m3u8
+#EXTINF:-1 tvg-chno="22",TVNZ 2 +1
+http://192.168.0.115:8080/hls/tvnz2plus1/index.m3u8
+#EXTINF:-1 tvg-chno="23",TVNZ DUKE+1
+http://192.168.0.115:8080/hls/tvnzdukeplus1/index.m3u8

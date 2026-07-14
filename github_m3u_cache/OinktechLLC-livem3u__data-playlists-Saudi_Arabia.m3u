@@ -1,0 +1,21 @@
+#EXTM3U
+# Обновлено: 2026-07-13 07:25:37
+# Всего каналов: 20217
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Saudi Arabia
+# Каналов: 3
+# Обновлено: 2026-07-13 07:25:38
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" group-title="Saudi Arabia",Al Quran Al Kareem TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+#EXTINF:-1 tvg-name="Rotana Cinema KSA" group-title="Saudi Arabia",Rotana Cinema KSA
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rotana Classic" group-title="Saudi Arabia",Rotana Classic
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+

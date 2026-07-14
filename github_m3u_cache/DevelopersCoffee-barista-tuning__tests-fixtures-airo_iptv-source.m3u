@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="news" tvg-country="IN" tvg-language="hi",Aaj Tak
+https://example.test/aajtak/master.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max HD" group-title="movies" tvg-country="IN" tvg-language="hi",Sony Max HD
+https://example.test/sonymax/hd.m3u8
+#EXTINF:-1 tvg-id="MarathiMovies.in" tvg-name="Marathi Movies" group-title="movies" tvg-country="IN" tvg-language="mr",Marathi Movies
+https://example.test/marathi/movies.m3u8
+#EXTINF:-1 tvg-id="SportsHD.in" tvg-name="Sports HD" group-title="sports" tvg-country="IN" tvg-language="en",Sports HD
+https://example.test/sports/hd.m3u8

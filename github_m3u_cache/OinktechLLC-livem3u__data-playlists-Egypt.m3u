@@ -1,0 +1,30 @@
+#EXTM3U
+# Обновлено: 2026-07-14 06:36:21
+# Всего каналов: 20455
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Egypt
+# Каналов: 6
+# Обновлено: 2026-07-14 06:36:22
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Al Qahera News" group-title="Egypt",Al Qahera News
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rotana Cinema" group-title="Egypt",Rotana Cinema
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Ghad Plus" group-title="Egypt",Al Ghad Plus
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Coptic TV" group-title="Egypt",Coptic TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MBC Masr 1" group-title="Egypt",MBC Masr 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC Masr 2" group-title="Egypt",MBC Masr 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+

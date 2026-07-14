@@ -1,0 +1,2525 @@
+{
+  "target": "NBC 8 Tampa",
+  "repositories": [
+    {
+      "full_name": "piyashltd/all-in-one",
+      "default_branch": "main",
+      "html_url": "https://github.com/piyashltd/all-in-one",
+      "description": "",
+      "updated_at": "2026-07-13T04:20:59Z",
+      "size": 10149,
+      "archived": false
+    },
+    {
+      "full_name": "srhady/tapmad-bd",
+      "default_branch": "main",
+      "html_url": "https://github.com/srhady/tapmad-bd",
+      "description": "",
+      "updated_at": "2026-07-13T04:20:35Z",
+      "size": 3594,
+      "archived": false
+    },
+    {
+      "full_name": "xbmc/inputstream.ffmpegdirect",
+      "default_branch": "Piers",
+      "html_url": "https://github.com/xbmc/inputstream.ffmpegdirect",
+      "description": "Supports streams opened by FFmpeg's libavformat or Kodi's cURL such as plain TS, HLS and DASH (non-DRM) as well as many others. There is support for Archive/Catchup services where there is a replay window and can timeshift across that span. Also provides timeshift for live streams where rewind/pause and fast-forward would not have been available.",
+      "updated_at": "2026-07-13T04:19:44Z",
+      "size": 1164,
+      "archived": false
+    },
+    {
+      "full_name": "SagXD/awesome-stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/SagXD/awesome-stars",
+      "description": "My Awesome List ",
+      "updated_at": "2026-07-13T04:18:54Z",
+      "size": 16957,
+      "archived": false
+    },
+    {
+      "full_name": "JE668/iptv-api",
+      "default_branch": "master",
+      "html_url": "https://github.com/JE668/iptv-api",
+      "description": "\u26a1\ufe0fIPTV\u76f4\u64ad\u6e90\u81ea\u52a8\u66f4\u65b0\u5e73\u53f0\u300e\ud83e\udd16\u5168\u81ea\u52a8\u91c7\u96c6\u3001\u7b5b\u9009\u3001\u6d4b\u901f\u3001\u751f\u6210\ud83d\ude80\u300f\uff1a\u81ea\u5b9a\u4e49\u83b7\u53d6\u9891\u9053\uff1bIPv4/IPv6\uff1b\u63a5\u53e3\u9a8c\u6548\uff1b\u63a8\u6d41\uff1b\u591a\u5e73\u53f0\u652f\u6301\uff1b\u5de5\u4f5c\u6d41\u3001Docker\u3001\u547d\u4ee4\u884c\u3001GUI\u591a\u7aef\u90e8\u7f72 | IPTV live streaming source automatic update platform",
+      "updated_at": "2026-07-13T04:17:24Z",
+      "size": 353680,
+      "archived": false
+    },
+    {
+      "full_name": "KwokShing/light-iptv-player",
+      "default_branch": "main",
+      "html_url": "https://github.com/KwokShing/light-iptv-player",
+      "description": "",
+      "updated_at": "2026-07-13T04:16:54Z",
+      "size": 356,
+      "archived": false
+    },
+    {
+      "full_name": "crazyuploader/Awesome-Starred",
+      "default_branch": "master",
+      "html_url": "https://github.com/crazyuploader/Awesome-Starred",
+      "description": "",
+      "updated_at": "2026-07-13T04:16:51Z",
+      "size": 16616,
+      "archived": false
+    },
+    {
+      "full_name": "jxzzlfh/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/jxzzlfh/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:16:47Z",
+      "size": 29183,
+      "archived": false
+    },
+    {
+      "full_name": "gambiarras/legal-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/gambiarras/legal-iptv",
+      "description": "",
+      "updated_at": "2026-07-13T04:16:06Z",
+      "size": 78050,
+      "archived": false
+    },
+    {
+      "full_name": "chen5300766/sky",
+      "default_branch": "main",
+      "html_url": "https://github.com/chen5300766/sky",
+      "description": "",
+      "updated_at": "2026-07-13T04:15:47Z",
+      "size": 26019,
+      "archived": false
+    },
+    {
+      "full_name": "aelfa/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/aelfa/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:15:43Z",
+      "size": 7210,
+      "archived": false
+    },
+    {
+      "full_name": "shredthaGNAR/my-awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/shredthaGNAR/my-awesome-stars",
+      "description": "my list of github stars fork",
+      "updated_at": "2026-07-13T04:15:25Z",
+      "size": 6520,
+      "archived": false
+    },
+    {
+      "full_name": "wangjiezhe/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/wangjiezhe/awesome-stars",
+      "description": "Awesome List of my own!",
+      "updated_at": "2026-07-13T04:15:07Z",
+      "size": 11929,
+      "archived": false
+    },
+    {
+      "full_name": "shredthaGNAR/my-awesome-starred",
+      "default_branch": "master",
+      "html_url": "https://github.com/shredthaGNAR/my-awesome-starred",
+      "description": "",
+      "updated_at": "2026-07-13T04:14:36Z",
+      "size": 9501,
+      "archived": false
+    },
+    {
+      "full_name": "cuicanrensheng/1",
+      "default_branch": "main",
+      "html_url": "https://github.com/cuicanrensheng/1",
+      "description": "",
+      "updated_at": "2026-07-13T04:14:25Z",
+      "size": 44710,
+      "archived": false
+    },
+    {
+      "full_name": "shredthaGNAR/my-gnarly-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/shredthaGNAR/my-gnarly-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:13:44Z",
+      "size": 6087,
+      "archived": false
+    },
+    {
+      "full_name": "arcanii/RabbitEars",
+      "default_branch": "main",
+      "html_url": "https://github.com/arcanii/RabbitEars",
+      "description": "a simple IPTV viewer",
+      "updated_at": "2026-07-13T04:12:46Z",
+      "size": 16259,
+      "archived": false
+    },
+    {
+      "full_name": "JE668/get-m3u",
+      "default_branch": "main",
+      "html_url": "https://github.com/JE668/get-m3u",
+      "description": "",
+      "updated_at": "2026-07-13T04:12:29Z",
+      "size": 174266,
+      "archived": false
+    },
+    {
+      "full_name": "gorantlasadwik/ipGenz",
+      "default_branch": "main",
+      "html_url": "https://github.com/gorantlasadwik/ipGenz",
+      "description": "",
+      "updated_at": "2026-07-13T04:12:07Z",
+      "size": 38802,
+      "archived": false
+    },
+    {
+      "full_name": "shuen2023/star",
+      "default_branch": "master",
+      "html_url": "https://github.com/shuen2023/star",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:54Z",
+      "size": 14483,
+      "archived": false
+    },
+    {
+      "full_name": "jeremy-feng/starred",
+      "default_branch": "master",
+      "html_url": "https://github.com/jeremy-feng/starred",
+      "description": "",
+      "updated_at": "2026-07-13T04:12:01Z",
+      "size": 5666,
+      "archived": false
+    },
+    {
+      "full_name": "c42cc/live-tv-pipeline",
+      "default_branch": "main",
+      "html_url": "https://github.com/c42cc/live-tv-pipeline",
+      "description": "Self-validating multi-country live-TV playlist for the appliance",
+      "updated_at": "2026-07-13T04:12:03Z",
+      "size": 9715,
+      "archived": false
+    },
+    {
+      "full_name": "shahriyarsojibhasan/SHAHRIYAR-LIVE-TV",
+      "default_branch": "main",
+      "html_url": "https://github.com/shahriyarsojibhasan/SHAHRIYAR-LIVE-TV",
+      "description": "New Bangladeshi IPTV Open Source Provider - SHAHRIAYR LIVE TV",
+      "updated_at": "2026-07-13T04:11:51Z",
+      "size": 141038,
+      "archived": false
+    },
+    {
+      "full_name": "yuceltoluyag/awesome",
+      "default_branch": "main",
+      "html_url": "https://github.com/yuceltoluyag/awesome",
+      "description": "my awesome stars",
+      "updated_at": "2026-07-13T04:11:48Z",
+      "size": 3803,
+      "archived": false
+    },
+    {
+      "full_name": "Rakjsu/NeoStream-Mobile",
+      "default_branch": "main",
+      "html_url": "https://github.com/Rakjsu/NeoStream-Mobile",
+      "description": "Player IPTV para celular (Expo/React Native) \u2014 irm\u00e3o mobile do NeoStream",
+      "updated_at": "2026-07-13T04:11:42Z",
+      "size": 2066,
+      "archived": false
+    },
+    {
+      "full_name": "drag0n141/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/drag0n141/awesome-stars",
+      "description": "A curated list of my GitHub stars!",
+      "updated_at": "2026-07-13T04:11:41Z",
+      "size": 5447,
+      "archived": false
+    },
+    {
+      "full_name": "TrumanDu/trumandu-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/TrumanDu/trumandu-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:24Z",
+      "size": 3876,
+      "archived": false
+    },
+    {
+      "full_name": "alexzeitgeist/starred",
+      "default_branch": "master",
+      "html_url": "https://github.com/alexzeitgeist/starred",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:07Z",
+      "size": 4672,
+      "archived": false
+    },
+    {
+      "full_name": "knoxmedia/Vauldy",
+      "default_branch": "main",
+      "html_url": "https://github.com/knoxmedia/Vauldy",
+      "description": "a family digital safe \u2014 a self-hosted, locally encrypted vault for your movies, photos, music, documents, and cherished memories. Everything stays on your own hardware behind strong encryption. No cloud, no leaks, no surveillance. Think of it as the digital equivalent of a fireproof home safe, purpose-built for the media and memories",
+      "updated_at": "2026-07-13T04:10:54Z",
+      "size": 16629,
+      "archived": false
+    },
+    {
+      "full_name": "AdamDanielHarris/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/AdamDanielHarris/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:10:52Z",
+      "size": 1583,
+      "archived": false
+    },
+    {
+      "full_name": "MRM3UK/test-",
+      "default_branch": "main",
+      "html_url": "https://github.com/MRM3UK/test-",
+      "description": "",
+      "updated_at": "2026-07-13T04:10:47Z",
+      "size": 742,
+      "archived": false
+    },
+    {
+      "full_name": "theramindex/silo-plugin-xtream-library",
+      "default_branch": "main",
+      "html_url": "https://github.com/theramindex/silo-plugin-xtream-library",
+      "description": "",
+      "updated_at": "2026-07-13T04:10:29Z",
+      "size": 1397,
+      "archived": false
+    },
+    {
+      "full_name": "DevelopersCoffee/barista-tuning",
+      "default_branch": "main",
+      "html_url": "https://github.com/DevelopersCoffee/barista-tuning",
+      "description": "",
+      "updated_at": "2026-07-13T04:10:18Z",
+      "size": 2768,
+      "archived": false
+    },
+    {
+      "full_name": "lusky3/awesome-stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/lusky3/awesome-stars",
+      "description": "Stuff that I am watching",
+      "updated_at": "2026-07-13T04:10:10Z",
+      "size": 1655,
+      "archived": false
+    },
+    {
+      "full_name": "fscorrupt/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/fscorrupt/awesome-stars",
+      "description": "My starred Repos",
+      "updated_at": "2026-07-13T04:09:50Z",
+      "size": 1655,
+      "archived": false
+    },
+    {
+      "full_name": "Fatal1ty/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/Fatal1ty/awesome-stars",
+      "description": "A curated list of my GitHub stars! Generated by starred.",
+      "updated_at": "2026-07-13T04:09:45Z",
+      "size": 2987,
+      "archived": false
+    },
+    {
+      "full_name": "nitish3128/real_project",
+      "default_branch": "main",
+      "html_url": "https://github.com/nitish3128/real_project",
+      "description": "",
+      "updated_at": "2026-07-13T04:09:49Z",
+      "size": 7762,
+      "archived": false
+    },
+    {
+      "full_name": "stablesports711-hue/stable-sports-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/stablesports711-hue/stable-sports-iptv",
+      "description": "",
+      "updated_at": "2026-07-13T04:09:46Z",
+      "size": 3797,
+      "archived": false
+    },
+    {
+      "full_name": "jn950/live",
+      "default_branch": "main",
+      "html_url": "https://github.com/jn950/live",
+      "description": "TVBox/IPTV live source",
+      "updated_at": "2026-07-13T04:09:41Z",
+      "size": 32798,
+      "archived": false
+    },
+    {
+      "full_name": "vinswu/tv",
+      "default_branch": "main",
+      "html_url": "https://github.com/vinswu/tv",
+      "description": "\u667a\u80fd\u7535\u89c6\uff0c\u7f51\u7edc\u673a\u9876\u76d2",
+      "updated_at": "2026-07-13T04:09:44Z",
+      "size": 200586,
+      "archived": false
+    },
+    {
+      "full_name": "zhaojunliing/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/zhaojunliing/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:09:33Z",
+      "size": 2762,
+      "archived": false
+    },
+    {
+      "full_name": "viktorbezdek/awesome-github-projects",
+      "default_branch": "main",
+      "html_url": "https://github.com/viktorbezdek/awesome-github-projects",
+      "description": "Curated list of GitHub projects I starred over the years",
+      "updated_at": "2026-07-13T04:09:26Z",
+      "size": 4847,
+      "archived": false
+    },
+    {
+      "full_name": "asakura42/my-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/asakura42/my-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:09:12Z",
+      "size": 2292,
+      "archived": false
+    },
+    {
+      "full_name": "shahakshay938/shahakshay938.github.io",
+      "default_branch": "master",
+      "html_url": "https://github.com/shahakshay938/shahakshay938.github.io",
+      "description": "",
+      "updated_at": "2026-07-13T04:08:50Z",
+      "size": 353006,
+      "archived": false
+    },
+    {
+      "full_name": "Nsbx/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/Nsbx/awesome-stars",
+      "description": "My Awesome List generated by : https://github.com/abhijithvijayan/stargazed",
+      "updated_at": "2026-07-13T04:08:43Z",
+      "size": 16915,
+      "archived": false
+    },
+    {
+      "full_name": "tbeezy/ynotv",
+      "default_branch": "main",
+      "html_url": "https://github.com/tbeezy/ynotv",
+      "description": "Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration",
+      "updated_at": "2026-07-13T04:08:43Z",
+      "size": 6785,
+      "archived": false
+    },
+    {
+      "full_name": "hujingguang/ChinaIPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/hujingguang/ChinaIPTV",
+      "description": "\u4e2d\u56fd\u7535\u89c6\u76f4\u64ad\u6e90 cnTV m3u\uff08\u5b9e\u65f6\u66f4\u65b0,\u957f\u671f\u6709\u6548\uff09",
+      "updated_at": "2026-07-13T04:08:30Z",
+      "size": 131984,
+      "archived": false
+    },
+    {
+      "full_name": "xenon007/awesome-favs",
+      "default_branch": "main",
+      "html_url": "https://github.com/xenon007/awesome-favs",
+      "description": "",
+      "updated_at": "2026-07-13T04:08:30Z",
+      "size": 686,
+      "archived": false
+    },
+    {
+      "full_name": "mtsbh/my-awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/mtsbh/my-awesome-stars",
+      "description": "A curated list of my GitHub stars!",
+      "updated_at": "2026-07-13T04:08:25Z",
+      "size": 2095,
+      "archived": false
+    },
+    {
+      "full_name": "overbyrn/starred-repos",
+      "default_branch": "master",
+      "html_url": "https://github.com/overbyrn/starred-repos",
+      "description": "A curated list of my GitHub starred repos",
+      "updated_at": "2026-07-13T04:08:01Z",
+      "size": 137,
+      "archived": false
+    },
+    {
+      "full_name": "shredthaGNAR/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/shredthaGNAR/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:07:50Z",
+      "size": 19509,
+      "archived": false
+    },
+    {
+      "full_name": "yiyuqiao2748/iptv-subscription",
+      "default_branch": "master",
+      "html_url": "https://github.com/yiyuqiao2748/iptv-subscription",
+      "description": "",
+      "updated_at": "2026-07-13T04:07:48Z",
+      "size": 902,
+      "archived": false
+    },
+    {
+      "full_name": "WilliamB78/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/WilliamB78/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:07:31Z",
+      "size": 1523,
+      "archived": false
+    },
+    {
+      "full_name": "acecio/zestyall",
+      "default_branch": "main",
+      "html_url": "https://github.com/acecio/zestyall",
+      "description": "",
+      "updated_at": "2026-07-13T04:07:32Z",
+      "size": 17504,
+      "archived": false
+    },
+    {
+      "full_name": "iprtl/m3u",
+      "default_branch": "live",
+      "html_url": "https://github.com/iprtl/m3u",
+      "description": "Sobre playlist IPTV em formato M3U com \ud83d\udcfa canais de TV. Transmiss\u00f5es p\u00fablicas e oficiais e muito mais...",
+      "updated_at": "2026-07-13T04:07:24Z",
+      "size": 109948,
+      "archived": false
+    },
+    {
+      "full_name": "stingen/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/stingen/awesome-stars",
+      "description": "A curated list of my Github stars",
+      "updated_at": "2026-07-13T04:07:15Z",
+      "size": 452,
+      "archived": false
+    },
+    {
+      "full_name": "live2364li/My-awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/live2364li/My-awesome-stars",
+      "description": "Git\u9879\u76ee\u5f52\u7eb3",
+      "updated_at": "2026-07-13T04:07:08Z",
+      "size": 2388,
+      "archived": false
+    },
+    {
+      "full_name": "chuoinho/FermataX",
+      "default_branch": "main",
+      "html_url": "https://github.com/chuoinho/FermataX",
+      "description": "",
+      "updated_at": "2026-07-13T04:07:02Z",
+      "size": 17916,
+      "archived": false
+    },
+    {
+      "full_name": "qazim/IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/qazim/IPTV",
+      "description": "TurkAzeri",
+      "updated_at": "2026-07-13T04:07:03Z",
+      "size": 1156,
+      "archived": false
+    },
+    {
+      "full_name": "LIUJEI/TB",
+      "default_branch": "master",
+      "html_url": "https://github.com/LIUJEI/TB",
+      "description": "",
+      "updated_at": "2026-07-13T04:06:42Z",
+      "size": 121704,
+      "archived": false
+    },
+    {
+      "full_name": "Hu1kSmash/ha-alexa-cameras",
+      "default_branch": "main",
+      "html_url": "https://github.com/Hu1kSmash/ha-alexa-cameras",
+      "description": "Home Assistant add-on: serve RTSP cameras to Amazon Echo Show / Alexa as H.264 MPEG-TS HLS",
+      "updated_at": "2026-07-13T04:20:37Z",
+      "size": 3326,
+      "archived": false
+    },
+    {
+      "full_name": "angristan/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/angristan/awesome-stars",
+      "description": "A curated list of my GitHub stars!",
+      "updated_at": "2026-07-13T04:17:17Z",
+      "size": 7804,
+      "archived": false
+    },
+    {
+      "full_name": "jasonmorganson/stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/jasonmorganson/stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:16:29Z",
+      "size": 22480,
+      "archived": false
+    },
+    {
+      "full_name": "r0xsh/my-awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/r0xsh/my-awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:15:53Z",
+      "size": 5806,
+      "archived": false
+    },
+    {
+      "full_name": "CourtsideVideoEntertainment/OverlayScheduledPlayer",
+      "default_branch": "master",
+      "html_url": "https://github.com/CourtsideVideoEntertainment/OverlayScheduledPlayer",
+      "description": "Clone of Rohan's ScheduledPlayer with Overlay modification",
+      "updated_at": "2026-07-13T04:14:31Z",
+      "size": 58601,
+      "archived": false
+    },
+    {
+      "full_name": "weslleyfreitassantos-cell/TecLive-Monitor",
+      "default_branch": "main",
+      "html_url": "https://github.com/weslleyfreitassantos-cell/TecLive-Monitor",
+      "description": "",
+      "updated_at": "2026-07-13T04:13:25Z",
+      "size": 84886,
+      "archived": false
+    },
+    {
+      "full_name": "phanirithvij/stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/phanirithvij/stars",
+      "description": "starred repos autogenerated",
+      "updated_at": "2026-07-13T04:13:09Z",
+      "size": 6282,
+      "archived": false
+    },
+    {
+      "full_name": "pluja/stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/pluja/stars",
+      "description": "My stars, organized",
+      "updated_at": "2026-07-13T04:12:39Z",
+      "size": 8763,
+      "archived": false
+    },
+    {
+      "full_name": "shelken/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/shelken/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:42Z",
+      "size": 2846,
+      "archived": false
+    },
+    {
+      "full_name": "anxkhn/my-awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/anxkhn/my-awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:25Z",
+      "size": 3504,
+      "archived": false
+    },
+    {
+      "full_name": "lfisher447-afk/App",
+      "default_branch": "main",
+      "html_url": "https://github.com/lfisher447-afk/App",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:09Z",
+      "size": 0,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/JCOM-TV-EPG",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/JCOM-TV-EPG",
+      "description": "XML EPG for JCOM TV channels",
+      "updated_at": "2026-07-13T04:11:13Z",
+      "size": 3671106,
+      "archived": false
+    },
+    {
+      "full_name": "Izumiko/mystars",
+      "default_branch": "master",
+      "html_url": "https://github.com/Izumiko/mystars",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:04Z",
+      "size": 2504,
+      "archived": false
+    },
+    {
+      "full_name": "Ratakor/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/Ratakor/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:09:02Z",
+      "size": 1677,
+      "archived": false
+    },
+    {
+      "full_name": "jayfunc/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/jayfunc/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:08:21Z",
+      "size": 1016,
+      "archived": false
+    },
+    {
+      "full_name": "1vishen/my-github-Stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/1vishen/my-github-Stars",
+      "description": "Personal list of all my github starred repos. ",
+      "updated_at": "2026-07-13T04:07:39Z",
+      "size": 1829,
+      "archived": false
+    },
+    {
+      "full_name": "AJayBBB/stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/AJayBBB/stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:06:39Z",
+      "size": 1498,
+      "archived": false
+    },
+    {
+      "full_name": "SHAJON-404/iptv-web",
+      "default_branch": "main",
+      "html_url": "https://github.com/SHAJON-404/iptv-web",
+      "description": "\ud83c\udf0d IPTV Playlists Hub",
+      "updated_at": "2026-07-13T04:06:19Z",
+      "size": 2248,
+      "archived": false
+    },
+    {
+      "full_name": "byte-capsule/FanCode-Hls-Fetcher",
+      "default_branch": "main",
+      "html_url": "https://github.com/byte-capsule/FanCode-Hls-Fetcher",
+      "description": "Automatically updated list of FanCode Live Matches Links(provided as json-file ,PlayList)",
+      "updated_at": "2026-07-13T04:03:20Z",
+      "size": 408844,
+      "archived": false
+    },
+    {
+      "full_name": "prathvikothari/HLS-Proxy-Worker",
+      "default_branch": "master",
+      "html_url": "https://github.com/prathvikothari/HLS-Proxy-Worker",
+      "description": "\ud83d\udcfa Fetch and rewrite HLS (`.m3u8`) playlists with this Cloudflare Worker, ensuring smooth streaming and custom headers for IPTV and media apps.",
+      "updated_at": "2026-07-13T04:03:22Z",
+      "size": 1928,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/SKY-PerfecTV-EPG",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/SKY-PerfecTV-EPG",
+      "description": "XML EPG for SKY PerfecTV! channels",
+      "updated_at": "2026-07-13T04:03:05Z",
+      "size": 700345,
+      "archived": false
+    },
+    {
+      "full_name": "atsushi444/iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/atsushi444/iptv",
+      "description": "",
+      "updated_at": "2026-07-13T04:02:25Z",
+      "size": 159685,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/TVer-EPG",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/TVer-EPG",
+      "description": "XML EPG for TVer channels",
+      "updated_at": "2026-07-13T04:02:16Z",
+      "size": 3383,
+      "archived": false
+    },
+    {
+      "full_name": "sm-monirulislam/FanCode-Auto-Update-Playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/sm-monirulislam/FanCode-Auto-Update-Playlist",
+      "description": "Automatically updated list of FanCode Live Matches Links(provided as json-file or PlayList)",
+      "updated_at": "2026-07-13T04:01:14Z",
+      "size": 2825,
+      "archived": false
+    },
+    {
+      "full_name": "sm-monirulislam/Tapmad_Auto_Update_Playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/sm-monirulislam/Tapmad_Auto_Update_Playlist",
+      "description": "",
+      "updated_at": "2026-07-13T04:01:01Z",
+      "size": 140,
+      "archived": false
+    },
+    {
+      "full_name": "natasLT/AI2001_Category-Source_Code-SC-M3U",
+      "default_branch": "AI2001_Category-Source_Code-SC-M3U_Main-dev",
+      "html_url": "https://github.com/natasLT/AI2001_Category-Source_Code-SC-M3U",
+      "description": "AI2001_Category-Source_Code-SC-M3U provides M3U playlist source code for category-based streaming\u2014parsers, generators, and examples for developers and automation. :octocat:",
+      "updated_at": "2026-07-13T04:00:55Z",
+      "size": 2439,
+      "archived": false
+    },
+    {
+      "full_name": "wuluxiao/iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/wuluxiao/iptv",
+      "description": "",
+      "updated_at": "2026-07-13T04:00:58Z",
+      "size": 91,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/Abema-TV-EPG",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/Abema-TV-EPG",
+      "description": "XML EPG for Abema TV channels",
+      "updated_at": "2026-07-13T04:00:51Z",
+      "size": 664987,
+      "archived": false
+    },
+    {
+      "full_name": "cherish9051-cloud/iptv-list",
+      "default_branch": "main",
+      "html_url": "https://github.com/cherish9051-cloud/iptv-list",
+      "description": "",
+      "updated_at": "2026-07-13T04:00:41Z",
+      "size": 24,
+      "archived": false
+    },
+    {
+      "full_name": "zxp19821005/My_AUR_Files",
+      "default_branch": "main",
+      "html_url": "https://github.com/zxp19821005/My_AUR_Files",
+      "description": "Store My AUR Files Only",
+      "updated_at": "2026-07-13T04:00:10Z",
+      "size": 56070,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/Hikari-TV-EPG",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/Hikari-TV-EPG",
+      "description": "XML EPG for Hikari TV channels",
+      "updated_at": "2026-07-13T03:59:23Z",
+      "size": 654658,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/mewatch-EPG",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/mewatch-EPG",
+      "description": "XML EPG for mewatch channels",
+      "updated_at": "2026-07-13T03:57:46Z",
+      "size": 68645,
+      "archived": false
+    },
+    {
+      "full_name": "shakil951/farabi-live-tv",
+      "default_branch": "main",
+      "html_url": "https://github.com/shakil951/farabi-live-tv",
+      "description": "\ud83c\udfac A fully automated IPTV M3U playlist scraper that auto-updates live TV channels and movie streams every 3 hours using Python and GitHub Actions. Developed by Farabi.",
+      "updated_at": "2026-07-13T03:55:29Z",
+      "size": 68,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/Dummy-EPG",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/Dummy-EPG",
+      "description": "Dummy XML EPG for all time zones in the world",
+      "updated_at": "2026-07-13T03:54:45Z",
+      "size": 33590,
+      "archived": false
+    },
+    {
+      "full_name": "OinktechLLC/livem3u",
+      "default_branch": "main",
+      "html_url": "https://github.com/OinktechLLC/livem3u",
+      "description": "",
+      "updated_at": "2026-07-13T03:52:32Z",
+      "size": 819359,
+      "archived": false
+    },
+    {
+      "full_name": "twitchy2u/epg-light",
+      "default_branch": "main",
+      "html_url": "https://github.com/twitchy2u/epg-light",
+      "description": "",
+      "updated_at": "2026-07-13T03:51:27Z",
+      "size": 14603,
+      "archived": false
+    },
+    {
+      "full_name": "dbghelp/Abema-TV",
+      "default_branch": "main",
+      "html_url": "https://github.com/dbghelp/Abema-TV",
+      "description": "Watch Abema TV channels with EPG",
+      "updated_at": "2026-07-13T04:21:43Z",
+      "size": 64452,
+      "archived": false
+    },
+    {
+      "full_name": "ur4ltz/awesome-stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/ur4ltz/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:19:07Z",
+      "size": 7709,
+      "archived": false
+    },
+    {
+      "full_name": "linzeliang1222/my-awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/linzeliang1222/my-awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:14:14Z",
+      "size": 1714,
+      "archived": false
+    },
+    {
+      "full_name": "raulshma/jellyplay",
+      "default_branch": "main",
+      "html_url": "https://github.com/raulshma/jellyplay",
+      "description": "Jellyfin client for Android, Android TV & Fire TV. Native Kotlin/Jetpack Compose app with ExoPlayer, mpv & VLC playback, synced-lyrics music, offline downloads, SyncPlay, IPTV, and Jellyseerr/Overseerr requests. Open-source self-hosted media player.",
+      "updated_at": "2026-07-13T04:13:29Z",
+      "size": 22399,
+      "archived": false
+    },
+    {
+      "full_name": "mehdichaouch/awesome-stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/mehdichaouch/awesome-stars",
+      "description": "\u2b50 My own GitHub stars",
+      "updated_at": "2026-07-13T04:13:24Z",
+      "size": 2673,
+      "archived": false
+    },
+    {
+      "full_name": "Tobi-De/starred-list",
+      "default_branch": "master",
+      "html_url": "https://github.com/Tobi-De/starred-list",
+      "description": "",
+      "updated_at": "2026-07-13T04:13:09Z",
+      "size": 5219,
+      "archived": false
+    },
+    {
+      "full_name": "matyo91/awesome-stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/matyo91/awesome-stars",
+      "description": "\ud83c\udf1f A curated list of my GitHub stars!",
+      "updated_at": "2026-07-13T04:12:43Z",
+      "size": 4648,
+      "archived": false
+    },
+    {
+      "full_name": "fire17/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/fire17/awesome-stars",
+      "description": "Curated List of all my starred repos on github",
+      "updated_at": "2026-07-13T04:12:01Z",
+      "size": 9107,
+      "archived": false
+    },
+    {
+      "full_name": "SkYNewZ/awesome-stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/SkYNewZ/awesome-stars",
+      "description": "My awesome stars list",
+      "updated_at": "2026-07-13T04:11:57Z",
+      "size": 2961,
+      "archived": false
+    },
+    {
+      "full_name": "maddawik/starred",
+      "default_branch": "main",
+      "html_url": "https://github.com/maddawik/starred",
+      "description": "Maddawiks starred repos categorized by language and topic",
+      "updated_at": "2026-07-13T04:11:27Z",
+      "size": 2744,
+      "archived": false
+    },
+    {
+      "full_name": "smtdev/my-awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/smtdev/my-awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T04:11:21Z",
+      "size": 3143,
+      "archived": false
+    },
+    {
+      "full_name": "kpatdev/starred",
+      "default_branch": "master",
+      "html_url": "https://github.com/kpatdev/starred",
+      "description": "An automated list of my GitHub stars!",
+      "updated_at": "2026-07-13T04:10:31Z",
+      "size": 3971,
+      "archived": false
+    },
+    {
+      "full_name": "fluteds/starred",
+      "default_branch": "main",
+      "html_url": "https://github.com/fluteds/starred",
+      "description": "All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order",
+      "updated_at": "2026-07-13T04:10:13Z",
+      "size": 2388,
+      "archived": false
+    },
+    {
+      "full_name": "JarrodLambert/Github-Shooting-Stars",
+      "default_branch": "main",
+      "html_url": "https://github.com/JarrodLambert/Github-Shooting-Stars",
+      "description": "A More Organised Way To View My Github Stars",
+      "updated_at": "2026-07-13T04:09:43Z",
+      "size": 18877,
+      "archived": false
+    },
+    {
+      "full_name": "PhoenixR49/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/PhoenixR49/awesome-stars",
+      "description": "My awesome stars",
+      "updated_at": "2026-07-13T04:09:11Z",
+      "size": 2158,
+      "archived": false
+    },
+    {
+      "full_name": "konekoya/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/konekoya/awesome-stars",
+      "description": "A list of my starred GitHub repos",
+      "updated_at": "2026-07-13T04:09:10Z",
+      "size": 3351,
+      "archived": false
+    },
+    {
+      "full_name": "thomasbnt/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/thomasbnt/awesome-stars",
+      "description": "A curated list of my GitHub stars!",
+      "updated_at": "2026-07-13T04:07:37Z",
+      "size": 3937,
+      "archived": false
+    }
+  ],
+  "playlist_files": [
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/channels.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-channels.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/fifa-wc.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-fifa-wc.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/ind.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-ind.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/index.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-index.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/mq.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-mq.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/pk.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-pk.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/qa.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-qa.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/sa.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-sa.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/uk.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-uk.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "channels/us.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__channels-us.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "index.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__index.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "islamic/al-quran.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__islamic-al-quran.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "islamic/gojol.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__islamic-gojol.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "islamic/index.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__islamic-index.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "islamic/waaz.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__islamic-waaz.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "movies/bangla-dubbed.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__movies-bangla-dubbed.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "movies/bengali-movies.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__movies-bengali-movies.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "movies/bollywood.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__movies-bollywood.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "movies/index.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__movies-index.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "natok/2026.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__natok-2026.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "natok/index.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__natok-index.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "series/all-series.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__series-all-series.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "series/hatim.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__series-hatim.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "series/index.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__series-index.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "songs/bengali.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__songs-bengali.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "songs/hindi-songs.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__songs-hindi-songs.m3u"
+    },
+    {
+      "repository": "piyashltd/all-in-one",
+      "file": "songs/index.m3u",
+      "cached_as": "github_m3u_cache/piyashltd-all-in-one__songs-index.m3u"
+    },
+    {
+      "repository": "srhady/tapmad-bd",
+      "file": "tapmad_bd.m3u",
+      "cached_as": "github_m3u_cache/srhady-tapmad-bd__tapmad_bd.m3u"
+    },
+    {
+      "repository": "JE668/iptv-api",
+      "file": "output/ipv4/result.m3u",
+      "cached_as": "github_m3u_cache/JE668-iptv-api__output-ipv4-result.m3u"
+    },
+    {
+      "repository": "JE668/iptv-api",
+      "file": "output/ipv6/result.m3u",
+      "cached_as": "github_m3u_cache/JE668-iptv-api__output-ipv6-result.m3u"
+    },
+    {
+      "repository": "JE668/iptv-api",
+      "file": "output/result.m3u",
+      "cached_as": "github_m3u_cache/JE668-iptv-api__output-result.m3u"
+    },
+    {
+      "repository": "gambiarras/legal-iptv",
+      "file": "playlist.m3u",
+      "cached_as": "github_m3u_cache/gambiarras-legal-iptv__playlist.m3u"
+    },
+    {
+      "repository": "c42cc/live-tv-pipeline",
+      "file": "dist/playlist.m3u",
+      "cached_as": "github_m3u_cache/c42cc-live-tv-pipeline__dist-playlist.m3u"
+    },
+    {
+      "repository": "shahriyarsojibhasan/SHAHRIYAR-LIVE-TV",
+      "file": "SHAHRIYAR-LIVE-TV-APP.m3u",
+      "cached_as": "github_m3u_cache/shahriyarsojibhasan-SHAHRIYAR-LIVE-TV__SHAHRIYAR-LIVE-TV-APP.m3u"
+    },
+    {
+      "repository": "shahriyarsojibhasan/SHAHRIYAR-LIVE-TV",
+      "file": "SHAHRIYAR-LIVE-TV.m3u",
+      "cached_as": "github_m3u_cache/shahriyarsojibhasan-SHAHRIYAR-LIVE-TV__SHAHRIYAR-LIVE-TV.m3u"
+    },
+    {
+      "repository": "shahriyarsojibhasan/SHAHRIYAR-LIVE-TV",
+      "file": "assest/shahriyarlivetv.m3u8",
+      "cached_as": "github_m3u_cache/shahriyarsojibhasan-SHAHRIYAR-LIVE-TV__assest-shahriyarlivetv.m3u8"
+    },
+    {
+      "repository": "MRM3UK/test-",
+      "file": "playlist.m3u",
+      "cached_as": "github_m3u_cache/MRM3UK-test__playlist.m3u"
+    },
+    {
+      "repository": "theramindex/silo-plugin-xtream-library",
+      "file": "testdata/m3u/sample.m3u",
+      "cached_as": "github_m3u_cache/theramindex-silo-plugin-xtream-library__testdata-m3u-sample.m3u"
+    },
+    {
+      "repository": "DevelopersCoffee/barista-tuning",
+      "file": "tests/fixtures/airo_iptv/source.m3u",
+      "cached_as": "github_m3u_cache/DevelopersCoffee-barista-tuning__tests-fixtures-airo_iptv-source.m3u"
+    },
+    {
+      "repository": "stablesports711-hue/stable-sports-iptv",
+      "file": " Nahid.m3u",
+      "cached_as": "github_m3u_cache/stablesports711-hue-stable-sports-iptv__Nahid.m3u"
+    },
+    {
+      "repository": "stablesports711-hue/stable-sports-iptv",
+      "file": "Ii.m3u8",
+      "cached_as": "github_m3u_cache/stablesports711-hue-stable-sports-iptv__Ii.m3u8"
+    },
+    {
+      "repository": "stablesports711-hue/stable-sports-iptv",
+      "file": "STABLE-SPORTS TV.m3u",
+      "cached_as": "github_m3u_cache/stablesports711-hue-stable-sports-iptv__STABLE-SPORTS-TV.m3u"
+    },
+    {
+      "repository": "stablesports711-hue/stable-sports-iptv",
+      "file": "Siam.m3u",
+      "cached_as": "github_m3u_cache/stablesports711-hue-stable-sports-iptv__Siam.m3u"
+    },
+    {
+      "repository": "stablesports711-hue/stable-sports-iptv",
+      "file": "exp:20-6-2026.m3u",
+      "cached_as": "github_m3u_cache/stablesports711-hue-stable-sports-iptv__exp-20-6-2026.m3u"
+    },
+    {
+      "repository": "jn950/live",
+      "file": "tv/holive.m3u",
+      "cached_as": "github_m3u_cache/jn950-live__tv-holive.m3u"
+    },
+    {
+      "repository": "jn950/live",
+      "file": "tv/ysp1.m3u",
+      "cached_as": "github_m3u_cache/jn950-live__tv-ysp1.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-03-19.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-03-19.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-11.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-11.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-12.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-12.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-13.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-13.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-14.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-14.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-15.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-15.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-16.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-16.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-17.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-17.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-18.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-18.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-19.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-19.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-20.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-20.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-23.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-23.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-04-24.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-04-24.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-05-09.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-05-09.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/playlist-2026-05-10.m3u",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-playlist-2026-05-10.m3u"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/24news-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-24news-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/7smusic-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-7smusic-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/9xjhakaas-in-sd-9x-jhakaas-1080p-2.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-9xjhakaas-in-sd-9x-jhakaas-1080p-2.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/9xjhakaas-in-sd-9x-jhakaas-1080p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-9xjhakaas-in-sd-9x-jhakaas-1080p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/9xjhakaas-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-9xjhakaas-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/9xm-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-9xm-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/9xtashan-in-sd-9x-tashan-1080p-2.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-9xtashan-in-sd-9x-tashan-1080p-2.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/9xtashan-in-sd-9x-tashan-1080p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-9xtashan-in-sd-9x-tashan-1080p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/9xtashan-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-9xtashan-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aajtak-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aajtak-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aakaashaath-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aakaashaath-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aaseervathamtv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aaseervathamtv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aastha-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aastha-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aasthabhajan-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aasthabhajan-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aasthagujarati-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aasthagujarati-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aasthakannada-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aasthakannada-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aasthatamil-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aasthatamil-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aasthatelugu-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aasthatelugu-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/abpananda-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-abpananda-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/abpganga-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-abpganga-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/abpnews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-abpnews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/abzydhakad-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-abzydhakad-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/abzymovies-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-abzymovies-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/adhyatmtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-adhyatmtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/akdcalcuttanews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-akdcalcuttanews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/alankartv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-alankartv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/amritatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-amritatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/anandabarta-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-anandabarta-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/anandtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-anandtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/andpictures-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-andpictures-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/andtv-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-andtv-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/andtv-in-international.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-andtv-in-international.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/andtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-andtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/andtvinternational-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-andtvinternational-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/angeltv-in-australia.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-angeltv-in-australia.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/angeltv-in-russian.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-angeltv-in-russian.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/animaxasiaindia.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-animaxasiaindia.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/annnews-in-hd-ann-news-1080p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-annnews-in-hd-ann-news-1080p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/annnews-in-hd-ann-news-720p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-annnews-in-hd-ann-news-720p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/annnews-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-annnews-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/apn-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-apn-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/apnapunjabtv-ca-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-apnapunjabtv-ca-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/aryantvnational-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-aryantvnational-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/asianet-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-asianet-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/asianetmiddleeast-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-asianetmiddleeast-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/assamtalks-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-assamtalks-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/awaazindiatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-awaazindiatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4ubhojpuri-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4ubhojpuri-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4ukadak-in-sd-b4u-kadak-1080p-geo-blocked.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4ukadak-in-sd-b4u-kadak-1080p-geo-blocked.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4ukadak-in-sd-b4u-kadak-1080p-not-24-7.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4ukadak-in-sd-b4u-kadak-1080p-not-24-7.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4ukadak-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4ukadak-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4umovies-in-india-b4u-movies-1080p-geo-blocked.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4umovies-in-india-b4u-movies-1080p-geo-blocked.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4umovies-in-india-b4u-movies-india-1080p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4umovies-in-india-b4u-movies-india-1080p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4umovies-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4umovies-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/b4umusic-in-india.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-b4umusic-in-india.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/balleballe-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-balleballe-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/bhaktisagar-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-bhaktisagar-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/bharatexpress-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-bharatexpress-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/bharatsamachar-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-bharatsamachar-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/bhojpuricinema-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-bhojpuricinema-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/bigtv24x7-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-bigtv24x7-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/bvg-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-bvg-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/calvarytv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-calvarytv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ccv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ccv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/channeldivya-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-channeldivya-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/channely-ca-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-channely-ca-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/chardiklagurbaanitv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-chardiklagurbaanitv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/chardiklatimetv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-chardiklatimetv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/chardiklatimetvnorthamerica-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-chardiklatimetvnorthamerica-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colors-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colors-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colors-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colors-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colors-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colors-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colorsbangla-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colorsbangla-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colorscineplexbollywood-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colorscineplexbollywood-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colorsinfinity-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colorsinfinity-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colorstamil-in-hd-colors-tamil-hd-1080p-2.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colorstamil-in-hd-colors-tamil-hd-1080p-2.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colorstamil-in-hd-colors-tamil-hd-1080p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colorstamil-in-hd-colors-tamil-hd-1080p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/colorstamil-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-colorstamil-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ctvnakdplus-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ctvnakdplus-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/cvrnews-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-cvrnews-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/dangal2-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-dangal2-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/dangaltv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-dangaltv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/darshan24-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-darshan24-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/darshanatv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-darshanatv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ddnews-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ddnews-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/desichannel-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-desichannel-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/dharmsandesh-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-dharmsandesh-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/dharsantv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-dharsantv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/dishatv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-dishatv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/disneychannel-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-disneychannel-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/divyavanitv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-divyavanitv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/e24-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-e24-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/eettv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-eettv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/enterr10bangla-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-enterr10bangla-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/epicbharat-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-epicbharat-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/etnowswadesh-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-etnowswadesh-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/etvandhrapradesh-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-etvandhrapradesh-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/etvcinema-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-etvcinema-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/etvlife-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-etvlife-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/fatehtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-fatehtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/firstindianews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-firstindianews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/gaundapunjabtv.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-gaundapunjabtv.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/globalpunjab-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-globalpunjab-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/globalpunjab-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-globalpunjab-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/goa365-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-goa365-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/goodnewstv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-goodnewstv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/gracetv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-gracetv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/gstv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-gstv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/gulistannews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-gulistannews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/gyandarshan-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-gyandarshan-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/hamdardtv-ca-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-hamdardtv-ca-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/harvesttv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-harvesttv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/harvesttvkeralam-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-harvesttvkeralam-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/harvestusa-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-harvestusa-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/hebrontv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-hebrontv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/highnews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-highnews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/hnn24x7-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-hnn24x7-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/hopechannelindia-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-hopechannelindia-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/hungamatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-hungamatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/hydertv.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-hydertv.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/indiaahead-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-indiaahead-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/indiatoday-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-indiatoday-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/indiatoday-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-indiatoday-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/indiatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-indiatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/indiatvspeednews-in-hd-india-tv-speed-news-1080p-2.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-indiatvspeednews-in-hd-india-tv-speed-news-1080p-2.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/indiatvspeednews-in-hd-india-tv-speed-news-1080p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-indiatvspeednews-in-hd-india-tv-speed-news-1080p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/indiavoice-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-indiavoice-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/inh24x7-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-inh24x7-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/insync-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-insync-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/isaiaruvi-in-sd-isai-aruvi-396p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-isaiaruvi-in-sd-isai-aruvi-396p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/isaiaruvi-in-sd-isai-aruvi-576p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-isaiaruvi-in-sd-isai-aruvi-576p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ishwarbhaktitv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ishwarbhaktitv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/jaihindtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-jaihindtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/jalshamovies-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-jalshamovies-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/janamtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-janamtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/jantatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-jantatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/jayaplus-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-jayaplus-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/jk24x7news-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-jk24x7news-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kairaliarabia-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kairaliarabia-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kairalitv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kairalitv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kalaignarmurasu-in-sd-kalaignar-murasu-396p-not-24-7.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kalaignarmurasu-in-sd-kalaignar-murasu-396p-not-24-7.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kalaignarmurasu-in-sd-kalaignar-murasu-396p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kalaignarmurasu-in-sd-kalaignar-murasu-396p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kalaignarseithigal-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kalaignarseithigal-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kalaignartv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kalaignartv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kannurvision-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kannurvision-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kashishnews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kashishnews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kaumudytv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kaumudytv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/kcm.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-kcm.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/keralavision-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-keralavision-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/khabarfast-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-khabarfast-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/khabrainabhitak-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-khabrainabhitak-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ktvbangla-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ktvbangla-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/lifetv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-lifetv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mahaabhakti-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mahaabhakti-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mahaamax-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mahaamax-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mahaanews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mahaanews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/makkaltv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-makkaltv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/malaimurasutv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-malaimurasutv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mangomobiletv-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mangomobiletv-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/manoramanews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-manoramanews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/marutamtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-marutamtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mathrubhuminews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mathrubhuminews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/maxmovies-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-maxmovies-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mazhavilmanorama-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mazhavilmanorama-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mazhavilmanorama-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mazhavilmanorama-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mbctv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mbctv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mercytv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mercytv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/metrotv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-metrotv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mh1news-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mh1news-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mirrornow-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mirrornow-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mirrornow-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mirrornow-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mnadutv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mnadutv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/mtv-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-mtv-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/namdharitv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-namdharitv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nationalgeographic-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nationalgeographic-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nationalgeographicwild-in-hd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nationalgeographicwild-in-hd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nationalgeographicwild-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nationalgeographicwild-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ndtv24x7-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ndtv24x7-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ndtvindia-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ndtvindia-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ndtvindia-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ndtvindia-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ndtvprofit-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ndtvprofit-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nenews-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nenews-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nepal1-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nepal1-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/network10-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-network10-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/news24-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-news24-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/news7tamil-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-news7tamil-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/news9live-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-news9live-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/newsmalayalam24x7-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-newsmalayalam24x7-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/newsnation-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-newsnation-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/newstamil24x7-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-newstamil24x7-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nickelodeon-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nickelodeon-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nickjr-in-sd-nick-jr-576p-2.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nickjr-in-sd-nick-jr-576p-2.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nickjr-in-sd-nick-jr-576p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nickjr-in-sd-nick-jr-576p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/nkrtvkannada-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-nkrtvkannada-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ntctv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ntctv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ntvtelugu-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ntvtelugu-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/olitv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-olitv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/omtv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-omtv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/onkaronlytruthtv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-onkaronlytruthtv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/parasgold-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-parasgold-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/pmctelugu-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-pmctelugu-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/polimernews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-polimernews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/powertv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-powertv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/prarthanatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-prarthanatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/prarthanatv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-prarthanatv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/prathamkhabar24x7-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-prathamkhabar24x7-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/pravasichannel-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-pravasichannel-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/prime9news-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-prime9news-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/prudentmedia-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-prudentmedia-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ptcmusic-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ptcmusic-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ptcpunjabi-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ptcpunjabi-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ptcpunjabi-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ptcpunjabi-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/publicmovies-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-publicmovies-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/pularitv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-pularitv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/puthiyathalaimurai-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-puthiyathalaimurai-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/puthuyugamtv-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-puthuyugamtv-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/qelloconcertsbystingray.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-qelloconcertsbystingray.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rajmusixkannada-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rajmusixkannada-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rajmusixmalayalam-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rajmusixmalayalam-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rajmusixtamil-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rajmusixtamil-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rajnewskannada-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rajnewskannada-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rajnewsmalayalam-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rajnewsmalayalam-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rajnewstelugu-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rajnewstelugu-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/ramdhenu-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-ramdhenu-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rang-in.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rang-in.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/realnewskerala-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-realnewskerala-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/reportertv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-reportertv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/republicbharat-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-republicbharat-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/republictv-in-sd-republic-tv-1080p-geo-blocked.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-republictv-in-sd-republic-tv-1080p-geo-blocked.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/republictv-in-sd-republic-tv-1080p.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-republictv-in-sd-republic-tv-1080p.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rojatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rojatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/romedynow-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-romedynow-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rongeentv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rongeentv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rozanaspokesman-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rozanaspokesman-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/rplus-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-rplus-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/sadatv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-sadatv-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/sadhna-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-sadhna-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/sadhnaplusnews-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-sadhnaplusnews-in-sd.m3u8"
+    },
+    {
+      "repository": "shahakshay938/shahakshay938.github.io",
+      "file": "backups/streams/2026-05-09/safaritv-in-sd.m3u8",
+      "cached_as": "github_m3u_cache/shahakshay938-shahakshay938.github.io__backups-streams-2026-05-09-safaritv-in-sd.m3u8"
+    }
+  ],
+  "candidates": []
+}

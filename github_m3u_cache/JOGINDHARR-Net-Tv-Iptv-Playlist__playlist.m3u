@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JOGINDHARR/Net-Tv-Iptv-Playlist/main/webtv.xml.gz"
+# Created by: @DIWASXD | Date: 2026-07-14 02:53:32
+
+#EXTINF:-1 tvg-id="p1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Kantipur_TV_HD_Logo.png" group-title="News", Kantipur TV HD
+https://kantipur-hls.ykms.com.np/kantipur/kantipur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="p2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Nepal_Television_logo.png" group-title="News", Nepal TV HD
+https://ntv.ykms.com.np/ntv/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="p3" tvg-logo="https://ap1.tv/wp-content/uploads/2017/03/ap1-logo.png" group-title="Entertainment", AP1 HD
+https://ap1-hls.ykms.com.np/ap1/ap1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="p4" tvg-logo="https://himalayatv.com/wp-content/themes/himalaya/images/logo.png" group-title="News", Himalaya TV HD
+https://himalaya-hls.ykms.com.np/himalaya/himalaya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="p5" tvg-logo="https://imagechannel.com.np/wp-content/uploads/2018/01/image-logo.png" group-title="News", Image Channel
+https://image-hls.ykms.com.np/image/image/playlist.m3u8
+
+#EXTINF:-1 tvg-id="p6" tvg-logo="https://abcnews.com.np/wp-content/uploads/2017/08/abc-logo.png" group-title="News", ABC News Nepal
+https://abc-hls.ykms.com.np/abc/abc/playlist.m3u8
+

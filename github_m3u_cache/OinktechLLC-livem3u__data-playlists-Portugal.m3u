@@ -1,0 +1,30 @@
+#EXTM3U
+# Обновлено: 2026-07-13 21:09:35
+# Всего каналов: 20217
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Portugal
+# Каналов: 6
+# Обновлено: 2026-07-13 21:09:35
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="CNN Portugal" group-title="Portugal",CNN Portugal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+
+#EXTINF:-1 tvg-name="Euronews em Português Ⓨ" group-title="Portugal",Euronews em Português Ⓨ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/euronewspt/live
+
+#EXTINF:-1 tvg-name="RTP1" group-title="Portugal",RTP1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTP3" group-title="Portugal",RTP3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-name="Porto Canal Ⓢ" group-title="Portugal",Porto Canal Ⓢ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ADtv Ⓢ" group-title="Portugal",ADtv Ⓢ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
+

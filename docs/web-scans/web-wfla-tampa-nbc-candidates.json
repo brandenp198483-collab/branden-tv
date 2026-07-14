@@ -1,0 +1,19 @@
+{
+  "target": "WFLA Tampa NBC",
+  "queries": [
+    "\"WFLA Tampa NBC\" m3u8",
+    "\"WFLA Tampa NBC\" m3u",
+    "\"WFLA Tampa NBC\" HLS stream",
+    "\"WFLA Tampa NBC\" playlist",
+    "\"WFLA Tampa NBC\" live stream URL",
+    "\"WFLA Tampa NBC\" IPTV",
+    "\"WFLA Tampa NBC\" filetype:m3u8",
+    "\"WFLA Tampa NBC\" filetype:m3u",
+    "site:github.com \"WFLA Tampa NBC\" m3u8",
+    "site:gist.github.com \"WFLA Tampa NBC\"",
+    "site:gitlab.com \"WFLA Tampa NBC\" m3u8",
+    "site:pastebin.com \"WFLA Tampa NBC\" m3u8"
+  ],
+  "result_pages": 0,
+  "candidates": []
+}

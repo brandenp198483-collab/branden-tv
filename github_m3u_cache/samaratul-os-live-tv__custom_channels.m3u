@@ -1,0 +1,34 @@
+#EXTM3U
+# Custom links added manually from the internet. Add your own below.
+
+# --- COLORS TV (Internet Streams - May be unstable) ---
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Hindi",Colors TV (Custom Server 1)
+http://stream.example.com/colors1/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Hindi",Colors TV (Custom Server 2)
+http://stream.example.com/colors2/index.m3u8
+
+# --- EXTRA NEPALI CHANNELS ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/himalaya.png" group-title="Nepali",Himalaya TV HD
+https://himalayatv.streamurl.com/live/himalaya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nepal1.png" group-title="Nepali",Nepal 1 HD
+https://nepal1.streamurl.com/live/nepal1/playlist.m3u8
+#EXTINF:-1 group-title="Nepali",NTV Plus
+http://placeholder.stream/ntvplus.m3u8
+#EXTINF:-1 group-title="Nepali",Avenues TV
+http://placeholder.stream/avenues.m3u8
+#EXTINF:-1 group-title="Nepali",Image Channel
+http://placeholder.stream/image.m3u8
+#EXTINF:-1 group-title="Nepali",Sagarmatha TV
+http://placeholder.stream/sagarmatha.m3u8
+
+# --- EXTRA BHOJPURI CHANNELS ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhojpuri.png" group-title="Bhojpuri",Big Ganga
+https://bigganga.streamurl.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Bhojpuri",Dangal Bhojpuri
+http://placeholder.stream/dangal_bhoj.m3u8
+#EXTINF:-1 group-title="Bhojpuri",Mahuwa Plus
+http://placeholder.stream/mahuwa.m3u8
+#EXTINF:-1 group-title="Bhojpuri",Dishum TV
+http://placeholder.stream/dishum.m3u8
+#EXTINF:-1 group-title="Bhojpuri",Bhojpuri Cinema HD
+http://placeholder.stream/bhojpuri_cinema_hd.m3u8

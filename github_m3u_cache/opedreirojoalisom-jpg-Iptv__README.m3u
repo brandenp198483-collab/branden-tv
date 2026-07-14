@@ -1,0 +1,1161 @@
+#EXTM3U
+
+#EXTINF:1 tvg-logo="http://thecelebrityspycom.ipage.com/wp-content/uploads/2016/04/whatsapp-logo-transparent-2.png" group-title="WHATSAPP", WHATSSAP (85) 9 9733-9155
+
+
+##################################################################################### REALITY SHOW
+
+#EXTINF:-1 tvg-id="A Fazenda" tvg-logo="http://s26.postimg.org/gxh3my7hl/a-fazenda-nova-chance.jpg" group-title="REALITY SHOW",A Fazenda Nova Chance
+http://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8
+
+
+####################################################################################TV ABERTA CEARA
+
+#EXTINF:-1 tvg-id="TV Diario CE [Brasil]" tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",TV Diario CE
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV Jangadeiro - SBT CE [Brasil]" tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",TV Jangadeiro - SBT CE
+rtmp://189.45.79.251/livepkgr/tvjangadeiro1
+
+#EXTINF:-1 tvg-id="TV Jangadeiro - SBT CE [Brasil]" tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",TV Jangadeiro - SBT CE
+rtmp://189.45.79.251/livepkgr//tvjangadeiro1
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",TV Metropole CE
+http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/chunklist_w529760777.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",TV Somzoom CE
+http://srv3.zoeweb.tv/z443-live/stream1/chunklist_w1234416268.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",Tv Assembleia Ceará
+http://srv6.zoeweb.tv:1935/z404-live/stream/chunklist_w76368286.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",TV União CE (Rede União)
+http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8?wowzasessionid=1843050145
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",TVC - TV Ceará
+http://tvconline.tvceara.ce.gov.br:50000/stream.flv
+
+
+####################################################################################TV ABERTA
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangelico", Música Gospel
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", IMPD Tv
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Lbv
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Portal Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Sky Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Tv Boa Esperança
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Tv Cristo Vive
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/_definst_/live_apostolo_115/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Tv Cristo Vive (OP 2)
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Tv Missão
+rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Tv Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Tv Novo Tempo 2
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Tv Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Vem e Ve Tv
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/playlist.m3u8?MWINFO
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Vem e Ve Tv 1
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Evangélico", Vem e Ve Tv 2
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="Canais Infantis", Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="Canais Infantis", Baby TV
+http://w01.duoplay.xyz/002/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais Infantis", Boomerang
+http://w03.duoplay.xyz:80/091/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Boomerang [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/18-Boomerang.png" group-title="Canais Infantis", BOOMERANG HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/939.ts
+ 
+#EXTINF:-1 tvg-id="Cartoon Network [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/23-cartoon%20network.png" group-title="Canais Infantis", CARTOON NETWORK
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/934.ts
+ 
+#EXTINF:-1 tvg-id="Cartoon Network [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/23-cartoon%20network.png" group-title="Canais Infantis", CARTOON NETWORK HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/933.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://portal4.files.wordpress.com/2013/07/tv-1.png" group-title="Canais Infantis", DESENHOS
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais Infantis", Discovery Kids
+http://w02.duoplay.xyz:80/061/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/37-discovery_kids_lam.png" group-title="Canais Infantis", DISCOVERY KIDS HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/918.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais Infantis", Disney
+http://w03.duoplay.xyz:80/076/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/43-disney_channel_global.png" group-title="Canais Infantis", DISNEY HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/912.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/60JkJAz.png" group-title="Canais Infantis", Disney Jr
+http://w03.duoplay.xyz:80/087/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Disney Junior [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/44-disney_junior_us.png" group-title="Canais Infantis", DISNEY JÚNIOR HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/911.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais Infantis", Disney XD
+http://w03.duoplay.xyz:80/086/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Disney XD [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/45-disney_xd_us.png" group-title="Canais Infantis", DISNEY XD HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/910.ts
+ 
+#EXTINF:-1 tvg-id="Gloob [Brasil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Canais Infantis", Gloob
+http://w03.duoplay.xyz/089/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Gloob [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/80-Gloob.png" group-title="Canais Infantis", GLOOB HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/874.ts
+ 
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Canais Infantis", Nick Jr.
+http://w03.duoplay.xyz/096/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Nick Jr. [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/119-nick_jr_us.png" group-title="Canais Infantis", NICK JR. HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/829.ts
+ 
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Canais Infantis", Nickelodeon
+http://w03.duoplay.xyz/077/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/118-nick.png" group-title="Canais Infantis", NICKELODEON HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/830.ts
+ 
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Canais Infantis", Nickelodeon HD**
+http://w03.duoplay.xyz/077/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais Infantis", Tooncast
+http://w01.duoplay.xyz:80/011/myStream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Tooncast [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/191-tooncast.png" group-title="Canais Infantis", TOONCAST HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/748.ts
+ 
+#EXTINF:-1 tvg-id="TV Rá-tim-bum [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/202-tv_ra_tim_bum_br.png" group-title="Canais Infantis", TV RA TIM BUM HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/737.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Infantis", WOOHOO
+http://starbr.digitalgroup.me:15000/live/11111/11111/894.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Canais Infantis", WOOHOO HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/894.ts
+ 
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/10-band.png" group-title="Canais TVs", BAND
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/949.ts
+ 
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/10-band.png" group-title="Canais TVs", BAND HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/948.ts
+ 
+#EXTINF:-1 tvg-id="TV Cultura [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/29-_cultura_br_nacional.png" group-title="Canais TVs", CULTURA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/926.ts
+ 
+#EXTINF:-1 tvg-id="TV Cultura [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/30-Cultura%20HD.png" group-title="Canais TVs", CULTURA HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/925.ts
+ 
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/74%20-%20globo%20brasilia.png" group-title="Canais TVs", GLOBO BRASÍLIA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/882.ts
+ 
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/74%20-%20globo%20brasilia.png" group-title="Canais TVs", GLOBO MG
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/881.ts
+ 
+#EXTINF:-1 tvg-id="Globo - Rio de Janeiro [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/74%20-%20globo%20brasilia.png" group-title="Canais TVs", GLOBO RJ
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/877.ts
+ 
+#EXTINF:-1 tvg-id="Globo - Rio de Janeiro [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/74%20-%20globo%20brasilia.png" group-title="Canais TVs", GLOBO RJ HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/876.ts
+ 
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/74%20-%20globo%20brasilia.png" group-title="Canais TVs", GLOBO SP
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/875.ts
+ 
+#EXTINF:-1 tvg-id="Globo - Porto Alegre [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/142-rbs_tv_br.png" group-title="Canais TVs", RBS TV PORTO ALEGRE
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/806.ts
+ 
+#EXTINF:-1 tvg-id="Record [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/144-Record.png" group-title="Canais TVs", RECORD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/804.ts
+ 
+#EXTINF:-1 tvg-id="Record [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/144-Record.png" group-title="Canais TVs", RECORD HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/802.ts
+ 
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/148-rede_brasil_tv_br.png" group-title="Canais TVs", REDE BRASIL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/798.ts
+ 
+#EXTINF:-1 tvg-id="Rede TV [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/149-rede_tv_br.png" group-title="Canais TVs", REDE TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/797.ts
+ 
+#EXTINF:-1 tvg-id="Rede TV [Brasil]" tvg-logo="http://iptv.starbr.in/img/perfil/1495637605_a1b0d2fb918a15798605b910f605ddfef173e372.png" group-title="Canais TVs", REDE TV HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/796.ts
+ 
+#EXTINF:-1 tvg-id="Rede Vida [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/151-rede_vida_br.png" group-title="Canais TVs", REDE VIDA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/795.ts
+ 
+#EXTINF:-1 tvg-id="SBT [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/153-SBT.JPG" group-title="Canais TVs", SBT
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/793.ts
+ 
+#EXTINF:-1 tvg-id="SBT [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/154-sbt_br_hd.png" group-title="Canais TVs", SBT HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/791.ts
+ 
+#EXTINF:-1 tvg-id="SESC TV [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/155-。sesc_tv_br.png" group-title="Canais TVs", SESC TV HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/790.ts
+ 
+#EXTINF:-1 tvg-id="Terra Viva [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/183-terra_viva.png" group-title="Canais TVs", TERRA VIVA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/756.ts
+ 
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/193-tv_anhanguera_br.png" group-title="Canais TVs", TV ANHANGUERA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/746.ts
+ 
+#EXTINF:-1 tvg-id="TV Câmara [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/195-camara_br_tv_1.png" group-title="Canais TVs", TV CAMARA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/744.ts
+ 
+#EXTINF:-1 tvg-id="TV Diario" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/196-Tv%20Diario.png" group-title="Canais TVs", TV DIARIO
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/743.ts
+ 
+#EXTINF:-1 tvg-id="TV Escola [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/197-TV%20Escola.jpg" group-title="Canais TVs", TV ESCOLA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/742.ts
+ 
+#EXTINF:-1 tvg-id="TV Escola [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/197-TV%20Escola.jpg" group-title="Canais TVs", TV ESCOLA HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/741.ts
+ 
+#EXTINF:-1 tvg-id="TV Gazeta [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/199-tv_gazeta_acre.png" group-title="Canais TVs", TV GAZETA HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/740.ts
+ 
+#EXTINF:-1 tvg-id="TV GERAL" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/200%20-%20tv%20geral.jpg" group-title="Canais TVs", TV GERAL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/739.ts
+ 
+#EXTINF:-1 tvg-id="TV Justiça [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/201-TV%20Justica.png" group-title="Canais TVs", TV JÚSTICA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/738.ts
+ 
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/203-tv_tem.png" group-title="Canais TVs", TV TEM BAURU
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/736.ts
+ 
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/203-tv_tem.png" group-title="Canais TVs", TV TEM SOROCABA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/735.ts
+ 
+#EXTINF:-1 tvg-id="Animal Planet [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/4-animal%20planet.png" group-title="Documentários", ANIMAL PLANET
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/955.ts
+ 
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/4-animal%20planet.png" group-title="Documentários", ANIMAL PLANET HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/954.ts
+ 
+#EXTINF:-1 tvg-id="Discovery Channel [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/32-discovery_us.png" group-title="Documentários", DISCOVERY CHANNEL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/923.ts
+ 
+#EXTINF:-1 tvg-id="Discovery Channel [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/33-discovery_global_us_hd.png" group-title="Documentários", DISCOVERY CHANNEL HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/922.ts
+ 
+#EXTINF:-1 tvg-id="Discovery Civilization [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/34-discovery_civilization_lam.png" group-title="Documentários", DISCOVERY CIVILIZATION
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/921.ts
+ 
+#EXTINF:-1 tvg-id="Discovery Science [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/38-discovery_science_global.png" group-title="Documentários", DISCOVERY SCIENCE
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/917.ts
+ 
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/83-history_us_2.png" group-title="Documentários", H2
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/867.ts
+ 
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/83-history_us_2.png" group-title="Documentários", H2 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/866.ts
+ 
+#EXTINF:-1 tvg-id="Investigação Discovery [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/98-investigation_discovery_us.png" group-title="Documentários", ID - INVESTIGAÇÃO DISCOVERY
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/852.ts
+ 
+#EXTINF:-1 tvg-id="Investigação Discovery [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/98-investigation_discovery_us.png" group-title="Documentários", ID - INVESTIGAÇÃO DISCOVERY HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/851.ts
+ 
+#EXTINF:-1 tvg-id="Nat Geo Wild HD [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/112-nat_geo_wild_br.png" group-title="Documentários", NAT GEO WILD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/836.ts
+ 
+#EXTINF:-1 tvg-id="Nat Geo Wild HD [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/112-nat_geo_wild_br.png" group-title="Documentários", NAT GEO WILD HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/835.ts
+ 
+#EXTINF:-1 tvg-id="Nat Geo [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/114-nat_geo_us.png" group-title="Documentários", NATIONAL GEOGRAPHIC
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/834.ts
+ 
+#EXTINF:-1 tvg-id="Nat Geo [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/114-nat_geo_us.png" group-title="Documentários", NATIONAL GEOGRAPHIC HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/833.ts
+ 
+#EXTINF:-1 tvg-id="History Channel HD [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/184-The%20History%20HD.png" group-title="Documentários", THE HISTORY CHANNEL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/755.ts
+ 
+#EXTINF:-1 tvg-id="History Channel HD [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/184-The%20History%20HD.png" group-title="Documentários", THE HISTORY CHANNEL HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/754.ts
+ 
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/39%20-%20discovery%20theater%20HD.png" group-title="Documentários", DISCOVERY THEATER HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/916.ts
+ 
+#EXTINF:-1 tvg-id="NHK World [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/117%20-%20nhk.png" group-title="Documentários", NHK
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/831.ts
+ 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/3%20-%20All%20Sports%20TV.jpg" group-title="Esportes", ALL SPORTS TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/956.ts
+ 
+#EXTINF:-1 tvg-id="Band Sports" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/13-band_sports.png" group-title="Esportes", BAND SPORTS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/946.ts
+ 
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/14-BandSports%20HD.png" group-title="Esportes", BAND SPORTS HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/945.ts
+ 
+#EXTINF:-1 tvg-id="Combate [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/26-combate.png" group-title="Esportes", COMBATE
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/931.ts
+ 
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/26-combate.png" group-title="Esportes", COMBATE HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/929.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/kmRRX.png" group-title="Esportes", DeporTV HD
+http://edge02.dcarsat.com.ar/DXTV/DXTV/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Turbo [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/40-discovery_turbo_us.png" group-title="Esportes", DISCOVERY TURBO
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/915.ts
+ 
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/40-discovery_turbo_us.png" group-title="Esportes", DISCOVERY TURBO HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/914.ts
+ 
+#EXTINF:-1 tvg-id="EI Maxx" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/47-EI_Maxx.png" group-title="Esportes", EI MAXX
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/908.ts
+ 
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/48-EI_Maxx_2.png" group-title="Esportes", EI MAXX 2
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/907.ts
+ 
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/48-EI_Maxx_2.png" group-title="Esportes", EI MAXX 2 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/906.ts
+ 
+#EXTINF:-1 tvg-id="EI Maxx" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/50-EMAXX%20HD.png" group-title="Esportes", EI MAXX HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/905.ts
+ 
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/51-ESPN.png" group-title="Esportes", ESPN
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/904.ts
+ 
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/52-ESPN%20Brasil.png" group-title="Esportes", ESPN BRASIL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/903.ts
+ 
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/52-ESPN%20Brasil.png" group-title="Esportes", ESPN BRASIL HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/902.ts
+ 
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/54-ESPN_HD.png" group-title="Esportes", ESPN HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/901.ts
+ 
+#EXTINF:-1 tvg-id="ESPN+" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/55-ESPN%20%2B%20HD.png" group-title="Esportes", ESPN+
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/1288.ts
+ 
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/55-ESPN%20%2B%20HD.png" group-title="Esportes", ESPN+ HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/900.ts
+ 
+#EXTINF:-1 tvg-id="Esporte Interativo [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/57-Esporte%20Interativo.png" group-title="Esportes", ESPORTE INTERATIVO
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/899.ts
+ 
+#EXTINF:-1 tvg-id="Esporte Interativo [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/57-Esporte%20Interativo.png" group-title="Esportes", ESPORTE INTERATIVO HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/898.ts
+ 
+#EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/59-Fish%20TV.png" group-title="Esportes", FISH TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/897.ts
+ 
+#EXTINF:-1 tvg-id="Fox Sports [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/67fox_sports_global.png" group-title="Esportes", FOX SPORTS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/889.ts
+ 
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/68-Fox%20Sports%202.png" group-title="Esportes", FOX SPORTS 2
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/888.ts
+ 
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/69-Fox%20Sports%202%20HD.png" group-title="Esportes", FOX SPORTS 2 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/887.ts
+ 
+#EXTINF:-1 tvg-id="Fox Sports [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/70-fox_sports_global_hd.png" group-title="Esportes", FOX SPORTS HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/886.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 2
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/822.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/127%20-%20premiere%202%20hd.png" group-title="Esportes", PREMIERE 2 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/821.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 3
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/820.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/127%20-%20premiere%202%20hd.png" group-title="Esportes", PREMIERE 3 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/819.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 4
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/818.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/127%20-%20premiere%202%20hd.png" group-title="Esportes", PREMIERE 4 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/817.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 5
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/816.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/127%20-%20premiere%202%20hd.png" group-title="Esportes", PREMIERE 5 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/815.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 6
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/814.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 7
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/813.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 8
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/812.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE 9" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/126%20-%20premiere%202.jpg" group-title="Esportes", PREMIERE 9
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/811.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/138-Premiere%20futebol%20cube.png" group-title="Esportes", PREMIERE CLUBES
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/810.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/127%20-%20premiere%202%20hd.png" group-title="Esportes", PREMIERE CLUBES HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/809.ts
+ 
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/143%20-%20Real%20Madrid%20TV.png" group-title="Esportes", REAL MADRID TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/805.ts
+ 
+#EXTINF:-1 tvg-id="SporTV [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/161-sportv_br.png" group-title="Esportes", SPORTV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/784.ts
+ 
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/162-sportv2_br.png" group-title="Esportes", SPORTV 2
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/782.ts
+ 
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="Esportes", SporTV 2
+http://w01.duoplay.xyz/007/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/162-sportv2_br.png" group-title="Esportes", SPORTV 2 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/780.ts
+ 
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/164-sportv3_br%20-%20hd.png" group-title="Esportes", SPORTV 3
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/778.ts
+ 
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/164-sportv3_br%20-%20hd.png" group-title="Esportes", SPORTV 3 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/776.ts
+ 
+#EXTINF:-1 tvg-id="SporTV HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/166-sportv_br_hd.png" group-title="Esportes", SPORTV HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/774.ts
+ 
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/213-woohoo_br.png" group-title="Esportes", WOOHOO
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/724.ts
+ 
+#EXTINF:-1 tvg-id="A&E [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/1-A&E.png" group-title="Filmes e Séries", A&E
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/958.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", AMC
+http://starbr.digitalgroup.me:15000/live/10206/10206/9609.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/aa/amc_ng.png" group-title="Filmes e Séries", AMC HD
+http://starbr.digitalgroup.me:15000/live/10206/10206/9609.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/7dh5zk3gp/AMC_logo_2013.jpg" group-title="Filmes e Séries", AMC HD**
+http://w03.duoplay.xyz/071/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="AXN [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/8-axn_global.png" group-title="Filmes e Séries", AXN
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/951.ts
+ 
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/8-axn_global.png" group-title="Filmes e Séries", AXN HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/950.ts
+ 
+#EXTINF:-1 tvg-id="AXN [Brasil]" tvg-logo="http://s15.postimg.org/tzhnubsmz/axn.png" group-title="Filmes e Séries", AXN HD**
+http://w01.duoplay.xyz/016/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", CANAL BRASIL
+http://starbr.digitalgroup.me:15000/live/10206/10206/1098.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", CANAL BRASIL HD
+http://starbr.digitalgroup.me:15000/live/10206/10206/5079.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s16.postimg.org/62wznzh4l/clarocine.png" group-title="Filmes e Séries", Cine Claro
+http://inalamega.com.br:1935/tvcariocanet/tvcariocanet/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s16.postimg.org/62wznzh4l/clarocine.png" group-title="Filmes e Séries", Cine Claro HD
+http://inalamega.com.br:1935/tvcariocanet/tvcariocanet/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e Séries", Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e Séries", Cine Sky HD
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/4pROafv.png" group-title="Filmes e Séries", Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/4pROafv.png" group-title="Filmes e Séries", Cine+ HD
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="Filmes e Séries", Cinemax
+http://w01.duoplay.xyz/018/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Cinemax [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/25-cinemax_br.png" group-title="Filmes e Séries", CINEMAX HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/932.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e Séries", Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e Séries", Classique TV HD
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" group-title="Filmes e Séries", FILMES HD 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" group-title="Filmes e Séries", FILMES HD 2
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries", Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Fox [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/61-Fox.png" group-title="Filmes e Séries", FOX HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/895.ts
+ 
+#EXTINF:-1 tvg-id="Fox [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/61-Fox.png" group-title="Filmes e Séries", FOX HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/894.ts
+ 
+#EXTINF:-1 tvg-id="FOX1" tvg-logo="http://i.imgur.com/UdWwHl4.png" group-title="Filmes e Séries", Fox Premium 1
+http://w04.duoplay.xyz/097/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="FOX Action" tvg-logo="http://i.imgur.com/nX8XMzD.png" group-title="Filmes e Séries", Fox Premium 2
+http://w04.duoplay.xyz/098/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="FX [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/72fx_us.png" group-title="Filmes e Séries", FX
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/884.ts
+ 
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/73-FX%20HD.png" group-title="Filmes e Séries", FX HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/883.ts
+ 
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://s20.postimg.org/pcf1oef0p/image.png" group-title="Filmes e Séries", FX HD**
+http://w01.duoplay.xyz/026/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", GNT
+http://starbr.digitalgroup.me:15000/live/11111/11111/1022.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", GNT HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/2466.ts
+ 
+#EXTINF:-1 tvg-id="Filmes e séries gospel" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="Filmes e séries", Filmes gospel
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Filmes e Séries", Filmes Gospel Televisão HD**
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO [Brasil]" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries", HBO
+http://w02.duoplay.xyz/053/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="HBO2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/86-hbo2_br.png" group-title="Filmes e Séries", HBO 2
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/864.ts
+ 
+#EXTINF:-1 tvg-id="HBO2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/87-hbo2_br%20hd.png" group-title="Filmes e Séries", HBO 2 HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/863.ts
+ 
+#EXTINF:-1 tvg-id="HBO 2 [Brasil]" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries", HBO 2 HD**
+http://w02.duoplay.xyz/047/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="HBO Family [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/88hbo_family_br.png" group-title="Filmes e Séries", HBO FAMILY
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/862.ts
+ 
+#EXTINF:-1 tvg-id="HBO Family [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/88hbo_family_br.png" group-title="Filmes e Séries", HBO FAMILY HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/861.ts
+ 
+#EXTINF:-1 tvg-id="HBO Family [Brasil]" tvg-logo="http://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries", HBO Family HD**
+http://w03.duoplay.xyz/088/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/85-hbo_br.png" group-title="Filmes e Séries", HBO HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/865.ts
+ 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/85-hbo_br.png" group-title="Filmes e Séries", HBO HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/860.ts
+ 
+#EXTINF:-1 tvg-id="HBO Plus *e [Brasil]" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries", HBO PLUS
+http://w02.duoplay.xyz/037/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="HBO Plus *e [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/91-hbo_plus_br.png" group-title="Filmes e Séries", HBO PLUS *E
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/858.ts
+ 
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/91-hbo_plus_br.png" group-title="Filmes e Séries", HBO PLUS HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/859.ts
+ 
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/91-hbo_plus_br.png" group-title="Filmes e Séries", HBO PLUS HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/857.ts
+ 
+#EXTINF:-1 tvg-id="HBO Signature [Brasil]" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries", HBO Signature
+http://w03.duoplay.xyz/065/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/94-hbo_signature_br.png" group-title="Filmes e Séries", HBO SIGNATURE HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/856.ts
+ 
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/94-hbo_signature_br.png" group-title="Filmes e Séries", HBO SIGNATURE HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/855.ts
+ 
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://iptv.starbr.in/img/perfil/1497532219_90d153b464c12bb991540c9b76684446bda17ade.jpg" group-title="Filmes e Séries", I-SAT
+http://starbr.digitalgroup.me:15000/live/5656/5656/2490.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", I-SAT HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/2490.ts
+ 
+#EXTINF:-1 tvg-id="i-Sat [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/96-i_sat_ar_brasil.png" group-title="Filmes e Séries", I-SAT HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/854.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", INV. DESCOBERTA
+http://starbr.digitalgroup.me:15000/live/11111/11111/1011.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", INV. DESCOBERTA HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/2469.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", MAIS GLOBOSAT HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/5088.ts
+ 
+#EXTINF:-1 tvg-id="Max [Brasil]" tvg-logo="http://s31.postimg.org/h4q35bctn/max.png" group-title="Filmes e Séries", Max
+http://w03.duoplay.xyz/095/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Max [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/102-max_br.png" group-title="Filmes e Séries", MAX HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/848.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/mm/max_us_hd.png" group-title="Filmes e Séries", MAX HD**
+http://starbr.digitalgroup.me:15000/live/11111/11111/5089.ts
+ 
+#EXTINF:-1 tvg-id="Max Prime" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="Filmes e Séries", Max Prime
+http://w03.duoplay.xyz/092/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Max Prime *e [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/103-max_prime_us.png" group-title="Filmes e Séries", MAX PRIME *E
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/846.ts
+ 
+#EXTINF:-1 tvg-id="Max Prime" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/103-max_prime_us.png" group-title="Filmes e Séries", MAX PRIME HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/847.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", MAX PRIME HD**
+http://starbr.digitalgroup.me:15000/live/11111/11111/5090.ts
+ 
+#EXTINF:-1 tvg-id="Max UP" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/105-max_up_br.png" group-title="Filmes e Séries", MAX UP
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/845.ts
+ 
+#EXTINF:-1 tvg-id="Max Up" tvg-logo="http://s31.postimg.org/x7orzkx97/max_up.png" group-title="Filmes e Séries", Max Up HD
+http://w02.duoplay.xyz/045/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Max UP" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/105-max_up_br.png" group-title="Filmes e Séries", MAX UP HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/845.ts
+ 
+#EXTINF:-1 tvg-id="Megapix [Brasil]" tvg-logo="http://s28.postimg.org/cqqksvb61/megapix.png" group-title="Filmes e Séries", Megapix
+http://w02.duoplay.xyz/033/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Megapix [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/106-megapix_br.png" group-title="Filmes e Séries", MEGAPIX HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/844.ts
+ 
+#EXTINF:-1 tvg-id="Megapix HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/106-megapix_br.png" group-title="Filmes e Séries", MEGAPIX HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/843.ts
+ 
+#EXTINF:-1 tvg-id="Paramount HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/124-paramount_channel_us.png" group-title="Filmes e Séries", PARAMOUNT CHANNEL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/825.ts
+ 
+#EXTINF:-1 tvg-id="Paramount HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/124-paramount_channel_us.png" group-title="Filmes e Séries", PARAMOUNT CHANNEL HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/824.ts
+ 
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries", Paramount HD**
+http://w03.duoplay.xyz/068/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/157-Sony.png" group-title="Filmes e Séries", SONY
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/788.ts
+ 
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/157-Sony.png" group-title="Filmes e Séries", SONY HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/787.ts
+ 
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries", Sony HD**
+http://w01.duoplay.xyz/031/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/159-space_br.png" group-title="Filmes e Séries", SPACE
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/786.ts
+ 
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/160-space_lam_hd.png" group-title="Filmes e Séries", SPACE HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/785.ts
+ 
+#EXTINF:-1 tvg-id="Studio Universal [Brasil]" tvg-logo="http://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="Filmes e Séries", Studio Universal
+http://w02.duoplay.xyz/064/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Studio Universal [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/167-studio_universal_global.png" group-title="Filmes e Séries", STUDIO UNIVERSAL HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/772.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", STUDIO UNIVERSAL HD**
+http://starbr.digitalgroup.me:15000/live/11111/11111/5094.ts
+ 
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://s20.postimg.org/j755s3te1/Sy_Fy.png" group-title="Filmes e Séries", Syfy
+http://w03.duoplay.xyz/093/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="SyFy [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/168%20-%20syfy.png" group-title="Filmes e Séries", SYFY HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/771.ts
+ 
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://s31.postimg.org/hj4nfr0az/tbs.png" group-title="Filmes e Séries", TBS
+http://w02.duoplay.xyz/038/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="TBS [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/169-TBS.png" group-title="Filmes e Séries", TBS HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/769.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", TBS HD**
+http://starbr.digitalgroup.me:15000/live/10206/10206/2473.ts
+ 
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://s27.postimg.org/ak3hno8eb/TCM.png" group-title="Filmes e Séries", TCM
+http://w02.duoplay.xyz/039/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/182-TCM.jpg" group-title="Filmes e Séries", TCM HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/757.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries", TELECINE ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+ 
+#EXTINF:-1 tvg-id="Telecine Action [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/171-telecine_action.png" group-title="Filmes e Séries", TELECINE ACTION HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/768.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Action [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/172-telecine_action_hd.png" group-title="Filmes e Séries", TELECINE ACTION HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/767.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Cult [Brasil]" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="Filmes e Séries", Telecine Cult
+http://w02.duoplay.xyz/055/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Telecine Cult [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/173-telecine_cult_br.png" group-title="Filmes e Séries", TELECINE CULT HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/766.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Fun [Brasil]" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries", Telecine Fun
+http://w02.duoplay.xyz/051/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/174-telecine_fun.png" group-title="Filmes e Séries", TELECINE FUN HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/764.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/174-telecine_fun.png" group-title="Filmes e Séries", TELECINE FUN HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/765.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brasil]" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries", Telecine Pipoca
+http://w01.duoplay.xyz/001/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/177-telecine_pipoca_hd.png" group-title="Filmes e Séries", Telecine Pipoca HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/762.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/176-telecine_pipoca.png" group-title="Filmes e Séries", Telecine Pipoca HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/763.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Premium [Brasil]" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries", Telecine Premium
+http://w01.duoplay.xyz/005/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Telecine Premium [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/179-telecine_premium_hd.png" group-title="Filmes e Séries", TELECINE PREMIUM HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/760.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Premium [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/178-telecine_premium.png" group-title="Filmes e Séries", TELECINE PREMIUM HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/761.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Touch [Brasil]" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries", Telecine Touch
+http://w04.duoplay.xyz/109/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Telecine Touch [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/180Telecine%20Touch%20HD.png" group-title="Filmes e Séries", TELECINE TOUCH HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/758.ts
+ 
+#EXTINF:-1 tvg-id="Telecine Touch [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/180Telecine%20Touch%20HD.png" group-title="Filmes e Séries", TELECINE TOUCH HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/759.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", THE HISTORY CHANNEL
+http://starbr.digitalgroup.me:15000/live/11111/11111/923.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", THE HISTORY CHANNEL HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/2468.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", TLC
+http://starbr.digitalgroup.me:15000/live/11111/11111/922.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes e Séries", TLC HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/5097.ts
+ 
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries", TNT
+http://w01.duoplay.xyz/023/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="TNT HD [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/187-tnt_us.png" group-title="Filmes e Séries", TNT HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/751.ts
+ 
+#EXTINF:-1 tvg-id="TNT HD [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/187-tnt_us.png" group-title="Filmes e Séries", TNT HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/752.ts
+ 
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/189-tnt_series_lam.png" group-title="Filmes e Séries", TNT SERIES
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/750.ts
+ 
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/189-tnt_series_lam.png" group-title="Filmes e Séries", TNT SERIES HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/749.ts
+ 
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://s11.postimg.org/ze3yz0tir/TNT_S_ries.png" group-title="Filmes e Séries", TNT Séries HD**
+http://w01.duoplay.xyz/019/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Canal Universal" tvg-logo="http://s31.postimg.org/6ktxs1ci3/universal.png" group-title="Filmes e Séries", Universal
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/206-universal_channel_global.png" group-title="Filmes e Séries", UNIVERSAL CHANNEL HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/732.ts
+ 
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/206-universal_channel_global.png" group-title="Filmes e Séries", UNIVERSAL CHANNEL HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/733.ts
+ 
+#EXTINF:-1 tvg-id="Canal Universal" tvg-logo="http://s31.postimg.org/6ktxs1ci3/universal.png" group-title="Filmes e Séries", Universal HD
+http://w01.duoplay.xyz/003/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="Filmes e Séries", Warner
+http://w03.duoplay.xyz/080/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Warner Channel [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/211-warner_channel_us.png" group-title="Filmes e Séries", WARNER CHANNEL HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/725.ts
+ 
+#EXTINF:-1 tvg-id="Warner Channel [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/211-warner_channel_us.png" group-title="Filmes e Séries", WARNER CHANNEL HD**
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/726.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/17/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/19/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/18/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.vexels.com/media/users/3/132240/isolated/preview/25d35f1f5e8defc9347e811db35d0fb6-silhueta-do-jogador-de-futebol-by-vexels.png" group-title="Futebol Ao Vivo", Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/8/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Masters Shows", Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Masters Shows", Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", BIS
+http://starbr.digitalgroup.me:15000/live/11111/11111/2408.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Programas Masters", BIS (Alternativo)
+http://starbr.digitalgroup.me:15000/live/11111/11111/5027.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", BIS HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/1104.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Programas Masters", BIS HD (Alternativo)
+http://starbr.digitalgroup.me:15000/live/11111/11111/5028.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Programas de Masters", CURTA
+http://starbr.digitalgroup.me:15000/live/11111/11111/2485.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", FISH TV
+http://starbr.digitalgroup.me:15000/live/11111/11111/1050.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", MTV
+http://starbr.digitalgroup.me:15000/live/11111/11111/1000.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", MTV HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/5092.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Programas Masters", MULTISHOW
+http://starbr.digitalgroup.me:15000/live/11111/11111/1211.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Programas Masters", MULTISHOW (Alternativo)
+http://starbr.digitalgroup.me:15000/live/11111/11111/5010.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", MULTISTOW FULL HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/5059.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", MULTISHOOW HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/2385.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", MUSIC BOX BRASIL
+http://starbr.digitalgroup.me:15000/live/11111/11111/997.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", DESLIGADO
+http://starbr.digitalgroup.me:15000/live/11111/11111/1219.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Programas Masters", OFF (Alternativo)
+http://starbr.digitalgroup.me:15000/live/11111/11111/5699.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", OFF HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/2471.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", PLAY TV
+http://starbr.digitalgroup.me:15000/live/11111/11111/2497.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", RBI
+http://starbr.digitalgroup.me:15000/live/11111/11111/2498.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", RIT
+http://starbr.digitalgroup.me:15000/live/11111/11111/2500.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", TRU TV
+http://starbr.digitalgroup.me:15000/live/11111/11111/917.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", TVE
+http://starbr.digitalgroup.me:15000/live/11111/11111/2507.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", VH1 MEGA HITS
+http://starbr.digitalgroup.me:15000/live/11111/11111/898.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", VH1 MEGA HITS HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/5098.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Programas de Masters", VIVA
+http://starbr.digitalgroup.me:15000/live/11111/11111/897.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", VIVA FULL HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/5076.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Masters Shows", VIVA HD
+http://starbr.digitalgroup.me:15000/live/11111/11111/2476.ts
+ 
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/15-bis_br.png" group-title="Músicas", BIS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/944.ts
+ 
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/15-bis_br.png" group-title="Músicas", BIS HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/942.ts
+ 
+#EXTINF:-1 tvg-id="MTV Brasil [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/108-mtv_us.png" group-title="Músicas", MTV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/842.ts
+ 
+#EXTINF:-1 tvg-id="Multishow [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/109-multishow.png" group-title="Músicas", MULTISHOW
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/841.ts
+ 
+#EXTINF:-1 tvg-id="Multishow [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/109-multishow.png" group-title="Músicas", MULTISHOW HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/839.ts
+ 
+#EXTINF:-1 tvg-id="Caixa de Música Brasil" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/111-music%20box_brazil_.png" group-title="Músicas", CAIXA DE MÚSICA BRASIL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/837.ts
+ 
+#EXTINF:-1 tvg-id="VH1 Mega Hits [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/208-vh1_mega_hits_br.png" group-title="Músicas", VH1 MEGA HITS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/731.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Noticiarios", DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id="Band News [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/12-Band_News.png" group-title="Noticiarios", BAND NEWS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/947.ts
+ 
+#EXTINF:-1 tvg-id="Bloomberg [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/17-bloomberg.png" group-title="Noticiarios", BLOOMBERG HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/940.ts
+ 
+#EXTINF:-1 tvg-id="Globo News [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/76-globo_news_br.png" group-title="Noticiarios", GLOBO NEWS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/880.ts
+ 
+#EXTINF:-1 tvg-id="NBR [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/116-nbr.png" group-title="Noticiarios", NBR
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/832.ts
+ 
+#EXTINF:-1 tvg-id="RBI TV" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/141-rbi_tv_br.png" group-title="Noticiarios", RBI TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/807.ts
+ 
+#EXTINF:-1 tvg-id="Record News [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/146-Record%20News.png" group-title="Noticiarios", RECORD NEWS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/800.ts
+ 
+#EXTINF:-1 tvg-id="Record News [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/146-Record%20News.png" group-title="Noticiarios", RECORD NEWS HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/799.ts
+ 
+#EXTINF:-1 tvg-id="A FAZENDA 24horas" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Realidade", A FAZENDA.
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/master.m3u8
+ 
+#EXTINF:-1 tvg-id="A FAZENDA 24horas" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Realidade", A FAZENDA 360p
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_360_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="A FAZENDA 24horas" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Realidade", A FAZENDA 480p
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="A FAZENDA 24horas" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Realidade", A FAZENDA 720p
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/6-aparecida.png" group-title="Religiosos", APARECIDA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/953.ts
+ 
+#EXTINF:-1 tvg-id="Canção Nova [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/22-CANÇÃO%20NOVA.png" group-title="Religiosos", CANCAO NOVA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/935.ts
+ 
+#EXTINF:-1 tvg-id="Ideal TV" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/97-ideal_br.png" group-title="Religiosos", IDEAL TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/853.ts
+ 
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/120-novo_tempo_br_tv.png" group-title="Religiosos", NOVO TEMPO
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/828.ts
+ 
+#EXTINF:-1 tvg-id="RIT" tvg-logo="http://iptv.starbr.in/img/perfil/1497536940_e657a9d0894b158a670426f27434cd90f5cb583a.png" group-title="Religiosos", RIT
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/794.ts
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/FVCbP2v.jpg" group-title="TV Músicas", RIO LIVE
+http://api.new.livestream.com:80/accounts/15418920/events/5958349/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Mix TV [Brasil]" tvg-logo="http://s20.postimg.org/jbmv7tfnx/Mix_Tv.png" group-title="TV Músicas", Mix TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Músicas", NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/866svgqkp/atomic.jpg" group-title="TV Musicas", Atomic
+rtmp://5.154.185.153/live/live.flv
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/aykuo57yl/MTV_Live_HD.png" group-title="TV Musicas", MTV Live HD
+http://mtvam.ru/hlsam/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas", DJ Hits
+http://www.djing.com/tv/04.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/z71lgvtl9/virgin_tv.png" group-title="TV Musicas", Virgin
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/92tgz8tql/kisstv.jpg" group-title="TV Musicas", Kiss
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/cwrim50gd/monte_carlo.png" group-title="TV Musicas", Radio Monte Carlo TV
+rtmp://fms.105.net:1935/live playpath=rmc1 swfUrl=live=1
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas", Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/hl8w3g4g9/Heart_TV1.jpg" group-title="TV Musicas", Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Músicas", Rádio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/vy6xfidu1/DJing_Underground.jpg" group-title="TV Musicas", DJing Underground
+http://cdn.djing.com/tv/u-05.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/mu8if2c95/subgroups82_1.png" group-title="TV Musicas", Rit
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/eq0eabpu1/hardlife.png" group-title="TV Musicas", Hard Life
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/lyc0zm2kp/FRESHTV.png" group-title="TV Musicas", Fresh Tv Music
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/vka6tnj49/AMAZING_LOGO_BRANCO3.jpg" group-title="TV Musicas", Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/6pqozkya1/1hd.jpg" group-title="TV Musicas", 1HD Music
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="TV Musicas", Heavy Metal Television
+rtmp://70.166.98.130:1935/hmtv/myStream
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/f0h3l5j7x/logo_mimusica.png" group-title="TV Musicas", Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/5h7erovpo/tico.jpg" group-title="TV Músicas", Tico Música
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s20.postimg.org/w3jvgnzwt/VISUALRADIO.png" group-title="TV Musicas", Visual Radio TV
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Músicas", ONE 0
+http://rtmp.one.by:1200
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Musicas", ONE 1 HD
+http://rtmp.one.by:1300
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Musicas", ONE 4 HD
+http://rtmp.one.by:2300
+ 
+#EXTINF:-1 tvg-id="Agro Canal" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/2-agro_canal.png" group-title="Variedades", AGRO CANAL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/957.ts
+ 
+#EXTINF:-1 tvg-id="Arte 1 [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/7-arte_1_br.png" group-title="Variedades", ARTE 1
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/952.ts
+ 
+#EXTINF:-1 tvg-id="Canal Brasil [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/19-canal_brasil_br.png" group-title="Variedades", CANAL BRASIL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/938.ts
+ 
+#EXTINF:-1 tvg-id="Canal do Boi [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/20-canal_do_boi.png" group-title="Variedades", CANAL DO BOI
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/937.ts
+ 
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/21-canal_rural_br.png" group-title="Variedades", CANAL RURAL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/936.ts
+ 
+#EXTINF:-1 tvg-id="Comedy Central [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/29-comedy_central_us.png" group-title="Variedades", COMEDY CENTRAL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/927.ts
+ 
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/31-curta_br.png" group-title="Variedades", CURTA!
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/924.ts
+ 
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/35-discovery_home_health_us.png" group-title="Variedades", DISCOVERY HOME & HEALTH
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/920.ts
+ 
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/36-Discovery%20Home%20&%20Health%20icon%202011.png" group-title="Variedades", DISCOVERY HOME & HEALTH HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/919.ts
+ 
+#EXTINF:-1 tvg-id="Discovery world HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/42-discovery_hd_world_lam.png" group-title="Variedades", DISCOVERY WORLD HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/913.ts
+ 
+#EXTINF:-1 tvg-id="E! Entertainment Television [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/46-E!_Logo_2012.svg.png" group-title="Variedades", E!
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/909.ts
+ 
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/60-food_network_us.png" group-title="Variedades", FOOD NETWORK
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/896.ts
+ 
+#EXTINF:-1 tvg-id="Fox Life [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/64-fox_life_global.png" group-title="Variedades", FOX LIFE
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/893.ts
+ 
+#EXTINF:-1 tvg-id="Fox Life [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/64-fox_life_global.png" group-title="Variedades", FOX LIFE HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/892.ts
+ 
+#EXTINF:-1 tvg-id="Canal Futura [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/71-canal_futura.png" group-title="Variedades", FUTURA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/885.ts
+ 
+#EXTINF:-1 tvg-id="GNT HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/81-gnt_brasil.png" group-title="Variedades", GNT
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/871.ts
+ 
+#EXTINF:-1 tvg-id="GNT HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/81-gnt_brasil.png" group-title="Variedades", GNT HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/869.ts
+ 
+#EXTINF:-1 tvg-id="Lifetime [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/100-lifetime_us.png" group-title="Variedades", LIFETIME
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/850.ts
+ 
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/101mais_globosat_br.png" group-title="Variedades", GLOBOSAT MAIS
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/849.ts
+ 
+#EXTINF:-1 tvg-id="Off HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/121-canal_off_br.png" group-title="Variedades", OFF
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/827.ts
+ 
+#EXTINF:-1 tvg-id="Off HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/121-canal_off_br.png" group-title="Variedades", OFF HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/826.ts
+ 
+#EXTINF:-1 tvg-id="PlayTV" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/125play_tv_br.png" group-title="Variedades", PLAY TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/823.ts
+ 
+#EXTINF:-1 tvg-id="Prime Box Brasil" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/140-Prime%20Box%20Brasil.png" group-title="Variedades", PRIME BOX BRASIL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/808.ts
+ 
+#EXTINF:-1 tvg-id="SIC International [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/156-sic_tv_br.png" group-title="Variedades", SIC INTERNATIONAL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/789.ts
+ 
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/186-tlc_us.png" group-title="Variedades", TLC
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/753.ts
+ 
+#EXTINF:-1 tvg-id="TruTV [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/192-tru_tv_br.png" group-title="Variedades", TRU TV
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/747.ts
+ 
+#EXTINF:-1 tvg-id="TV Brasil [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/194-tv_brasil.png" group-title="Variedades", TV BRASIL
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/745.ts
+ 
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/205-tve_piratini_br.png" group-title="Variedades", TVE
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/734.ts
+ 
+#EXTINF:-1 tvg-id="Viva [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/Viva HD.jpg" group-title="Variedades", VIVA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/730.ts
+ 
+#EXTINF:-1 tvg-id="Viva [Brasil]" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/Viva HD.jpg" group-title="Variedades", VIVA HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/728.ts

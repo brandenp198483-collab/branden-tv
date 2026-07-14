@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="GitHub KCWX Test",001 - KCWTV [Valchrist23/VikT]
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
+#EXTINF:-1 group-title="GitHub KCWX Test",002 - My NetworkTV [Valchrist23/VikT]
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
+#EXTINF:-1 group-title="GitHub KCWX Test",003 - MyTV KCWX Sanantonio [Valchrist23/VikT]
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="GitHub KCWX Test",004 - myTV San Antonio TX (KCWX-TV) [OinktechLLC/livem3u]
+https://secure-272717.tatnet.app/65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="GitHub KCWX Test",005 - myTV San Antonio TX (KCWX-TV) [OinktechLLC/livem3u]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="GitHub KCWX Test",006 - Unlabeled stream [Valchrist23/VikT]
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8

@@ -1,0 +1,155 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ewinz19/xtskltshdt/refs/heads/main/docs/epg2-Vision.xml" refresh="1800"
+
+
+#EXTINF:-1 ,siaran vip update diaplikasi versi baru.Hubungi penyedia layanan anda
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-widevine-licensing.axtest.net/AcquireLicense
+https://storage.googleapis.com/shaka-demo-assets/angel-one-widevine/dash.mpd
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/quran.png?raw=true" group-title="MY TV",Al Quran Al Kareem (Mecca)
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8 
+
+#EXTINF:-1 tvg-id="QuranRadio.sa" tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="MY TV",Quran Radio (1080p)
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/mekah.png?raw=true" group-title="MY TV",MEKAH TV
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bahrain" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/bahrainQuran.png?raw=true" group-title="MY TV",Bahrain Qur'an
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sunna-tv" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/madinah.png?raw=true" group-title="MY TV",sunna tv
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8 
+
+####-----####
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/indosiar.png?raw=true" group-title="MY TV",Indosiar vip
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8 
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/sctv.png?raw=true" group-title="MY TV",SCTV vip
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8 
+#https://worker-tv.iptv-winz.workers.dev/?ch=sctv&key=cintaku123
+
+##-------#######
+
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/trans7.png?raw=true" group-title="MY TV",Trans7 2
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|Referer=https://20.detik.com/
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/transtv.png?raw=true" group-title="MY TV",Trans TV 2
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|Referer=https://20.detik.com/
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://garuda.tv/wp-content/uploads/2023/05/Logo-Final-GarudaTV-Retina-2023.png" group-title="MY TV",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/tvrisport.png?raw=true" group-title="MY TV",TVRI Sport
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8 
+
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/tvri.png?raw=true" group-title="MY TV",TVRI Nasional
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8 
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/btv.png?raw=true" group-title="MY TV",BTV
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8 
+
+#EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/cnn.png?raw=true" group-title="MY TV",CNN
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#############################################################################################################
+##########################################   demo.     ###################################################
+#############################################################################################################
+
+
+##########
+
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/mycinemaasia.png?raw=true" group-title="Premium",My Cinema Asia
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8 
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/motorvision+.png?raw=true" group-title="Premium",Motorvision+ 
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8 
+
+#####---######
+
+####################
+######## carton ####
+####################
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/ewinz19/xtskltshdt/blob/main/icons/mykidz.png?raw=true" group-title="Premium",My Kidz HD
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8 
+
+#############################################################################################################
+##########################################   alternatif   ###################################################
+#############################################################################################################
+
+
+#############################################################################################################
+##########################################       Kids      ##################################################
+#############################################################################################################
+
+#EXTINF:-1 ,ares
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#EXTVLCOPT:http-referrer=https://cdn4.turboviplay.com/ 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn4.turboviplay.com/data/692e800d1bf61/692e800d1bf61.m3u8
+
+#EXTINF:-1 ,lone samurai
+#EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
+#EXTVLCOPT:http-referrer=https://cdn4.turboviplay.com/ 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn.turboviplay.com/data/6934955314487/6934955314487.m3u8
+
+######----#####
+
+
+
+
+###winz 2025-12-11 11-01.14
+
+
+
+
+
+

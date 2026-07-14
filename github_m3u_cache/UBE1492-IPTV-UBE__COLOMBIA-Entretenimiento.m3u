@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AvivamientoTV.co@SD",Avivamiento TV (1080p) [Not 24/7]
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co@SD",Cali TV (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD",Canal 8 TV+ (720p)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Canal10SOLTV.co@SD",Canal 10 SOL TV (1080p)
+http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD",Canal 55 Telemorisco TV (720p)
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD",Canal Calima TV (720p)
+https://cdn.amelbasoluciones.co:8081/calimalive/index.m3u8
+#EXTINF:-1 tvg-id="CanalSantaMartaTV.co@SD",Canal Santa Marta TV (720p) [Not 24/7]
+https://cdn.amelbasoluciones.co:8081/santamartalive/index.m3u8
+#EXTINF:-1 tvg-id="CanalTV3.co@SD",Canal TV3 (720p) [Not 24/7]
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+#EXTINF:-1 tvg-id="CanicaTV.co@SD",Canica TV (240p)
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota
+http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
+#EXTINF:-1 tvg-id="TuUniversoTV.co@SD",Tu Universo TV (720p)
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3LaPlata.co@SD",TV3 La Plata (720p)
+https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8
+#EXTINF:-1 tvg-id="TVPenol.co@SD",TV Peñol (720p)
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRivera.co@SD",TV Rivera [Not 24/7]
+https://movil.ejeserver.com/live/tvrivera.m3u8
+#EXTINF:-1 tvg-id="TVSanJorge.co@SD",TV San Jorge (1080p) [Not 24/7]
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD",Ultra Casanare TV (1080p) [Not 24/7]
+https://eu1.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-id="UMCTV.co@SD",UMC TV (720p)
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-id="ViveTV.co@SD",Vive TV Colombia (1080p)
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8

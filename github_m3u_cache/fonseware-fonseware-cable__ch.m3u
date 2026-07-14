@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="http://cable.fnswe.me/epg.xml"
+#EXTINF:-1 tvg-id="001" tvg-logo="http://cable.fnswe.me/res/fw-cable-light.png" group-title="Ungrouped" tvg-chno="01" tvg-country="N/A" tvg-language="N/A" tvg-name="Cable TV" radio="false",Cable TV
+https://cable.fnswe.me/media/intro.mp4
+
+#EXTINF:-1 tvg-id="002" tvg-logo="http://cable.fnswe.me/media/fbs_teveChannel.png" group-title="General" tvg-chno="02" tvg-country="LK" tvg-language="English" tvg-name="FBS teve" radio="false",FBS teve
+https://cdn.fonseware.com/fbsteve/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="003" tvg-logo="http://cable.fnswe.me/media/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="03" tvg-country="N/A" tvg-language="N/A" tvg-name="No TV channel" radio="false",No TV channel
+https://cable.fnswe.me/media/vacant.mp4
+
+#EXTINF:-1 tvg-id="101" tvg-logo="http://cable.fnswe.me/res/fw-cable-light.png" group-title="Ungrouped" tvg-chno="01" tvg-country="N/A" tvg-language="N/A" tvg-name="Cable FM" radio="true",Cable FM
+https://cable.fnswe.me/media/vacant.mp3
+
+#EXTINF:-1 tvg-id="102" tvg-logo="http://cable.fnswe.me/media/fw-effem-logo2-light.png" group-title="General" tvg-chno="02" tvg-country="LK" tvg-language="English" tvg-name="FBS effem" radio="true",FBS effem
+https://host.fonseware.com/hls/radio_stream.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-logo="http://cable.fnswe.me/media/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="03" tvg-country="N/A" tvg-language="N/A" tvg-name="No FM channel" radio="true",No FM channel
+https://cable.fnswe.me/media/vacant.mp3
+

@@ -1,0 +1,30 @@
+#EXTM3U
+# Обновлено: 2026-07-13 07:25:37
+# Всего каналов: 20217
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Trinidad
+# Каналов: 6
+# Обновлено: 2026-07-13 07:25:38
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="CNC3" group-title="Trinidad",CNC3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=CNC3
+
+#EXTINF:-1 tvg-name="gayelle" group-title="Trinidad",gayelle
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=gayelle
+
+#EXTINF:-1 tvg-name="Synergy TV" group-title="Trinidad",Synergy TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=Synergy_TV
+
+#EXTINF:-1 tvg-name="TTT" group-title="Trinidad",TTT
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=TTT
+
+#EXTINF:-1 tvg-name="IBN" group-title="Trinidad",IBN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=IBN
+
+#EXTINF:-1 tvg-name="Trinity TV" group-title="Trinidad",Trinity TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=Trinity_TV
+

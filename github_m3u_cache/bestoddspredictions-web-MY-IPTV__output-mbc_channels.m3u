@@ -1,0 +1,42 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bestoddspredictions-web/MY-IPTV/main/output/merged_epg.xml"
+
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbc2/logo/logo_mbc2.png" group-title="MBC Group",MBC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbc3/logo/logo_mbc3.png" group-title="MBC Group",MBC 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd
+
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-name="MBC 4" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbc4/logo/logo_mbc4.png" group-title="MBC Group",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbc5/logo/logo_mbc5.png" group-title="MBC Group",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC Drama" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbcdrama/logo/logo_mbcdrama.png" group-title="MBC Group",MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbcdramaplus/logo/logo_mbcdramaplus.png" group-title="MBC Group",MBC Drama Plus
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-name="MBC Action" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbcaction/logo/logo_mbcaction.png" group-title="MBC Group",MBC Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbcmax/logo/logo_mbcmax.png" group-title="MBC Group",MBC Max
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbcmasr/logo/logo_mbcmasr.png" group-title="MBC Group",MBC Masr
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-name="MBC Masr 2" tvg-logo="https://www.mbc.net/content/dam/mbc/ch/mbcmasr2/logo/logo_mbcmasr2.png" group-title="MBC Group",MBC Masr 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+

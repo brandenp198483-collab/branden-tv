@@ -1,0 +1,2632 @@
+{
+  "target": "News Channel 8 Tampa",
+  "repositories": [
+    {
+      "full_name": "srhady/tapmad-bd",
+      "default_branch": "main",
+      "html_url": "https://github.com/srhady/tapmad-bd",
+      "description": "",
+      "updated_at": "2026-07-13T02:50:40Z",
+      "size": 3589,
+      "archived": false
+    },
+    {
+      "full_name": "IvanStoilov2/iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/IvanStoilov2/iptv",
+      "description": "Repo containing bg.m3u file for IPTV in Jellyfin server",
+      "updated_at": "2026-07-13T02:50:34Z",
+      "size": 6195,
+      "archived": false
+    },
+    {
+      "full_name": "Samhouston010/sepehr-irib-epg",
+      "default_branch": "main",
+      "html_url": "https://github.com/Samhouston010/sepehr-irib-epg",
+      "description": "",
+      "updated_at": "2026-07-13T02:50:11Z",
+      "size": 9630,
+      "archived": false
+    },
+    {
+      "full_name": "NestorMonroy/iptv-generator",
+      "default_branch": "main",
+      "html_url": "https://github.com/NestorMonroy/iptv-generator",
+      "description": "",
+      "updated_at": "2026-07-13T02:49:22Z",
+      "size": 722500,
+      "archived": false
+    },
+    {
+      "full_name": "Samhouston010/persiana-tv-epg",
+      "default_branch": "main",
+      "html_url": "https://github.com/Samhouston010/persiana-tv-epg",
+      "description": "",
+      "updated_at": "2026-07-13T02:49:21Z",
+      "size": 5624,
+      "archived": false
+    },
+    {
+      "full_name": "rkinnc75/Free4Me-IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/rkinnc75/Free4Me-IPTV",
+      "description": "",
+      "updated_at": "2026-07-13T02:48:56Z",
+      "size": 24170,
+      "archived": false
+    },
+    {
+      "full_name": "lengtv-dev/Allsport",
+      "default_branch": "main",
+      "html_url": "https://github.com/lengtv-dev/Allsport",
+      "description": "",
+      "updated_at": "2026-07-13T02:48:42Z",
+      "size": 4299,
+      "archived": false
+    },
+    {
+      "full_name": "acj45/mis-listas-m3uv",
+      "default_branch": "main",
+      "html_url": "https://github.com/acj45/mis-listas-m3uv",
+      "description": "Repositorio p\u00fablico para almacenar listas M3U de canales, organizadas por categor\u00edas y compatibles con reproductores IPTV.",
+      "updated_at": "2026-07-13T02:48:13Z",
+      "size": 104,
+      "archived": false
+    },
+    {
+      "full_name": "apistech/project",
+      "default_branch": "main",
+      "html_url": "https://github.com/apistech/project",
+      "description": "Personal Project",
+      "updated_at": "2026-07-13T02:48:11Z",
+      "size": 341059,
+      "archived": false
+    },
+    {
+      "full_name": "cuicanrensheng/1",
+      "default_branch": "main",
+      "html_url": "https://github.com/cuicanrensheng/1",
+      "description": "",
+      "updated_at": "2026-07-13T02:47:31Z",
+      "size": 44639,
+      "archived": false
+    },
+    {
+      "full_name": "122566/cn-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/122566/cn-iptv",
+      "description": "Auto-updated China IPTV M3U with EPG",
+      "updated_at": "2026-07-13T02:47:04Z",
+      "size": 41814,
+      "archived": false
+    },
+    {
+      "full_name": "judy-gotv/iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/judy-gotv/iptv",
+      "description": "",
+      "updated_at": "2026-07-13T02:47:02Z",
+      "size": 505104,
+      "archived": false
+    },
+    {
+      "full_name": "52liulian/IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/52liulian/IPTV",
+      "description": "",
+      "updated_at": "2026-07-13T02:46:38Z",
+      "size": 0,
+      "archived": false
+    },
+    {
+      "full_name": "Slimk-Code/mac2list",
+      "default_branch": "main",
+      "html_url": "https://github.com/Slimk-Code/mac2list",
+      "description": "Mac2List \u2014 a CLI tool to convert your own Stalker/MAG-portal IPTV subscription into a standard M3U playlist, so you can use it in any lightweight player instead of a heavy provider app.",
+      "updated_at": "2026-07-13T02:46:01Z",
+      "size": 142,
+      "archived": false
+    },
+    {
+      "full_name": "Shadow-GR-Official/vodafone.gr-epg",
+      "default_branch": "main",
+      "html_url": "https://github.com/Shadow-GR-Official/vodafone.gr-epg",
+      "description": "\u0388\u03bd\u03b1 Node.js script \u03c0\u03bf\u03c5 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03b5\u03af \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c1\u03c7\u03b5\u03af\u03bf XMLTV (EPG) \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9\u03b1 \u03c4\u03b7\u03c2 Vodafone GR. \u03a5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03b5\u03b9 \u03c3\u03c9\u03c3\u03c4\u03ac \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03bd\u03b1\u03bb\u03b9\u03ce\u03bd, \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03b1\u03c6\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03af\u03b5\u03c2, \u03ad\u03c4\u03bf\u03b9\u03bc\u03bf \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b5 IPTV players \u03cc\u03c0\u03c9\u03c2 Tivimate, Kodi \u03ba\u03b1\u03b9 Perfect Player.",
+      "updated_at": "2026-07-13T02:45:51Z",
+      "size": 27107,
+      "archived": false
+    },
+    {
+      "full_name": "insa-ship-it/multi-epg-light",
+      "default_branch": "main",
+      "html_url": "https://github.com/insa-ship-it/multi-epg-light",
+      "description": "",
+      "updated_at": "2026-07-13T02:45:52Z",
+      "size": 566639,
+      "archived": false
+    },
+    {
+      "full_name": "alanxie1999/IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/alanxie1999/IPTV",
+      "description": "",
+      "updated_at": "2026-07-13T02:45:43Z",
+      "size": 9971,
+      "archived": false
+    },
+    {
+      "full_name": "drumdandrum/MediaRouter",
+      "default_branch": "main",
+      "html_url": "https://github.com/drumdandrum/MediaRouter",
+      "description": " Dockerized home media orchestration platform for IPTV catalog management, stream brokering, STRM generation, and media server integration.",
+      "updated_at": "2026-07-13T02:45:07Z",
+      "size": 202,
+      "archived": false
+    },
+    {
+      "full_name": "122566/kr-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/122566/kr-iptv",
+      "description": "",
+      "updated_at": "2026-07-13T02:45:02Z",
+      "size": 777,
+      "archived": false
+    },
+    {
+      "full_name": "OinktechLLC/asosin-project",
+      "default_branch": "main",
+      "html_url": "https://github.com/OinktechLLC/asosin-project",
+      "description": "",
+      "updated_at": "2026-07-13T02:44:45Z",
+      "size": 131,
+      "archived": false
+    },
+    {
+      "full_name": "xiaoranmuze/core",
+      "default_branch": "main",
+      "html_url": "https://github.com/xiaoranmuze/core",
+      "description": "",
+      "updated_at": "2026-07-13T02:44:24Z",
+      "size": 1157840,
+      "archived": false
+    },
+    {
+      "full_name": "Mrbotrx/All-FREE-TV",
+      "default_branch": "main",
+      "html_url": "https://github.com/Mrbotrx/All-FREE-TV",
+      "description": "",
+      "updated_at": "2026-07-13T02:44:08Z",
+      "size": 4148,
+      "archived": false
+    },
+    {
+      "full_name": "DevelopersCoffee/barista-tuning",
+      "default_branch": "main",
+      "html_url": "https://github.com/DevelopersCoffee/barista-tuning",
+      "description": "",
+      "updated_at": "2026-07-13T02:43:37Z",
+      "size": 2691,
+      "archived": false
+    },
+    {
+      "full_name": "johancruzpolanco/iptvorg",
+      "default_branch": "main",
+      "html_url": "https://github.com/johancruzpolanco/iptvorg",
+      "description": "",
+      "updated_at": "2026-07-13T02:43:08Z",
+      "size": 2630,
+      "archived": false
+    },
+    {
+      "full_name": "kelegele/awesome-stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/kelegele/awesome-stars",
+      "description": "",
+      "updated_at": "2026-07-13T02:43:05Z",
+      "size": 621,
+      "archived": false
+    },
+    {
+      "full_name": "sheriffcheng-gif/my-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/sheriffcheng-gif/my-iptv",
+      "description": "\u81ea\u52a8\u66f4\u65b0\u7684\u5c71\u897f\u8054\u901a IPTV \u76f4\u64ad\u6e90",
+      "updated_at": "2026-07-13T02:42:51Z",
+      "size": 94,
+      "archived": false
+    },
+    {
+      "full_name": "jia070310/4K-IPTV-M3U",
+      "default_branch": "main",
+      "html_url": "https://github.com/jia070310/4K-IPTV-M3U",
+      "description": "\u5b9e\u65f6\u66f4\u65b0\u5168\u56fd\u5730\u533a4K iptv\u76f4\u64ad\u6e90 m3u m3u8",
+      "updated_at": "2026-07-13T02:50:30Z",
+      "size": 7186,
+      "archived": false
+    },
+    {
+      "full_name": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "description": "",
+      "updated_at": "2026-07-13T02:42:31Z",
+      "size": 7188686,
+      "archived": false
+    },
+    {
+      "full_name": "georgeskhouriberlin-66/television",
+      "default_branch": "main",
+      "html_url": "https://github.com/georgeskhouriberlin-66/television",
+      "description": "IPTV automation test",
+      "updated_at": "2026-07-13T02:42:29Z",
+      "size": 1935,
+      "archived": false
+    },
+    {
+      "full_name": "insa-ship-it/app-m3u-generator",
+      "default_branch": "main",
+      "html_url": "https://github.com/insa-ship-it/app-m3u-generator",
+      "description": "\u2611\ufe0f Pluto, Samsung, Plex, Roku, Tubi Channels ( With EPG ) ",
+      "updated_at": "2026-07-13T02:42:19Z",
+      "size": 161215,
+      "archived": false
+    },
+    {
+      "full_name": "AeonCoreX-Lab/streamx-iptv-data",
+      "default_branch": "main",
+      "html_url": "https://github.com/AeonCoreX-Lab/streamx-iptv-data",
+      "description": "Official, high-performance IPTV data infrastructure and automated JSON backbone for the StreamX Ultra platform by AeonCoreX.",
+      "updated_at": "2026-07-13T02:51:24Z",
+      "size": 1180214,
+      "archived": false
+    },
+    {
+      "full_name": "theramindex/silo-plugin-xtream-library",
+      "default_branch": "main",
+      "html_url": "https://github.com/theramindex/silo-plugin-xtream-library",
+      "description": "",
+      "updated_at": "2026-07-13T02:42:03Z",
+      "size": 1188,
+      "archived": false
+    },
+    {
+      "full_name": "TronVonDoom/mesatztv",
+      "default_branch": "main",
+      "html_url": "https://github.com/TronVonDoom/mesatztv",
+      "description": "",
+      "updated_at": "2026-07-13T02:51:55Z",
+      "size": 210,
+      "archived": false
+    },
+    {
+      "full_name": "hirotomasato/sportku",
+      "default_branch": "main",
+      "html_url": "https://github.com/hirotomasato/sportku",
+      "description": "",
+      "updated_at": "2026-07-13T02:40:45Z",
+      "size": 5185,
+      "archived": false
+    },
+    {
+      "full_name": "Mrbotrx/Tvbox_KB",
+      "default_branch": "main",
+      "html_url": "https://github.com/Mrbotrx/Tvbox_KB",
+      "description": "\ud83d\udce1 TVBox & IPTV Resources | Live TV Channels | M3U Playlists | Streaming Tools | Regular Updates",
+      "updated_at": "2026-07-13T02:40:12Z",
+      "size": 304,
+      "archived": false
+    },
+    {
+      "full_name": "LordTruffle/FAST",
+      "default_branch": "main",
+      "html_url": "https://github.com/LordTruffle/FAST",
+      "description": "",
+      "updated_at": "2026-07-13T02:40:13Z",
+      "size": 34753,
+      "archived": false
+    },
+    {
+      "full_name": "fparrav/mi-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/fparrav/mi-iptv",
+      "description": "Lista IPTV personalizada - agregaci\u00f3n de fuentes p\u00fablicas",
+      "updated_at": "2026-07-13T02:38:59Z",
+      "size": 4288,
+      "archived": false
+    },
+    {
+      "full_name": "iptvjs/iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/iptvjs/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "updated_at": "2026-07-13T02:38:18Z",
+      "size": 924506,
+      "archived": false
+    },
+    {
+      "full_name": "xXJohnConstantinexX/my-epg-light",
+      "default_branch": "main",
+      "html_url": "https://github.com/xXJohnConstantinexX/my-epg-light",
+      "description": "",
+      "updated_at": "2026-07-13T02:38:04Z",
+      "size": 1660,
+      "archived": false
+    },
+    {
+      "full_name": "Rakjsu/NeoStream-Mobile",
+      "default_branch": "main",
+      "html_url": "https://github.com/Rakjsu/NeoStream-Mobile",
+      "description": "Player IPTV para celular (Expo/React Native) \u2014 irm\u00e3o mobile do NeoStream",
+      "updated_at": "2026-07-13T02:38:06Z",
+      "size": 1779,
+      "archived": false
+    },
+    {
+      "full_name": "IPTV-premium/epg-multi-builder",
+      "default_branch": "main",
+      "html_url": "https://github.com/IPTV-premium/epg-multi-builder",
+      "description": "Merges 11 public XMLTV EPG sources into one deduplicated file. 30k+ channels, hourly rebuild.",
+      "updated_at": "2026-07-13T02:37:49Z",
+      "size": 83,
+      "archived": false
+    },
+    {
+      "full_name": "hub-fb/minha-playlist-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/hub-fb/minha-playlist-iptv",
+      "description": "",
+      "updated_at": "2026-07-13T02:37:25Z",
+      "size": 4994,
+      "archived": false
+    },
+    {
+      "full_name": "RichelYu1998/Collect-IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/RichelYu1998/Collect-IPTV",
+      "description": "iptv \u81ea\u52a8\u66f4\u65b0",
+      "updated_at": "2026-07-13T02:37:07Z",
+      "size": 1296,
+      "archived": false
+    },
+    {
+      "full_name": "xiaoran67/core",
+      "default_branch": "main",
+      "html_url": "https://github.com/xiaoran67/core",
+      "description": "",
+      "updated_at": "2026-07-13T02:36:53Z",
+      "size": 1211795,
+      "archived": false
+    },
+    {
+      "full_name": "xynerate/LiveTVCollector-",
+      "default_branch": "main",
+      "html_url": "https://github.com/xynerate/LiveTVCollector-",
+      "description": "Automatically collect free tv channels",
+      "updated_at": "2026-07-13T02:35:56Z",
+      "size": 1998,
+      "archived": false
+    },
+    {
+      "full_name": "xiaoran012/update",
+      "default_branch": "main",
+      "html_url": "https://github.com/xiaoran012/update",
+      "description": "",
+      "updated_at": "2026-07-13T02:35:06Z",
+      "size": 1227614,
+      "archived": false
+    },
+    {
+      "full_name": "renfuji12/bacalhau",
+      "default_branch": "main",
+      "html_url": "https://github.com/renfuji12/bacalhau",
+      "description": "\ud83d\udc1f Stream live IPTV with bacalhau, a self-hosted player for NAS and Docker, featuring M3U playlist support and EPG integration for seamless viewing.",
+      "updated_at": "2026-07-13T02:34:58Z",
+      "size": 3542,
+      "archived": false
+    },
+    {
+      "full_name": "insa-ship-it/epg-dark",
+      "default_branch": "main",
+      "html_url": "https://github.com/insa-ship-it/epg-dark",
+      "description": "",
+      "updated_at": "2026-07-13T02:34:57Z",
+      "size": 37195,
+      "archived": false
+    },
+    {
+      "full_name": "mymsnn/DailyIPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/mymsnn/DailyIPTV",
+      "description": "DailyIPTV",
+      "updated_at": "2026-07-13T02:34:57Z",
+      "size": 6671,
+      "archived": false
+    },
+    {
+      "full_name": "xr3ed/Auto-IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/xr3ed/Auto-IPTV",
+      "description": "",
+      "updated_at": "2026-07-13T02:34:49Z",
+      "size": 233686,
+      "archived": false
+    },
+    {
+      "full_name": "otaviozanon/LiveWatch",
+      "default_branch": "main",
+      "html_url": "https://github.com/otaviozanon/LiveWatch",
+      "description": "Automated IPTV playlist - all triggered from a terminal-style web dashboard.",
+      "updated_at": "2026-07-13T02:33:49Z",
+      "size": 1093,
+      "archived": false
+    },
+    {
+      "full_name": "johirxofficial/Toffee-Auto-Playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/johirxofficial/Toffee-Auto-Playlist",
+      "description": "Toffee-Auto-Playlist \u2014 Just Bangladeshi Users \ud83d\ude4c\ud83c\udde7\ud83c\udde9",
+      "updated_at": "2026-07-13T02:33:28Z",
+      "size": 1046,
+      "archived": false
+    },
+    {
+      "full_name": "nuttle-nuttterr/Ds2",
+      "default_branch": "main",
+      "html_url": "https://github.com/nuttle-nuttterr/Ds2",
+      "description": "",
+      "updated_at": "2026-07-13T02:33:00Z",
+      "size": 1242,
+      "archived": false
+    },
+    {
+      "full_name": "zzgpy1/ITV",
+      "default_branch": "main",
+      "html_url": "https://github.com/zzgpy1/ITV",
+      "description": "\u5168\u81ea\u52a8IPTV\u6e90\u91c7\u96c6\u3001\u68c0\u6d4b\u53ca\u6574\u5408",
+      "updated_at": "2026-07-13T02:32:38Z",
+      "size": 110886,
+      "archived": false
+    },
+    {
+      "full_name": "ewinz19/xtskltshdt",
+      "default_branch": "main",
+      "html_url": "https://github.com/ewinz19/xtskltshdt",
+      "description": "my m 3 u ipt v",
+      "updated_at": "2026-07-13T02:32:22Z",
+      "size": 1516503,
+      "archived": false
+    },
+    {
+      "full_name": "xiaoran012/core",
+      "default_branch": "main",
+      "html_url": "https://github.com/xiaoran012/core",
+      "description": "",
+      "updated_at": "2026-07-13T02:31:42Z",
+      "size": 1154992,
+      "archived": false
+    },
+    {
+      "full_name": "hoangcon1808/football",
+      "default_branch": "main",
+      "html_url": "https://github.com/hoangcon1808/football",
+      "description": "",
+      "updated_at": "2026-07-13T02:31:29Z",
+      "size": 5428,
+      "archived": false
+    },
+    {
+      "full_name": "gambiarras/legal-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/gambiarras/legal-iptv",
+      "description": "",
+      "updated_at": "2026-07-13T02:30:36Z",
+      "size": 78044,
+      "archived": false
+    },
+    {
+      "full_name": "jonzey231/AerioTV-Android",
+      "default_branch": "main",
+      "html_url": "https://github.com/jonzey231/AerioTV-Android",
+      "description": "AerioTV \u2014 IPTV streaming app for Android and Android TV with support for Dispatcharr's API, Xtream Codes, and M3U + EPG",
+      "updated_at": "2026-07-13T02:29:49Z",
+      "size": 9984,
+      "archived": false
+    },
+    {
+      "full_name": "jgog/My-IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/jgog/My-IPTV",
+      "description": "",
+      "updated_at": "2026-07-13T02:28:47Z",
+      "size": 7622,
+      "archived": false
+    },
+    {
+      "full_name": "bugsfreeweb/LiveTVCollector",
+      "default_branch": "main",
+      "html_url": "https://github.com/bugsfreeweb/LiveTVCollector",
+      "description": "Auto m3u collections for World LiveTV",
+      "updated_at": "2026-07-13T02:52:39Z",
+      "size": 3097336,
+      "archived": false
+    },
+    {
+      "full_name": "leandropapu/CodEX-Player",
+      "default_branch": "main",
+      "html_url": "https://github.com/leandropapu/CodEX-Player",
+      "description": "Stream HLS video smoothly with CodEX-Player, a customizable web player featuring glassmorphism UI and smart keyboard controls.",
+      "updated_at": "2026-07-13T02:52:31Z",
+      "size": 536,
+      "archived": false
+    },
+    {
+      "full_name": "zxp19821005/My_AUR_Files",
+      "default_branch": "main",
+      "html_url": "https://github.com/zxp19821005/My_AUR_Files",
+      "description": "Store My AUR Files Only",
+      "updated_at": "2026-07-13T02:52:09Z",
+      "size": 56671,
+      "archived": false
+    },
+    {
+      "full_name": "drewbitt/starred",
+      "default_branch": "master",
+      "html_url": "https://github.com/drewbitt/starred",
+      "description": "",
+      "updated_at": "2026-07-13T02:51:42Z",
+      "size": 13805,
+      "archived": false
+    },
+    {
+      "full_name": "mahdiridoy/codecloudebd",
+      "default_branch": "main",
+      "html_url": "https://github.com/mahdiridoy/codecloudebd",
+      "description": "",
+      "updated_at": "2026-07-13T02:51:34Z",
+      "size": 178,
+      "archived": false
+    },
+    {
+      "full_name": "twixoffltdco/livestream-aggregator",
+      "default_branch": "main",
+      "html_url": "https://github.com/twixoffltdco/livestream-aggregator",
+      "description": "",
+      "updated_at": "2026-07-13T02:50:39Z",
+      "size": 78,
+      "archived": false
+    },
+    {
+      "full_name": "myfriendqaz/LiveTVCollector",
+      "default_branch": "main",
+      "html_url": "https://github.com/myfriendqaz/LiveTVCollector",
+      "description": "World LiveTV auto m3u collections",
+      "updated_at": "2026-07-13T02:50:21Z",
+      "size": 2915376,
+      "archived": false
+    },
+    {
+      "full_name": "insa-ship-it/MyStreams",
+      "default_branch": "main",
+      "html_url": "https://github.com/insa-ship-it/MyStreams",
+      "description": "",
+      "updated_at": "2026-07-13T02:49:11Z",
+      "size": 2302506,
+      "archived": false
+    },
+    {
+      "full_name": "BINOD-XD/Toffee-Auto-Update-Playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/BINOD-XD/Toffee-Auto-Update-Playlist",
+      "description": "This Repository Update Toffee Playlist Automatic",
+      "updated_at": "2026-07-13T02:48:18Z",
+      "size": 20451,
+      "archived": false
+    },
+    {
+      "full_name": "SHAJON-404/iptv-web",
+      "default_branch": "main",
+      "html_url": "https://github.com/SHAJON-404/iptv-web",
+      "description": "\ud83c\udf0d IPTV Playlists Hub",
+      "updated_at": "2026-07-13T02:47:44Z",
+      "size": 2214,
+      "archived": false
+    },
+    {
+      "full_name": "hoilc/scoop-lemon",
+      "default_branch": "master",
+      "html_url": "https://github.com/hoilc/scoop-lemon",
+      "description": "\ud83c\udf4bYet Another Personal Bucket for Scoop",
+      "updated_at": "2026-07-13T02:47:28Z",
+      "size": 41645,
+      "archived": false
+    },
+    {
+      "full_name": "Hu1kSmash/ha-alexa-cameras",
+      "default_branch": "main",
+      "html_url": "https://github.com/Hu1kSmash/ha-alexa-cameras",
+      "description": "Home Assistant add-on: serve RTSP cameras to Amazon Echo Show / Alexa as H.264 MPEG-TS HLS",
+      "updated_at": "2026-07-13T02:46:22Z",
+      "size": 3097,
+      "archived": false
+    },
+    {
+      "full_name": "weslleyfreitassantos-cell/TecLive-Monitor",
+      "default_branch": "main",
+      "html_url": "https://github.com/weslleyfreitassantos-cell/TecLive-Monitor",
+      "description": "",
+      "updated_at": "2026-07-13T02:45:56Z",
+      "size": 84648,
+      "archived": false
+    },
+    {
+      "full_name": "ssmhdssmhd/qcb",
+      "default_branch": "main",
+      "html_url": "https://github.com/ssmhdssmhd/qcb",
+      "description": "",
+      "updated_at": "2026-07-13T02:45:48Z",
+      "size": 7851,
+      "archived": false
+    },
+    {
+      "full_name": "HeavenlyXenusVR/Lumisound",
+      "default_branch": "main",
+      "html_url": "https://github.com/HeavenlyXenusVR/Lumisound",
+      "description": "Lumisound \u2014 spatial iOS music player with 8D audio, EQ, streaming, and personal cloud library",
+      "updated_at": "2026-07-13T02:44:33Z",
+      "size": 354107,
+      "archived": false
+    },
+    {
+      "full_name": "SysAdminDoc/StormScope",
+      "default_branch": "master",
+      "html_url": "https://github.com/SysAdminDoc/StormScope",
+      "description": "Live US weather radar with webcam overlays \u2014 see real-time NEXRAD radar and click 7,000+ traffic cameras to view weather conditions",
+      "updated_at": "2026-07-13T02:40:53Z",
+      "size": 17488,
+      "archived": false
+    },
+    {
+      "full_name": "adcc-hanyang/media-savant",
+      "default_branch": "main",
+      "html_url": "https://github.com/adcc-hanyang/media-savant",
+      "description": "Best Android Video Downloader with Browser & Live Stream M3U8 MPD Support 2026",
+      "updated_at": "2026-07-13T02:40:46Z",
+      "size": 264,
+      "archived": false
+    },
+    {
+      "full_name": "M2G/video-segmenter",
+      "default_branch": "master",
+      "html_url": "https://github.com/M2G/video-segmenter",
+      "description": "Tool using the FFmpeg framework API for actual file processing, to analyse and convert mp4 files into hls segments (this project is over 10 years old, I have revived it). NOTE : I'm going to revamp a project that manages quality (yet another old project) Inspired by : github.com/cwinging/go-segment",
+      "updated_at": "2026-07-13T02:39:48Z",
+      "size": 80,
+      "archived": false
+    },
+    {
+      "full_name": "insa-ship-it/Appm3u-combo",
+      "default_branch": "main",
+      "html_url": "https://github.com/insa-ship-it/Appm3u-combo",
+      "description": "",
+      "updated_at": "2026-07-13T02:38:55Z",
+      "size": 94874,
+      "archived": false
+    },
+    {
+      "full_name": "thesupersupersigma/RECONSUMET.TS",
+      "default_branch": "master",
+      "html_url": "https://github.com/thesupersupersigma/RECONSUMET.TS",
+      "description": "made with claude opus 4.8 and fable 5",
+      "updated_at": "2026-07-13T02:33:15Z",
+      "size": 786,
+      "archived": false
+    },
+    {
+      "full_name": "XAOSTECH/video-tools",
+      "default_branch": "main",
+      "html_url": "https://github.com/XAOSTECH/video-tools",
+      "description": "Unix Video Toolset",
+      "updated_at": "2026-07-13T02:31:23Z",
+      "size": 195,
+      "archived": false
+    },
+    {
+      "full_name": "ahnafnafee/omni-playlist-sync",
+      "default_branch": "main",
+      "html_url": "https://github.com/ahnafnafee/omni-playlist-sync",
+      "description": "Always-on Spotify playlist mirror: sync to Apple Music + YouTube Music + local Jellyfin-ready downloads. ISRC matching, date-added ordering, safety-railed removals, Docker/Task Scheduler.",
+      "updated_at": "2026-07-13T02:36:40Z",
+      "size": 311,
+      "archived": false
+    },
+    {
+      "full_name": "shiva16200/streaming-linkss",
+      "default_branch": "main",
+      "html_url": "https://github.com/shiva16200/streaming-linkss",
+      "description": "",
+      "updated_at": "2026-07-13T02:27:59Z",
+      "size": 22,
+      "archived": false
+    },
+    {
+      "full_name": "0xmzn/awesome-go-awelist",
+      "default_branch": "main",
+      "html_url": "https://github.com/0xmzn/awesome-go-awelist",
+      "description": "",
+      "updated_at": "2026-07-13T02:27:56Z",
+      "size": 59461,
+      "archived": false
+    },
+    {
+      "full_name": "DukeCrimson/open-tv-aggregator",
+      "default_branch": "main",
+      "html_url": "https://github.com/DukeCrimson/open-tv-aggregator",
+      "description": "",
+      "updated_at": "2026-07-13T02:27:25Z",
+      "size": 132,
+      "archived": false
+    },
+    {
+      "full_name": "Afsana012/live",
+      "default_branch": "main",
+      "html_url": "https://github.com/Afsana012/live",
+      "description": "",
+      "updated_at": "2026-07-13T02:26:32Z",
+      "size": 405,
+      "archived": false
+    },
+    {
+      "full_name": "gorantlasadwik/ipGenz",
+      "default_branch": "main",
+      "html_url": "https://github.com/gorantlasadwik/ipGenz",
+      "description": "",
+      "updated_at": "2026-07-13T02:25:46Z",
+      "size": 38769,
+      "archived": false
+    },
+    {
+      "full_name": "JulioCesarXY/EPG-LG-Channels",
+      "default_branch": "main",
+      "html_url": "https://github.com/JulioCesarXY/EPG-LG-Channels",
+      "description": "\u200b\ud83d\udce1 Automated IPTV playlist (.m3u) and XMLTV Guide (.xml) extractor for LG Channels (WebOS) using GitHub Actions. Updated every 6 hours.",
+      "updated_at": "2026-07-13T02:25:34Z",
+      "size": 24805,
+      "archived": false
+    },
+    {
+      "full_name": "hamzaateeq090-svg/pazu-hulu-video-downloader-22",
+      "default_branch": "main",
+      "html_url": "https://github.com/hamzaateeq090-svg/pazu-hulu-video-downloader-22",
+      "description": "Pazu Hulu Video Saver 2.2.1 2026 Version Latest Tool",
+      "updated_at": "2026-07-13T02:22:56Z",
+      "size": 390,
+      "archived": false
+    },
+    {
+      "full_name": "CassieMarie0728/my-awesomeness",
+      "default_branch": "main",
+      "html_url": "https://github.com/CassieMarie0728/my-awesomeness",
+      "description": "",
+      "updated_at": "2026-07-13T02:22:15Z",
+      "size": 112,
+      "archived": false
+    },
+    {
+      "full_name": "atsushi444/iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/atsushi444/iptv",
+      "description": "",
+      "updated_at": "2026-07-13T02:21:46Z",
+      "size": 159302,
+      "archived": false
+    },
+    {
+      "full_name": "alfchao/awesome-stars-alfchao",
+      "default_branch": "main",
+      "html_url": "https://github.com/alfchao/awesome-stars-alfchao",
+      "description": "\u6211\u7684star\u5217\u8868\uff0c\u6bcf\u5929\u51cc\u6668\u81ea\u52a8\u66f4\u65b0",
+      "updated_at": "2026-07-13T02:21:46Z",
+      "size": 30824,
+      "archived": false
+    },
+    {
+      "full_name": "Ronish17/redbull-archive-cli",
+      "default_branch": "main",
+      "html_url": "https://github.com/Ronish17/redbull-archive-cli",
+      "description": "Ultimate Red Bull TV Downloader CLI & Web UI 2026",
+      "updated_at": "2026-07-13T02:21:28Z",
+      "size": 294,
+      "archived": false
+    },
+    {
+      "full_name": "Dmitriy11223455/FREE_IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/Dmitriy11223455/FREE_IPTV",
+      "description": "Proxy playlist iptv for Smart TV like Tizen, Vidaa, WebOS, Android or other system.",
+      "updated_at": "2026-07-13T02:18:40Z",
+      "size": 7253,
+      "archived": false
+    },
+    {
+      "full_name": "CourtsideVideoEntertainment/OverlayScheduledPlayer",
+      "default_branch": "master",
+      "html_url": "https://github.com/CourtsideVideoEntertainment/OverlayScheduledPlayer",
+      "description": "Clone of Rohan's ScheduledPlayer with Overlay modification",
+      "updated_at": "2026-07-13T02:15:36Z",
+      "size": 58527,
+      "archived": false
+    },
+    {
+      "full_name": "erbanku/awesome",
+      "default_branch": "main",
+      "html_url": "https://github.com/erbanku/awesome",
+      "description": "\ud83c\udf1f My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00",
+      "updated_at": "2026-07-13T02:14:48Z",
+      "size": 4947,
+      "archived": false
+    },
+    {
+      "full_name": "pascgallardo/LiveTVCollectorES",
+      "default_branch": "main",
+      "html_url": "https://github.com/pascgallardo/LiveTVCollectorES",
+      "description": "Auto m3u collections for Spain LiveTV ",
+      "updated_at": "2026-07-13T02:14:13Z",
+      "size": 41409,
+      "archived": false
+    },
+    {
+      "full_name": "hujianj/tv-live-auto-check",
+      "default_branch": "main",
+      "html_url": "https://github.com/hujianj/tv-live-auto-check",
+      "description": "Auto-maintained IPTV playlist: fetch all public upstreams, probe real media segments, publish only playable streams.",
+      "updated_at": "2026-07-13T02:13:30Z",
+      "size": 1158,
+      "archived": false
+    },
+    {
+      "full_name": "time2shine/IPTV",
+      "default_branch": "master",
+      "html_url": "https://github.com/time2shine/IPTV",
+      "description": "BDIX supported IPTV playlist with 600+ Channels and 10000+ Movies. Optimized for Bangladeshi user. BD IPTV and Movies",
+      "updated_at": "2026-07-13T02:12:16Z",
+      "size": 350026,
+      "archived": false
+    },
+    {
+      "full_name": "mt190502/stars",
+      "default_branch": "master",
+      "html_url": "https://github.com/mt190502/stars",
+      "description": "",
+      "updated_at": "2026-07-13T02:10:22Z",
+      "size": 20781,
+      "archived": false
+    },
+    {
+      "full_name": "OleksiiKramarenko/IPTV-playlist-form-WORLD-IPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/OleksiiKramarenko/IPTV-playlist-form-WORLD-IPTV",
+      "description": "",
+      "updated_at": "2026-07-13T02:09:44Z",
+      "size": 148004,
+      "archived": false
+    },
+    {
+      "full_name": "908198/xdm-extreme-downloader-pro",
+      "default_branch": "main",
+      "html_url": "https://github.com/908198/xdm-extreme-downloader-pro",
+      "description": "Xtreme Download Manager 8.0 Pro 2026 \u2013 Speed Boost & Video Grabber",
+      "updated_at": "2026-07-13T02:08:58Z",
+      "size": 297,
+      "archived": false
+    },
+    {
+      "full_name": "banjiolamide64-source/PerfectTUNES-R2024-Setup-Key",
+      "default_branch": "main",
+      "html_url": "https://github.com/banjiolamide64-source/PerfectTUNES-R2024-Setup-Key",
+      "description": "Best PerfectTUNES Update Tools 2026 for Audio File Organization",
+      "updated_at": "2026-07-13T02:08:17Z",
+      "size": 412,
+      "archived": false
+    },
+    {
+      "full_name": "anirbansumon2024/youtube-cookie",
+      "default_branch": "main",
+      "html_url": "https://github.com/anirbansumon2024/youtube-cookie",
+      "description": "",
+      "updated_at": "2026-07-13T02:08:06Z",
+      "size": 208,
+      "archived": false
+    },
+    {
+      "full_name": "BuddyChewChew/tcl-playlist-generator",
+      "default_branch": "main",
+      "html_url": "https://github.com/BuddyChewChew/tcl-playlist-generator",
+      "description": "Playlist and full EPG",
+      "updated_at": "2026-07-13T02:03:34Z",
+      "size": 207807,
+      "archived": false
+    },
+    {
+      "full_name": "ysyhlly/Yukine-android",
+      "default_branch": "main",
+      "html_url": "https://github.com/ysyhlly/Yukine-android",
+      "description": "",
+      "updated_at": "2026-07-13T02:03:10Z",
+      "size": 28484,
+      "archived": false
+    },
+    {
+      "full_name": "Kenshin069/three-body-tech-lost-soul-void-release",
+      "default_branch": "main",
+      "html_url": "https://github.com/Kenshin069/three-body-tech-lost-soul-void-release",
+      "description": "Three Body Technology Lost Soul Full Game Access 2026 Guide",
+      "updated_at": "2026-07-13T02:02:37Z",
+      "size": 407,
+      "archived": false
+    },
+    {
+      "full_name": "twitchy2u/Pluto-TV-my-stuff",
+      "default_branch": "main",
+      "html_url": "https://github.com/twitchy2u/Pluto-TV-my-stuff",
+      "description": "Auto-updated Pluto TV M3U playlists with EPG",
+      "updated_at": "2026-07-13T02:01:54Z",
+      "size": 3122668,
+      "archived": false
+    },
+    {
+      "full_name": "sm-monirulislam/FanCode-Auto-Update-Playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/sm-monirulislam/FanCode-Auto-Update-Playlist",
+      "description": "Automatically updated list of FanCode Live Matches Links(provided as json-file or PlayList)",
+      "updated_at": "2026-07-13T02:01:08Z",
+      "size": 2821,
+      "archived": false
+    },
+    {
+      "full_name": "OinktechLLC/livem3u",
+      "default_branch": "main",
+      "html_url": "https://github.com/OinktechLLC/livem3u",
+      "description": "",
+      "updated_at": "2026-07-13T02:52:47Z",
+      "size": 818138,
+      "archived": false
+    },
+    {
+      "full_name": "YunhaoDou/github-weekly-trending",
+      "default_branch": "main",
+      "html_url": "https://github.com/YunhaoDou/github-weekly-trending",
+      "description": "Top 100 GitHub repos by weekly star delta, classified by language and project type. Auto-updated via Actions.",
+      "updated_at": "2026-07-13T02:52:06Z",
+      "size": 12904,
+      "archived": false
+    },
+    {
+      "full_name": "tsender57-dotcom/iptv-rox-playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/tsender57-dotcom/iptv-rox-playlist",
+      "description": "",
+      "updated_at": "2026-07-13T02:52:05Z",
+      "size": 14880,
+      "archived": false
+    },
+    {
+      "full_name": "MiltonTV/MiltonTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/MiltonTV/MiltonTV",
+      "description": "Lista IPTV gratuita y legal para TiviMate y Google TV.",
+      "updated_at": "2026-07-13T02:51:08Z",
+      "size": 59,
+      "archived": false
+    },
+    {
+      "full_name": "akmaloki-sketch/iptv_Akmal",
+      "default_branch": "main",
+      "html_url": "https://github.com/akmaloki-sketch/iptv_Akmal",
+      "description": "IPTV Playlist Auto-Update",
+      "updated_at": "2026-07-13T02:48:17Z",
+      "size": 66,
+      "archived": false
+    },
+    {
+      "full_name": "Dodoizm35/epg-turkish",
+      "default_branch": "main",
+      "html_url": "https://github.com/Dodoizm35/epg-turkish",
+      "description": "",
+      "updated_at": "2026-07-13T02:47:19Z",
+      "size": 120168,
+      "archived": false
+    },
+    {
+      "full_name": "ibstvofficial/Live-events",
+      "default_branch": "main",
+      "html_url": "https://github.com/ibstvofficial/Live-events",
+      "description": "Auto-updating IPTV playlist aggregator for SonyLiv, FanCode, and Live Sports. Powered by GitHub Actions.",
+      "updated_at": "2026-07-13T02:46:06Z",
+      "size": 2852,
+      "archived": false
+    },
+    {
+      "full_name": "dgoodwin418/iptv-playlists",
+      "default_branch": "main",
+      "html_url": "https://github.com/dgoodwin418/iptv-playlists",
+      "description": "List of iptv channels",
+      "updated_at": "2026-07-13T02:38:51Z",
+      "size": 2540,
+      "archived": false
+    },
+    {
+      "full_name": "amazeyourself/tamil-local-iptv",
+      "default_branch": "main",
+      "html_url": "https://github.com/amazeyourself/tamil-local-iptv",
+      "description": "Live IPTV streams of local cable channels in Tamil Nadu.",
+      "updated_at": "2026-07-13T02:33:32Z",
+      "size": 15603,
+      "archived": false
+    },
+    {
+      "full_name": "sm-monirulislam/Upcoming-and-Live-Sports-Data",
+      "default_branch": "main",
+      "html_url": "https://github.com/sm-monirulislam/Upcoming-and-Live-Sports-Data",
+      "description": "Automatically updated list of Sports   Matches data and Links (provided as json-file )",
+      "updated_at": "2026-07-13T02:31:07Z",
+      "size": 3321,
+      "archived": false
+    },
+    {
+      "full_name": "Some0ne11/EPGMalaysiaIPTV",
+      "default_branch": "main",
+      "html_url": "https://github.com/Some0ne11/EPGMalaysiaIPTV",
+      "description": "",
+      "updated_at": "2026-07-13T02:30:30Z",
+      "size": 1698,
+      "archived": false
+    },
+    {
+      "full_name": "Romaxa55/world_ip_tv",
+      "default_branch": "master",
+      "html_url": "https://github.com/Romaxa55/world_ip_tv",
+      "description": "\ud83d\udcfa Free IPTV playlist with 24/7 auto-verified working channels. Updated daily via GitHub Actions. Paste M3U link into VLC/IPTV Smarters.",
+      "updated_at": "2026-07-13T02:27:54Z",
+      "size": 104174,
+      "archived": false
+    },
+    {
+      "full_name": "sm-monirulislam/SM-Movie-Hup-Auto-Update",
+      "default_branch": "main",
+      "html_url": "https://github.com/sm-monirulislam/SM-Movie-Hup-Auto-Update",
+      "description": "",
+      "updated_at": "2026-07-13T02:25:30Z",
+      "size": 77258,
+      "archived": false
+    },
+    {
+      "full_name": "insa-ship-it/airy-playlist",
+      "default_branch": "main",
+      "html_url": "https://github.com/insa-ship-it/airy-playlist",
+      "description": "",
+      "updated_at": "2026-07-13T02:25:11Z",
+      "size": 6291,
+      "archived": false
+    }
+  ],
+  "playlist_files": [
+    {
+      "repository": "srhady/tapmad-bd",
+      "file": "tapmad_bd.m3u",
+      "cached_as": "github_m3u_cache/srhady-tapmad-bd__tapmad_bd.m3u"
+    },
+    {
+      "repository": "IvanStoilov2/iptv",
+      "file": "bg.m3u",
+      "cached_as": "github_m3u_cache/IvanStoilov2-iptv__bg.m3u"
+    },
+    {
+      "repository": "Samhouston010/sepehr-irib-epg",
+      "file": "iran-streams/ir.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-sepehr-irib-epg__iran-streams-ir.m3u"
+    },
+    {
+      "repository": "Samhouston010/sepehr-irib-epg",
+      "file": "iran-streams/ir_telewebion.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-sepehr-irib-epg__iran-streams-ir_telewebion.m3u"
+    },
+    {
+      "repository": "Samhouston010/sepehr-irib-epg",
+      "file": "iran-streams/ir_wnslive.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-sepehr-irib-epg__iran-streams-ir_wnslive.m3u"
+    },
+    {
+      "repository": "Samhouston010/sepehr-irib-epg",
+      "file": "sepehr.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-sepehr-irib-epg__sepehr.m3u"
+    },
+    {
+      "repository": "Samhouston010/sepehr-irib-epg",
+      "file": "sepehr_live.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-sepehr-irib-epg__sepehr_live.m3u"
+    },
+    {
+      "repository": "Samhouston010/sepehr-irib-epg",
+      "file": "sepehr_vod.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-sepehr-irib-epg__sepehr_vod.m3u"
+    },
+    {
+      "repository": "NestorMonroy/iptv-generator",
+      "file": "playlist.m3u",
+      "cached_as": "github_m3u_cache/NestorMonroy-iptv-generator__playlist.m3u"
+    },
+    {
+      "repository": "NestorMonroy/iptv-generator",
+      "file": "plex.m3u",
+      "cached_as": "github_m3u_cache/NestorMonroy-iptv-generator__plex.m3u"
+    },
+    {
+      "repository": "NestorMonroy/iptv-generator",
+      "file": "pluto.m3u",
+      "cached_as": "github_m3u_cache/NestorMonroy-iptv-generator__pluto.m3u"
+    },
+    {
+      "repository": "Samhouston010/persiana-tv-epg",
+      "file": "all.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-persiana-tv-epg__all.m3u"
+    },
+    {
+      "repository": "Samhouston010/persiana-tv-epg",
+      "file": "final.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-persiana-tv-epg__final.m3u"
+    },
+    {
+      "repository": "Samhouston010/persiana-tv-epg",
+      "file": "irib.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-persiana-tv-epg__irib.m3u"
+    },
+    {
+      "repository": "Samhouston010/persiana-tv-epg",
+      "file": "news.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-persiana-tv-epg__news.m3u"
+    },
+    {
+      "repository": "Samhouston010/persiana-tv-epg",
+      "file": "persian_all.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-persiana-tv-epg__persian_all.m3u"
+    },
+    {
+      "repository": "Samhouston010/persiana-tv-epg",
+      "file": "persiana.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-persiana-tv-epg__persiana.m3u"
+    },
+    {
+      "repository": "Samhouston010/persiana-tv-epg",
+      "file": "stable.m3u",
+      "cached_as": "github_m3u_cache/Samhouston010-persiana-tv-epg__stable.m3u"
+    },
+    {
+      "repository": "lengtv-dev/Allsport",
+      "file": "Omnix_play.m3u",
+      "cached_as": "github_m3u_cache/lengtv-dev-Allsport__Omnix_play.m3u"
+    },
+    {
+      "repository": "lengtv-dev/Allsport",
+      "file": "omnix_play.m3u",
+      "cached_as": "github_m3u_cache/lengtv-dev-Allsport__omnix_play.m3u"
+    },
+    {
+      "repository": "lengtv-dev/Allsport",
+      "file": "wc/ch1.m3u8",
+      "cached_as": "github_m3u_cache/lengtv-dev-Allsport__wc-ch1.m3u8"
+    },
+    {
+      "repository": "lengtv-dev/Allsport",
+      "file": "wc/ch2.m3u8",
+      "cached_as": "github_m3u_cache/lengtv-dev-Allsport__wc-ch2.m3u8"
+    },
+    {
+      "repository": "acj45/mis-listas-m3uv",
+      "file": "lista.m3u",
+      "cached_as": "github_m3u_cache/acj45-mis-listas-m3uv__lista.m3u"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "IndihomeTV.m3u",
+      "cached_as": "github_m3u_cache/apistech-project__IndihomeTV.m3u"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "playlists/World_Cup.m3u",
+      "cached_as": "github_m3u_cache/apistech-project__playlists-World_Cup.m3u"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "playlists/events.m3u8",
+      "cached_as": "github_m3u_cache/apistech-project__playlists-events.m3u8"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "playlists/pluto_all.m3u",
+      "cached_as": "github_m3u_cache/apistech-project__playlists-pluto_all.m3u"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "playlists/rctiplus.m3u",
+      "cached_as": "github_m3u_cache/apistech-project__playlists-rctiplus.m3u"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "playlists/roku.m3u",
+      "cached_as": "github_m3u_cache/apistech-project__playlists-roku.m3u"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "playlists/samsungtvplus_all.m3u",
+      "cached_as": "github_m3u_cache/apistech-project__playlists-samsungtvplus_all.m3u"
+    },
+    {
+      "repository": "apistech/project",
+      "file": "playlists/tcl.m3u",
+      "cached_as": "github_m3u_cache/apistech-project__playlists-tcl.m3u"
+    },
+    {
+      "repository": "122566/cn-iptv",
+      "file": "cn_live.m3u",
+      "cached_as": "github_m3u_cache/122566-cn-iptv__cn_live.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "4gtv.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__4gtv.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "BD.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__BD.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "CricHD.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__CricHD.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "FSTV24.m3u8",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__FSTV24.m3u8"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "FSTV24v2.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__FSTV24v2.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Go-4gtv.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Go-4gtv.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "JapanTV.m3u8",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__JapanTV.m3u8"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "LGTV-Schedule.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__LGTV-Schedule.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "LGTV.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__LGTV.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "MoreScreens.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__MoreScreens.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Moveonjoy.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Moveonjoy.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "MytvSuper-Ts.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__MytvSuper-Ts.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Nowsports.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Nowsports.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Persiana.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Persiana.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Pixelsports.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Pixelsports.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Plex-All.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Plex-All.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "PlutoTV-All.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__PlutoTV-All.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Roku-All.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Roku-All.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "SOFAST.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__SOFAST.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "SamsungTVPlus-All.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__SamsungTVPlus-All.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "SportsWebcast.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__SportsWebcast.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "StarHub.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__StarHub.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Stirr-All.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Stirr-All.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "TVPass.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__TVPass.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Telewebion.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Telewebion.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "TheTVApp.m3u8",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__TheTVApp.m3u8"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "UDPTV.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__UDPTV.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "US_LOCAL.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__US_LOCAL.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Wnslive.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Wnslive.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "Yupptv.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__Yupptv.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "ceshi.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__ceshi.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "combined-playlist.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__combined-playlist.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "daddylive-schedule.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__daddylive-schedule.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "distrotv.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__distrotv.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "hilaytv.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__hilaytv.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "klowdtv.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__klowdtv.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "litv.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__litv.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "logo-smart.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__logo-smart.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "ofiii.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__ofiii.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "samsung.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__samsung.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "smart.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__smart.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "smartbeiyong.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__smartbeiyong.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "tubi_playlist.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__tubi_playlist.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "v2hcdn.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__v2hcdn.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "world.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__world.m3u"
+    },
+    {
+      "repository": "judy-gotv/iptv",
+      "file": "xumo_playlist.m3u",
+      "cached_as": "github_m3u_cache/judy-gotv-iptv__xumo_playlist.m3u"
+    },
+    {
+      "repository": "52liulian/IPTV",
+      "file": "live.m3u",
+      "cached_as": "github_m3u_cache/52liulian-IPTV__live.m3u"
+    },
+    {
+      "repository": "Shadow-GR-Official/vodafone.gr-epg",
+      "file": "data/channels.m3u",
+      "cached_as": "github_m3u_cache/Shadow-GR-Official-vodafone.gr-epg__data-channels.m3u"
+    },
+    {
+      "repository": "alanxie1999/IPTV",
+      "file": "best_sorted.m3u",
+      "cached_as": "github_m3u_cache/alanxie1999-IPTV__best_sorted.m3u"
+    },
+    {
+      "repository": "alanxie1999/IPTV",
+      "file": "best_sorted.m3u8",
+      "cached_as": "github_m3u_cache/alanxie1999-IPTV__best_sorted.m3u8"
+    },
+    {
+      "repository": "drumdandrum/MediaRouter",
+      "file": "sample_data/live.m3u",
+      "cached_as": "github_m3u_cache/drumdandrum-MediaRouter__sample_data-live.m3u"
+    },
+    {
+      "repository": "drumdandrum/MediaRouter",
+      "file": "sample_data/movies.m3u",
+      "cached_as": "github_m3u_cache/drumdandrum-MediaRouter__sample_data-movies.m3u"
+    },
+    {
+      "repository": "drumdandrum/MediaRouter",
+      "file": "sample_data/series.m3u",
+      "cached_as": "github_m3u_cache/drumdandrum-MediaRouter__sample_data-series.m3u"
+    },
+    {
+      "repository": "122566/kr-iptv",
+      "file": "kr_live.m3u",
+      "cached_as": "github_m3u_cache/122566-kr-iptv__kr_live.m3u"
+    },
+    {
+      "repository": "OinktechLLC/asosin-project",
+      "file": "playlist/asosin.m3u",
+      "cached_as": "github_m3u_cache/OinktechLLC-asosin-project__playlist-asosin.m3u"
+    },
+    {
+      "repository": "xiaoranmuze/core",
+      "file": "assets/subscribe/tvbox/xiaoran/json/\u70ed\u64ad.m3u",
+      "cached_as": "github_m3u_cache/xiaoranmuze-core__assets-subscribe-tvbox-xiaoran-json-.m3u"
+    },
+    {
+      "repository": "xiaoranmuze/core",
+      "file": "output/custom.m3u",
+      "cached_as": "github_m3u_cache/xiaoranmuze-core__output-custom.m3u"
+    },
+    {
+      "repository": "xiaoranmuze/core",
+      "file": "output/full.m3u",
+      "cached_as": "github_m3u_cache/xiaoranmuze-core__output-full.m3u"
+    },
+    {
+      "repository": "xiaoranmuze/core",
+      "file": "output/ipv4/result.m3u",
+      "cached_as": "github_m3u_cache/xiaoranmuze-core__output-ipv4-result.m3u"
+    },
+    {
+      "repository": "xiaoranmuze/core",
+      "file": "output/ipv6/result.m3u",
+      "cached_as": "github_m3u_cache/xiaoranmuze-core__output-ipv6-result.m3u"
+    },
+    {
+      "repository": "xiaoranmuze/core",
+      "file": "output/lite.m3u",
+      "cached_as": "github_m3u_cache/xiaoranmuze-core__output-lite.m3u"
+    },
+    {
+      "repository": "xiaoranmuze/core",
+      "file": "output/result.m3u",
+      "cached_as": "github_m3u_cache/xiaoranmuze-core__output-result.m3u"
+    },
+    {
+      "repository": "Mrbotrx/All-FREE-TV",
+      "file": "KBPROTV/Bd_KBPRO.m3u8",
+      "cached_as": "github_m3u_cache/Mrbotrx-All-FREE-TV__KBPROTV-Bd_KBPRO.m3u8"
+    },
+    {
+      "repository": "Mrbotrx/All-FREE-TV",
+      "file": "KBPROTV/Ind_bd.m3u8",
+      "cached_as": "github_m3u_cache/Mrbotrx-All-FREE-TV__KBPROTV-Ind_bd.m3u8"
+    },
+    {
+      "repository": "Mrbotrx/All-FREE-TV",
+      "file": "KBPROTV/Sports_promax.m3u8",
+      "cached_as": "github_m3u_cache/Mrbotrx-All-FREE-TV__KBPROTV-Sports_promax.m3u8"
+    },
+    {
+      "repository": "Mrbotrx/All-FREE-TV",
+      "file": "KBPROTV/bdxikb.m3u",
+      "cached_as": "github_m3u_cache/Mrbotrx-All-FREE-TV__KBPROTV-bdxikb.m3u"
+    },
+    {
+      "repository": "Mrbotrx/All-FREE-TV",
+      "file": "combined_playlist.m3u",
+      "cached_as": "github_m3u_cache/Mrbotrx-All-FREE-TV__combined_playlist.m3u"
+    },
+    {
+      "repository": "Mrbotrx/All-FREE-TV",
+      "file": "playlist.m3u",
+      "cached_as": "github_m3u_cache/Mrbotrx-All-FREE-TV__playlist.m3u"
+    },
+    {
+      "repository": "DevelopersCoffee/barista-tuning",
+      "file": "tests/fixtures/airo_iptv/source.m3u",
+      "cached_as": "github_m3u_cache/DevelopersCoffee-barista-tuning__tests-fixtures-airo_iptv-source.m3u"
+    },
+    {
+      "repository": "johancruzpolanco/iptvorg",
+      "file": "lista.m3u",
+      "cached_as": "github_m3u_cache/johancruzpolanco-iptvorg__lista.m3u"
+    },
+    {
+      "repository": "sheriffcheng-gif/my-iptv",
+      "file": "m3u/\u5c71\u897f\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/sheriffcheng-gif-my-iptv__m3u-.m3u"
+    },
+    {
+      "repository": "sheriffcheng-gif/my-iptv",
+      "file": "m3u/\u5c71\u897f\u8054\u901a.m3u",
+      "cached_as": "github_m3u_cache/sheriffcheng-gif-my-iptv__m3u-.m3u"
+    },
+    {
+      "repository": "sheriffcheng-gif/my-iptv",
+      "file": "m3u/\u5c71\u897f\u8054\u901a1.m3u",
+      "cached_as": "github_m3u_cache/sheriffcheng-gif-my-iptv__m3u-1.m3u"
+    },
+    {
+      "repository": "sheriffcheng-gif/my-iptv",
+      "file": "m3u/\u5c71\u897f\u8054\u901a2.m3u",
+      "cached_as": "github_m3u_cache/sheriffcheng-gif-my-iptv__m3u-2.m3u"
+    },
+    {
+      "repository": "sheriffcheng-gif/my-iptv",
+      "file": "m3u/\u5c71\u897f\u8054\u901a3.m3u",
+      "cached_as": "github_m3u_cache/sheriffcheng-gif-my-iptv__m3u-3.m3u"
+    },
+    {
+      "repository": "sheriffcheng-gif/my-iptv",
+      "file": "m3u/\u5c71\u897f\u8054\u901a4.m3u",
+      "cached_as": "github_m3u_cache/sheriffcheng-gif-my-iptv__m3u-4.m3u"
+    },
+    {
+      "repository": "sheriffcheng-gif/my-iptv",
+      "file": "m3u/\u5feb\u901f\u6e90.m3u",
+      "cached_as": "github_m3u_cache/sheriffcheng-gif-my-iptv__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u4e0a\u6d77\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u4e0a\u6d77\u7535\u4fe11.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-1.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u4e0a\u6d77\u7535\u4fe12.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-2.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u4e0a\u6d77\u7535\u4fe13.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-3.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u4e0a\u6d77\u7535\u4fe14.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-4.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5317\u4eac\u8054\u901a.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5317\u4eac\u8054\u901a1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-1.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5317\u4eac\u8054\u901a2.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-2.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5317\u4eac\u8054\u901a3.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-3.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5317\u4eac\u8054\u901a4.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-4.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u56db\u5ddd\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5929\u6d25\u8054\u901a.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5b89\u5fbd\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5c71\u897f\u8054\u901a.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5c71\u897f\u8054\u901a1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-1.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5c71\u897f\u8054\u901a2.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-2.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5e7f\u4e1c\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u5e7f\u4e1c\u7535\u4fe11.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-1.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6c5f\u82cf\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6c5f\u82cf\u7535\u4fe11.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-1.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6c5f\u82cf\u7535\u4fe12.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-2.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6c5f\u82cf\u7535\u4fe13.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-3.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6c5f\u82cf\u7535\u4fe14.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-4.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6cb3\u5317\u8054\u901a.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6cb3\u5357\u8054\u901a.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6cb3\u5357\u8054\u901a1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-1.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u6d59\u6c5f\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u8d35\u5dde\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u91cd\u5e86\u7535\u4fe1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u91cd\u5e86\u8054\u901a.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u91cd\u5e86\u8054\u901a1.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-1.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u91cd\u5e86\u8054\u901a2.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-2.m3u"
+    },
+    {
+      "repository": "jia070310/4K-IPTV-M3U",
+      "file": "m3u/\u91cd\u5e86\u8054\u901a3.m3u",
+      "cached_as": "github_m3u_cache/jia070310-4K-IPTV-M3U__m3u-3.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "178_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__178_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "178_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__178_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "185_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__185_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "185_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__185_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "30198-puppy_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__30198-puppy_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "30198-puppy_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__30198-puppy_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "45_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__45_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "45_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__45_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "51_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__51_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "51_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__51_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "7semfronteiras_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__7semfronteiras_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "7semfronteiras_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__7semfronteiras_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "MERGED_LIVE.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__MERGED_LIVE.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "MERGED_VOD.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__MERGED_VOD.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "alienstreams_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__alienstreams_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "alienstreams_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__alienstreams_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "allone8k_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__allone8k_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "allone8k_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__allone8k_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "bazaruto_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__bazaruto_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "bazaruto_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__bazaruto_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "caffe_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__caffe_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "caffe_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__caffe_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cazintv_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cazintv_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cazintv_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cazintv_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cdn4k_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cdn4k_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cdn4k_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cdn4k_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cm1_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cm1_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cm1_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cm1_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cmskos_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cmskos_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cmskos_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cmskos_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cord-cutter_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cord-cutter_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "cord-cutter_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__cord-cutter_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "esporao_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__esporao_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "fabryka_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__fabryka_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "fabryka_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__fabryka_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "fastopen_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__fastopen_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "fastopen_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__fastopen_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "fastrunner_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__fastrunner_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "fastrunner_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__fastrunner_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "iptv1_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__iptv1_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "iptv_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__iptv_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "iptv_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__iptv_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "izle_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__izle_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "izle_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__izle_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "l1iptv_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__l1iptv_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "l1iptv_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__l1iptv_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "lidns_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__lidns_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "lidns_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__lidns_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "limed_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__limed_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "limed_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__limed_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "live_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__live_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "live_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__live_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "lol_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__lol_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "lol_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__lol_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "lunar_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__lunar_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "megashtv_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__megashtv_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "megashtv_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__megashtv_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "mutant_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__mutant_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "mutant_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__mutant_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "no1_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__no1_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "no1_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__no1_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "nocable_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__nocable_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "nocable_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__nocable_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "notivi-stream_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__notivi-stream_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "notivi-stream_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__notivi-stream_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "nplay_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__nplay_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "nplay_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__nplay_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "pedro00_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__pedro00_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "pedro00_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__pedro00_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "play_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__play_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "play_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__play_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "portott_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__portott_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "portott_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__portott_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "predator_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__predator_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "predator_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__predator_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "pw-iptv_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__pw-iptv_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "pw-iptv_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__pw-iptv_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "s_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__s_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "s_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__s_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "siptvs_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__siptvs_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "siptvs_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__siptvs_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "solution62000_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__solution62000_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "solution62000_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__solution62000_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "squid_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__squid_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "squid_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__squid_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "teck-tv_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__teck-tv_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "teck-tv_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__teck-tv_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "tkosportz_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__tkosportz_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "tkosportz_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__tkosportz_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "tv_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__tv_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "tv_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__tv_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "tvmate_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__tvmate_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "tvmate_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__tvmate_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "vip_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__vip_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "vip_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__vip_vod.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "zikri_live.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__zikri_live.m3u"
+    },
+    {
+      "repository": "IPTVFlixBD/RynoCast-IPTV-M3u-Playlist",
+      "file": "zikri_vod.m3u",
+      "cached_as": "github_m3u_cache/IPTVFlixBD-RynoCast-IPTV-M3u-Playlist__zikri_vod.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "arabic.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__arabic.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "christian.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__christian.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "eastblock.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__eastblock.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "germany.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__germany.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "gulf.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__gulf.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "libanon.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__libanon.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "ukraine-solo.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__ukraine-solo.m3u"
+    },
+    {
+      "repository": "georgeskhouriberlin-66/television",
+      "file": "usa.m3u",
+      "cached_as": "github_m3u_cache/georgeskhouriberlin-66-television__usa.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_all.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_all.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_au.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_au.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_ca.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_ca.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_es.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_es.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_fr.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_fr.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_gb.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_gb.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_mx.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_mx.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_nz.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_nz.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plex_us.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plex_us.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_all.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_all.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_ar.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_ar.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_br.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_br.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_ca.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_ca.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_cl.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_cl.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_de.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_de.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_dk.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_dk.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_es.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_es.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_fr.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_fr.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_gb.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_gb.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_it.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_it.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_mx.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_mx.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_no.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_no.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_se.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_se.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/plutotv_us.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-plutotv_us.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/roku_all.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-roku_all.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_all.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_all.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_at.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_at.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_ca.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_ca.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_ch.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_ch.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_de.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_de.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_es.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_es.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_fr.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_fr.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_gb.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_gb.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_in.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_in.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_it.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_it.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_kr.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_kr.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/samsungtvplus_us.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-samsungtvplus_us.m3u"
+    },
+    {
+      "repository": "insa-ship-it/app-m3u-generator",
+      "file": "playlists/tubi_all.m3u",
+      "cached_as": "github_m3u_cache/insa-ship-it-app-m3u-generator__playlists-tubi_all.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/all_channels.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-all_channels.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/argentina.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-argentina.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/australia.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-australia.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/bangladesh.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-bangladesh.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/brazil.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-brazil.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/business.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-business.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/canada.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-canada.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/china.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-china.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/colombia.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-colombia.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/egypt.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-egypt.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/ethiopia.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-ethiopia.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/france.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-france.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/germany.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-germany.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/india.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-india.m3u"
+    },
+    {
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/indonesia.m3u",
+      "cached_as": "github_m3u_cache/AeonCoreX-Lab-streamx-iptv-data__playlists-indonesia.m3u"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "FOX LOCAL Tampa Bay",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951416/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951416&ads.xumo_streamId=99951416&ads.channelId=99951416&ads.channelName=FoxTampaBay&ads.caid=FoxTampaBay&ads.csid=xumo_web_FoxTampaBay_ssai&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_coppa=0&ads.xumo_contentId=4150&ads.xumo_contentName=FoxTampaBay&ads.xumo_providerId=4150&ads.xumo_providerName=FoxTampaBay&ads.asnw=&ads.xumo_channelName=FoxTampaBay&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=1104e13b-da01-43b9-a8b1-a7b6b757f8a4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+      "info": "#EXTINF:-1 tvg-id=\"99951416\" tvg-name=\"FOX LOCAL Tampa Bay\" tvg-logo=\"https://image.xumo.com/v1/channels/channel/99951416/168x168.png?type=color_onBlack\" group-title=\"xumo_playlist\",FOX LOCAL Tampa Bay",
+      "source": "judy-gotv/iptv:combined-playlist.m3u",
+      "repository": "judy-gotv/iptv",
+      "file": "combined-playlist.m3u"
+    },
+    {
+      "name": "TBCN",
+      "url": "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8",
+      "info": "#EXTINF:-1 tvg-id=\"TBCN.us\" tvg-logo=\"https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TBCN.us.png\" group-title=\"News\",TBCN",
+      "source": "AeonCoreX-Lab/streamx-iptv-data:playlists/all_channels.m3u",
+      "repository": "AeonCoreX-Lab/streamx-iptv-data",
+      "file": "playlists/all_channels.m3u"
+    }
+  ]
+}

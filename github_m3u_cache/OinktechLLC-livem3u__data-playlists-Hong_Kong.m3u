@@ -1,0 +1,21 @@
+#EXTM3U
+# Обновлено: 2026-07-14 06:36:21
+# Всего каналов: 20455
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Hong Kong
+# Каналов: 3
+# Обновлено: 2026-07-14 06:36:22
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="TVB News Channel" group-title="Hong Kong",TVB News Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvp22.sky4k.top/index1.php
+
+#EXTINF:-1 tvg-name="TVB Finance (Sports & Information Channel)" group-title="Hong Kong",TVB Finance (Sports & Information Channel)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvp22.sky4k.top/index2.php
+
+#EXTINF:-1 tvg-name="HOY TV Ⓖ" group-title="Hong Kong",HOY TV Ⓖ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+

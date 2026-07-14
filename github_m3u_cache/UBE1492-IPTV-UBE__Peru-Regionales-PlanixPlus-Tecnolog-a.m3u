@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/969_Onda_Digital_TV.png" group-title="Without category", Onda Digital TV | PE
+https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1667_Onda_Digital_TV_2.png" group-title="Without category", Onda Digital TV 2 | PE
+https://v4.tustreaming.cl:443/odtv2/index.m3u8?PlaylistM3UCL

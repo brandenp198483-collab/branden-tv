@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD",TV Peru Noticias (360p)
+#EXTVLCOPT:http-referrer=http://www.tvperu.gob.pe/noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8

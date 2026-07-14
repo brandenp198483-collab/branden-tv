@@ -1,0 +1,189 @@
+#EXTM3U
+# 更新時間: 2026-07-13 08:59:28
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="央视",CCTV-2
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3.png" group-title="央视",CCTV-3
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="央视",CCTV-7
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8.png" group-title="央视",CCTV-8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9.png" group-title="央视",CCTV-9
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10.png" group-title="央视",CCTV-10
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV11.png" group-title="央视",CCTV-11
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV12.png" group-title="央视",CCTV-12
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13.png" group-title="央视",CCTV-13
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV14.png" group-title="央视",CCTV-14
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV15.png" group-title="央视",CCTV-15
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16.png" group-title="央视",CCTV-16
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17.png" group-title="央视",CCTV-17
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/重庆卫视.png" group-title="卫视",重庆卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/北京卫视.png" group-title="卫视",北京卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方卫视.png" group-title="卫视",东方卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖南卫视.png" group-title="卫视",湖南卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="45" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖北卫视.png" group-title="卫视",湖北卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/浙江卫视.png" group-title="卫视",浙江卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江西卫视.png" group-title="卫视",江西卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河北卫视.png" group-title="卫视",河北卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河南卫视.png" group-title="卫视",河南卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/深圳卫视.png" group-title="卫视",深圳卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/四川卫视.png" group-title="卫视",四川卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/天津卫视.png" group-title="卫视",天津卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/安徽卫视.png" group-title="卫视",安徽卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/山东卫视.png" group-title="卫视",山东卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广东卫视.png" group-title="卫视",广东卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广西卫视.png" group-title="卫视",广西卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东南卫视.png" group-title="卫视",东南卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/贵州卫视.png" group-title="卫视",贵州卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/云南卫视.png" group-title="卫视",云南卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/龙江卫视.png" group-title="卫视",龙江卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/吉林卫视.png" group-title="卫视",吉林卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="51" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="91" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/青海卫视.png" group-title="卫视",青海卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/新疆卫视.png" group-title="卫视",新疆卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="重庆",重庆新闻
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="社会与法" tvg-name="社会与法" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/职教频道.png" group-title="重庆",社会与法频道
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实科教.png" group-title="重庆",影视频道
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="时尚生活" tvg-name="时尚生活" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/卡酷少儿.png" group-title="重庆",时尚生活
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
+rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实人文.png" group-title="重庆",文体娱乐
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
+rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="新农村" tvg-name="新农村" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方影视.png" group-title="重庆",新农村
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
+rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="少儿频道" tvg-name="少儿频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育.png" group-title="重庆",少儿频道
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+
+#EXTINF:-1 tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949876/ei/1JVUapmoFbCSsfIP29LVoA0/ip/2a09:bac5:624f:1173::1bd:e9/id/m_dhMSvUCIc.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-ip.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhOAy8vGmAuaIYzsZcXH2jXmt5NLrSWkSIevQipCKoCgo0EZLKZniV6N21T38ye-sBI_0SPFHhvV/spc/SQ-ump1p3cxzRU809NiZFdKYDS3hvY6hDR2tVy_4VwDhvBcenemcBNGuG2corf9N/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2077500/met/1783928277,/mh/V0/mip/2a09:bac5:624f:281e::3ff:1a/mm/44/mn/sn-ip/ms/lva/mv/m/mvi/8/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783927717/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgDEJgtslc4CpSy8rKuKhr-d96r1cBFahNI7iO7eCJzYYCIBq36FvZ4tSPTWoi313mmHb8KKGyqvczWsRYdqoMAp3M/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAO_XoQJkiHIsxygjqlYOAEwFK58fQKFqp08uZpiQ4jygAiBmDKaN0TV8B-a-DWeP6JUN1kT3nOgPzXMzHh8wVjfxxg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="東森新聞" group-title="台湾",東森新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949887/ei/35VUaoikLIj4sfIP5sWg4Q0/ip/2a09:bac5:624f:183c::26a:6/id/V1p33hqPrUk.62/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr11---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMdmYKkyC1kzY6Rr6ubs7l0rcmHGsqTny6hGiTR0NdM3D_cf4H_NKUAck3RXD5gL2qRuvTmAEOk/spc/SQ-umnQ0A4HjjT_jd2qtQzs6wTdjSUvFosqJDIApWiO1kXZsPuK3Up9fOEaF513Z/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2488750/met/1783928288,/mh/56/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/11/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgbHi-Z3IAgQ-fVtmJTBCIj5kayPi3vfOfMa4GCp9BhpMCICKOOLIQXO5cDjxcfmVA2W5B4xdnE3NIHaHemZSzojNu/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgOgHmsddga3WkkIFWMvjm-JgCTRi_NixDEfozZkwm0AwCIGbRfZiGrmMM5FWw5lC_AYJeiny7RQnA-qFSy6KQDv_J/playlist/index.m3u8
+#EXTINF:-1 tvg-name="民視新聞" group-title="台湾",民視新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949898/ei/6pVUaqWYL9WZsfIPyI3M8AY/ip/2a09:bac5:624f:2da5::48c:36/id/ylYJSBUgaMA.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr19---sn-ii.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhPkf9DtO_uCutuzdDXtgi2e430Q6MHc0CSwb05TAlLn-_2tD5504UwvnMIHSIeHaQSIgh2ZAYrm/spc/SQ-umrnRbrbAft1tuJmll1ynONjv2ItRi6V4oAcrIoJFRoNvgeM_T1dlmYJrTI4J/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2077500/met/1783928299,/mh/iR/mip/2a09:bac5:624f:1173::1bd:e9/mm/44/mn/sn-ii/ms/lva/mv/m/mvi/19/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927717/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgWKeXUVlc41F6zt7J57AGSG0hc03zVBrPyt-ch1wcStUCIQD9xNPhX4eMeauK5qVyDaZD3ZxFsoPxHIifdZcUMQWDlg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAP0dlIlszUZ_-h4WbeX7rY3KUUuRBtUpVuYaTjJQRyzwAiA0u4ZGckvWq9tUgPUO1T2b-EfTZjjn3J4hzU9ewi3DDw%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="台湾",台視新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949910/ei/9pVUatD5Bd2UsfIPzfzIoQI/ip/2a09:bac5:624f:2da5::48c:36/id/MaTO_CAzqJA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr9---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhNH2tfLRnT72SdwvTJTLNqtyD3NGZGnzSozwKM9A0lMfjJzU_VNxsrmmS5YqucHqoOk-kqAjZqV/spc/SQ-umuD3YbnFy5evra68ZeIT-oe7Dk_RIUJU725zOko57Zii7_evlqslGW_STFU_/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2488750/met/1783928311,/mh/R4/mip/2a09:bac5:624f:281e::3ff:1a/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/9/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgHDWhH4cGJ_Qc6CcGmmKPERZs41GPVxSYS5XHZ59ETxwCIQDKH_GUYhXYsF7-CLUoFomAe_NmmsEsZDbpEnn0xMDiFQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgf2z5IaentREbjcBwCRcR7acxYNuvaJ9cLqs5J6RDVlECIApCqM3b5ggd0lT_rYfkC6_kEEB7WuJbsk-2jTCk8X9U/playlist/index.m3u8
+#EXTINF:-1 tvg-name="中視新聞" group-title="台湾",中視新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949921/ei/AZZUat24DO2esfIPqaHh8QM/ip/2a09:bac5:624f:183c::26a:6/id/baDV1O5EBP0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr28---sn-ii.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhP2kOTJ6Nwxp-NJt6km0oS2TPal2IALmW6TXr9lA48t8k_YKf1fb4QxIRGKMcCFglG5sQKXZhjI/spc/SQ-ums266wWrlVwWmDEuDOK0m-DsJ5gUvjwxsqOSt85irlWk6v1TgBQCenSp4-Dg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2077500/met/1783928322,/mh/Fu/mm/44/mn/sn-ii/ms/lva/mv/m/mvi/28/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927717/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgHykgIYwiI0FqRHfxTcKLiyB1SCLBHY5Msu8226gNYTECIQCu7lv9u9d215czl7UU1AwcndrP6QrlzaGMTep9IeU02Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAI9Wbbzcy_WlFJMqLIgQtc6PCoV2QyKFNzr5j9xCRoMqAiBG2TZ2_q4gqdcY54JveURGQOOFpKW-btROKi5P96JO9g%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="三立新聞" group-title="台湾",三立新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782053875/ei/k6c3armELLL2sfIPsuW5yQo/ip/2a09:bac5:624a:281e::3ff:1a/id/hGJkDZDchYI.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/ss/1/ssa/1/bui/ARmQxEVTqKLH3cPUlkkbdicKisQ9o87a1DCFiftlaOKwItOgAp12w1XRaNyj04_Ju8fcXka4HMpSpVgI/spc/SQ-umujSgFxpP0HwY3yjUr1sIRoG2ZZ3aVJbyHh9bv0ZCH1vTJaBhB_9zKVdOxZ1/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2035000/met/1782032276,/mh/hk/mip/2a09:bac5:624a:2da5::48c:36/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/6/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51987687/mt/1782032197/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAMdJ3VQKZN6t8zveRNp9KkvS9g2t2_YXGNvrowDdp-rTAiEA6fyg1psbzFM8WTDfsi02Npg78PfuxBLJpSzkIVwf6gY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgY1RtPhyVQ4DN592h_eNoVSdd1f7Rlvl8sTXjxCGiCbICIQC-fle-TeOPVS5enGwYzODT3EpNPm6Tz4iq7e3WlNnOwQ%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="中天新聞" group-title="台湾",中天新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949942/ei/FpZUar6SH4r2sfIP_fnbuA8/ip/2a09:bac5:624f:1173::1bd:e9/id/vr3XyVCR4T0.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr13---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhOSAIamUH7Ca1MhKQy7wDf6Y4bPGRrx1zhduY8iefVDr7IypTKNT6sn4xJ_1fT6xiln95ewurEk/spc/SQ-umriBMHSdUYGg5cRbKHl0Odo0GQQhQxs8FwRnDD5gHP3ksRcGwwTFIv8XqpN9/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2488750/met/1783928343,/mh/40/mip/2a09:bac5:624f:78::c:3b1/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/13/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMoC8OB8_linc3WzKnCCsuBYAXlIiUbPx0mTn3XIHvxNAiBj85g3hJV0XL5D4R5f3Xn_dssYNmZC3nPBXLSUxpcIFA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgCK2W_zY6zzmvNiQV6f7sIpo2hciKAQ206fiFBxaZD9cCIFAYdOlbgxm1ow3co_cO-Tp3AK_T58g16EFrgruC1x0D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="華視新聞" group-title="台湾",華視新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949953/ei/IZZUar7HEvmFt7EPrtS6qAw/ip/2a09:bac5:624f:1846::26b:a0/id/wM0g8EoUZ_E.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr9---sn-ii.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNCZ40nhAZd41IwzTmjdSYc1Mm5woWaVQSClYK8SWLnfICRkoxWtnH1zwzAsKufPHNWCzhQjhV2/spc/SQ-ummM88Jd6hSyV-wPjnEGN-bF7Yz0e_I2xujQWpWCBzzh3MUp-Y1pGqNfKjthX/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2125000/met/1783928354,/mh/93/mm/44/mn/sn-ii/ms/lva/mv/m/mvi/9/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgKZQ8N7F38OQq0xqSfbXfpSPYeq1_lFz20n-LyPn3K-UCIGX4TStpPzAZWICwu1ea8BvVzACrW1AQKpFj7mdSGebP/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANeUlUqmVJaP6dWHIoYLP_0YXf41rglG4WW9JvDcXnVVAiBJe8ms5v7UNf6NiatN3ZdQpGVBxdPSdNifJpDBBJrwgg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞" group-title="台湾",寰宇新聞
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949965/ei/LJZUaszwO4GgsfIP1-yGqA0/ip/2a09:bac5:624f:1846::26b:a0/id/6IquAgfvYmc.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr14---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNJYCzVeQMufkRBHD54bg-Jh5gQvqudwjBvmj2UFJ_y0wRVS62Xq1dskzUPDzsy6cCoOMOw3oTK/spc/SQ-umklDff5yQRst-UdppslTR-G3RfrPnm2LxxeR_LK44RwOpqtxoeSyftXeJd07/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2488750/met/1783928366,/mh/M0/mip/2a09:bac5:624f:281e::3ff:1a/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/14/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIrt3ZtI80LHZYkss4mXtCM49cgMh37In_MbB70Ygm_tAiEAihlYO5X82xRMUoz0vSL6b4Gc9USvR07BhKnC9A2u-JM%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgAtZjmvjnXFrG5sEyLGd6lOwIB5V0qjNu7tw3cMdHVGICIQDhrBQE8z1S161Et6pfhDZbm7bdaKxH6AJxq9goqhW7zQ%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="寰宇台灣" group-title="台湾",寰宇台灣
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949976/ei/OJZUapZtp_ix8g_mlYnBDQ/ip/2a09:bac5:624f:78::c:3b1/id/w87VGpgd90U.13/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr13---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMDsryKjuvvr4EOhkxQSJquT0oF2AD4NfvTmHSRm3hmsvIksm-J2ye8E6MruCsd9yhIi_TeUQpk/spc/SQ-umpYqEOq7xURntvNqKXDxqP8KbrgoKOdcreAoh_5pfRftbXoaRBNsn8G1hnFV/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2488750/met/1783928377,/mh/r0/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/13/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAInVP27dpDyeSRKnmf9DaM44w2xxJKsskjr93-90JFEhAiB75T3iAJ6QjaqPZPnlXDuDfiaZddxJkVL_D369rQbYQg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANCDQnFC-HUHv6dv-zart4vOS7JI06nArFiG-VF-bAYEAiBWDjLRwCbhtak76UAHL_TPwarMTyebu3c3OfO88qI6lw%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="三立財經" group-title="台湾",三立財經
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949987/ei/Q5ZUasP3C7fHsfIP1ea86Ak/ip/2a09:bac5:624f:281e::3ff:1a/id/pF507BLtbqU.8/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-ip.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhM_bnmnly846CPegMOvRsNzw5W-6ptpqzW-HlgA5huxlUy_6R6b6tAC3aJH_bfliviDvD57jMot/spc/SQ-umn0Hd5EN9Q-qiALw1DL1aCG-2yW1d0ezxEbf9w3Jj8xt-ZpUfdeanma1ImzO/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2125000/met/1783928388,/mh/6w/mip/2a09:bac5:624f:183c::26a:6/mm/44/mn/sn-ip/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAOWZeC96QeIhEGevyggLk4AZYxjWGpnTkKGEju8ekXxYAiEA1H0_EMeDFq4rSBcPE7wc7VLKiYQ-YSoKR9759vu0b5U%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgd1x6C1RYTXEg4p1_qGUHFadhkIm-C_LRXstK6kXgIDMCIGCNigNAXZoqJE2HVk35cgJWVAdl4sqINwbwM_h77Pm0/playlist/index.m3u8
+#EXTINF:-1 tvg-name="東森財經" group-title="台湾",東森財經
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783949998/ei/TpZUapTmF7HusfIPiJmGiQY/ip/2a09:bac5:624f:183c::26a:6/id/1I2iq41Akmo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhM5CH-B66wnXJ58ZWFnE16lCnAGx6l5lX8tdK1-uXQmxHqb3BrhNSDKGPrtRAZKeN1pVuivFNHy/spc/SQ-umpBIr2A5y3ES07n3mvjbBDT2XfZ5tW2maAaYnLTViquTTH_AqeAiwFiJF8EK/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2488750/met/1783928399,/mh/CJ/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgdcZrmU1PW4Aw8RapoJt305vCtiNzEWoSQr8vumeOdtkCIQDkmJFnq7O9KrjwCcHBTlRHSOifaFSZ_z4jgluWisyWqg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKSnfJX_5GQcT7WmqXTRUaimgvUwenlz_ZUOrvi62dzvAiEA5eLxPfxc1CiPX2DPzF0WXHyhwK7BfkocPf7O2shO5Tk%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="非凡財經" group-title="台湾",非凡財經
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783950009/ei/WZZUaoiQNJyfsfIPq_qGqA0/ip/2a09:bac5:624f:1173::1bd:e9/id/eA6Aczd3FZM.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr15---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNAWCvsnMIGWjv9D9_OMtxl-O08VNTkRuhwwNXC4EfNmqgnGHtve-Gz5Eqpp4cnw574CfzhV5-u/spc/SQ-umjF4YbAzJlAEXtRQYyxIVfYaruIkxraHedpYzP3tsYPXG4Wyh7lqUjAsbKV7/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2125000/met/1783928411,/mh/nF/mip/2a09:bac5:624f:281e::3ff:1a/mm/44/mn/sn-ib/ms/lva/mv/m/mvi/15/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgJrHPdGX5NMGF2f9XqqOrPQyvax4HtVAosPSCz2MPUVYCIFKTAhPywJPyigZKk5_4YaJNnHL1lZxe_vyY3e-zJcYK/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgEdZsjX_LrBdUj6no-Z5P69oJM9T0Sv6Tzx1sXNzFoHcCIQCRrdejxZqjSjCc0VnQAKqmCV-xX0EbeEF3py-bQH6iWg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="TVB財經" group-title="台湾",TVB財經
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783950032/ei/b5ZUauWeOcuvt7EP_Zn-2AE/ip/2a09:bac5:624f:281e::3ff:1a/id/TMjUNWnNYmE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-oguesn6k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMUzXcFbAJJMe2gFbC16QINmumvK1PwEtzL-P0twOzA8ysI6AcoxTATF7m2kDUU-_dSMMYoFqPk/spc/SQ-umvhyfaFc3QGq5CnX1LBco8WXK7bHxaBNKDkHi__zF5KCmJjfBDQU6rSOEHeD/vprv/1/reg/0/playlist_type/DVR/initcwndbps/6265000/met/1783928433,/mh/sv/mip/203.10.99.34/mm/44/mn/sn-oguesn6k/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783927959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgYuST98oM_7MqBb93X_N7pX2guCltWOBDJGArZkE3zh4CIQD3UKO4O9PDqOZGebI0y40bg9E4BNpsb1WaYcAI2Lj_7A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKyzHym3YbMTp0TWJu5SeJAIU9nbgADQBxKGogVIaslwAiBqEvw2x-9Lu1I8CB-NFzarAEPkFx68lNcgj830rzl6XA%3D%3D/playlist/index.m3u8

@@ -1,0 +1,501 @@
+#EXTM3U url-tvg="https://rebrand.ly/epgitalia"
+
+
+
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="http://epg-guide.com/icn/icons/rai1.png" group-title="Preferiti",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 2" tvg-chno="2" tvg-logo="http://epg-guide.com/icn/icons/rai2.png" group-title="Preferiti",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 3" tvg-chno="3" tvg-logo="http://epg-guide.com/icn/icons/rai3.png" group-title="Preferiti",Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rete 4" tvg-chno="4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/rete4.png" group-title="Preferiti",Rete 4
+#https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale 5" tvg-chno="5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/canale5.png" group-title="Preferiti",Canale 5
+#https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia 1" tvg-chno="6" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia1.png" group-title="Preferiti",Italia 1
+#https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="Preferiti",LA7
+#https://jmp2.uk/stvp-ITBD1500002NL
+
+#EXTINF:-1 tvg-id="TV8" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Preferiti",TV8
+#https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Preferiti",NOVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+#https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Preferiti",Real Time
+#EXT2-X-DRM:https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Preferiti",Real Time
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+#https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Food Network" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Preferiti",Food Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+#https://d9kc4bu8iry3b.cloudfront.net/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Gambero Rosso" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Preferiti",Gambero Rosso
+#https://jmp2.uk/stvp-IT500011RG
+
+#EXTINF:-1 tvg-id="Cielo" tvg-chno="26" tvg-logo="http://epg-guide.com/icn/icons/cielo.png" group-title="Preferiti",Cielo
+#https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="HGTV HD" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Preferiti",HGTV - Home&Garden
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+#https://d21emhonubg8zy.cloudfront.net/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Motor Trend" tvg-name="DiscoveryTurbo.it" channel-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Preferiti",Discovery Turbo
+#https://jmp2.uk/stvp-IT900004Y5
+
+#EXTINF:-1 tvg-id="Discovery Channel" channel-id="Discovery Channel" tvg-chno="37" tvg-logo="http://epg-guide.com/icn/icons/discovery.png" group-title="Preferiti",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+#https://d3a5c87efixjp8.cloudfront.net/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Dmax" tvg-chno="52" tvg-logo="http://epg-guide.com/icn/icons/dmax.png" group-title="Preferiti",DMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+#https://d24suwc4j2wvyy.cloudfront.net/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="LA7D" tvg-chno="29" tvg-logo="http://epg-guide.com/icn/icons/la7cinema.png" group-title="Preferiti",LA7 Cinema
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+
+#EXTINF:-1 tvg-id="Focus" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/focus.png" group-title="Preferiti",Focus
+#https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai Scuola" tvg-chno="57" tvg-logo="http://epg-guide.com/icn/icons/raiscuola.png" group-title="Preferiti",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Storia" tvg-chno="54" tvg-logo="http://epg-guide.com/icn/icons/raistoria.png" group-title="Preferiti",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Preferiti",Giallo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+#https://d2iz84wnbtnuey.cloudfront.net/out/v1/8a939414e62c460a9ccab7b699ed1106/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Top Crime" tvg-name="Top Crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/topcrime.png" group-title="Preferiti",TOPcrime
+#https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai 4" tvg-chno="21" tvg-logo="http://epg-guide.com/icn/icons/rai4.png" group-title="Preferiti",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 5" tvg-chno="23" tvg-logo="http://epg-guide.com/icn/icons/rai5.png" group-title="Preferiti",Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Movie" tvg-chno="24" tvg-logo="http://epg-guide.com/icn/icons/raimovie.png" group-title="Preferiti",Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Premium" tvg-chno="25" tvg-logo="http://epg-guide.com/icn/icons/raipremium.png" group-title="Preferiti",Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Twenty Seven" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/twentyseven.png" group-title="Preferiti",Twenty Seven
+#https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cine34.png" group-title="Preferiti",Cine 34
+
+#EXTINF:-1 tvg-id="Rai News24" tvg-chno="48" tvg-logo="http://epg-guide.com/icn/icons/rainews24.png" group-title="Preferiti",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Tg Com 24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/tgcom24.png" group-title="Preferiti",TG COM 24
+#https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky TG 24" tvg-chno="50" tvg-logo="http://epg-guide.com/icn/icons/skytg24.png" group-title="Preferiti",Sky TG24
+#https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 group-title="Preferiti" tvg-logo="http://davidefulgione.it/loghi/3b.jpg",3B METEO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/stvp-IT500008CB
+
+#EXTINF:-1 tvg-chno="36" tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Preferiti",RTL 102.5
+#https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Deejay TV "tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Preferiti",Deejay TV
+#https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai 4k" tvg-chno="101" tvg-logo="http://epg-guide.com/icn/icons/rai4k.png" group-title="Preferiti",Rai 4K (HbbTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Rai 1" tvg-chno="1" tvg-logo="http://epg-guide.com/icn/icons/rai1.png" group-title="Rai",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 2" tvg-chno="2" tvg-logo="http://epg-guide.com/icn/icons/rai2.png" group-title="Rai",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 3" tvg-chno="3" tvg-logo="http://epg-guide.com/icn/icons/rai3.png" group-title="Rai",Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 4" tvg-chno="21" tvg-logo="http://epg-guide.com/icn/icons/rai4.png" group-title="Rai",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 5" tvg-chno="23" tvg-logo="http://epg-guide.com/icn/icons/rai5.png" group-title="Rai",Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Movie" tvg-chno="24" tvg-logo="http://epg-guide.com/icn/icons/raimovie.png" group-title="Rai",Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Premium" tvg-chno="25" tvg-logo="http://epg-guide.com/icn/icons/raipremium.png" group-title="Rai",Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Gulp" tvg-chno="42" tvg-logo="http://epg-guide.com/icn/icons/raigulp.png" group-title="Rai",Rai Gulp
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Yoyo" tvg-chno="43" tvg-logo="http://epg-guide.com/icn/icons/raiyoyo.png" group-title="Rai",Rai Yoyo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai News24" tvg-chno="48" tvg-logo="http://epg-guide.com/icn/icons/rainews24.png" group-title="Rai",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Scuola" tvg-chno="57" tvg-logo="http://epg-guide.com/icn/icons/raiscuola.png" group-title="Rai",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Storia" tvg-chno="54" tvg-logo="http://epg-guide.com/icn/icons/raistoria.png" group-title="Rai",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai Sport" tvg-chno="58" tvg-logo="http://epg-guide.com/icn/icons/raisport.png" group-title="Rai",Rai Sport + HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai 4k" tvg-chno="101" tvg-logo="http://epg-guide.com/icn/icons/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="grandefratello1" tvg-name="GF Regia 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratelloregia1.png" group-title="MEDIASET",GF Regia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="grandefratello2" tvg-name="GF Regia 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratelloregia2.png" group-title="MEDIASET",GF Regia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="grandefratelloplus1" tvg-name="GF un'ora fa" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/grandefratello.png" group-title="MEDIASET",GF Un'ora fa
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Tg Com 24" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/tgcom24.png" group-title="MEDIASET",TG COM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia 1" tvg-chno="6" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia1.png" group-title="MEDIASET",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/italia2.png" group-title="MEDIASET",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Rete 4" tvg-chno="4" tvg-name="Rete4" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/rete4.png" group-title="MEDIASET",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale 5" tvg-chno="5" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/canale5.png" group-title="MEDIASET",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Top Crime" tvg-name="Top Crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/topcrime.png" group-title="MEDIASET",TOPcrime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/iris.png" group-title="MEDIASET",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="La 5" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/la5.png" group-title="MEDIASET",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Twenty Seven" tvg-name="MEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/twentyseven.png" group-title="MEDIASET",Twenty Seven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine 34" tvg-name="Cine 34" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cine34.png" group-title="MEDIASET",Cine 34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/mediasetextra.png" group-title="MEDIASET",Med. Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Focus" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/focus.png" group-title="MEDIASET",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/boing.png" group-title="MEDIASET",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://epg-guide.com/icn/icons/cartoonito.png" group-title="MEDIASET",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Nove" tvg-chno="9" tvg-logo="http://epg-guide.com/icn/icons/nove.png" group-title="Discovery",NOVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Real Time" tvg-chno="31" tvg-logo="http://epg-guide.com/icn/icons/realtime.png" group-title="Discovery",Real Time
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Food Network" tvg-chno="33" tvg-logo="http://epg-guide.com/icn/icons/foodnetwork.png" group-title="Discovery",Food Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d9kc4bu8iry3b.cloudfront.net/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Giallo" tvg-chno="38" tvg-logo="http://epg-guide.com/icn/icons/giallo.png" group-title="Discovery",Giallo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d2iz84wnbtnuey.cloudfront.net/out/v1/8a939414e62c460a9ccab7b699ed1106/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="K2" tvg-chno="41" tvg-logo="http://epg-guide.com/icn/icons/k2.png" group-title="Discovery",K2
+#https://jmp2.uk/stvp-IT900009KL
+
+#EXTINF:-1 tvg-id="Frisbee" tvg-chno="44" tvg-logo="http://epg-guide.com/icn/icons/frisbee.png" group-title="Discovery",Frisbee
+#https://jmp2.uk/stvp-IT900005HF
+
+#EXTINF:-1 tvg-id="Dmax" tvg-chno="52" tvg-logo="http://epg-guide.com/icn/icons/dmax.png" group-title="Discovery",DMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d24suwc4j2wvyy.cloudfront.net/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV HD" tvg-chno="56" tvg-logo="http://epg-guide.com/icn/icons/hgtv.png" group-title="Discovery",HGTV - Home&Garden
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d21emhonubg8zy.cloudfront.net/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Motor Trend" tvg-name="DiscoveryTurbo.it" channel-id="motortrend" tvg-chno="59" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="Discovery",Discovery Turbo
+#https://jmp2.uk/stvp-IT900004Y5
+
+#EXTINF:-1 tvg-id="Discovery Channel" channel-id="Discovery Channel" tvg-chno="37" tvg-logo="http://epg-guide.com/icn/icons/discovery.png" group-title="Discovery",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d3a5c87efixjp8.cloudfront.net/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TV8" tvg-chno="8" tvg-logo="http://epg-guide.com/icn/icons/tv8.png" group-title="Sky",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Cielo" tvg-chno="26" tvg-logo="http://epg-guide.com/icn/icons/cielo.png" group-title="Sky",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Sky TG 24" tvg-chno="50" tvg-logo="http://epg-guide.com/icn/icons/skytg24.png" group-title="Sky",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Gambero Rosso" tvg-name="GamberoRosso" tvg-logo="http://epg-guide.com/icn/icons/gamberorosso.png" group-title="Sky",Gambero Rosso
+https://jmp2.uk/stvp-IT500011RG
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="la7" tvg-chno="7" tvg-logo="http://epg-guide.com/icn/icons/la7.png" group-title="LA7 srl",LA7
+https://jmp2.uk/stvp-ITBD1500002NL
+
+#EXTINF:-1 tvg-id="LA7D" tvg-chno="29" tvg-logo="http://epg-guide.com/icn/icons/la7cinema.png" group-title="LA7 srl",LA7 Cinema
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN ROMANZI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN COMMEDIA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN FAMILY
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN FANTASCIENZA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN TV AZIONE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN TV DRAMMA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/stvp-IT2600005ZN
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="CHILI TV" tvg-logo="http://davidefulgione.it/loghi/chili.jpg",CHILI FILM SMILE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 group-title="CHILI TV" tvg-logo="http://davidefulgione.it/loghi/chili.jpg",CHILI INDIMENTICABILI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 group-title="CHILI TV" tvg-logo="http://davidefulgione.it/loghi/chili.jpg",CHILI ALTA TENSIONE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/4300.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="STORIE" tvg-logo="http://davidefulgione.it/loghi/storie.jpg",STORIE CRIMINALI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="METEO" tvg-logo="http://davidefulgione.it/loghi/3b.jpg",3B METEO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/stvp-IT500008CB
+
+
+
+
+
+#EXTINF:-1 group-title="FILM" tvg-logo="http://davidefulgione.it/loghi/brividi.jpg",BRIVIDI CINEMA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://ixmediasrl-serially-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 group-title="FILM" tvg-logo="http://davidefulgione.it/loghi/ad.jpg",ADRENALINE MOVIES
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://758d48db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GdWxsTW9vbl9ITFM/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Supercinema San Valentino" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/supercinema-san-valentino-it.png",Supercinema San Valentino
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/stvp-ITBD3200001VR
+
+#EXTINF:-1 tvg-id="Western Time" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/western-time-it.png",Western Time
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c8-lg-it-8917.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Crime Time" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/crime-time-it.png",Crime Time
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c9-lg-it-8920.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Duri A Morire" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/duri-a-morire-it.png",Duri a Morire
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c5-lg-it-8919.playouts.now.amagi.tv/playlist/amg02512-nexodigital-duriamorire-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Cine Paura" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/cine-paura.png",Cine Paura
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c7-lg-it-8921.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinepaura-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Cine Malizia" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/cine-malizia-it.png",Cine Malizia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c6-lg-it-8922.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemalizia-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Cine Thriller" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/cine-thriller-it.png",Cine Thriller
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-nexodigital-amg02512c2-lg-it-822.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads._fw_atts=[FW_ATTS]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.prodq=[PRODUCTION_QUALITY]&ads.ic=[IAB_CATEGORY]&ads.network_name=[NETWORK_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Elisa Di Rivombrosa" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/elisa-di-rivombrosa.it.png",Elisa Di Rivombrosa
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c4-lg-it-8918.playouts.now.amagi.tv/playlist/amg02512-nexodigital-topserie-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Gli Immortali" group-title="NEXOSTUDIOS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/gli-immortali-it.png",Gli Immortali
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="36" tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rtl-1025-it.png" group-title="Radio TV",RTL 102.5
+https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-chno="265" channel-id="rdstv" tvg-id="rdstv" tvg-name="RDS" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/rds-it.png" group-title="Radio TV",RDS
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
+
+#EXTINF:-1 tvg-chno="158" channel-id="kisskissitaliatv" tvg-id="kisskissitaliatv" tvg-name="Radio KissKiss" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-kiss-kiss-tv-it.png" group-title="Radio TV",Radio KissKiss
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radionumberone" tvg-name="Radio Number One" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-number-one-tv-it.png" group-title="Radio TV",Radio Number One
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio105tv" channel-id="Radio105TV.it" tvg-name="radio105tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/radio-105-it.png" group-title="Radio TV",Radio 105
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="r101tv" channel-id="r101tv" tvg-name="r101tv" tvg-logo="https://cdn.jsdelivr.net/gh/Patroz1/Loghi@main/r101-it.png" group-title="Radio TV",R101
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Deejay TV "tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Radio TV",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXT-X-ENDLIST

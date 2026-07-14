@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
+http://177.234.249.178:8888/EL-GOURMET/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@South",El Gourmet South (1080p)
+http://45.6.4.35/GOURMET/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (720p)
+http://177.245.131.133:8080/GOURMET/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@South",El Gourmet South (720p)
+http://200.91.32.158:8080/gourmet/index.m3u8

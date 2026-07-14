@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl@SD",Atacama Noticias (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-id="",Meganoticias (1080p)
+#EXTVLCOPT:http-referrer=https://www.meganoticias.cl/

@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ion.Television.branden" tvg-name="Ion Television" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="OTA Digital Multicast",Ion Television
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="Ion.Television.branden" tvg-name="Ion Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_Television_logo.svg/960px-Ion_Television_logo.svg.png" group-title="OTA Digital Multicast",Ion Television
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",USA Network
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",TBD
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",BYU TV
+https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",Create
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",CNBC
+http://rezofoot.tv/CNBC/index.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",History Channel
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",MLB Network
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVhMzliMTQyLTBmOTktNGUyNy04MmEzLTg1NDMzYzY1YjJhZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1MmYzOWNlOS03YmQwLTExZjEtYTRlNC03NmY5YTEwNmUzNzUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJmd1ZjSUQyQ29wcGEiOiI2ODcwMDA2NS1lY2Y0LTQwZWQtOTcwZC05YTQ0ZDFkYzdlMzAiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY4NzAwMDY1LWVjZjQtNDBlZC05NzBkLTlhNDRkMWRjN2UzMCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM2MjcwMTAwMzAsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOamczTURBd05qVXRaV05tTkMwME1HVmtMVGszTUdRdE9XRTBOR1F4WkdNM1pUTXciLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNzEzNDEwLCJpYXQiOjE3ODM2MjcwMTAsImp0aSI6IjI4NGI5YjAzLWM1NTQtNDgzYy1hOGEwLWM0ZjQyZGU5ZmJmZiJ9.HM9qRhiRVL_q9MUi50jZXyEeZs8Tz-mtLZLeqHydJMo&masterJWTPassthrough=true
+#EXTINF:-1 group-title="Verified Manual Override",MLB Network Strike Zone
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 group-title="Verified Manual Override",The Weather Channel
+https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 tvg-id="TNT.branden" tvg-name="TNT" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/tnt.png" group-title="Entertainment",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.branden" tvg-name="Investigation Discovery" group-title="Lifestyle & Documentary",Investigation Discovery
+https://stream1.freetv.fun/c7cbeee0048337bd881a4b357e53ce54cbce7fb041e725498604a1445ad8fbdf.ctv
+#EXTINF:-1 tvg-id="Science.Channel.branden" tvg-name="Science Channel" group-title="Lifestyle & Documentary",Science Channel
+https://stream1.freetv.fun/77858acda929b95a1f6704ac6eaea92d277e512602d0df019bd97ec286fdf8aa.ctv
+#EXTINF:-1 tvg-id="Discovery.Turbo.branden" tvg-name="Discovery Turbo" group-title="Lifestyle & Documentary",Discovery Turbo
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+#EXTINF:-1 tvg-id="HBO.Comedy.branden" tvg-name="HBO Comedy" group-title="Premium Cable",HBO Comedy
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
+#EXTINF:-1 tvg-id="MGM.Marquee.branden" tvg-name="MGM+ Marquee" group-title="Premium Cable",MGM+ Marquee
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/12730.m3u8
+#EXTINF:-1 tvg-id="MGM.Westerns.branden" tvg-name="MGM Westerns" group-title="Premium Cable",MGM Westerns
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=sbu7Wz8RTFs6Zcr8y473
+#EXTINF:-1 tvg-id="MGM.Plus.branden" tvg-name="MGM+" group-title="Premium Cable",MGM+
+http://cord-cutter.net:8080/live/shacaray@yahoo.com/shacaray@2023/14193.m3u8
+#EXTINF:-1 tvg-id="MGM.Plus.Drive.In.branden" tvg-name="MGM+ Drive-In" group-title="Premium Cable",MGM+ Drive-In
+http://lunar.pm:8080/live/Stephanie/time44/18206.m3u8
+#EXTINF:-1 tvg-id="Cozi.TV.branden" tvg-name="Cozi TV" group-title="OTA Digital Multicast",Cozi TV
+http://206.212.244.63/49/index.m3u8
+#EXTINF:-1 tvg-id="Tampa.Bay.28.Plus.branden" tvg-name="Tampa Bay 28+" group-title="Local News",Tampa Bay 28+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8

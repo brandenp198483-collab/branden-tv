@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="XtremaTerror.ar@SD",Xtrema Terror
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
+#EXTINF:-1 tvg-id="CineAr.ar@SD",Cine.Ar (576p)
+http://200.91.32.158:8080/cinear/index.m3u8

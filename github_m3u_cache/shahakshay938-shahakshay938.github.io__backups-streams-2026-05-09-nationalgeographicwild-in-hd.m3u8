@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1,NAME="National Geographic Wild HD (1080p)"
+http://103.157.248.140:8000/play/a010/index.m3u8

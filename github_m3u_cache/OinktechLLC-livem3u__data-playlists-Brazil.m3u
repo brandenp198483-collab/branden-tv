@@ -1,0 +1,30 @@
+#EXTM3U
+# Обновлено: 2026-07-14 06:36:21
+# Всего каналов: 20455
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Brazil
+# Каналов: 6
+# Обновлено: 2026-07-14 06:36:22
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Record News" group-title="Brazil",Record News
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-name="TVE RS" group-title="Brazil",TVE RS
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SBT Ⓨ" group-title="Brazil",SBT Ⓨ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/watch?v=ABVQXgr2LW4
+
+#EXTINF:-1 tvg-name="RBC Ⓨ" group-title="Brazil",RBC Ⓨ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/watch?v=oUdd3CsxYaE
+
+#EXTINF:-1 tvg-name="ISTV" group-title="Brazil",ISTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+#EXTINF:-1 tvg-name="Rede Brasil" group-title="Brazil",Rede Brasil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+

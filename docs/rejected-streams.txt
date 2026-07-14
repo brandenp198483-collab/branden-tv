@@ -1,0 +1,6 @@
+
+WFLA Tampa / NBC 8
+==================
+REJECTED | http://fl41.moveonjoy.com/FL_Tampa_NBC/index.m3u8 | failed test
+REJECTED | https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8 | failed test
+REJECTED | https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8 | wrapper for failed source

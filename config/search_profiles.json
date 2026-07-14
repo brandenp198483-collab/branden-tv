@@ -1,0 +1,46 @@
+{
+  "HGTV": {
+    "aliases": [
+      "HGTV",
+      "HGTV US",
+      "HGTV USA",
+      "HGTV East",
+      "HGTV West",
+      "HGTV HD",
+      "HGTV FHD",
+      "HGTV 1080",
+      "HGTV 720",
+      "Home & Garden",
+      "Home and Garden",
+      "Home Garden TV",
+      "HGTV GO"
+    ],
+    "prefer": [
+      "US",
+      "USA",
+      "EN",
+      "ENGLISH",
+      "HD",
+      "FHD",
+      "1080",
+      "DISCOVERY"
+    ],
+    "avoid": [
+      "BR",
+      "BRASIL",
+      "BRAZIL",
+      "LATAM",
+      "LATINO",
+      "ESPANOL",
+      "SPANISH",
+      "PORTUGUESE",
+      "MEXICO",
+      "MX",
+      "ARGENTINA",
+      "AR",
+      "CHILE",
+      "CL",
+      "PT"
+    ]
+  }
+}

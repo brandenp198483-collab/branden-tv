@@ -1,0 +1,499 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" url-tvg="https://iptv-org.github.io/epg/guides/pk.xml" url-tvg="https://iptv-org.github.io/epg/guides/au.xml" url-tvg="https://iptv-org.github.io/epg/guides/de.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml" url-tvg="https://iptv-org.github.io/epg/guides/it.xml" url-tvg="https://iptv-org.github.io/epg/guides/es.xml" url-tvg="https://iptv-org.github.io/epg/guides/br.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/sa.xml" refresh="3600"
+#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/120px-ABC_Entertains_logo.svg.png" group-title="Informative [SD]",ABC Entertains [SD]
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/ARDalpha.de.png" group-title="Informative [SD]",ARD-alpha [SD]
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/AdventureEarth.de.png" group-title="Informative [SD]",Adventure Earth [SD]
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sd/AlAlamiya2.sd.png" group-title="Informative",Al Alamiya 2
+http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_al_arabiya.png" group-title="Informative [FHD]",Al Arabiya Programs [FHD]
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/AlHiwarTV.uk.png" group-title="Informative [SD]",Al Hiwar TV [SD]
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Informative [SD]",Anger Management Channel [SD]
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AsharqDiscovery.sa.png" group-title="Informative [FHD]",Asharq Discovery [FHD]
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AsharqDocumentary.sa.png" group-title="Informative [FHD]",Asharq Documentary [FHD]
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/AutenticHistory.de.png" group-title="Informative [SD]",Autentic History [SD]
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png" group-title="Informative [SD]",BBC Earth [SD]
+http://185.102.171.218/BBCEarth/index.m3u8
+#EXTINF:-1 tvg-id="BUTV10.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/BUTV10.us.png" group-title="Informative [SD]",BUTV10 [SD]
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="Backstage.us" tvg-logo="https://images.seeklogo.com/logo-png/38/2/backstage-logo-png_seeklogo-387152.png" group-title="Informative [FHD]",Backstage [FHD]
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Informative [FHD]",BritBox Mysteries [FHD]
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/CFTUDT.ca.png" group-title="Informative",CFTU-DT
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNDocumentary.cn.png" group-title="Informative [HD]",CGTN Documentary [HD]
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="CMAC2.us" tvg-logo="https://play-lh.googleusercontent.com/A947K2XHCRujVT-3CoE0qzI9OZbjuAmv1p0I3ixiM2CFc4N1pOVfj2DGJZR0luMfeZpx" group-title="Informative [FHD]",CMAC 2 [FHD]
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="CVCEducation.us" tvg-logo="https://logowik.com/content/uploads/images/cvc-logo-vector-1723119264.webp" group-title="Informative",CVC Education
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/CampusTV.hn.png" group-title="Informative [SD]",Campus TV [SD]
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalEducacao.br.png" group-title="Informative [SD]",Canal Educacao [SD]
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Classic_Arts_Showcase.png.300x300_q85.jpg" group-title="Informative [HD]",Classic Arts Showcase [HD]
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png" group-title="Informative [FHD]",Cloudflare TV [FHD]
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.py" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/CosmosTV.py.png" group-title="Informative [SD]",Cosmos TV [SD]
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="Informative [SD]",Court TV [SD]
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://www.creatvsj.org/sites/default/files/LogoWebsite-03+(2)_0.png" group-title="Informative [SD]",CreaTV Channel 28 [SD]
+https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
+#EXTINF:-1 tvg-id="Create.us" tvg-logo="https://www.vhv.rs/dpng/d/438-4380326_create-tv-channel-logo-hd-png-download.png" group-title="Informative [FHD]",Create [FHD]
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Informative [SD]",Crime 360 [SD]
+https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/DDKisan.in.png" group-title="Informative [SD]",DD Kisan [SD]
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV1.th.png" group-title="Informative [SD]",DLTV 1 [SD]
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV10.th.png" group-title="Informative [SD]",DLTV 10 [SD]
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV11.th.png" group-title="Informative [SD]",DLTV 11 [SD]
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV12.th.png" group-title="Informative [SD]",DLTV 12 [SD]
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV13.th.png" group-title="Informative [SD]",DLTV 13 [SD]
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV14.th.png" group-title="Informative [SD]",DLTV 14 [SD]
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV15.th.png" group-title="Informative [SD]",DLTV 15 [SD]
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV2.th.png" group-title="Informative [SD]",DLTV 2 [SD]
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV3.th.png" group-title="Informative [SD]",DLTV 3 [SD]
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV4.th.png" group-title="Informative [SD]",DLTV 4 [SD]
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV5.th.png" group-title="Informative [SD]",DLTV 5 [SD]
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV6.th.png" group-title="Informative [SD]",DLTV 6 [SD]
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV7.th.png" group-title="Informative [SD]",DLTV 7 [SD]
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV8.th.png" group-title="Informative [SD]",DLTV 8 [SD]
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DLTV9.th.png" group-title="Informative [SD]",DLTV 9 [SD]
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DabangaTV.sd" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sd/DabangaTV.sd.png" group-title="Informative",Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.iheart.com/v3/re/assets.streams/667db4a13d62cb4c15cebae1?ops=fit(960,960),resize(0,390)" group-title="Informative [SD]",Dateline 24/7 [SD]
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-id="DerryTV23.us" tvg-logo="https://www.themoviedb.org/t/p/original/341AbzHMbq5NHSsY7P5v2LyG75S.png" group-title="Informative [HD]",DerryTV 23 [HD]
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/Dokusat.de.png" group-title="Informative [FHD]",Dokusat [FHD]
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/EBS1TV.kr.png" group-title="Informative [SD]",EBS 1TV [SD]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/EBS2TV.kr.png" group-title="Informative [SD]",EBS 2TV [SD]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/EBSEnglish.kr.png" group-title="Informative [SD]",EBS English [SD]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/EBSPlus1.kr.png" group-title="Informative [SD]",EBS Plus 1 [SD]
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/EBSPlus2.kr.png" group-title="Informative [SD]",EBS Plus 2 [SD]
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/ETV.th.png" group-title="Informative [HD]",ETV [HD]
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png" group-title="Informative [SD]",Edutainment TV [SD]
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/Eduvision.co.png" group-title="Informative [HD]",Eduvision [HD]
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/EnglishClubTV.uk.png" group-title="Informative [HD]",English Club TV [HD]
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="Gyandarshan.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Gyandarshan.in.png" group-title="Informative [SD]",Gyandarshan [SD]
+https://cdn-6.pishow.tv/live/14/master.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/HistoryTV18.in.png" group-title="Informative [SD]",History TV18 [SD]
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/ISTV.br.png" group-title="Informative",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tj/IlmvaTabiat.tj.png" group-title="Informative",Ilm va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/InWonder.nl.png" group-title="Informative [SD]",InWonder [SD]
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="Informative [FHD]",India TV Aap Ki Adalat [FHD]
+https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/IntoCrime.fr.png" group-title="Informative [FHD]",Into Crime [FHD]
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Istoriya.ru.png" group-title="Informative [SD]",Istoriya [SD]
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-id="KCAT.us" tvg-logo="https://static.wixstatic.com/media/9fff55_0fc78dcda2c34ac2b81bf4d5bda33838~mv2.png/v1/fill/w_374,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9fff55_0fc78dcda2c34ac2b81bf4d5bda33838~mv2.png" group-title="Informative [SD]",KCAT [SD]
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="KOCTChannel19.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KOCTChannel19.us.png" group-title="Informative",KOCT Channel 19
+https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+#EXTINF:-1 tvg-id="KiteVicters.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/KiteVicters.in.png" group-title="Informative [FHD]",Kite Victers [FHD]
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-logo="https://i.pinimg.com/originals/0d/58/a7/0d58a735ecc07aa3cfe6a226a8dd7aa7.png" group-title="Informative [HD]",Knowledge Network [HD]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-id="LA36.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LA36.us.png" group-title="Informative [HD]",LA36 [HD]
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="http://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" group-title="Informative [SD]",Law & Crime [SD]
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LeominsterTVEducational.us.png" group-title="Informative [HD]",Leominster TV Educational [HD]
+https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LiceumTV.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/LiceumTV.hu.png" group-title="Informative",Liceum TV
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/LoveThePlanet.es.png" group-title="Informative [SD]",Love The Planet [SD]
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/M5.hu.png" group-title="Informative",M5
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100056627090543" group-title="Informative [FHD]",MCN6 Arts Channel [FHD]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 tvg-id="MSTV.us" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/MSTV199x.png/revision/latest?cb=20190225222013" group-title="Informative",MSTV
+https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/magellanTV-circle-1000x1000.png?$296_164_PNG$" group-title="Informative [SD]",MagellanTV Now [SD]
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/NBS.kr.png" group-title="Informative [HD]",NBS [HD]
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Informative",NCM Educational & Kids Channel
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/NRWision.de.png" group-title="Informative [SD]",NRWision [SD]
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Nano.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Nano.ru.png" group-title="Informative [SD]",Nano [SD]
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1 tvg-id="NashuaETV.us" tvg-logo="https://www.nashuanh.gov/ImageRepository/Document?documentID=15147" group-title="Informative [HD]",Nashua ETV [HD]
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Nauka.ru.png" group-title="Informative [FHD]",Nauka [FHD]
+http://31.148.48.15/Nauka_2.0/index.m3u8
+#EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uz/OzbekistonTarixi.uz.png" group-title="Informative",O'zbekiston Tarixi
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/OUN.kr.png" group-title="Informative",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/PBS-Logo-2002.png" group-title="Informative [FHD]",PBS [FHD]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="https://www.vhv.rs/dpng/d/437-4378058_pbs-logo-black-and-white-pbs-kids-channel.png" group-title="Informative [HD]",PBS Kids [HD]
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Alaska [HD]
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Eastern/Central [HD]
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Hawaii [HD]
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Mountain [HD]
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Pacific [HD]
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="PSDTV.us" tvg-logo="https://www.pngitem.com/pimgs/m/274-2740975_transparent-tv-channel-logos-hd-png-download.png" group-title="Informative [SD]",PSD TV [SD]
+https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/PalestineEdu.ps.png" group-title="Informative [SD]",Palestine Edu [SD]
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Informative [HD]",Payam Javan TV [HD]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PersianaDocs.fr" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=persianagroup.tv" group-title="Informative",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaMedical.fr" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=persianagroup.tv" group-title="Informative [HD]",Persiana Medical [HD]
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/PlatziTV.es.png" group-title="Informative [HD]",Platzi TV [HD]
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTDocumentary.ru.png" group-title="Informative [FHD]",RT Documentary [FHD]
+https://streaming.thestream.cyou/live/554.m3u8
+#EXTINF:-1 tvg-id="RedApple21.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2007-2014.png" group-title="Informative [SD]",Red Apple 21 [SD]
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/SMCTVChannel24.us.png" group-title="Informative [FHD]",SMCTV Channel 24 [FHD]
+https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SafariTV.in.png" group-title="Informative [SD]",Safari TV [SD]
+https://cdn-6.pishow.tv/live/1513/master.m3u8
+#EXTINF:-1 tvg-id="ShamsTV.af" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/af/ShamsTV.af.png" group-title="Informative [FHD]",Shams TV [FHD]
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TERRA.ru.png" group-title="Informative [SD]",TERRA [SD]
+http://31.148.48.15/Terra/index.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TRTEBAIlkokul.tr.png" group-title="Informative [HD]",TRT EBA Ilkokul [HD]
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TRTEBALise.tr.png" group-title="Informative [HD]",TRT EBA Lise [HD]
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TUTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="Informative [FHD]",TUTV [FHD]
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaya.gt" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/TVMaya.gt.png" group-title="Informative [HD]",TV Maya [HD]
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVUJAT.mx.png" group-title="Informative [HD]",TV UJAT [HD]
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kh/TVK2.kh.png" group-title="Informative [HD]",TVK 2 [HD]
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Telepace3.it.png" group-title="Informative [FHD]",Telepace 3 [FHD]
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/TerraMaterWILD.de.png" group-title="Informative [SD]",Terra Mater WILD [SD]
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="TheNest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/640px-The_Nest_2023.svg.png" group-title="Informative [FHD]",The Nest [FHD]
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Informative [FHD]",WPS-TV [FHD]
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kh/WikiTV.kh.png" group-title="Informative [SD]",Wiki TV [SD]
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://pics.filmaffinity.com/world_channel-114957262101248-nm_large.jpg" group-title="Informative [FHD]",World Channel [FHD]
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHPBZCTDT2.mx.png" group-title="Informative [HD]",XHPBZC-TDT2 [HD]
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Yaslyk.tm.png" group-title="Informative",Yaslyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-id="iSTUFF.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/iSTUFF.de.png" group-title="Informative [HD]",iSTUFF [HD]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/CT2.cz.png" group-title="Informative",CT2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/CiftciTV.tr.png" group-title="Informative [HD]",Ciftci TV [HD]
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-logo="https://thestreamable.com/media/pages/video-streaming/documentary-plus/037830bfe1-1706732794/images_docu-black.svg" group-title="Informative [FHD]",Documentary+ [FHD]
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png" group-title="Informative [SD]",CNA Originals [SD]
+https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/za/WildEarth.za.png" group-title="Informative [SD]",WildEarth [SD]
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-logo="https://static.wikia.nocookie.net/deadlywomen/images/9/90/Deadly_Women_logo.png/revision/latest/scale-to-width-down/268?cb=20201210172552" group-title="Informative [SD]",Deadly Women [SD]
+https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kh/EBCGeneralEducation.kh.png" group-title="Informative [HD]",EBC General Education [HD]
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="NatickEducationChannel.us" tvg-logo="https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png" group-title="Informative [HD]",Natick Education Channel [HD]
+https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kh/OneTVESchoolCambodia.kh.png" group-title="Informative",One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TRTEBA.tr.png" group-title="Informative [HD]",TRT EBA [HD]
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="scifi.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/scifi.ru.png" group-title="Informative [SD]",.sci-fi [SD]
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/365daysTV.ru.png" group-title="Informative [SD]",365 days TV [SD]
+http://31.148.48.15/365_dney/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Doctor.ru.png" group-title="Informative [FHD]",Doctor [FHD]
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/EnglishClass.ru.png" group-title="Informative [FHD]",English Class [FHD]
+http://31.148.48.15/English_club_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Ktoestkto.ru.png" group-title="Informative [SD]",Kto est kto [SD]
+http://31.148.48.15/Kto_est_kto/index.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-logo="https://www.vhv.rs/dpng/d/103-1031276_bloomberg-tv-logo-png-transparent-png.png" group-title="Informative [FHD]",Bloomberg Originals [FHD]
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-logo="https://aimmgrowthfronts.com/wp-content/uploads/2023/02/DangerTV-default_v3.png" group-title="Informative [SD]",Danger TV [SD]
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="LuckyDog.us" tvg-logo="https://images.fanart.tv/fanart/lucky-dog-626d4c3f5c447.png" group-title="Informative [SD]",Lucky Dog [SD]
+https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+#EXTINF:-1 tvg-id="Unidentified.us" tvg-logo="https://yt3.ggpht.com/a/AATXAJwhojPQBLGVxizDJkj7Kb1tClyQ2Z7rj74uzwLh=s900-c-k-c0xffffffff-no-rj-mo" group-title="Informative [HD]",Unidentified [HD]
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/ChinaTravel.cn.png" group-title="Informative [FHD]",China Travel [FHD]
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/DiscoveringChina.cn.png" group-title="Informative [FHD]",Discovering China [FHD]
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/INWILD.nl.png" group-title="Informative [SD]",INWILD [SD]
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV10.cn.png" group-title="Informative [HD]",CCTV-10 [HD]
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/NatureTime.ca.png" group-title="Informative [SD]",NatureTime [SD]
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="TotalCrime.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/TotalCrime.ca.png" group-title="Informative [SD]",Total Crime [SD]
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png" group-title="Informative [SD]",Wonder [SD]
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png" group-title="Informative [SD]",History Hit [SD]
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KMOSTV61.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KMOS-TV_studio_-_Sedalia%2C_Missouri.jpg/250px-KMOS-TV_studio_-_Sedalia%2C_Missouri.jpg" group-title="Informative [SD]",KMOS-TV 6.1 [SD]
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="KTOOTV33.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alaska_Public_Media_logo.svg/250px-Alaska_Public_Media_logo.svg.png" group-title="Informative [FHD]",KTOO-TV 3.3 [FHD]
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/LovePets.ca.png" group-title="Informative [SD]",Love Pets [SD]
+https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+#EXTINF:-1 tvg-id="WKMJTV681.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Informative [HD]",WKMJ-TV 68.1 [HD]
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV9.cn.png" group-title="Informative [FHD]",CCTV-9 [FHD]
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/CuriosityNOW.de.png" group-title="Informative [SD]",Curiosity NOW [SD]
+https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Getfactual.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Informative [HD]",Get.factual [HD]
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+#EXTINF:-1 tvg-id="WaterBear.ch" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ch/WaterBear.ch.png" group-title="Informative [SD]",WaterBear [SD]
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV17.cn.png" group-title="Informative [HD]",CCTV-17 [HD]
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV7.cn.png" group-title="Informative [HD]",CCTV-7 [HD]
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTVWorldGeography.cn.png" group-title="Informative [SD]",CCTV-World Geography [SD]
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Atlas.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Atlas.us.png" group-title="Informative [SD]",Atlas [SD]
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-id="MediBizTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MediBizTV.in.png" group-title="Informative [HD]",MediBizTV [HD]
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MonroeCommunityMediaEducationChannel.us.png" group-title="Informative [SD]",Monroe Community Media Education Channel [SD]
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="TV8.md" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/md/TV8.md.png" group-title="Informative [SD]",TV8 [SD]
+http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.se" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/se/ViasatExplore.se.png" group-title="Informative",Viasat Explore
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.se" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/se/ViasatHistory.se.png" group-title="Informative",Viasat History
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.se" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/se/ViasatNature.se.png" group-title="Informative",Viasat Nature
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
+#EXTINF:-1 tvg-id="Jail.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Jail.uk.png" group-title="Informative [SD]",Jail [SD]
+https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
+#EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ProntosocorroHistoriasDeEmergencia.us.png" group-title="Informative",Pronto-socorro: Historias De Emergencia
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CazadordeHomicidas.us.png" group-title="Informative",Cazador de Homicidas
+https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
+#EXTINF:-1 tvg-id="TVCuatro44.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVCuatro44.mx.png" group-title="Informative [FHD]",TV Cuatro 4.4 [FHD]
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-id="STVETelebasica.hn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/STVETelebasica.hn.png" group-title="Informative [FHD]",STVE Telebasica [FHD]
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/30ALoomeredTV.us.png" group-title="Informative",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+#EXTINF:-1 tvg-id="History.ro" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/History.ro.png" group-title="Informative",History
+http://82.78.243.219:45739/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/330px-Nicktoons_Logo_2023.svg.png" group-title="Informative",Pluto TV Alien Invasion
+https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAliens.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAmericanTrueCrime.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimais.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBritainatWar.de" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Informative",Pluto TV Britain at War
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDocumentari.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDokumentar.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+#EXTINF:-1 tvg-id="PlutoTVExplore.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Informative",Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Informative",Pluto TV Food
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Joanna_Miles_Larry_Keith_All_My_Children_1972.JPG/330px-Joanna_Miles_Larry_Keith_All_My_Children_1972.JPG" group-title="Informative",Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoria.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistory.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Informative",Pluto TV History
+https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNatura.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNegocioFechado.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Negocio Fechado
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPetrolHeads.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV PetrolHeads
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScience.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Informative",Pluto TV Science
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/330px-Nicktoons_Logo_2023.svg.png" group-title="Informative",Pluto TV Space
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVStoria.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png" group-title="Informative",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Informative",Pluto TV True Crime
+https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/330px-CBBC_%282023%29.svg.png" group-title="Informative",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVarldskrigen.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative [SD]",Pluto TV Varldskrigen [SD]
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative [SD]",Pluto TV Verdenskrigene [SD]
+https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPolicial.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NationalGeographic.us.png" group-title="Informative [HD]",National Geographic [HD]
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NationalGeographicWild.us.png" group-title="Informative [HD]",National Geographic Wild [HD]
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/NationalGeographicWild.ua.png" group-title="Informative [HD]",National Geographic Wild [HD]
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Informative",Pluto TV Animals
+https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-id="H2.bg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/H2.bg.png" group-title="Informative",H2
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 tvg-id="History.bg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/History.bg.png" group-title="Informative",History
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/NationalGeographic.bg.png" group-title="Informative",National Geographic
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/NationalGeographicWild.ru.png" group-title="Informative [FHD]",National Geographic Wild [FHD]
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/NationalGeographicWild.bg.png" group-title="Informative",National Geographic Wild
+http://213.91.179.28:8000/play/a0cu
+#EXTINF:-1 tvg-id="History.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/History.cz.png" group-title="Informative",History
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="StLuciePublicSchools.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/StLuciePublicSchools.us.png" group-title="Informative [HD]",St Lucie Public Schools [HD]
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
+#EXTINF:-1 tvg-id="UMAGTV.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/UMAGTV.cl.png" group-title="Informative [SD]",UMAGTV [SD]
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/NationalGeographic.gr.png" group-title="Informative [HD]",National Geographic [HD]
+http://185.102.171.218/NatGeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/NationalGeographicWild.gr.png" group-title="Informative [HD]",National Geographic Wild [HD]
+http://185.102.171.218/NatGeoWild/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ViasatExplore.gr.png" group-title="Informative [HD]",Viasat Explore [HD]
+http://185.102.171.218/ViasatExplorer/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ViasatHistory.gr.png" group-title="Informative [HD]",Viasat History [HD]
+http://185.102.171.218/ViasatHistory/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ViasatNature.gr.png" group-title="Informative [HD]",Viasat Nature [HD]
+http://185.102.171.218/ViasatNature/index.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/GillettePublicAccessTelevisionChannel189.us.png" group-title="Informative",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/HCTVEducationalAccessChannel.us.png" group-title="Informative [FHD]",HCTV Educational Access Channel [FHD]
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DetroitChannel22.us.png" group-title="Informative [HD]",Detroit Channel 22 [HD]
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TopSecret.ru.png" group-title="Informative [SD]",Top Secret [SD]
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1 tvg-id="TVUsach.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/TVUsach.cl.png" group-title="Informative [HD]",TV Usach [HD]
+https://stv4.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+#EXTINF:-1 tvg-id="DogTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DogTV.us.png" group-title="Informative [FHD]",Dog TV [FHD]
+http://206.212.244.63/56/index.m3u8
+#EXTINF:-1 tvg-id="HeroesIcons.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/HeroesIcons.us.png" group-title="Informative [HD]",Heroes & Icons [HD]
+http://206.212.244.63/88/index.m3u8
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Ecovision.do.png" group-title="Informative [SD]",Ecovision [SD]
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/KarbalaDocumentary.iq.png" group-title="Informative",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/RaiScuola.it.png" group-title="Informative [FHD]",Rai Scuola [FHD]
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHUNESTDT.mx.png" group-title="Informative [SD]",XHUNES-TDT [SD]
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-id="KPVMLD256.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/25_Ball_Logo.png/330px-25_Ball_Logo.png" group-title="Informative [SD]",KPVM-LD 25.6 [SD]
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/Spektrum.cz.png" group-title="Informative",Spektrum
+http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ILCECanal15SummaSaberes.mx.png" group-title="Informative [HD]",ILCE Canal 15 Summa Saberes [HD]
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AgroCanal.br.png" group-title="Informative [HD]",AgroCanal [HD]
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalFutura.br.png" group-title="Informative [HD]",Canal Futura [HD]
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="History.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/History.br.png" group-title="Informative [HD]",History [HD]
+http://177.52.24.163/HISTORY-HD/index.m3u8
+#EXTINF:-1 tvg-id="ITVBrazil.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/ITVBrazil.br.png" group-title="Informative [SD]",ITV Brazil [SD]
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVUFOP.br.png" group-title="Informative",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="UCTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/UCTV.us.png" group-title="Informative [HD]",UCTV [HD]
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=tvu.umsa.bo" group-title="Informative [HD]",Radio Universitaria San Andres [HD]
+https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png" group-title="Informative",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="RChannel.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/330px-2024_Disney_Channel_text_logo.svg.png" group-title="Informative",R Channel
+http://180.180.243.239/streams/3/hls
+#EXTINF:-1 tvg-id="Docu.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/Docu.cl.png" group-title="Informative [FHD]",Docu. [FHD]
+http://45.162.193.35/DOCU/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/ViasatExplore.bg.png" group-title="Informative [FHD]",Viasat Explore [FHD]
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/ViasatHistory.bg.png" group-title="Informative [FHD]",Viasat History [FHD]
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/ViasatNature.bg.png" group-title="Informative [FHD]",Viasat Nature [FHD]
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV True Crime
+https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/JaliscoTV.mx.png" group-title="Informative [SD]",Jalisco TV [SD]
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="TVUG.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVUG.mx.png" group-title="Informative [FHD]",TV UG [FHD]
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoriaYVida.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/HistoriaYVida.es.png" group-title="Informative",Historia Y Vida
+https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+#EXTINF:-1 tvg-id="BondiRescue.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Informative",Bondi Rescue
+https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
+#EXTINF:-1 tvg-id="CanalEducativo.cu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cu/CanalEducativo.cu.png" group-title="Informative",Canal Educativo
+https://tv.picta.cu/educativo/educativo_0.m3u8
+#EXTINF:-1 tvg-id="CanalEducativo2.cu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cu/CanalEducativo2.cu.png" group-title="Informative",Canal Educativo 2
+https://tv.picta.cu/educativo2/educativo2_0.m3u8

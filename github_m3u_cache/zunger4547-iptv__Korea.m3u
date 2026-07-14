@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBNKR" tvg-name="MBN" tvg-logo="Logo URL" group-title="韩国频道",MBN
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzY0OTY4OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=qVmkJfsyHpuxmCwEO7F~ZDU4T~o5K~rzh~l8ud3GKCYwSES54y7tx16NVcwHdIXplqgPg61CB6g-m1ifuYNjQqipwOrnJH8PpF6xNZV4WbzCmBAHWsqJYNF5OBZTv19UIKEbm7FTmIxQo3NiTGd-X2~O6r4sBZp-nTUg9-autnQ_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+#EXTINF:-1 tvg-id="NBSKR" tvg-name="NBS" tvg-logoLogo URL" group-title="韩国频道",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCKR" tvg-name="MBC" tvg-logo="Logo URL" group-title="韩国频道",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TBSKR" tvg-name="TBS" tvg-logo="Logo URL" group-title="韩国频道",TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-name="KBS 1TV" tvg-logo="Logo URL" group-title="韩国频道",KBS 1TV
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjMzMzk5OTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bQupxj5CoshQ3EhB5IXHkU3yWRqWOCBE8xKaXUFa4D5X0Cv-gLFEyc9snUJXVZ3plAfE7z-a-~4yv~C2S~t0DaaK20zJFTTjwmhSXBWqZrsAOIpyXlEDnwnNbzGFyOeqVPMoLnlXNjcRAb9-93w4AOt5CsQi~gfAyeUYQ-ai7uRx56PuULi1QNo1~IlL7ZUD5SA5Mnbh5qnLUfUfLORsLZCoixGHAreh2UY4bzD1Ks-aCZAg86fuRQYv82S5k61Lt3pp33fJbU9WzKeaLgCXMp2xFjcem2OrZoxeqFp~rmce4TUdEI7W~OGtmQYwtryZK7AE3H6qxjNuSteQ8mHRHw__
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-name="KBS 2TV" tvg-logo="Logo URL" group-title="韩国频道",KBS 2TV
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjMzMzk5OTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=eh4bL9Qln6rX2Lvlhskf2qmINxAkX0XqNb2DvveK-SGiU12wYpICqCTWIqNYFLaInj30sxH0HXoFTS9wtvZu0mT1yukDdLZosQyJvAmQP4EJfImX4M6sCdcvU7B4Eh9XfjhVbd-yFo66TD~8VbW8w4kE5j1E3vexuzmRe1A3a9ZX67E~yrMhXn5F~5GnCOa1WXoJ1AfYDPyakRm0CSZAOo69DOnNwQFQkqzP6sC1jLSZTyt17C0zArTdJfcCEWuoqadXbSeFmFNHNcmJZwiTGLJMPquRnlHUlNDre8mhE6WNBnVpTmNQcNHs3lHe4T4MwtKA8azsdPtzirJpRWHRiA__

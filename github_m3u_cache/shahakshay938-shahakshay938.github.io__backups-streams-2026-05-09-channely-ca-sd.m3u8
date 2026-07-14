@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1,NAME="Channel Y (720p) [Not 24/7]"
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8

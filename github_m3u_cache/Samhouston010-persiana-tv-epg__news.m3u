@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-id="" tvg-name="Iran International" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iraninternational.default.svg" group-title="اخبار فارسی",ایران اینترنشنال
+https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEJ TV" tvg-logo="https://www.parsatv.com/index_files/channels/dejtv.jpg" group-title="اخبار فارسی",دژ
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MelliG TV" tvg-logo="https://www.parsatv.com/index_files/channels/melligtv.jpg" group-title="اخبار فارسی",ملی گرا
+https://mellihls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Persian" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bbcpersian.default.svg" group-title="اخبار فارسی",بی‌بی‌سی فارسی
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manoto" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/manoto.default.svg" group-title="اخبار فارسی",منوتو
+https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="" tvg-name="VOA Persian" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/voapersian.default.png" group-title="اخبار فارسی",صدای آمریکا
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Farda TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofarda.default.svg" group-title="اخبار فارسی",رادیو فردا TV
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pars TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/parstv.default.svg" group-title="اخبار فارسی",پارس
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mihan TV" tvg-logo="https://www.parsatv.com/index_files/channels/mihantv.jpg" group-title="اخبار فارسی",میهن
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel One" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/kanalyek.default.png" group-title="اخبار فارسی",کانال یک
+https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="" tvg-name="Revolution TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/irannationalrevolutiontv.default.png" group-title="اخبار فارسی",ایران ملی Revolution
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Novin TV" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" group-title="اخبار فارسی",نوین
+https://stream.novin.live/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iran Aryaee" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iranearyaee.default.png" group-title="اخبار فارسی",ایران آریایی
+https://oldkors-9u3p1.cfcross.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Irane Farda" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iranefardatv.default.png" group-title="اخبار فارسی",ایران فردا
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iran Independent" tvg-logo="https://www.parsatv.com/index_files/channels/iranindependent.jpg" group-title="اخبار فارسی",ایران مستقل
+https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="" tvg-name="Khabarbin TV" tvg-logo="https://www.parsatv.com/index_files/channels/khabarbin.png" group-title="اخبار فارسی",خبربین
+https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Didgah TV" tvg-logo="https://www.parsatv.com/index_files/channels/didgahtv.png" group-title="اخبار فارسی",دیدگاه
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Israel Pars TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/israelparstv.default.png" group-title="اخبار فارسی",اسرائیل پارس
+https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Jadid" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/kanaljadid.default.svg" group-title="اخبار فارسی",کانال جدید
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Woman TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/zantv.default.svg" group-title="اخبار فارسی",زن TV
+https://wmtvhls.wns.live/hls/stream.m3u8

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+# 720p
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1280x720
+https://gwebstream.net/hls/stream_0.m3u8
+
+# 480p
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=854x480
+https://gwebstream.net/hls/stream_1.m3u8

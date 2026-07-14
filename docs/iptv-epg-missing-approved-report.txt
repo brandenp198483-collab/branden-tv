@@ -1,19 +1,13 @@
 IPTV-EPG.org Exact Missing-Channel Extraction
 ==============================================================================
-Missing BrandenTV channels examined: 6
-Exact approved mappings: 1
+Missing BrandenTV channels examined: 5
+Exact approved mappings: 0
 Ambiguous mappings withheld: 0
 Unmatched channels: 5
-Programmes extracted: 84
+Programmes extracted: 0
 
 APPROVED
 ==============================================================================
-MGM Westerns | MGM.Westerns.branden
-  source-id: MGMPresentsWesterns.us
-  reason:    explicit-id
-  programmes:84
-  name:      US - MGM Presents: Westerns
-
 AMBIGUOUS — NOT EXTRACTED
 ==============================================================================
 UNMATCHED

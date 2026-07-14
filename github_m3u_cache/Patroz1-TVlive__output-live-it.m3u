@@ -1,0 +1,255 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Patroz1/TVlive/main/epg/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-1.png" group-title="01 | Nazionali",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-2.png" group-title="01 | Nazionali",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-3.png" group-title="01 | Nazionali",Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/rete-4.png" group-title="01 | Nazionali",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/canale-5.png" group-title="01 | Nazionali",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/italia-1.png" group-title="01 | Nazionali",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-name="LA7" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/la7/la7.png" group-title="01 | Nazionali",LA7
+https://jmp2.uk/stvp-ITBD1500002NL
+
+#EXTINF:-1 tvg-id="TV8.HD.it" tvg-name="TV8" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/sky/tv8.png" group-title="01 | Nazionali",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/nove.png" group-title="01 | Nazionali",NOVE
+plugin://plugin.video.wltvhelper/play/discovery/Nove
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-4.png" group-title="02 | Rai",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-chno="23" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-5.png" group-title="02 | Rai",Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-movie.png" group-title="02 | Rai",Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-premium.png" group-title="02 | Rai",Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="Rai 4K (HbbTV)" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-4k.png" group-title="02 | Rai",Rai 4K (HbbTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/iris.png" group-title="03 | Mediaset",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-name="Twenty Seven" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/twenty-seven.png" group-title="03 | Mediaset",Twenty Seven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="La.5.it" tvg-name="La 5" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/la-5.png" group-title="03 | Mediaset",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine 34" tvg-chno="34" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/cine-34.png" group-title="03 | Mediaset",Cine 34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-chno="35" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/focus.png" group-title="03 | Mediaset",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Top.Crime.it" tvg-name="TOPcrime" tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/topcrime.png" group-title="03 | Mediaset",TOPcrime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-chno="49" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/italia-2.png" group-title="03 | Mediaset",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-name="Med. Extra" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/mediaset-extra.png" group-title="03 | Mediaset",Med. Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="Real Time" tvg-chno="31" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/real-time.png" group-title="04 | Warner Discovery",Real Time
+plugin://plugin.video.wltvhelper/play/discovery/RealTime
+
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-name="Food Network" tvg-chno="33" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/food-network.png" group-title="04 | Warner Discovery",Food Network
+plugin://plugin.video.wltvhelper/play/discovery/FoodNetwork
+
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/giallo.png" group-title="04 | Warner Discovery",Giallo
+plugin://plugin.video.wltvhelper/play/discovery/Giallo
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-chno="52" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/dmax.png" group-title="04 | Warner Discovery",DMAX
+plugin://plugin.video.wltvhelper/play/discovery/DMAX
+
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/hgtv.png" group-title="04 | Warner Discovery",HGTV - Home&Garden
+plugin://plugin.video.wltvhelper/play/discovery/HGTV
+
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/discovery-channel.png" group-title="04 | Warner Discovery",Discovery Channel
+plugin://plugin.video.wltvhelper/play/discovery/Discovery
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/discovery-turbo.png" group-title="04 | Warner Discovery",Discovery Turbo
+plugin://plugin.video.wltvhelper/play/discovery/Turbo
+
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/sky/cielo.png" group-title="05 | Sky",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-chno="48" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-news-24.png" group-title="06 | News",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/sky/sky-tg24.png" group-title="06 | News",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="TGCom.it" tvg-name="TG COM 24" tvg-chno="51" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/tgcom24.png" group-title="06 | News",TG COM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="3BMeteo.it" tvg-name="3B METEO" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/varie/3b-meteo.png" group-title="06 | News",3B METEO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/stvp-IT500008CB
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport + HD" tvg-chno="58" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-sport.png" group-title="07 | Sport",Rai Sport + HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/boing.png" group-title="08 | Bambini",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/k2.png" group-title="08 | Bambini",K2
+#https://jmp2.uk/stvp-IT900009KL
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-gulp.png" group-title="08 | Bambini",Rai Gulp
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-yoyo.png" group-title="08 | Bambini",Rai Yoyo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/discovery/frisbee.png" group-title="08 | Bambini",Frisbee
+#https://jmp2.uk/stvp-IT900005HF
+
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-chno="46" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/mediaset/cartoonito.png" group-title="08 | Bambini",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-chno="36" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/radio/rtl-102-5.png" group-title="09 | Radio",RTL 102.5
+https://streamcdng16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radio.105.it" tvg-name="Radio 105" tvg-chno="66" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/radio/radio-105.png" group-title="09 | Radio",Radio 105
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="R101tv.it" tvg-name="R101" tvg-chno="67" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/radio/r101.png" group-title="09 | Radio",R101
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Deejay.TV.it" tvg-name="Deejay TV" tvg-chno="69" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/radio/deejay-tv.png" group-title="09 | Radio",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXT-X-ENDLIST
+
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-name="Radio KissKiss" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/radio/radio-kisskiss.png" group-title="09 | Radio",Radio KissKiss
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-name="Radio Number One" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/radio/radio-number-one.png" group-title="09 | Radio",Radio Number One
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RDS.it" tvg-name="RDS" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/radio/rds.png" group-title="09 | Radio",RDS
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-chno="54" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-storia.png" group-title="10 | Cultura",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/rai/rai-scuola.png" group-title="10 | Cultura",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/varie/gambero-rosso.png" group-title="10 | Cultura",Gambero Rosso
+https://jmp2.uk/stvp-IT500011RG
+
+#EXTINF:-1 tvg-id="ADRENALINE MOVIES" tvg-name="ADRENALINE MOVIES" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/adrenaline-movies.png" group-title="12 | FAST",ADRENALINE MOVIES
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://758d48db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GdWxsTW9vbl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRIVIDI CINEMA" tvg-name="BRIVIDI CINEMA" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/brividi-cinema.png" group-title="12 | FAST",BRIVIDI CINEMA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://ixmediasrl-serially-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="CHILI ALTA TENSIONE" tvg-name="CHILI ALTA TENSIONE" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/chili-alta-tensione.png" group-title="12 | FAST",CHILI ALTA TENSIONE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="CHILI FILM SMILE" tvg-name="CHILI FILM SMILE" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/chili-film-smile.png" group-title="12 | FAST",CHILI FILM SMILE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="CHILI INDIMENTICABILI" tvg-name="CHILI INDIMENTICABILI" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/chili-indimenticabili.png" group-title="12 | FAST",CHILI INDIMENTICABILI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="Cine Malizia" tvg-name="Cine Malizia" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/cine-malizia.png" group-title="12 | FAST",Cine Malizia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c6-lg-it-8922.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemalizia-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Cine Paura" tvg-name="Cine Paura" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/cine-paura.png" group-title="12 | FAST",Cine Paura
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c7-lg-it-8921.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinepaura-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Cine Thriller" tvg-name="Cine Thriller" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/cine-thriller.png" group-title="12 | FAST",Cine Thriller
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-nexodigital-amg02512c2-lg-it-822.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads._fw_atts=[FW_ATTS]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.prodq=[PRODUCTION_QUALITY]&ads.ic=[IAB_CATEGORY]&ads.network_name=[NETWORK_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Crime Time" tvg-name="Crime Time" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/crime-time.png" group-title="12 | FAST",Crime Time
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c9-lg-it-8920.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Duri a Morire" tvg-name="Duri a Morire" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/duri-a-morire.png" group-title="12 | FAST",Duri a Morire
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c5-lg-it-8919.playouts.now.amagi.tv/playlist/amg02512-nexodigital-duriamorire-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Gli Immortali" tvg-name="Gli Immortali" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/gli-immortali.png" group-title="12 | FAST",Gli Immortali
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8
+
+#EXTINF:-1 tvg-id="LA7 Cinema" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/la7-cinema.png" group-title="12 | FAST",LA7 Cinema
+plugin://plugin.video.wltvhelper/play/la7/La7c
+
+#EXTINF:-1 tvg-id="RAKUTEN COMMEDIA" tvg-name="RAKUTEN COMMEDIA" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/rakuten-commedia.png" group-title="12 | FAST",RAKUTEN COMMEDIA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN FAMILY" tvg-name="RAKUTEN FAMILY" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/rakuten-family.png" group-title="12 | FAST",RAKUTEN FAMILY
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN FANTASCIENZA" tvg-name="RAKUTEN FANTASCIENZA" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/rakuten-fantascienza.png" group-title="12 | FAST",RAKUTEN FANTASCIENZA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN ROMANZI" tvg-name="RAKUTEN ROMANZI" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/rakuten-romanzi.png" group-title="12 | FAST",RAKUTEN ROMANZI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN TV AZIONE" tvg-name="RAKUTEN TV AZIONE" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/rakuten-tv-azione.png" group-title="12 | FAST",RAKUTEN TV AZIONE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN TV DRAMMA" tvg-name="RAKUTEN TV DRAMMA" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/rakuten-tv-dramma.png" group-title="12 | FAST",RAKUTEN TV DRAMMA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/stvp-IT2600005ZN
+
+#EXTINF:-1 tvg-id="STORIE CRIMINALI" tvg-name="STORIE CRIMINALI" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/storie-criminali.png" group-title="12 | FAST",STORIE CRIMINALI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+
+#EXTINF:-1 tvg-id="Supercinema San Valentino" tvg-name="Supercinema San Valentino" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/supercinema-san-valentino.png" group-title="12 | FAST",Supercinema San Valentino
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://jmp2.uk/stvp-ITBD3200001VR
+
+#EXTINF:-1 tvg-id="Western Time" tvg-name="Western Time" tvg-logo="https://raw.githubusercontent.com/Patroz1/TVlive/main/logos/fast/western-time.png" group-title="12 | FAST",Western Time
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#https://amg02512-amg02512c8-lg-it-8917.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]

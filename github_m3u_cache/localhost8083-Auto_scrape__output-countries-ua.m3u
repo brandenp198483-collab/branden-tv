@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1Plus1International.ua" group-title="General",1+1 International
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="1Plus1Marafon.ua" group-title="General",1+1 Marafon
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 tvg-id="2Plus2Marathon.ua" group-title="General",2+2 Marathon
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua" group-title="News, Business",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="366TV.ua" group-title="Lifestyle",36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArmyTV.ua" group-title="News",Army TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 tvg-id="ArmyTV.ua" group-title="News",Army TV
+http://195.54.52.40:80/test/index.m3u8
+#EXTINF:-1 tvg-id="Avers.ua" group-title="General",Avers
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-id="BaltaTV.ua" group-title="General",Balta TV
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 tvg-id="Bigudi.ua" group-title="Uncategorized",Bigudi
+http://176.122.125.10:8080/bigudi/index.m3u8
+#EXTINF:-1 tvg-id="Bolt.ua" group-title="Movies, Series",Bolt
+http://176.122.125.10:8080/bolt/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.ua" group-title="News",Channel 5
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 tvg-id="Channel5.ua" group-title="News",Channel 5
+http://176.122.125.10:8080/5ch/index.m3u8
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua" group-title="General",Channel 7 Ukraine
+https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel24.ua" group-title="News",Channel 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CinePlus.ua" group-title="Movies",Cine+
+http://176.122.125.10:8080/CinePlusHD/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusHit.ua" group-title="Movies",Cine+ Hit
+http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusKids.ua" group-title="Kids",Cine+ Kids
+http://176.122.125.10:8080/CinePlusKids/index.m3u8
+#EXTINF:-1 tvg-id="Dacha.ua" group-title="Uncategorized",Dacha
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="DIM.ua" group-title="General",DIM
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 tvg-id="DniproTV.ua" group-title="General",Dnipro TV
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EnterFilm.ua" group-title="Movies",Enter-Film
+http://176.122.125.10:8080/enterfilm/index.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua" group-title="News",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua" group-title="News",Espreso TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua" group-title="News",Espreso TV
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua" group-title="News",Espreso TV
+http://176.122.125.10:8080/espresso/index.m3u8
+#EXTINF:-1 tvg-id="EWTNUkraine.ua" group-title="Religious",EWTN Ukraine
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmUADrama.ua" group-title="Movies, Series",FilmUADrama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 tvg-id="FilmUADrama.ua" group-title="Movies, Series",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmUALive.ua" group-title="Movies",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="FREEDOM.ua" group-title="News",FREEDOM
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Glas.ua" group-title="Religious",Glas
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 tvg-id="HappyRadioTV.ua" group-title="Music",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-id="ICTV2.ua" group-title="Entertainment",ICTV2
+http://176.122.125.10:8080/ictv2/index.m3u8
+#EXTINF:-1 tvg-id="ICTV.ua" group-title="Entertainment",ICTV
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/ICTV.m3u8
+#EXTINF:-1 tvg-id="InterPlus.ua" group-title="General",Inter+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="InterPlus.ua" group-title="General",Inter+
+http://176.122.125.10:8080/interplus/index.m3u8
+#EXTINF:-1 tvg-id="IRT.ua" group-title="General",IRT
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+#EXTINF:-1 tvg-id="ITV.ua" group-title="General",ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV.ua" group-title="General",ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="IzmailTV.ua" group-title="General",Izmail TV
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="K1.ua" group-title="Entertainment",K1
+http://176.122.125.10:8080/k1/index.m3u8
+#EXTINF:-1 tvg-id="K2.ua" group-title="Entertainment",K2
+http://176.122.125.10:8080/k2/index.m3u8
+#EXTINF:-1 tvg-id="KusKus.ua" group-title="Uncategorized",Kus-Kus
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KvartalTV.ua" group-title="Entertainment",Kvartal TV
+http://158.101.222.193:88/georgia_play.php?id=kvartal95
+#EXTINF:-1 tvg-id="KvartalTVInternational.ua" group-title="Entertainment",Kvartal TV International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kyiv.ua" group-title="News",Kyiv
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 tvg-id="Lugansk24.ua" group-title="General",Lugansk 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 tvg-id="M1.ua" group-title="Music",M1
+http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:-1 tvg-id="M1.ua" group-title="Music",M1
+http://176.122.125.10:8080/m1/index.m3u8
+#EXTINF:-1 tvg-id="M2.ua" group-title="Music",M2
+http://176.122.125.10:8080/m2/index.m3u8
+#EXTINF:-1 tvg-id="Mega.ua" group-title="Uncategorized",Mega
+http://176.122.125.10:8080/mega/index.m3u8
+#EXTINF:-1 tvg-id="Muzvar.ua" group-title="Music",Muzvar
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MyUkrainaTV.ua" group-title="News",My-Ukraina TV
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/WEUKRAINETV.m3u8
+#EXTINF:-1 tvg-id="NASHEMusic.ua" group-title="Music",NASHE Music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua" group-title="Documentary",National Geographic Wild
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="NTKTV.ua" group-title="General",NTK TV
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-id="NTN.ua" group-title="General",NTN
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NTN.ua" group-title="General",NTN
+http://176.122.125.10:8080/ntn/index.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="OrbitaTV.ua" group-title="General",Orbita TV
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 tvg-id="OTSE.ua" group-title="Entertainment",OTSE
+http://176.122.125.10:8080/oce/index.m3u8
+#EXTINF:-1 tvg-id="Pershyi.ua" group-title="General",Pershyi
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" group-title="General",Pervyy gorodskoy. Odessa
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" group-title="General",Pervyy gorodskoy. Odessa
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="PixelTV.ua" group-title="Kids",Pixel TV
+http://176.122.125.10:8080/pixel/index.m3u8
+#EXTINF:-1 tvg-id="PLUSPLUS.ua" group-title="Kids",PLUSPLUS
+http://176.122.125.10:8080/plusplus/index.m3u8
+#EXTINF:-1 tvg-id="PTV.ua" group-title="News",PTV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RadaTV.ua" group-title="Legislative",Rada TV
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
+#EXTINF:-1 tvg-id="RenomeTV.ua" group-title="General",Renome TV
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 tvg-id="Reporter.ua" group-title="News",Reporter
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 tvg-id="Rivne1.ua" group-title="General",Rivne 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rybalka.ua" group-title="Outdoor",Rybalka
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="SferaTV.ua" group-title="General",Sfera-TV
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SferaTV.ua" group-title="General",Sfera-TV
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Simon.ua" group-title="General",Simon
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SK1.ua" group-title="News",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SK1.ua" group-title="News",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ua" group-title="Movies",Star Cinema
+http://176.122.125.10:8080/starcinema/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneKyiv.ua" group-title="General",Suspilne. Kyiv
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+#EXTINF:-1 tvg-id="Svarozhychy.ua" group-title="Entertainment",Svarozhychy
+http://176.122.125.10:8080/svarogichi/index.m3u8
+#EXTINF:-1 tvg-id="TelekanalRAI.ua" group-title="General",Telekanal RAI
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-id="TET.ua" group-title="Uncategorized",TET
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8
+#EXTINF:-1 tvg-id="TET.ua" group-title="Uncategorized",TET
+http://176.122.125.10:8080/tethd/index.m3u8
+#EXTINF:-1 tvg-id="TISTV.ua" group-title="Uncategorized",TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:-1 tvg-id="TUSO.ua" group-title="Shop",TUSO
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="UNIANSerial.ua" group-title="General",UNIAN Serial
+http://176.122.125.10:8080/unian/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua" group-title="Movies, Comedy",Viasat Kino Comedy
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
+#EXTINF:-1 tvg-id="Zoom.ua" group-title="Entertainment",Zoom
+http://176.122.125.10:8080/zoom/index.m3u8

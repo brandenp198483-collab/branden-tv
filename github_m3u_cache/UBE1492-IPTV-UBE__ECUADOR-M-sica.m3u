@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec@SD",Antena Uno RadioVideo (360p)
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-id="EcuaMundoRadioTV.ec@SD",EcuaMundo Radio TV (720p) [Not 24/7]
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec@SD",La Nueva Radio TV 97.7 (1080p)
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LaPerlaRadioTV.ec@SD",La Perla Radio TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8068/index.m3u8

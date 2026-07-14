@@ -1,0 +1,184 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-it.xml"
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai1.png" tvg-chno="1" group-title="Rai",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai2.png" tvg-chno="2" group-title="Rai",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai3.png" tvg-chno="3" group-title="Rai",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rete4.png" tvg-chno="4" group-title="Mediaset",Rete 4
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/canale5.png" tvg-chno="5" group-title="Mediaset",Canale 5
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/italia1.png" tvg-chno="6" group-title="Mediaset",Italia 1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/la7.png" tvg-chno="7" group-title="Altro",LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-id="Tv8.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/tv8.png" tvg-chno="8" group-title="Sky",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/nove.png" tvg-chno="9" group-title="Discovery",NOVE
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8|http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/20mediaset.png" tvg-chno="20" group-title="Mediaset",20 Mediaset
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai4.png" tvg-chno="21" group-title="Rai",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/iris.png" tvg-chno="22" group-title="Mediaset",Iris
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai5.png" tvg-chno="23" group-title="Rai",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/raimovie.png" tvg-chno="24" group-title="Rai",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/raipremium.png" tvg-chno="25" group-title="Rai",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/cielo.png" tvg-chno="26" group-title="Sky",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/twentyseven.png" tvg-chno="27" group-title="Mediaset",Twenty Seven
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/tv2000.png" tvg-chno="28" group-title="Altro",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-id="La7D.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/LA7Cinema.png" tvg-chno="29" group-title="Altro",LA7 Cinema
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd|http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="LA5.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/la5.png" tvg-chno="30" group-title="Mediaset",La 5
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="RealTime.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/realtime.png" tvg-chno="31" group-title="Discovery",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8|http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/foodnetwork.png" tvg-chno="33" group-title="Discovery",Food Network
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8|http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/cine34.png" tvg-chno="34" group-title="Mediaset",Cine34
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/focus.png" tvg-chno="35" group-title="Mediaset",FOCUS
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Discovery.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/discovery.png" tvg-chno="37" group-title="Discovery",Discovery TV
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8|http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="GialloTV.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/giallo.png" tvg-chno="38" group-title="Discovery",Giallo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8|http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/topcrime.png" tvg-chno="39" group-title="Mediaset",Top Crime
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/boing.png" tvg-chno="40" group-title="Mediaset",Boing
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/k2.png" tvg-chno="41" group-title="Discovery",K2
+https://d1pmpe0hs35ka5.cloudfront.net/K2_IT_1.m3u8
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/raigulp.png" tvg-chno="42" group-title="Rai",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/raiyoyo.png" tvg-chno="43" group-title="Rai",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/frisbee.png" tvg-chno="44" group-title="Discovery",Frisbee
+https://d6m7lubks416z.cloudfront.net/Frisbee_IT_1.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/cartoonito.png" tvg-chno="46" group-title="Mediaset",Cartoonito
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Super%21_logo_2025.png" tvg-chno="47" group-title="Altro",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rainews24.png" tvg-chno="48" group-title="Rai",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/italia2.png" tvg-chno="49" group-title="Mediaset",Italia 2
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/skytg24.png" tvg-chno="50" group-title="Sky",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/tgcom24.png" tvg-chno="51" group-title="Mediaset",TGCOM 24
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/dmax.png" tvg-chno="52" group-title="Discovery",DMAX
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8|http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/raistoria.png" tvg-chno="54" group-title="Rai",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/mediasetextra.png" tvg-chno="55" group-title="Mediaset",Mediaset Extra
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/homegardentv.png" tvg-chno="56" group-title="Discovery",HGTV - Home&Garden
+https://d21emhonubg8zy.cloudfront.net/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/raiscuola.png" tvg-chno="57" group-title="Rai",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/raisport+hd.png" tvg-chno="58" group-title="Rai",Rai Sport + HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=raiplayandroidtv
+
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/discoveryturbo.png" tvg-chno="59" group-title="Discovery",Discovery Turbo
+https://d1m086gym5403i.cloudfront.net/out/v1/fa965f3d7abe46108988aed4fb3d0ee5/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/sportitalia.png" tvg-chno="60" group-title="Altro",Sportitalia
+https://edge-001.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="il61.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/il61.png" tvg-chno="61" group-title="Altro",IL 61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/donnatv.png" tvg-chno="62" group-title="Altro",Donna TV
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/supertennis.png" tvg-chno="64" group-title="Altro",Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AlmaTv.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/almatv.png" tvg-chno="65" group-title="Altro",ALMA TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAN-GA" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/manga.png" tvg-chno="236" group-title="Altro",MAN-GA
+https://streamcdnr9-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Super SIX" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/supersix.png" tvg-chno="801" group-title="Altro",Super SIX
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EURO TV" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/eurotv.png" tvg-chno="802" group-title="Altro",Euro TV
+https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Iunior TV" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/iuniortv.png" tvg-chno="803" group-title="Altro",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retemia" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/retemia.png" tvg-chno="804" group-title="Altro",Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7Gold" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/7gold.png" tvg-chno="805" group-title="Altro",7Gold
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rakuten.png" tvg-chno="806" group-title="Altro",Rakuten Film TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/plutotv.png" tvg-chno="807" group-title="Altro",Pluto Film TV
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 tvg-id="Tele Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/TeleMolise.png" tvg-chno="11" group-title="Altro",Tele Molise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLT Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/TLTMolise.png" tvg-chno="77" group-title="Altro",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai 3 TGR Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai3tgrmolise.png" tvg-chno="817" group-title="Rai",Rai 3 TGR Molise
+https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8

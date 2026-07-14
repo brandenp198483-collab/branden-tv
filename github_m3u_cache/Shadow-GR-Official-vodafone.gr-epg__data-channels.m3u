@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100" tvg-name="HISTORY CHANNEL" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/2t5U1W373HCpxNL7PFAu6f/b86eba7b806eaee67d0b7ee4a5d4c424/History_Channel.jpg" group-title="Channels",HISTORY CHANNEL
+http://localhost/stream/100
+#EXTINF:-1 tvg-id="10006" tvg-name="CNN" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/62lcPPx4lZFiiOiCPvU9zL/a16e6e858febde7ae2f24524aae8374f/CNN-Logo.png" group-title="Channels",CNN
+http://localhost/stream/10006
+#EXTINF:-1 tvg-id="10008" tvg-name="EUROSPORT1" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/5D9SedJlLzKY5Wwhq2USQ/59ed56187d6ad69bfe3a72158ac6415f/eurosport1.jpg" group-title="Channels",EUROSPORT1
+http://localhost/stream/10008
+#EXTINF:-1 tvg-id="10009" tvg-name="EUROSPORT2" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/1EJn62lDcBQxwZ1y0QY9D1/5b16f67524005b9a7afb449ebee6f493/eurosport2.jpg" group-title="Channels",EUROSPORT2
+http://localhost/stream/10009
+#EXTINF:-1 tvg-id="10012" tvg-name="MAD TV" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/9VrP3faInlro7cbz37DNp/4f2a65fe49393683902886b9a0c988a3/mad-channel.png" group-title="Channels",MAD TV
+http://localhost/stream/10012
+#EXTINF:-1 tvg-id="10015" tvg-name="Insight TV" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/3PJrV5wTyUtF3NA35bd9h/54d56f61688f4725671aef5fb1e4b11c/inplus-channel.png" group-title="Channels",Insight TV
+http://localhost/stream/10015
+#EXTINF:-1 tvg-id="10016" tvg-name="Cartoonito" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/73BWtMvRwZlJQ0z1Vnqru3/18546999ac05cdc381db0206baf97c88/cartoonito-channel.png" group-title="Channels",Cartoonito
+http://localhost/stream/10016
+#EXTINF:-1 tvg-id="10019" tvg-name="MEGA CHANNEL" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/3TzN4OOIxyanCeNbzgFrsf/8c6a32719f9450e28fd8da79db7bfddc/mega-tv-channel.jpg" group-title="Channels",MEGA CHANNEL
+http://localhost/stream/10019
+#EXTINF:-1 tvg-id="103" tvg-name="TV5 MONDE" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/7Mjv9W2nwpJSUPlxPQWgRU/b4bd500d773a25e47304b1eb4a04d8f6/Logo_EPG_TV5new.png" group-title="Channels",TV5 MONDE
+http://localhost/stream/103
+#EXTINF:-1 tvg-id="104" tvg-name="BBC WORLD NEWS" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/7M1keV0uPaFzYTmEA1Rc6N/41b1dcc3a9eb723edea1964660f44179/BBC_World_News.LG.png" group-title="Channels",BBC WORLD NEWS
+http://localhost/stream/104
+#EXTINF:-1 tvg-id="109" tvg-name="FOOD NETWORK" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/5GNKlauHi2EXci4gUEfRr2/921fd5bc39b4a3dfc0319038d26c21f4/FOOD.png" group-title="Channels",FOOD NETWORK
+http://localhost/stream/109
+#EXTINF:-1 tvg-id="119" tvg-name="EURONEWS" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/20k4yYK8ktm3vOpGFjCtdB/8e76caea3b6244bfe21bf9307d68c92c/euronews-new.png" group-title="Channels",EURONEWS
+http://localhost/stream/119
+#EXTINF:-1 tvg-id="132" tvg-name="AL JAZEERA" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/5wu5nMAtbQggbk49nxIuI2/ae73b70403ebd98b604d14792331934c/Group_1491.png" group-title="Channels",AL JAZEERA
+http://localhost/stream/132
+#EXTINF:-1 tvg-id="147" tvg-name="IDX" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/5RuRt61iKNHzlyDquo6wo1/c505d36490808d7398295a98473877f9/Group_1491__2_.png" group-title="Channels",IDX
+http://localhost/stream/147
+#EXTINF:-1 tvg-id="148" tvg-name="SKY NEWS" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/35aD45jSc7aceXjW2TukTh/cbd7fcc8ab414b745d9067621fc0552f/skynews-channel.png" group-title="Channels",SKY NEWS
+http://localhost/stream/148
+#EXTINF:-1 tvg-id="149" tvg-name="FRANCE 24 FR" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/1yzWW8c8GUN2QfILkcSuw3/3314e3755061c77159b5932a6d1cc362/France24-Logo.png" group-title="Channels",FRANCE 24 FR
+http://localhost/stream/149
+#EXTINF:-1 tvg-id="152" tvg-name="DISCOVERY TLC" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/wYI3YnqaNxP09Tygc9LKb/6b9f9479cab04aa7667ca85eeda7ce37/tlc-channel.png" group-title="Channels",DISCOVERY TLC
+http://localhost/stream/152
+#EXTINF:-1 tvg-id="154" tvg-name="DISNEY CHANNEL" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/2TEOvieA61LEYnXpZcLMcI/f4a33e79f635c740e6d55e900d7388be/Disney_Channel.jpg" group-title="Channels",DISNEY CHANNEL
+http://localhost/stream/154
+#EXTINF:-1 tvg-id="157" tvg-name="NHK WORLD" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/5MiC88nKzPvvG4Cr5Nti1S/bd6ac4a6099f12b0a39e8238a16b570e/nhk-channel.png" group-title="Channels",NHK WORLD
+http://localhost/stream/157
+#EXTINF:-1 tvg-id="158" tvg-name="TRAVEL CHANNEL" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/2tqiqS92YmpUTdwINEFXNo/cd57253e35552af712686293c5a31fb8/Group_1498.png" group-title="Channels",TRAVEL CHANNEL
+http://localhost/stream/158
+#EXTINF:-1 tvg-id="159" tvg-name="FX" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/7sLU9Se8bR08JB7wlkeFsc/135286b960e4cba20c9cea7320236284/fx-channel.png" group-title="Channels",FX
+http://localhost/stream/159
+#EXTINF:-1 tvg-id="160" tvg-name="DISNEY JUNIOR" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/2RKN91c59ZGvnigt7pLOGT/0127375b3d296b8b72b65dd1d61dd921/disneys-junior.png" group-title="Channels",DISNEY JUNIOR
+http://localhost/stream/160
+#EXTINF:-1 tvg-id="161" tvg-name="NAT GEO WILD" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/2qAKQoRcUQKPAJi7xZPJru/fa5a15b59b282aed47a9c88375de7d43/nat-geo-wild.jpg" group-title="Channels",NAT GEO WILD
+http://localhost/stream/161
+#EXTINF:-1 tvg-id="162" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/2aNmp2OvAQjGSzL0jgqP6I/0835b6394388a284e8c4b01885242442/national-geographic.png" group-title="Channels",NATIONAL GEOGRAPHIC
+http://localhost/stream/162
+#EXTINF:-1 tvg-id="163" tvg-name="ANIMAL PLANET" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/j6pgVnO0vytRT4f98nciX/4cefcfd9a9727aaa34deb6a8c95df0e9/Group_1496.png" group-title="Channels",ANIMAL PLANET
+http://localhost/stream/163
+#EXTINF:-1 tvg-id="300" tvg-name="VF_PROMO" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/6H0ioprSBO24a4vl6rDz7P/5784623b69510d72f657625e9c621e38/logo_vodafone_tv_chanel_final_white_shadow.png" group-title="Channels",VF_PROMO
+http://localhost/stream/300
+#EXTINF:-1 tvg-id="376" tvg-name="CGTN" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/uANhloRU79NZ04n2XuHl4/a6b893311fb7485cb9a0ec37b8d3e271/CGTN_Logo.png" group-title="Channels",CGTN
+http://localhost/stream/376
+#EXTINF:-1 tvg-id="380" tvg-name="FX Life" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/7jX24nHZqGXluxrlbLdRmr/59745da8f4545af0751addcef16fdeef/0202_FX_LIFE.png" group-title="Channels",FX Life
+http://localhost/stream/380
+#EXTINF:-1 tvg-id="381" tvg-name="LUXE TV" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/3ugqdOkGcxvRUD8PohBIBE/a303d4052a84ed851ed38ba1d0b04165/luxe-channel.png" group-title="Channels",LUXE TV
+http://localhost/stream/381
+#EXTINF:-1 tvg-id="382" tvg-name="E! Entertainment" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/sYGmuBZqLrgRTWVlM4VrA/b241b5a014d5caa6f489b29965922f30/e-entertainment.png" group-title="Channels",E! Entertainment
+http://localhost/stream/382
+#EXTINF:-1 tvg-id="383" tvg-name="Motorvision HD" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/wTkFZFH5wb2lb5yfOW5Aw/15ab6e69d4b7bdf1ce32af2ae6bbee68/motorvision-channel.png" group-title="Channels",Motorvision HD
+http://localhost/stream/383
+#EXTINF:-1 tvg-id="386" tvg-name="TCM" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/6dor3761WR7fhHeMGWnVxw/78041390f5614f47c6e438272723018c/tcm-logo.png" group-title="Channels",TCM
+http://localhost/stream/386
+#EXTINF:-1 tvg-id="516" tvg-name="MyZen TV" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/erqktGxyfZgYMJKQyOdqR/5795247e793319c0a674059c880e3afc/0604_MYZEN.png" group-title="Channels",MyZen TV
+http://localhost/stream/516
+#EXTINF:-1 tvg-id="700" tvg-name="Arirang" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/3wbtiR2eQMcTYeAZz1sTAd/f83abdade452daa35796c84783e89fde/Arirang_logo.png" group-title="Channels",Arirang
+http://localhost/stream/700
+#EXTINF:-1 tvg-id="87" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://images.ctfassets.net/b79acpktwvj7/7CNswlOb2nLQd4nJY4dvbK/93cfdbc71c43e93e0042a5e7788117ae/tv-channel-discovery.png" group-title="Channels",DISCOVERY CHANNEL
+http://localhost/stream/87

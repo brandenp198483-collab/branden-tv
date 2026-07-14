@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Noticias",EXITOSA
+http://38.224.73.146:8000/play/a1fn/index.m3u8
+#EXTINF:-1 group-title="Noticias",RPP
+http://38.224.73.146:8000/play/a1cs/index.m3u8
+#EXTINF:-1 group-title="Noticias",TV PERU NOTICIAS WEB
+http://38.224.73.146:8000/play/a1fr/index.m3u8

@@ -1,0 +1,18 @@
+#EXTM3U
+# Обновлено: 2026-07-14 06:36:21
+# Всего каналов: 20455
+# Новых за сессию: 0
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Faroe Islands
+# Каналов: 2
+# Обновлено: 2026-07-14 06:36:22
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="KVF Sjónvarp" group-title="Faroe Islands",KVF Sjónvarp
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tingvarp" group-title="Faroe Islands",Tingvarp
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8
+
