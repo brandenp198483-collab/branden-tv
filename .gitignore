@@ -1,3 +1,6 @@
 output/
 *.pyc
 __pycache__/
+
+# Local KCWX EPG test
+/tmp/kcwx-epg-test/epg/
