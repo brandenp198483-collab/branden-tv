@@ -42,7 +42,7 @@ FOUND | Entertainment | Comedy Central | iptv_org | score=2992 | raw=Comedy Cent
 FOUND | Entertainment | E! | iptv_org | score=2806 | raw=E! (1080p)
 FOUND | Entertainment | Freeform | iptv-org-category | score=2707 | raw=Freeform (720p)
 FOUND | Entertainment | Fuse | iptv_org | score=2813 | raw=Fuse (1080p)
-FOUND | Entertainment | FX | iptv_org | score=2810 | raw=FX (1080p)
+FOUND | Entertainment | FX | manual_overrides | score=100580 | raw=FX
 FOUND | Entertainment | FXX | iptv_org | score=2812 | raw=FXX (1080p)
 FOUND | Entertainment | FX Movie Channel | iptv_org | score=420 | raw=FXM (720p)
 FOUND | Entertainment | FYI | iptv_org | score=2759 | raw=FYI (720p)
@@ -67,7 +67,7 @@ FOUND | Entertainment | Paramount Network | popular-movies-iptv | score=2627 | r
 FOUND | Entertainment | Pop | apsat_rakutentv_uk | score=2438 | raw=POP
 FOUND | Entertainment | Reelz | iptv_org | score=2378 | raw=Reelz Famous & Infamous (1080p)
 FOUND | Entertainment | Sundance TV | popular-movies-iptv | score=2669 | raw=Sundance TV (720p)
-FOUND | Entertainment | Syfy | iptv_org | score=2749 | raw=SYFY (720p)
+FOUND | Entertainment | Syfy | popular-movies-iptv | score=2659 | raw=SYFY (720p)
 MISS  | Entertainment | TBS
 MISS  | Entertainment | TLC
 FOUND | Entertainment | TNT | manual_overrides | score=100500 | raw=TNT
